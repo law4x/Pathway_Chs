@@ -18491,55 +18491,55 @@
 				"rows": [
 					{
 						"id": "LoadingScreen_Hint_0",
-						"text": "On the exploration map you can manage your party by pressing I or clicking on the bottom bar."
+						"text": "在探索地图时,您可以通过按 I 或 单击底栏 来管理您的队伍."
 					},
 					{
 						"id": "LoadingScreen_Hint_1",
-						"text": "Once you are engaged in a battle you can't switch your gear. Choose wisely!"
+						"text": "一旦你参加了一场战斗,你就无法切换你的装备.请做出明智的选择!"
 					},
 					{
 						"id": "LoadingScreen_Hint_2",
-						"text": "Every weapon and armor type has a unique special ability that can make the difference between success and failure!"
+						"text": "每种武器和装甲都有一个可以影响胜负的特殊能力!"
 					},
 					{
 						"id": "LoadingScreen_Hint_3",
-						"text": "If one of your party members is knocked out you can bring them back by using a medkit on them when standing next to them. If you wait too long, they will die!"
+						"text": "如果你的一个队员被击倒了,你可以站在他们旁边使用 急救包 将他们救起来.如果等太长时间他们就死了!"
 					},
 					{
 						"id": "LoadingScreen_Hint_4",
-						"text": "You can use medkits outside of battle by right-clicking them on the team screen!"
+						"text": "非战斗状态下您可以在 队伍界面 里单击右键使用 急救包!"
 					},
 					{
 						"id": "LoadingScreen_Hint_5",
-						"text": "Sell your unused items at the trader by right-clicking them. The cash will come in handy later!"
+						"text": "通过单击右键 交易者 出售不使用的物品.现金在以后可派上大用场!"
 					},
 					{
 						"id": "LoadingScreen_Hint_6",
-						"text": "Keep an eye on your ammo and fuel count. If you run out of either resource you will be in trouble!"
+						"text": "留意你的弹药和燃料情况.如果你用完了任何一种物资,你就遇到大麻烦了!"
 					},
 					{
 						"id": "LoadingScreen_Hint_7",
-						"text": "Every member of your party can perform two actions in one turn. There are three types of actions: Attack, Move and Neutral. Attack and Move can only be done once a turn, Neutral up to two."
+						"text": "您队伍的每个成员每回合可以执行两项操作.有三种类型的动作:攻击、移动和待命.攻击和移动每回合只能操作一次，待命最多两次。"
 					},
 					{
 						"id": "LoadingScreen_Hint_8",
-						"text": "Cover reduces your chance of hitting a target. If you can aim at a target without cover you have a 100% hit chance. Flanking your enemies is one of the best strategies!"
+						"text": "掩体会降低击中目标的几率. 如果你在没有掩体的情况下瞄准目标,你有100％的命中几率.从侧翼进攻敌人是最好的策略之一！"
 					},
 					{
 						"id": "LoadingScreen_Hint_9",
-						"text": "Use walls and large objects to your advantage as they break the line of sight."
+						"text": "利用墙壁和大型物体作为掩体阻挡视线."
 					},
 					{
 						"id": "LoadingScreen_Hint_10",
-						"text": "Armor always absorbs damage first. It is especially effective against splinter damage weapons like Shotguns!"
+						"text": "护甲总是优先吸收伤害.对于像霰弹枪这样的碎片伤害武器特别有效!"
 					},
 					{
 						"id": "LoadingScreen_Hint_11",
-						"text": "There is a small chance for you to evade an attack independent of hit probability."
+						"text": "你有小概率情况可以躲避掉攻击."
 					},
 					{
 						"id": "LoadingScreen_Hint_12",
-						"text": "Every character can carry three items at once: One Weapon, one auxiliary item and one armor. Picking the right gear largely determines your strategy."
+						"text": "每个角色可以同时携带三件物品:一件武器、一件辅助物品和一件盔甲.选择正确的装备很大程度上影响了你的策略."
 					},
 					{
 						"id": "LoadingScreen_Hint_13",
