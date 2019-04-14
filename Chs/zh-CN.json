@@ -13436,47 +13436,47 @@
 					},
 					{
 						"id": "rifle_0_a_description",
-						"text": "The barrel is a little deformed."
+						"text": "枪管有点变形。"
 					},
 					{
 						"id": "rifle_0_a_name",
-						"text": "Tarnished Venner Automatic Rifle"
+						"text": "破旧的Venner自动步枪"
 					},
 					{
 						"id": "rifle_0_b_description",
-						"text": "It’s in excellent shape!"
+						"text": "它的状态非常好！"
 					},
 					{
 						"id": "rifle_0_b_name",
-						"text": "Splendid Venner Automatic Rifle"
+						"text": "优秀的Venner自动步枪"
 					},
 					{
 						"id": "rifle_0_description",
-						"text": "Robust and affordable - this has been the design philosophy of the Alsatian Venner plants since 1878."
+						"text": "坚固耐用 - 这是自1878年以来阿尔萨斯Venner工厂的设计理念。"
 					},
 					{
 						"id": "rifle_0_name",
-						"text": "Venner Automatic Rifle"
+						"text": "Venner自动步枪"
 					},
 					{
 						"id": "rifle_1_a_description",
-						"text": "The grips on the rifle butt have come loose."
+						"text": "步枪枪托上的把手松动了。"
 					},
 					{
 						"id": "rifle_1_a_name",
-						"text": "Tarnished Adler & Stahlknecht StG-34"
+						"text": "破旧的Adler & Stahlknecht StG-34"
 					},
 					{
 						"id": "rifle_1_b_description",
-						"text": "It still smells new..."
+						"text": "它仍然闻起来很新鲜..."
 					},
 					{
 						"id": "rifle_1_b_name",
-						"text": "Splendid Adler & Stahlknecht StG-34"
+						"text": "优秀的Adler & Stahlknecht StG-34"
 					},
 					{
 						"id": "rifle_1_description",
-						"text": "Amazingly light for this caliber. Another example of German engineering. A disturbing harbinger of the future of warfare."
+						"text": "这款口径非常轻巧，德国工程的另一个例子，战争未来的一个令人不安的先兆。"
 					},
 					{
 						"id": "rifle_1_name",
@@ -13484,23 +13484,23 @@
 					},
 					{
 						"id": "rifle_2_a_description",
-						"text": "Someone has tried to scrape away the rust stains on the barrel using desert sand."
+						"text": "有人试图用沙子刮去桶上的锈渍。"
 					},
 					{
 						"id": "rifle_2_a_name",
-						"text": "Tarnished Zeisig Sturmkarabiner M18"
+						"text": "破旧的Zeisig Sturmkarabiner M18"
 					},
 					{
 						"id": "rifle_2_b_description",
-						"text": "This carbine has been well maintained."
+						"text": "这种卡宾枪维护得很好。"
 					},
 					{
 						"id": "rifle_2_b_name",
-						"text": "Splendid Zeisig Sturmkarabiner M18"
+						"text": "优秀的Zeisig Sturmkarabiner M18"
 					},
 					{
 						"id": "rifle_2_description",
-						"text": "A late German development from the Great War. Maximum mobility in trench fighting thanks to a radically shortened barrel."
+						"text": "来自第一次世界大战后德国的发展。由于枪管从根本上缩短，因此可以最大限度地提高战壕战斗的机动性。"
 					},
 					{
 						"id": "rifle_2_name",
@@ -13508,119 +13508,119 @@
 					},
 					{
 						"id": "rifle_3_a_description",
-						"text": "A sharp impact has cracked the wood of the rifle butt."
+						"text": "一次猛烈的撞击使步枪枪托的木头裂开了。"
 					},
 					{
 						"id": "rifle_3_a_name",
-						"text": "Tarnished Blake Semi-Automatic"
+						"text": "破旧的布莱克半自动步枪"
 					},
 					{
 						"id": "rifle_3_b_description",
-						"text": "It still smells a little of wood shavings. It’s probably straight from the crate."
+						"text": "它还是有点木屑味，可能是直接从箱子里出来的。"
 					},
 					{
 						"id": "rifle_3_b_name",
-						"text": "Splendid Blake Semi-Automatic"
+						"text": "优秀的布莱克半自动步枪"
 					},
 					{
 						"id": "rifle_3_description",
-						"text": "An impressive new development from the turbulent post-war years, designed to meet the needs of British colonial troops."
+						"text": "战后动荡不安的岁月中取得的令人印象深刻的新进展，旨在满足英国殖民部队的需要。"
 					},
 					{
 						"id": "rifle_3_name",
-						"text": "Blake Semi-Automatic"
+						"text": "布莱克半自动步枪"
 					},
 					{
 						"id": "rifle_4_a_description",
-						"text": "The trigger feels a little loose."
+						"text": "扳机有点松。"
 					},
 					{
 						"id": "rifle_4_a_name",
-						"text": "Tarnished Charleston M1 Rifle"
+						"text": "破旧的查尔斯顿M1步枪"
 					},
 					{
 						"id": "rifle_4_b_description",
-						"text": "It’s as good as new."
+						"text": "它和新的一样好。"
 					},
 					{
 						"id": "rifle_4_b_name",
-						"text": "Splendid Charleston M1 Rifle"
+						"text": "优秀的查尔斯顿M1步枪"
 					},
 					{
 						"id": "rifle_4_description",
-						"text": "The Charleston M1 is now considered the standard weapon of the US Federal Police in their battle against heavily armed bootleggers and the mafia."
+						"text": "查尔斯顿M1现在被认为是美国联邦警察在与全副武装的走私者和黑手党战斗中的标准武器。"
 					},
 					{
 						"id": "rifle_4_name",
-						"text": "Charleston M1 Rifle"
+						"text": "查尔斯顿M1步枪"
 					},
 					{
 						"id": "rifle_5_a_description",
-						"text": "This weapon has a history, and you can tell!"
+						"text": "这个武器有历史，你可以看出来！"
 					},
 					{
 						"id": "rifle_5_a_name",
-						"text": "Tarnished Preston M1917-SA"
+						"text": "破旧的普雷斯顿M1917-CA"
 					},
 					{
 						"id": "rifle_5_b_description",
-						"text": "Presumably a post-war model that never saw action on the front line."
+						"text": "大概是战后从未在前线看到行动的模型。"
 					},
 					{
 						"id": "rifle_5_b_name",
-						"text": "Splendid Preston M1917-SA"
+						"text": "优秀的普雷斯顿M1917-CA"
 					},
 					{
 						"id": "rifle_5_description",
-						"text": "The doughboys of the American Expeditionary Force brought the M1917 with them across the Atlantic. Some call it the gun that won the Great War."
+						"text": "美国远征军的童子军带着M1917横渡大西洋。有人称它为赢得第二次世界大战的枪。"
 					},
 					{
 						"id": "rifle_5_name",
-						"text": "Preston M1917-SA"
+						"text": "普雷斯顿M1917-CA"
 					},
 					{
 						"id": "shotgun_0_a_description",
-						"text": "The shotgun barrel is dented in several places."
+						"text": "猎枪枪管的好几个地方有凹痕。"
 					},
 					{
 						"id": "shotgun_0_a_name",
-						"text": "Tarnished Charleston Smoothbore"
+						"text": "破旧的查尔斯顿无膛线枪"
 					},
 					{
 						"id": "shotgun_0_b_description",
-						"text": "This shotgun is in perfect condition."
+						"text": "这把猎枪完好无损。"
 					},
 					{
 						"id": "shotgun_0_b_name",
-						"text": "Splendid Charleston Smoothbore"
+						"text": "优秀的查尔斯顿无膛线枪"
 					},
 					{
 						"id": "shotgun_0_description",
-						"text": "With its simple smoothbore design, the Charleston mainly serves the domestic hunting market."
+						"text": "查尔斯顿以其简单的滑膛设计，主要服务于国内狩猎市场。"
 					},
 					{
 						"id": "shotgun_0_name",
-						"text": "Charleston Smoothbore"
+						"text": "查尔斯顿无膛线枪"
 					},
 					{
 						"id": "shotgun_1_a_description",
-						"text": "The breech is covered with powder marks."
+						"text": "后膛上有火药痕迹。"
 					},
 					{
 						"id": "shotgun_1_a_name",
-						"text": "Tarnished Morley-Burke Break Action"
+						"text": "破旧的Morley-Burke Break Action"
 					},
 					{
 						"id": "shotgun_1_b_description",
-						"text": "The gun looks like it has never been fired."
+						"text": "这把枪看起来好像从来没开过。"
 					},
 					{
 						"id": "shotgun_1_b_name",
-						"text": "Splendid Morley-Burke Break Action"
+						"text": "优秀的Morley-Burke Break Action"
 					},
 					{
 						"id": "shotgun_1_description",
-						"text": "With it’s break action model, this is Morley-Burke‘s medium-bracket hunting shotgun."
+						"text": "这是莫利·伯克的中型猎枪，它有着断裂动作模型。"
 					},
 					{
 						"id": "shotgun_1_name",
@@ -13628,23 +13628,23 @@
 					},
 					{
 						"id": "shotgun_2_a_description",
-						"text": "When you look closely, you see some fine hairline cracks in the barrel..."
+						"text": "当你仔细观察时，你会发现枪管有一些细小的裂缝。..."
 					},
 					{
 						"id": "shotgun_2_a_name",
-						"text": "Tarnished Venner Buckshot"
+						"text": "破旧的Venner Buckshot"
 					},
 					{
 						"id": "shotgun_2_b_description",
-						"text": "Despite its weight, it is surprisingly well balanced!"
+						"text": "尽管它很重，但它却平衡得出奇的好！"
 					},
 					{
 						"id": "shotgun_2_b_name",
-						"text": "Splendid Venner Buckshot"
+						"text": "优秀的Venner Buckshot"
 					},
 					{
 						"id": "shotgun_2_description",
-						"text": "The Venner Buckshot: when you want to pack a punch."
+						"text": "Venner Buckshot: 当你想打一拳的时候。"
 					},
 					{
 						"id": "shotgun_2_name",
@@ -13652,47 +13652,47 @@
 					},
 					{
 						"id": "shotgun_3_a_description",
-						"text": "The gun looks like it has been used as a club more than once."
+						"text": "这把枪看来已经不止一次被用作棍子了。"
 					},
 					{
 						"id": "shotgun_3_a_name",
-						"text": "Tarnished Hastings Trench Gun"
+						"text": "破旧的黑斯廷斯战壕枪"
 					},
 					{
 						"id": "shotgun_3_b_description",
-						"text": "It is incredibly well preserved."
+						"text": "它保存得非常完好。"
 					},
 					{
 						"id": "shotgun_3_b_name",
-						"text": "Splendid Hastings Trench Gun"
+						"text": "优秀的黑斯廷斯战壕枪"
 					},
 					{
 						"id": "shotgun_3_description",
-						"text": "A British development of previous civilian models. It caused fear and mayhem in the trench combat of the Great War."
+						"text": "英国发展以前的民用模型，它在第一次世界大战的战壕战中引起了恐惧和混乱。"
 					},
 					{
 						"id": "shotgun_3_name",
-						"text": "Hastings Trench Gun"
+						"text": "黑斯廷斯战壕枪"
 					},
 					{
 						"id": "shotgun_4_a_description",
-						"text": "The trigger catches slightly."
+						"text": "扳机有点卡住了。"
 					},
 					{
 						"id": "shotgun_4_a_name",
-						"text": "Tarnished Klugenstein Hartschrot"
+						"text": "破旧的Klugenstein Hartschrot"
 					},
 					{
 						"id": "shotgun_4_b_description",
-						"text": "It fits well in the hand, like a natural extension of your arm..."
+						"text": "它非常适合手部，就像手臂的自然伸展..."
 					},
 					{
 						"id": "shotgun_4_b_name",
-						"text": "Splendid Klugenstein Hartschrot"
+						"text": "优秀的Klugenstein Hartschrot"
 					},
 					{
 						"id": "shotgun_4_description",
-						"text": "Robust and efficient, the Klugenstein HS is ideal for stalking and other activities."
+						"text": "Klugenstein HS结实高效，非常适合跟踪和其他活动。"
 					},
 					{
 						"id": "shotgun_4_name",
@@ -13700,23 +13700,23 @@
 					},
 					{
 						"id": "shotgun_5_a_description",
-						"text": "This gun is in a dismal condition!"
+						"text": "这把枪的状况很糟糕！"
 					},
 					{
 						"id": "shotgun_5_a_name",
-						"text": "Tarnished Willoughby 10-bore"
+						"text": "破旧的Willoughby 10-bore"
 					},
 					{
 						"id": "shotgun_5_b_description",
-						"text": "A little gem..."
+						"text": "一件宝物..."
 					},
 					{
 						"id": "shotgun_5_b_name",
-						"text": "Splendid Willoughby 10-bore"
+						"text": "优秀的Willoughby 10-bore"
 					},
 					{
 						"id": "shotgun_5_description",
-						"text": "Scottish hunting tradition since 1721 - the Willoughby family business guarantees quality and performance."
+						"text": "苏格兰狩猎传统自1721年以来-威洛比家族企业保证质量和性能。"
 					},
 					{
 						"id": "shotgun_5_name",
@@ -13724,23 +13724,23 @@
 					},
 					{
 						"id": "sniper_0_a_description",
-						"text": "Someone should tighten the screws on this thing."
+						"text": "有人应该拧紧这个东西上的螺丝。"
 					},
 					{
 						"id": "sniper_0_a_name",
-						"text": "Tarnished Adler & Stahlknecht 8x56"
+						"text": "破旧的Adler & Stahlknecht 8x56"
 					},
 					{
 						"id": "sniper_0_b_description",
-						"text": "Practical and solidly crafted."
+						"text": "实用，做工扎实。"
 					},
 					{
 						"id": "sniper_0_b_name",
-						"text": "Splendid Adler & Stahlknecht 8x56"
+						"text": "优秀的Adler & Stahlknecht 8x56"
 					},
 					{
 						"id": "sniper_0_description",
-						"text": "The 8x56 is an affordable gun for hunting and related activities."
+						"text": "8x56是一种廉价的猎枪，用于狩猎和相关活动。"
 					},
 					{
 						"id": "sniper_0_name",
@@ -13748,23 +13748,23 @@
 					},
 					{
 						"id": "sniper_1_a_description",
-						"text": "Unfortunately, the scope is faulty."
+						"text": "不幸的是，瞄准镜有故障。"
 					},
 					{
 						"id": "sniper_1_a_name",
-						"text": "Tarnished Morley-Burke Sniper M08"
+						"text": "破旧的Morley-Burke Sniper M08"
 					},
 					{
 						"id": "sniper_1_b_description",
-						"text": "The rifle is lighter than expected."
+						"text": "这把步枪比预期的要轻。"
 					},
 					{
 						"id": "sniper_1_b_name",
-						"text": "Splendid Morley-Burke Sniper M08"
+						"text": "优秀的Morley-Burke Sniper M08"
 					},
 					{
 						"id": "sniper_1_description",
-						"text": "The standard weapon of British snipers in the Great War."
+						"text": "二战中英国狙击手的标准武器。"
 					},
 					{
 						"id": "sniper_1_name",
@@ -13772,23 +13772,23 @@
 					},
 					{
 						"id": "sniper_2_a_description",
-						"text": "The desert sand has not been kind to this rifle’s mechanism."
+						"text": "沙漠里的沙子对这把步枪的机械装置不太好。"
 					},
 					{
 						"id": "sniper_2_a_name",
-						"text": "Tarnished Willoughby .303 Ghillie"
+						"text": "破旧的Willoughby .303 Ghillie"
 					},
 					{
 						"id": "sniper_2_b_description",
-						"text": "A beautiful specimen!"
+						"text": "一个漂亮的标本！"
 					},
 					{
 						"id": "sniper_2_b_name",
-						"text": "Splendid Willoughby .303 Ghillie"
+						"text": "优秀的Willoughby .303 Ghillie"
 					},
 					{
 						"id": "sniper_2_description",
-						"text": "The .303 Ghillie is a classic Scottish highland hunting rifle from the long-established Willoughby company."
+						"text": "Willoughby .303 Ghillie 是一支经典的苏格兰高地猎枪，来自久负盛名的威洛比公司。"
 					},
 					{
 						"id": "sniper_2_name",
@@ -13796,23 +13796,23 @@
 					},
 					{
 						"id": "sniper_3_a_description",
-						"text": "Unfortunately, it is not very well preserved."
+						"text": "不幸的是，它保存得不太好。"
 					},
 					{
 						"id": "sniper_3_a_name",
-						"text": "Tarnished Hastings 6x32 Type 1924"
+						"text": "破旧的Hastings 6x32 Type 1924"
 					},
 					{
 						"id": "sniper_3_b_description",
-						"text": "Probably freshly pilfered from British army supplies."
+						"text": "可能是刚从英国军队物资中偷走的。"
 					},
 					{
 						"id": "sniper_3_b_name",
-						"text": "Splendid Hastings 6x32 Type 1924"
+						"text": "优秀的Hastings 6x32 Type 1924"
 					},
 					{
 						"id": "sniper_3_description",
-						"text": "A state-of-the-art development from British army supplier Hastings that balances caliber and recoil."
+						"text": "来自英国陆军供应商黑斯廷斯的最先进的研制，平衡了口径和反冲。"
 					},
 					{
 						"id": "sniper_3_name",
@@ -13820,23 +13820,23 @@
 					},
 					{
 						"id": "sniper_4_a_description",
-						"text": "A weapon like this deserves better care..."
+						"text": "像这样的武器应该得到更好的照顾..."
 					},
 					{
 						"id": "sniper_4_a_name",
-						"text": "Tarnished Clark-Richfield Long Range"
+						"text": "破旧的Clark-Richfield Long Range"
 					},
 					{
 						"id": "sniper_4_b_description",
-						"text": "A shining example of American craftsmanship!"
+						"text": "美国工艺的光辉典范！"
 					},
 					{
 						"id": "sniper_4_b_name",
-						"text": "Splendid Clark-Richfield Long Range"
+						"text": "优秀的Clark-Richfield Long Range"
 					},
 					{
 						"id": "sniper_4_description",
-						"text": "American engineers developed the Clark-Richfield in the final months of the Great War to counter German snipers. However, it was too late to see action on the front."
+						"text": "在大战的最后几个月，美国工程师开发了克拉克·里奇菲尔德来对付德国狙击手。然而，现在到前线行动为时已晚。"
 					},
 					{
 						"id": "sniper_4_name",
@@ -13844,23 +13844,23 @@
 					},
 					{
 						"id": "sniper_5_a_description",
-						"text": "This rifle looks like it spent several years lying in a Flemish trench!"
+						"text": "这把步枪看起来像是在佛兰芒战壕里躺了几年！"
 					},
 					{
 						"id": "sniper_5_a_name",
-						"text": "Tarnished Steiner 10x50 Optik"
+						"text": "破旧的Steiner 10x50 Optik"
 					},
 					{
 						"id": "sniper_5_b_description",
-						"text": "The scope really is in a class of its own!"
+						"text": "这个望远镜在同类中算是头等的了！"
 					},
 					{
 						"id": "sniper_5_b_name",
-						"text": "Splendid Steiner 10x50 Optik"
+						"text": "优秀的Steiner 10x50 Optik"
 					},
 					{
 						"id": "sniper_5_description",
-						"text": "The legendary weapon of the German snipers on the killing fields of the Great War 1914 - 1918."
+						"text": "德国狙击手在1914年至1918年的第一次世界大战中使用的传奇武器。"
 					},
 					{
 						"id": "sniper_5_name",
@@ -13868,35 +13868,35 @@
 					},
 					{
 						"id": "grenade_0_description",
-						"text": "British forces have been using the no. 23 as their standard grenade since 1902."
+						"text": "自1902年以来，英国军队一直使用23号作为标准手榴弹。"
 					},
 					{
 						"id": "grenade_0_name",
-						"text": "Hastings bomb No. 23"
+						"text": "黑斯廷斯23号炸弹"
 					},
 					{
 						"id": "grenade_1_description",
-						"text": "The rearmament of the German army is also based on this impressive new development from the Steiner plant."
+						"text": "德国军队的重新武装也是基于斯坦纳工厂令人印象深刻的新发展。"
 					},
 					{
 						"id": "grenade_1_name",
-						"text": "Steiner Granate 1924"
+						"text": "斯坦纳手雷1924"
 					},
 					{
 						"id": "grenade_2_description",
-						"text": "When it comes to explosive power, this ultra-modern American fragmentation grenade is way ahead of the competition."
+						"text": "说到爆炸力，这种超现代的美国碎片手榴弹远远领先于竞争对手。"
 					},
 					{
 						"id": "grenade_2_name",
-						"text": "Preston Grape Grenade"
+						"text": "普雷斯顿葡萄手榴弹"
 					},
 					{
 						"id": "grenade_3_description",
-						"text": "Ancient - and unstable..."
+						"text": "古老且不稳定..."
 					},
 					{
 						"id": "grenade_3_name",
-						"text": "Sulfur pot"
+						"text": "硫磺锅"
 					},
 					{
 						"id": "trashAncient_0_description",
@@ -13904,7 +13904,7 @@
 					},
 					{
 						"id": "trashAncient_0_name",
-						"text": "Natron-soaked linen shreds"
+						"text": "苏打水浸湿的亚麻布"
 					},
 					{
 						"id": "trashAncient_1_description",
@@ -13912,7 +13912,7 @@
 					},
 					{
 						"id": "trashAncient_1_name",
-						"text": "Tiny cowrie shell"
+						"text": "小宝贝壳"
 					},
 					{
 						"id": "trashAncient_2_description",
@@ -13920,7 +13920,7 @@
 					},
 					{
 						"id": "trashAncient_2_name",
-						"text": "Tiny obsidian arrowhead"
+						"text": "小黑曜石箭头"
 					},
 					{
 						"id": "trashAncient_3_description",
@@ -13928,15 +13928,15 @@
 					},
 					{
 						"id": "trashAncient_3_name",
-						"text": "Battered funerary figurine"
+						"text": "破旧的丧葬雕像"
 					},
 					{
 						"id": "trashAncient_4_description",
-						"text": "\"Divide, add, multiply, and understand\""
+						"text": "\"除、加、乘和理解\""
 					},
 					{
 						"id": "trashAncient_4_name",
-						"text": "Soiled papyrus fragment"
+						"text": "脏纸莎草片段"
 					},
 					{
 						"id": "trashAncient_5_description",
@@ -13944,7 +13944,7 @@
 					},
 					{
 						"id": "trashAncient_5_name",
-						"text": "Tarnished copper clasp"
+						"text": "破旧的铜扣"
 					},
 					{
 						"id": "trashAncient_6_description",
@@ -13952,7 +13952,7 @@
 					},
 					{
 						"id": "trashAncient_6_name",
-						"text": "Battered clay idol"
+						"text": "泥塑偶像"
 					},
 					{
 						"id": "trashAncient_7_description",
@@ -13960,7 +13960,7 @@
 					},
 					{
 						"id": "trashAncient_7_name",
-						"text": "Battered limestone jar"
+						"text": "破碎石灰罐"
 					},
 					{
 						"id": "trashAncient_8_description",
@@ -13968,7 +13968,7 @@
 					},
 					{
 						"id": "trashAncient_8_name",
-						"text": "Battered stone tablet"
+						"text": "碎石碑"
 					},
 					{
 						"id": "trashAncient_9_description",
@@ -13976,7 +13976,7 @@
 					},
 					{
 						"id": "trashAncient_9_name",
-						"text": "Tarnished electrum coin"
+						"text": "旧银币"
 					},
 					{
 						"id": "trashSoldier_0_description",
