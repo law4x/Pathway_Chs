@@ -633,7 +633,7 @@
 					},
 					{
 						"id": "JeepStorage_Content",
-						"text": "[h1]Jeep Storage[/h1]When you have assembled your team, jeep storage is where you can stock up on fuel and ammunition supplies as well as sell various items you found on your previous expeditions. This is also where you equip a character with new items.\n[p][img:codex_jeepstorage]"
+						"text": "[h1]Jeep Storage[/h1]Once you have assembled your team, you can equip your characters with new items, provided there is loot from previous adventures.\n[p][img:codex_jeepstorage]\n[p]Items not needed by your team can be moved to the valuables bag to clear inventory space. Just right-click on any given item. Items in the valuables bag can be sold to a trader at a later point. Beware: This action is irrevocable!\n[p]Besides that, you can permanently upgrade your jeep's fuel and ammo capacity. This option costs money and is thus only available when you have sufficient funds."
 					},
 					{
 						"id": "EquipmentSlots",
@@ -849,7 +849,7 @@
 					},
 					{
 						"id": "MovementActions_Content",
-						"text": "[h1]Walk[/h1][img:codex_walk]\n[p]Any activated character can move by moving the cursor to the desired location within the character’s movement radius (blue) and then left-clicking.\n[p][h1]Sprint (Special)[/h1][img:codex_sprint]\n[p]Any character with light armor can perform the Sprint special action, granting them a significant movement bonus."
+						"text": "[h1]Walk[/h1][img:codex_walk]\n[p]Any activated character can move by moving the cursor to the desired location within the character’s movement radius (blue) and then left-clicking.\n[p]If you find yourself making moves by mistake you may activate an additional confirm click before a movement action is executed. This can be enabled in the game options by activating the \"Confirm Move\" toggle.\n[p][h1]Sprint (Special)[/h1][img:codex_sprint]\n[p]Any character with light armor can perform the Sprint special action, granting them a significant movement bonus."
 					},
 					{
 						"id": "AttackActions",
@@ -1077,7 +1077,7 @@
 					},
 					{
 						"id": "Credits",
-						"text": "[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]Thank you for playing Pathway![/h2][br]\n[br]\n[br]"
+						"text": "[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"Redacted\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nSergei Klimov\nMario Zechner\nRolf Klischewski\nMatthias Kaestner\nLili Ibrahim\nChristian Verling\nTimo Krahl\nDaniel Kvarfordt\nDouble Fine\nThomas “Cyangmou” Feichtmeir\nAlex Vostrov\nSeriouslyClara\nDune\nAndrew Ferguson\nPawel Pastuszak\nIoannis Tsakpinis\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\nHans-Juergen & Elvira Zuelch\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]Thank you for playing Pathway![/h2][br]\n[br]\n[br]"
 					}
 				]
 			},
@@ -7041,7 +7041,7 @@
 						"text": "A village in the desert"
 					},
 					{
-						"id": "CR_AngryMob02_omar_Title",
+						"id": "CR_AngryMob01_omar_Title",
 						"text": "A village in the desert"
 					},
 					{
@@ -11326,6 +11326,10 @@
 						"text": "[key:AlternateView]: toggle move range"
 					},
 					{
+						"id": "ActionTooltip_ContextMenu",
+						"text": "RMB: Show Actions"
+					},
+					{
 						"id": "CharacterStatsDescription_INT",
 						"text": "Determines the amount of experience points a character receives. The higher the intelligence the quicker a character will level up."
 					},
@@ -11710,6 +11714,22 @@
 						"text": "显示事典通知"
 					},
 					{
+						"id": "GameOptions_Global_DoubleConfirmActions",
+						"text": "CONFIRM MOVE"
+					},
+					{
+						"id": "GameOptions_Global_DoubleConfirmActionsTooltip",
+						"text": "Moves require an additional click to confirm."
+					},
+					{
+						"id": "GameOptions_Global_DogFriendly",
+						"text": "DOG FRIENDLY MODE"
+					},
+					{
+						"id": "GameOptions_Global_DogFriendlyTooltip",
+						"text": "Disables dog sfx hit/die sounds."
+					},
+					{
 						"id": "VideoOptions_Window",
 						"text": "窗口设置"
 					},
@@ -11810,6 +11830,18 @@
 						"text": "音乐"
 					},
 					{
+						"id": "AudioOptions_Reverb",
+						"text": "REVERB"
+					},
+					{
+						"id": "Tooltip_AudioReverb",
+						"text": "REVERB"
+					},
+					{
+						"id": "Tooltip_AudioReverb_Content",
+						"text": "Toggles audio reverb effect on/off. "
+					},
+					{
 						"id": "ControlOptions_General",
 						"text": "一般设置"
 					},
@@ -11855,7 +11887,7 @@
 					},
 					{
 						"id": "KeyAction_AttackSpecial",
-						"text": "远程攻击（特技）"
+						"text": "远程攻击(特技)"
 					},
 					{
 						"id": "KeyAction_Melee",
@@ -11863,7 +11895,7 @@
 					},
 					{
 						"id": "KeyAction_MeleeSpecial",
-						"text": "小刀攻击（流血）"
+						"text": "小刀攻击(流血)"
 					},
 					{
 						"id": "KeyAction_UseItem",
@@ -12263,7 +12295,7 @@
 					},
 					{
 						"id": "Tooltip_VSync_Content",
-						"text": "Enables vertical synchronization.\n\n[cs:#FF8080FF]* On Windows 7, modifying this option doesn't have any effect right now.[ce]"
+						"text": "Enables vertical synchronization."
 					},
 					{
 						"id": "Tooltip_SmoothScroll_Title",
@@ -12963,7 +12995,7 @@
 					},
 					{
 						"id": "CodexTopic_LockedInfo",
-						"text": "This topic is locked."
+						"text": "This topic is locked because you have not yet encountered the enemies described."
 					}
 				]
 			},
@@ -18609,6 +18641,5 @@
 			}
 		]
 	}
-	
 ]
 }
