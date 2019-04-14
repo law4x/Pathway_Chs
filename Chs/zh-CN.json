@@ -13004,287 +13004,287 @@
 				"rows": [
 					{
 						"id": "knife_0_a_description",
-						"text": "刀刃几乎全钝了。"
+						"text": "The blade is almost completely dull."
 					},
 					{
 						"id": "knife_0_a_name",
-						"text": "破旧的小刀"
+						"text": "Tarnished pocket knife"
 					},
 					{
 						"id": "knife_0_b_description",
-						"text": "嘿，上面有个开瓶器！"
+						"text": "Hey, it even has a corkscrew!"
 					},
 					{
 						"id": "knife_0_b_name",
-						"text": "优秀的小刀"
+						"text": "Splendid pocket knife"
 					},
 					{
 						"id": "knife_0_description",
-						"text": "它没有开瓶器"
+						"text": "It doesn’t even have a corkscrew."
 					},
 					{
 						"id": "knife_0_name",
-						"text": "小刀"
+						"text": "Pocket knife"
 					},
 					{
 						"id": "knife_1_a_description",
-						"text": "它绣得很严重。"
+						"text": "It's pretty rusty."
 					},
 					{
 						"id": "knife_1_a_name",
-						"text": "破旧的匕首"
+						"text": "Tarnished stiletto"
 					},
 					{
 						"id": "knife_1_b_description",
-						"text": "像剃须刀一样锋利！"
+						"text": "It's as sharp as a razor!"
 					},
 					{
 						"id": "knife_1_b_name",
-						"text": "优秀的匕首"
+						"text": "Splendid stiletto"
 					},
 					{
 						"id": "knife_1_description",
-						"text": "优雅且致命..."
+						"text": "Elegant and deadly..."
 					},
 					{
 						"id": "knife_1_name",
-						"text": "匕首"
+						"text": "Stiletto"
 					},
 					{
 						"id": "knife_2_a_description",
-						"text": "刀刃有一些松了。"
+						"text": "The blade is a little loose."
 					},
 					{
 						"id": "knife_2_a_name",
-						"text": "破旧的单刃猎刀"
+						"text": "Tarnished bowie knife"
 					},
 					{
 						"id": "knife_2_b_description",
-						"text": "这是件艺术品！"
+						"text": "It's a work of art!"
 					},
 					{
 						"id": "knife_2_b_name",
-						"text": "优秀的单刃猎刀"
+						"text": "Splendid bowie knife"
 					},
 					{
 						"id": "knife_2_description",
-						"text": "它不是30cm以下的刀..."
+						"text": "Now that's a knife..."
 					},
 					{
 						"id": "knife_2_name",
-						"text": "单刃猎刀"
+						"text": "Bowie knife"
 					},
 					{
 						"id": "knife_3_a_description",
-						"text": "它一定在地下沉默了好多年了。"
+						"text": "It must have been lying around for years."
 					},
 					{
 						"id": "knife_3_a_name",
-						"text": "破旧的大砍刀"
+						"text": "Tarnished machete"
 					},
 					{
 						"id": "knife_3_b_description",
-						"text": "顶级品质！"
+						"text": "Top quality!"
 					},
 					{
 						"id": "knife_3_b_name",
-						"text": "优秀的大砍刀"
+						"text": "Splendid machete"
 					},
 					{
 						"id": "knife_3_description",
-						"text": "很重，但手感好。"
+						"text": "A little heavy, but it fits well in your hand."
 					},
 					{
 						"id": "knife_3_name",
-						"text": "大砍刀"
+						"text": "Machete"
 					},
 					{
 						"id": "knife_4_a_description",
-						"text": "急需打磨。"
+						"text": "This thing badly needs sharpening."
 					},
 					{
 						"id": "knife_4_a_name",
-						"text": "破旧的屠刀"
+						"text": "Tarnished butcher's knife"
 					},
 					{
 						"id": "knife_4_b_description",
-						"text": "看起来像刚从厨房拿来的一样！"
+						"text": "It looks like it's fresh from the kitchen."
 					},
 					{
 						"id": "knife_4_b_name",
-						"text": "优秀的屠刀"
+						"text": "Splendid butcher's knife"
 					},
 					{
 						"id": "knife_4_description",
-						"text": "削铁如泥！"
+						"text": "Cuts through bone like butter!"
 					},
 					{
 						"id": "knife_4_name",
-						"text": "屠刀"
+						"text": "Butcher's knife"
 					},
 					{
 						"id": "knife_5_a_description",
-						"text": "这种武器见过更好的日子。"
+						"text": "This weapon has seen better days."
 					},
 					{
 						"id": "knife_5_a_name",
-						"text": "破旧的尼泊尔弯刀"
+						"text": "Tarnished kukri"
 					},
 					{
 						"id": "knife_5_b_description",
-						"text": "惊人地锋利！"
+						"text": "Terrifyingly sharp!"
 					},
 					{
 						"id": "knife_5_b_name",
-						"text": "优秀的尼泊尔弯刀"
+						"text": "Splendid kukri"
 					},
 					{
 						"id": "knife_5_description",
-						"text": "可怕的廓尔喀战士的标准武器：敏捷而致命."
+						"text": "The standard weapon of the dreaded Ghurka warriors: agile and deadly."
 					},
 					{
 						"id": "knife_5_name",
-						"text": "尼泊尔弯刀"
+						"text": "Kukri"
 					},
 					{
 						"id": "disintegrator_0_a_description",
-						"text": "You don’t think those wires are supposed to be sticking out of the side flap."
+						"text": "你不认为那些电线应该从侧面伸出。"
 					},
 					{
 						"id": "disintegrator_0_a_name",
-						"text": "Tarnished Frobisher & Boyd Wall Cutter"
+						"text": "破旧的Frobisher & Boyd墙壁切割机"
 					},
 					{
 						"id": "disintegrator_0_b_description",
-						"text": "A fine specimen!"
+						"text": "一件很棒的样品！"
 					},
 					{
 						"id": "disintegrator_0_b_name",
-						"text": "Splendid Frobisher & Boyd Wall Cutter"
+						"text": "优秀的Frobisher & Boyd墙壁切割机"
 					},
 					{
 						"id": "disintegrator_0_description",
-						"text": "The latest development from the historic British manufacturer Frobisher & Boyd. It‘s clearly still a work in progress, but it should be safe to use - for the most part, anyway..."
+						"text": "来自历史悠久的英国制造商Frobisher & Boyd的最新进展，它显然仍在进行中，不管怎样大多时候它应该是安全的..."
 					},
 					{
 						"id": "disintegrator_0_name",
-						"text": "Frobisher & Boyd Wall Cutter"
+						"text": "Frobisher & Boyd墙壁切割机"
 					},
 					{
 						"id": "disintegrator_1_a_description",
-						"text": "This thing is making some worrying noises."
+						"text": "这东西发出一些令人担忧的声音。"
 					},
 					{
 						"id": "disintegrator_1_a_name",
-						"text": "Tarnished Adler & Stahlknecht Prototype"
+						"text": "破旧的Adler & Stahlknecht原型机"
 					},
 					{
 						"id": "disintegrator_1_b_description",
-						"text": "It’s a little complicated to use, but otherwise perfect!"
+						"text": "使用起来有点复杂，但完美无缺！"
 					},
 					{
 						"id": "disintegrator_1_b_name",
-						"text": "Splendid Adler & Stahlknecht Prototype"
+						"text": "优秀的Adler & Stahlknecht原型机"
 					},
 					{
 						"id": "disintegrator_1_description",
-						"text": "This design is obviously a work in progress. Those crazy Germans and their mysterious prototypes!"
+						"text": "这种设计显然是一项正在进行的工作。那些疯狂的德国人和他们神秘的原型！"
 					},
 					{
 						"id": "disintegrator_1_name",
-						"text": "Adler & Stahlknecht Prototype"
+						"text": "Adler & Stahlknecht原型机"
 					},
 					{
 						"id": "disintegrator_2_a_description",
-						"text": "Some of the screws have come loose."
+						"text": "有些螺丝松了。"
 					},
 					{
 						"id": "disintegrator_2_a_name",
-						"text": "Tarnished Oakfield Gernsback Gun"
+						"text": "破旧的Oakfield Gernsback枪"
 					},
 					{
 						"id": "disintegrator_2_b_description",
-						"text": "It appears to be a brand new model."
+						"text": "它似乎是一个全新的模型。"
 					},
 					{
 						"id": "disintegrator_2_b_name",
-						"text": "Splendid Oakfield Gernsback Gun"
+						"text": "优秀的Oakfield Gernsback枪"
 					},
 					{
 						"id": "disintegrator_2_description",
-						"text": "The Americans have entered the highly competitive disintegrator market with this mass-produced model."
+						"text": "美国人通过这种大规模生产的模型进入了竞争激烈的粉碎机市场。"
 					},
 					{
 						"id": "disintegrator_2_name",
-						"text": "Oakfield Gernsback Gun"
+						"text": "Oakfield Gernsback枪"
 					},
 					{
 						"id": "disintegrator_3_a_description",
-						"text": "It smells like it’s been wrapped in smelly rags."
+						"text": "它闻起来像被包裹在臭臭的衣服里一样。"
 					},
 					{
 						"id": "disintegrator_3_a_name",
-						"text": "Tarnished Litvak-Vertov Vril Burner"
+						"text": "破旧的Litvak-Vertov Vril燃烧器"
 					},
 					{
 						"id": "disintegrator_3_b_description",
-						"text": "An attractive design!"
+						"text": "有吸引力的设计！"
 					},
 					{
 						"id": "disintegrator_3_b_name",
-						"text": "Splendid Litvak-Vertov Vril Burner"
+						"text": "优秀的Litvak-Vertov Vril燃烧器"
 					},
 					{
 						"id": "disintegrator_3_description",
-						"text": "A new approach by the mysterious Eastern Europeans. You wonder what Vril is and why it needs burning."
+						"text": "神秘的东欧人的新方法。你可能想知道Vril是什么以及它为什么需要燃烧。"
 					},
 					{
 						"id": "disintegrator_3_name",
-						"text": "Litvak-Vertov Vril Burner"
+						"text": "Litvak-Vertov Vril燃烧器"
 					},
 					{
 						"id": "disintegrator_4_a_description",
-						"text": "It appears to have taken a few knocks during transport."
+						"text": "它似乎在运输过程中遭受了一些撞击。"
 					},
 					{
 						"id": "disintegrator_4_a_name",
-						"text": "Tarnished Rheingold Particle Gun"
+						"text": "破旧的Rheingold粒子步枪"
 					},
 					{
 						"id": "disintegrator_4_b_description",
-						"text": "Straight off the production line!"
+						"text": "直接从生产线运过来！"
 					},
 					{
 						"id": "disintegrator_4_b_name",
-						"text": "Splendid Rheingold Particle Gun"
+						"text": "优秀的Rheingold粒子步枪"
 					},
 					{
 						"id": "disintegrator_4_description",
-						"text": "Predictably excellent German engineering from the enigmatic weapons foundry in Xanten."
+						"text": "来自克桑滕神秘武器铸造厂的出色的德国工程设计令人难以置信。"
 					},
 					{
 						"id": "disintegrator_4_name",
-						"text": "Rheingold Particle Gun"
+						"text": "Rheingold粒子步枪"
 					},
 					{
 						"id": "disintegrator_5_a_description",
-						"text": "Lights flicker on and off at random..."
+						"text": "灯随机闪烁..."
 					},
 					{
 						"id": "disintegrator_5_a_name",
-						"text": "Tarnished Ritterwerck Planckstrahler"
+						"text": "破旧的Ritterwerck Planckstrahler"
 					},
 					{
 						"id": "disintegrator_5_b_description",
-						"text": "A masterpiece!"
+						"text": "杰作！"
 					},
 					{
 						"id": "disintegrator_5_b_name",
-						"text": "Splendid Ritterwerck Planckstrahler"
+						"text": "优秀的Ritterwerck Planckstrahler"
 					},
 					{
 						"id": "disintegrator_5_description",
-						"text": "The Rittwerck Planckstrahler is a truly awe-inspiring weapon."
+						"text": "Rittwerck Planckstrahler是一个真正令人敬畏的武器。"
 					},
 					{
 						"id": "disintegrator_5_name",
