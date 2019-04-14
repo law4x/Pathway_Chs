@@ -11663,15 +11663,15 @@
 					},
 					{
 						"id": "OptionsMenu_Confirm",
-						"text": "Confirm changes"
+						"text": "确认更改"
 					},
 					{
 						"id": "OptionsMenu_Cancel",
-						"text": "Cancel"
+						"text": "取消"
 					},
 					{
 						"id": "GameOptions_Language_en-us",
-						"text": "English"
+						"text": "英语"
 					},
 					{
 						"id": "GameOptions_Language_de-de",
@@ -11679,7 +11679,7 @@
 					},
 					{
 						"id": "GameOptions_Language_fr-fr",
-						"text": "French"
+						"text": "法语"
 					},
 					{
 						"id": "GameOptions_Tab_1",
@@ -11687,211 +11687,211 @@
 					},
 					{
 						"id": "GameOptions_Tab_2",
-						"text": "VIDEO"
+						"text": "视频"
 					},
 					{
 						"id": "GameOptions_Tab_3",
-						"text": "AUDIO"
+						"text": "音频"
 					},
 					{
 						"id": "GameOptions_Tab_4",
-						"text": "CONTROLS"
+						"text": "控制"
 					},
 					{
 						"id": "GameOptions_Global",
-						"text": "GLOBAL"
+						"text": "国家"
 					},
 					{
 						"id": "GameOptions_Global_Language",
-						"text": "LANGUAGE"
+						"text": "语言"
 					},
 					{
 						"id": "GameOptions_Global_ShowCodexNotifications",
-						"text": "SHOW CODEX NOTIFICATIONS"
+						"text": "显示事典通知"
 					},
 					{
 						"id": "VideoOptions_Window",
-						"text": "WINDOW SETTINGS"
+						"text": "窗口设置"
 					},
 					{
 						"id": "VideoOptions_Window_Monitor",
-						"text": "DISPLAY"
+						"text": "显示"
 					},
 					{
 						"id": "VideoOptions_Window_Resolution",
-						"text": "RESOLUTION"
+						"text": "分辨率"
 					},
 					{
 						"id": "VideoOptions_Window_RefreshRate",
-						"text": "REFRESH RATE"
+						"text": "帧率"
 					},
 					{
 						"id": "VideoOptions_Window_Fullscreen",
-						"text": "FULLSCREEN"
+						"text": "全屏"
 					},
 					{
 						"id": "VideoOptions_Window_DoubleBuffer",
-						"text": "DOUBLE BUFFERING"
+						"text": "双重缓冲"
 					},
 					{
 						"id": "VideoOptions_Window_VerticalSync",
-						"text": "VERTICAL SYNC"
+						"text": "垂直同步"
 					},
 					{
 						"id": "VideoOptions_Advanced",
-						"text": "ADVANCED SETTINGS"
+						"text": "高级设置"
 					},
 					{
 						"id": "VideoOptions_Shadow",
-						"text": "SHADOWS"
+						"text": "阴影"
 					},
 					{
 						"id": "VideoOptions_Shadow_Ultra",
-						"text": "Ultra"
+						"text": "极高"
 					},
 					{
 						"id": "VideoOptions_Shadow_High",
-						"text": "High"
+						"text": "高"
 					},
 					{
 						"id": "VideoOptions_Shadow_Medium",
-						"text": "Medium"
+						"text": "中"
 					},
 					{
 						"id": "VideoOptions_Shadow_Low",
-						"text": "Low"
+						"text": "低"
 					},
 					{
 						"id": "VideoOptions_Light",
-						"text": "LIGHTS"
+						"text": "光影"
 					},
 					{
 						"id": "VideoOptions_Light_StaticOnly",
-						"text": "Static only"
+						"text": "静态"
 					},
 					{
 						"id": "VideoOptions_Light_Half",
-						"text": "Medium"
+						"text": "中"
 					},
 					{
 						"id": "VideoOptions_Light_Full",
-						"text": "High"
+						"text": "高"
 					},
 					{
 						"id": "VideoOptions_SmoothScroll",
-						"text": "SMOOTH SCROLLING"
+						"text": "平滑滚动"
 					},
 					{
 						"id": "VideoOptionsKeep_Question",
-						"text": "Display settings have been changed. Do you want to keep them?\n\nRevert to previous settings in [0] s..."
+						"text": "显示设置已更改，要保留这些更改么？\n\n[0]秒后还原为原先设置……"
 					},
 					{
 						"id": "VideoOptionsKeep_QuestionYes",
-						"text": "Yes"
+						"text": "是"
 					},
 					{
 						"id": "VideoOptionsKeep_QuestionNo",
-						"text": "No"
+						"text": "否"
 					},
 					{
 						"id": "AudioOptions_Volume",
-						"text": "VOLUME"
+						"text": "音量"
 					},
 					{
 						"id": "AudioOptions_Volume_Master",
-						"text": "MASTER"
+						"text": "总音量"
 					},
 					{
 						"id": "AudioOptions_Volume_Effects",
-						"text": "EFFECTS"
+						"text": "音效"
 					},
 					{
 						"id": "AudioOptions_Volume_Music",
-						"text": "MUSIC"
+						"text": "音乐"
 					},
 					{
 						"id": "ControlOptions_General",
-						"text": "GENERAL"
+						"text": "一般设置"
 					},
 					{
 						"id": "ControlOptions_Option_Cursor",
-						"text": "Mouse Cursor"
+						"text": "鼠标光标"
 					},
 					{
 						"id": "ControlOptions_Cursor_Default",
-						"text": "Hardware"
+						"text": "硬核"
 					},
 					{
 						"id": "ControlOptions_Cursor_Software",
-						"text": "Software"
+						"text": "软核"
 					},
 					{
 						"id": "ControlOptions_Keys",
-						"text": "KEYBOARD"
+						"text": "键盘设置"
 					},
 					{
 						"id": "KeyAction_CameraScrollUp",
-						"text": "move camera up"
+						"text": "镜头上移"
 					},
 					{
 						"id": "KeyAction_CameraScrollLeft",
-						"text": "move camera left"
+						"text": "镜头左移"
 					},
 					{
 						"id": "KeyAction_CameraScrollDown",
-						"text": "move camera down"
+						"text": "镜头下移"
 					},
 					{
 						"id": "KeyAction_CameraScrollRight",
-						"text": "move camera right"
+						"text": "镜头右移"
 					},
 					{
 						"id": "KeyAction_CameraFreeLook",
-						"text": "camera free look"
+						"text": "自由视角"//TODO+待测试，原文CAMERA FREE LOOK
 					},
 					{
 						"id": "KeyAction_Attack",
-						"text": "ranged attack"
+						"text": "远程攻击"
 					},
 					{
 						"id": "KeyAction_AttackSpecial",
-						"text": "ranged attack (special)"
+						"text": "远程攻击（特技）"
 					},
 					{
 						"id": "KeyAction_Melee",
-						"text": "knife attack"
+						"text": "小刀攻击"
 					},
 					{
 						"id": "KeyAction_MeleeSpecial",
-						"text": "knife attack (bleed)"
+						"text": "小刀攻击（流血）"
 					},
 					{
 						"id": "KeyAction_UseItem",
-						"text": "use item"
+						"text": "使用物品"
 					},
 					{
 						"id": "KeyAction_UseSpecial",
-						"text": "use ability"
+						"text": "使用技能"
 					},
 					{
 						"id": "KeyAction_ReloadWeapon",
-						"text": "reload weapon"
+						"text": "装填弹夹"
 					},
 					{
 						"id": "KeyAction_SelectPreviousUnit",
-						"text": "select previous unit"
+						"text": "上一个单位"
 					},
 					{
 						"id": "KeyAction_SelectNextUnit",
-						"text": "select next unit"
+						"text": "下一个单位"
 					},
 					{
 						"id": "KeyAction_EndTurn",
-						"text": "end turn"
+						"text": "结束回合"
 					},
 					{
 						"id": "KeyAction_ShowOptionsMenu",
-						"text": "show options menu"
+						"text": "显示选项菜单"
 					},
 					{
 						"id": "KeyAction_ShowJournal",
@@ -11903,11 +11903,11 @@
 					},
 					{
 						"id": "KeyAction_Punch",
-						"text": "punch"
+						"text": "徒手攻击
 					},
 					{
 						"id": "KeyAction_AlternateView",
-						"text": "alternative information"
+						"text": "切换信息"
 					},
 					{
 						"id": "MouseBtn0",
