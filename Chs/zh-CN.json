@@ -12919,15 +12919,15 @@
 					},
 					{
 						"id": "EventEffect_Fuel",
-						"text": "Fuel"
+						"text": "燃料"
 					},
 					{
 						"id": "EventEffect_Cash",
-						"text": "Cash"
+						"text": "现金"
 					},
 					{
 						"id": "EventEffect_Ammo",
-						"text": "Ammo"
+						"text": "弹药"
 					},
 					{
 						"id": "EventEffect_Party",
