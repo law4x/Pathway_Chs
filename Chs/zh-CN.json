@@ -13004,147 +13004,147 @@
 				"rows": [
 					{
 						"id": "knife_0_a_description",
-						"text": "The blade is almost completely dull."
+						"text": "刀刃几乎全钝了。"
 					},
 					{
 						"id": "knife_0_a_name",
-						"text": "Tarnished pocket knife"
+						"text": "破旧的小刀"
 					},
 					{
 						"id": "knife_0_b_description",
-						"text": "Hey, it even has a corkscrew!"
+						"text": "嘿，上面有个开瓶器！"
 					},
 					{
 						"id": "knife_0_b_name",
-						"text": "Splendid pocket knife"
+						"text": "优秀的小刀"
 					},
 					{
 						"id": "knife_0_description",
-						"text": "It doesn’t even have a corkscrew."
+						"text": "它没有开瓶器"
 					},
 					{
 						"id": "knife_0_name",
-						"text": "Pocket knife"
+						"text": "小刀"
 					},
 					{
 						"id": "knife_1_a_description",
-						"text": "It's pretty rusty."
+						"text": "它绣得很严重。"
 					},
 					{
 						"id": "knife_1_a_name",
-						"text": "Tarnished stiletto"
+						"text": "破旧的匕首"
 					},
 					{
 						"id": "knife_1_b_description",
-						"text": "It's as sharp as a razor!"
+						"text": "像剃须刀一样锋利！"
 					},
 					{
 						"id": "knife_1_b_name",
-						"text": "Splendid stiletto"
+						"text": "优秀的匕首"
 					},
 					{
 						"id": "knife_1_description",
-						"text": "Elegant and deadly..."
+						"text": "优雅且致命..."
 					},
 					{
 						"id": "knife_1_name",
-						"text": "Stiletto"
+						"text": "匕首"
 					},
 					{
 						"id": "knife_2_a_description",
-						"text": "The blade is a little loose."
+						"text": "刀刃有一些松了。"
 					},
 					{
 						"id": "knife_2_a_name",
-						"text": "Tarnished bowie knife"
+						"text": "破旧的单刃猎刀"
 					},
 					{
 						"id": "knife_2_b_description",
-						"text": "It's a work of art!"
+						"text": "这是件艺术品！"
 					},
 					{
 						"id": "knife_2_b_name",
-						"text": "Splendid bowie knife"
+						"text": "优秀的单刃猎刀"
 					},
 					{
 						"id": "knife_2_description",
-						"text": "Now that's a knife..."
+						"text": "它不是30cm以下的刀..."
 					},
 					{
 						"id": "knife_2_name",
-						"text": "Bowie knife"
+						"text": "单刃猎刀"
 					},
 					{
 						"id": "knife_3_a_description",
-						"text": "It must have been lying around for years."
+						"text": "它一定在地下沉默了好多年了。"
 					},
 					{
 						"id": "knife_3_a_name",
-						"text": "Tarnished machete"
+						"text": "破旧的大砍刀"
 					},
 					{
 						"id": "knife_3_b_description",
-						"text": "Top quality!"
+						"text": "顶级品质！"
 					},
 					{
 						"id": "knife_3_b_name",
-						"text": "Splendid machete"
+						"text": "优秀的大砍刀"
 					},
 					{
 						"id": "knife_3_description",
-						"text": "A little heavy, but it fits well in your hand."
+						"text": "很重，但手感好。"
 					},
 					{
 						"id": "knife_3_name",
-						"text": "Machete"
+						"text": "大砍刀"
 					},
 					{
 						"id": "knife_4_a_description",
-						"text": "This thing badly needs sharpening."
+						"text": "急需打磨。"
 					},
 					{
 						"id": "knife_4_a_name",
-						"text": "Tarnished butcher's knife"
+						"text": "破旧的屠刀"
 					},
 					{
 						"id": "knife_4_b_description",
-						"text": "It looks like it's fresh from the kitchen."
+						"text": "看起来像刚从厨房拿来的一样！"
 					},
 					{
 						"id": "knife_4_b_name",
-						"text": "Splendid butcher's knife"
+						"text": "优秀的屠刀"
 					},
 					{
 						"id": "knife_4_description",
-						"text": "Cuts through bone like butter!"
+						"text": "削铁如泥！"
 					},
 					{
 						"id": "knife_4_name",
-						"text": "Butcher's knife"
+						"text": "屠刀"
 					},
 					{
 						"id": "knife_5_a_description",
-						"text": "This weapon has seen better days."
+						"text": "这种武器见过更好的日子。"
 					},
 					{
 						"id": "knife_5_a_name",
-						"text": "Tarnished kukri"
+						"text": "破旧的尼泊尔弯刀"
 					},
 					{
 						"id": "knife_5_b_description",
-						"text": "Terrifyingly sharp!"
+						"text": "惊人地锋利！"
 					},
 					{
 						"id": "knife_5_b_name",
-						"text": "Splendid kukri"
+						"text": "优秀的尼泊尔弯刀"
 					},
 					{
 						"id": "knife_5_description",
-						"text": "The standard weapon of the dreaded Ghurka warriors: agile and deadly."
+						"text": "可怕的廓尔喀战士的标准武器：敏捷而致命."
 					},
 					{
 						"id": "knife_5_name",
-						"text": "Kukri"
+						"text": "尼泊尔弯刀"
 					},
 					{
 						"id": "disintegrator_0_a_description",
