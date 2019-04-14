@@ -11675,11 +11675,11 @@
 					},
 					{
 						"id": "GameOptions_Language_de-de",
-						"text": "简体中文"
+						"text": "德语"
 					},
 					{
 						"id": "GameOptions_Language_fr-fr",
-						"text": "法语"
+						"text": "简体中文"
 					},
 					{
 						"id": "GameOptions_Tab_1",
@@ -11903,7 +11903,7 @@
 					},
 					{
 						"id": "KeyAction_Punch",
-						"text": "徒手攻击
+						"text": "徒手攻击"
 					},
 					{
 						"id": "KeyAction_AlternateView",
@@ -11919,19 +11919,19 @@
 					},
 					{
 						"id": "MainMenu_DemoVersion",
-						"text": "CLICK TO CONTINUE"
+						"text": "点击继续"
 					},
 					{
 						"id": "LoadingScreen_CTP",
-						"text": "CLICK TO CONTINUE"
+						"text": "点击继续"
 					},
 					{
 						"id": "MainMenu_Btn_Continue",
-						"text": "CONTINUE"
+						"text": "继续"
 					},
 					{
 						"id": "MainMenu_Btn_NewGame",
-						"text": "NEW ADVENTURE"
+						"text": "N新的冒险"
 					},
 					{
 						"id": "MainMenu_Btn_NewGameAlt",
@@ -11939,19 +11939,19 @@
 					},
 					{
 						"id": "MainMenu_Btn_Options",
-						"text": "OPTIONS"
+						"text": "设置"
 					},
 					{
 						"id": "MainMenu_Btn_Exit",
-						"text": "EXIT GAME"
+						"text": "退出游戏"
 					},
 					{
 						"id": "MainMenu_Btn_ReturnToGame",
-						"text": "RETURN TO GAME"
+						"text": "继续游戏"
 					},
 					{
 						"id": "MainMenu_Btn_ExitCurrentGame",
-						"text": "EXIT TO MAIN MENU"
+						"text": "退出到主菜单"
 					},
 					{
 						"id": "MainMenu_Btn_ExitCurrentGameDemo",
@@ -11959,7 +11959,7 @@
 					},
 					{
 						"id": "MainMenu_Btn_Credits",
-						"text": "CREDITS"
+						"text": "鸣谢"
 					},
 					{
 						"id": "MainMenu_Label_Cash",
@@ -11991,11 +11991,11 @@
 					},
 					{
 						"id": "NewProfile_Confirm",
-						"text": "CONFIRM"
+						"text": "确认"
 					},
 					{
 						"id": "NewProfile_Cancel",
-						"text": "CANCEL"
+						"text": "取消"
 					},
 					{
 						"id": "ChangeProfile_Title",
@@ -12011,11 +12011,11 @@
 					},
 					{
 						"id": "ChangeProfile_Confirm",
-						"text": "CONFIRM"
+						"text": "确认"
 					},
 					{
 						"id": "ChangeProfile_Delete",
-						"text": "DELETE"
+						"text": "删除"
 					},
 					{
 						"id": "ChangeProfile_DeleteQuestion",
@@ -12023,11 +12023,11 @@
 					},
 					{
 						"id": "ChangeProfile_DeleteQuestionYes",
-						"text": "Yes"
+						"text": "是"
 					},
 					{
 						"id": "ChangeProfile_DeleteQuestionNo",
-						"text": "No"
+						"text": "否"
 					},
 					{
 						"id": "NewAdventure_Question",
@@ -12243,7 +12243,7 @@
 					},
 					{
 						"id": "Tooltip_Language_Title",
-						"text": "Language"
+						"text": "语言"
 					},
 					{
 						"id": "Tooltip_Language_Content",
