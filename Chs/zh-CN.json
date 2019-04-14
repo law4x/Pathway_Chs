@@ -11715,19 +11715,19 @@
 					},
 					{
 						"id": "GameOptions_Global_DoubleConfirmActions",
-						"text": "CONFIRM MOVE"
+						"text": "确认移动"
 					},
 					{
 						"id": "GameOptions_Global_DoubleConfirmActionsTooltip",
-						"text": "Moves require an additional click to confirm."
+						"text": "移动需要额外点击确认."
 					},
 					{
 						"id": "GameOptions_Global_DogFriendly",
-						"text": "DOG FRIENDLY MODE"
+						"text": "狗狗友好模式"
 					},
 					{
 						"id": "GameOptions_Global_DogFriendlyTooltip",
-						"text": "Disables dog sfx hit/die sounds."
+						"text": "屏蔽狗狗受伤/死亡的音效."
 					},
 					{
 						"id": "VideoOptions_Window",
@@ -11803,7 +11803,7 @@
 					},
 					{
 						"id": "VideoOptionsKeep_Question",
-						"text": "显示设置已更改，要保留这些更改么？\n\n[0]秒后还原为原先设置……"
+						"text": "显示设置已更改，要保留这些更改么?\n\n[0]秒后还原为原先设置..."
 					},
 					{
 						"id": "VideoOptionsKeep_QuestionYes",
@@ -11831,15 +11831,15 @@
 					},
 					{
 						"id": "AudioOptions_Reverb",
-						"text": "REVERB"
+						"text": "混响"
 					},
 					{
 						"id": "Tooltip_AudioReverb",
-						"text": "REVERB"
+						"text": "混响"
 					},
 					{
 						"id": "Tooltip_AudioReverb_Content",
-						"text": "Toggles audio reverb effect on/off. "
+						"text": "启动/关闭混响音效. "
 					},
 					{
 						"id": "ControlOptions_General",
@@ -11879,7 +11879,7 @@
 					},
 					{
 						"id": "KeyAction_CameraFreeLook",
-						"text": "自由视角"//TODO+待测试，原文CAMERA FREE LOOK
+						"text": "允许鼠标拖动移动镜头"
 					},
 					{
 						"id": "KeyAction_Attack",
@@ -11927,15 +11927,15 @@
 					},
 					{
 						"id": "KeyAction_ShowJournal",
-						"text": "toggle team screen"
+						"text": "打开/隐藏队伍整备界面"
 					},
 					{
 						"id": "KeyAction_ShowFPSCounter",
-						"text": "toggle fps counter"
+						"text": "显示/隐藏FPS"
 					},
 					{
 						"id": "KeyAction_Punch",
-						"text": "徒手攻击"
+						"text": "拳头攻击"
 					},
 					{
 						"id": "KeyAction_AlternateView",
@@ -11943,11 +11943,11 @@
 					},
 					{
 						"id": "MouseBtn0",
-						"text": "left mouse button"
+						"text": "鼠标左键"
 					},
 					{
 						"id": "MouseBtn1",
-						"text": "right mouse button"
+						"text": "鼠标右键"
 					},
 					{
 						"id": "MainMenu_DemoVersion",
@@ -11967,7 +11967,7 @@
 					},
 					{
 						"id": "MainMenu_Btn_NewGameAlt",
-						"text": "PURSUE A NEW ADVENTURE"
+						"text": "追求新的冒险"
 					},
 					{
 						"id": "MainMenu_Btn_Options",
@@ -11987,7 +11987,7 @@
 					},
 					{
 						"id": "MainMenu_Btn_ExitCurrentGameDemo",
-						"text": "RESTART DEMO"
+						"text": "重新开始DEMO"
 					},
 					{
 						"id": "MainMenu_Btn_Credits",
@@ -11995,15 +11995,15 @@
 					},
 					{
 						"id": "MainMenu_Label_Cash",
-						"text": "CASH"
+						"text": "现金"
 					},
 					{
 						"id": "MainMenu_Profile_New",
-						"text": "NEW PROFILE"
+						"text": "新的档案"
 					},
 					{
 						"id": "MainMenu_Profile_Change",
-						"text": "CHANGE PROFILE"
+						"text": "切换档案"
 					},
 					{
 						"id": "MainMenu_Cash_Display",
@@ -12011,15 +12011,15 @@
 					},
 					{
 						"id": "MainMenu_Paper_Day",
-						"text": "DAY [0]"
+						"text": "第[0]天"
 					},
 					{
 						"id": "NewProfile_Title",
-						"text": "NEW PROFILE"
+						"text": "新的档案"
 					},
 					{
 						"id": "NewProfile_Instruction",
-						"text": "ENTER PROFILE NAME"
+						"text": "输入档案名称"
 					},
 					{
 						"id": "NewProfile_Confirm",
@@ -12031,7 +12031,7 @@
 					},
 					{
 						"id": "ChangeProfile_Title",
-						"text": "CHANGE PROFILE"
+						"text": "切换档案"
 					},
 					{
 						"id": "ChangeProfile_Slot",
@@ -12039,7 +12039,7 @@
 					},
 					{
 						"id": "ChangeProfile_Name",
-						"text": "PROFILE NAME"
+						"text": "档案名称"
 					},
 					{
 						"id": "ChangeProfile_Confirm",
@@ -12051,7 +12051,7 @@
 					},
 					{
 						"id": "ChangeProfile_DeleteQuestion",
-						"text": "By deleting this profile you are deleting all character unlocks, items and achievements collected on this profile. Are you sure?"
+						"text": "删除这个档案后你这个档案里所有解锁的人物, 获得的物品和成就都会丢失, 确定删除吗?"
 					},
 					{
 						"id": "ChangeProfile_DeleteQuestionYes",
@@ -12063,103 +12063,103 @@
 					},
 					{
 						"id": "NewAdventure_Question",
-						"text": "You are about to abort the current adventure. All items and progress made during this adventure will be lost. Are you sure?"
+						"text": "你将离开当前的冒险, 所有这次冒险中获得的物品和进度都将丢失. 确定离开吗?"
 					},
 					{
 						"id": "NewAdventure_QuestionYes",
-						"text": "Yes"
+						"text": "是"
 					},
 					{
 						"id": "NewAdventure_QuestionNo",
-						"text": "No"
+						"text": "否"
 					},
 					{
 						"id": "AdventureSelect_Instruction",
-						"text": "Select an adventure!"
+						"text": "选择一个冒险!"
 					},
 					{
 						"id": "AdventureSelect_Title",
-						"text": "Title"
+						"text": "标题"
 					},
 					{
 						"id": "AdventureSelect_Description",
-						"text": "Description"
+						"text": "描述"
 					},
 					{
 						"id": "AdventureSelect_Select",
-						"text": "SELECT"
+						"text": "选择"
 					},
 					{
 						"id": "AdventureSelect_SelectDisabled",
-						"text": "LOCKED"
+						"text": "锁定"
 					},
 					{
 						"id": "AdventureSelect_Brief",
-						"text": "BRIEF"
+						"text": "概述"
 					},
 					{
 						"id": "AdventureSelect_Customize",
-						"text": "CUSTOMIZE"
+						"text": "自定义"
 					},
 					{
 						"id": "AdventureSelect_Length_1",
-						"text": "SHORT"
+						"text": "短"
 					},
 					{
 						"id": "AdventureSelect_Length_2",
-						"text": "MEDIUM"
+						"text": "中等"
 					},
 					{
 						"id": "AdventureSelect_Length_3",
-						"text": "LONG"
+						"text": "长"
 					},
 					{
 						"id": "AdventureSelect_Difficulty",
-						"text": "DIFFICULTY"
+						"text": "难度"
 					},
 					{
 						"id": "AdventureSelect_UnlockInfo",
-						"text": "- FINISH PREVIOUS ADVENTURE TO UNLOCK  -"
+						"text": "- 完成前一关卡以解锁 -"
 					},
 					{
 						"id": "AdventureSelect_EnemyStrength",
-						"text": "Enemy Strength"
+						"text": "敌人强度"
 					},
 					{
 						"id": "AdventureSelect_EnemyStrengthDescription",
-						"text": "Tweak how strong your opponents are. Both their health and damage will be adjusted. Lower for a more casual experience\n\nEnemy Health: [0]%\nEnemy Damage: [1]%"
+						"text": "设置你对手的强度. 敌人的生命值和攻击力会相应变动. 调低以获得更轻松的游戏体验\n\n敌人生命值: [0]%\n敌人攻击力: [1]%"
 					},
 					{
 						"id": "AdventureSelect_EnemyStrengthDescriptionPositive",
-						"text": "Tweak how strong your opponents are. Both their health and damage will be adjusted. Lower for a more casual experience\n\nEnemy Health: +[0]%\nEnemy Damage: +[1]%"
+						"text": "设置你对手的强度. 敌人的生命值和攻击力会相应变动. 调低以获得更轻松的游戏体验\n\n敌人生命值: +[0]%\n敌人攻击力: +[1]%"
 					},
 					{
 						"id": "AdventureSelect_Resource",
-						"text": "Resource Supply"
+						"text": "资源补给"
 					},
 					{
 						"id": "AdventureSelect_ResourceDescription",
-						"text": "Tweak your starting resources amount. Increased fuel and ammo will yield a more casual experience, lowering will make it more challenging.\n\nStarting Fuel: [0]\nStarting Ammo: [1]"
+						"text": "设置你的初始资源. 更多的燃料和弹药可以给你更轻松的游戏体验, 调低后难度会升高.\n\n初始燃料: [0]\n初始弹药: [1]"
 					},
 					{
 						"id": "AdventureSelect_ResourceDescriptionPositive",
-						"text": "Tweak your starting resources amount. Increased fuel and ammo will yield a more casual experience, lowering will make it more challenging.\n\nStarting Fuel: +[0]\nStarting Ammo: +[1]"
+						"text": "设置你的初始资源. 更多的燃料和弹药可以给你更轻松的游戏体验, 调低后难度会升高.\n\n初始燃料: +[0]\n初始弹药: +[1]"
 					},
 					{
 						"id": "AdventureSelect_DayTime",
-						"text": "Daytime"
+						"text": "白天时长"
 					},
 					{
 						"id": "AdventureSelect_DayTimeDescriptionDisabled",
-						"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nThis option is locked until you complete this adventure for the first time."
+						"text": "调整冒险中白天的时长. 这纯粹是视觉上的调整, 但可以让你在冒险中有一番全新的体验!\n\n该选项只有在你完成冒险后才会解锁."
 					},
 					{
 						"id": "AdventureSelect_DayTimeDescription",
-						"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nDaytime: [0] Hour(s)"
+						"text": "调整冒险中白天的时长. 这纯粹是视觉上的调整, 但可以让你在冒险中有一番全新的体验!\n\n白天时长: [0] Hour(s)"
 					},
 					{
 						"id": "AdventureSelect_DayTimeDescriptionPositive",
-						"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nDaytime: +[0] Hour(s)"
+						"text": "调整冒险中白天的时长. 这纯粹是视觉上的调整, 但可以让你在冒险中有一番全新的体验!\n\n白天时长: +[0] Hour(s)"
 					},
 					{
 						"id": "TeamSelect_Adventurers",
