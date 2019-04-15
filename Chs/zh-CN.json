@@ -10171,31 +10171,31 @@
 				"rows": [
 					{
 						"id": "select.party.member",
-						"text": "Select: [0]"
+						"text": "选择: [0]"
 					},
 					{
 						"id": "cursor.interact",
-						"text": "Interact"
+						"text": "互动"
 					},
 					{
 						"id": "Combat_PlaceCharacter",
-						"text": "Position [entity:name] inside\ngreen area"
+						"text": "把[entity:name]放置到\n绿色区域内"
 					},
 					{
 						"id": "Combat_HitChance",
-						"text": "Hit chance: [0]%"
+						"text": "命中: [0]%"
 					},
 					{
 						"id": "ExplorationStats_FuelTitle",
-						"text": "Fuel"
+						"text": "燃料"
 					},
 					{
 						"id": "ExplorationStats_CashTitle",
-						"text": "Cash"
+						"text": "现金"
 					},
 					{
 						"id": "ExplorationStats_AmmoTitle",
-						"text": "Ammo"
+						"text": "弹药"
 					},
 					{
 						"id": "ExplorationStats_Fuel",
@@ -10211,311 +10211,311 @@
 					},
 					{
 						"id": "ExplorationStats_Day",
-						"text": "Day [0]"
+						"text": "第[0]天"
 					},
 					{
 						"id": "ExplorationStats_Time",
-						"text": "Time: [1:2]:[2:2]"
+						"text": "时间: [1:2]:[2:2]"
 					},
 					{
 						"id": "EventDialog_Button_Continue",
-						"text": "Continue ..."
+						"text": "继续..."
 					},
 					{
 						"id": "EventDialog_Button_Done",
-						"text": "Done ..."
+						"text": "结束..."
 					},
 					{
 						"id": "EventDialog_Button_Ignore",
-						"text": "Ignore"
+						"text": "忽略"
 					},
 					{
 						"id": "EventDialog_PerkTitle",
-						"text": "Perk"
+						"text": "天赋"
 					},
 					{
 						"id": "EventDialog_TakeAll",
-						"text": "Take all items"
+						"text": "拿走全部物品"
 					},
 					{
 						"id": "EventDialog_RevealAll",
-						"text": "Reveal all items"
+						"text": "翻开全部物品"
 					},
 					{
 						"id": "CharacterPanel_Label_Stats",
-						"text": "Stats"
+						"text": "状态"
 					},
 					{
 						"id": "CharacterPanel_Label_Equipment",
-						"text": "Equipment"
+						"text": "装备"
 					},
 					{
 						"id": "CharacterPanel_Label_Perks",
-						"text": "Perks"
+						"text": "天赋"
 					},
 					{
 						"id": "CharacterPanel_Label_WeaponSkills",
-						"text": "Weapons"
+						"text": "武器"
 					},
 					{
 						"id": "CharacterPanel_Label_MiscSkills",
-						"text": "Misc"
+						"text": "杂项"
 					},
 					{
 						"id": "CharacterPanel_Label_ArmorSkills",
-						"text": "Armors"
+						"text": "护甲"
 					},
 					{
 						"id": "CharacterPanel_Label_Skills",
-						"text": "Skills"
+						"text": "技能"
 					},
 					{
 						"id": "CharacterPanel_Label_ItemSkills",
-						"text": "Item Skills"
+						"text": "物品和技能"
 					},
 					{
 						"id": "CharacterPanel_Label_SkillTree",
-						"text": "Skill Tree"
+						"text": "技能树"
 					},
 					{
 						"id": "CharacterPanel_Label_TeamJournal",
-						"text": "Team"
+						"text": "队伍"
 					},
 					{
 						"id": "CharacterPanel_Label_Codex",
-						"text": "Codex"
+						"text": "事典"
 					},
 					{
 						"id": "CharacterPanel_Label_Achievements",
-						"text": "Trophies"
+						"text": "成就"
 					},
 					{
 						"id": "CharacterPanel_Label_LevelUp",
-						"text": "Level Up"
+						"text": "等级提升"
 					},
 					{
 						"id": "CharacterPanel_Label_XP",
-						"text": "XP:"
+						"text": "经验:"
 					},
 					{
 						"id": "CharacterPanel_Label_JournalNotAvailable",
-						"text": "Team Screen is not available during an encounter."
+						"text": "战斗中无法打开队伍整备界面."
 					},
 					{
 						"id": "GlobalInventory_Label_Inventory",
-						"text": "Jeep Storage"
+						"text": "吉普车存储空间"
 					},
 					{
 						"id": "VaultInventory_Label_Inventory",
-						"text": "Your Vault"
+						"text": "你的库存"
 					},
 					{
 						"id": "LootInventory_Label_YourLoot",
-						"text": "Your Loot"
+						"text": "你的战利品"
 					},
 					{
 						"id": "MerchantInventory_Label_Wares",
-						"text": "Merchant Wares"
+						"text": "出售的商品"
 					},
 					{
 						"id": "CharacterLevelUpPanel_Label_Pick",
-						"text": "Pick a Perk"
+						"text": "选取一个天赋"
 					},
 					{
 						"id": "Notebook_Label_Resources",
-						"text": "Resources"
+						"text": "资源"
 					},
 					{
 						"id": "Notebook_Label_Progress",
-						"text": "Progress"
+						"text": "进度"
 					},
 					{
 						"id": "Notebook_Sector",
-						"text": "Sector [0]/[1]"
+						"text": "区域[0]/[1]"
 					},
 					{
 						"id": "CharacterRecruit_Button_NotEnoughMoney",
-						"text": "Not enough money"
+						"text": "钱不够"
 					},
 					{
 						"id": "CharacterRecruit_Button_AddToTeam",
-						"text": "Add to team"
+						"text": "加入到队伍"
 					},
 					{
 						"id": "CharacterRecruit_Button_Recruit",
-						"text": "Recruit ($[0])"
+						"text": "招募($[0])"
 					},
 					{
 						"id": "CharacterDismiss_Question",
-						"text": "Are you sure you would like to dismiss [entity:name]?"
+						"text": "你确定你要解雇[entity:name]?"
 					},
 					{
 						"id": "CharacterDismiss_Ok",
-						"text": "Dismiss"
+						"text": "解雇"
 					},
 					{
 						"id": "CharacterDismiss_Cancel",
-						"text": "Cancel"
+						"text": "取消"
 					},
 					{
 						"id": "CharacterDismiss_Title",
-						"text": "Team Full"
+						"text": "队伍满员"
 					},
 					{
 						"id": "CharacterDismiss_Message",
-						"text": "Select team member to dismiss:"
+						"text": "选择解雇一个队员:"
 					},
 					{
 						"id": "CharacterDismiss_PartyTitle",
-						"text": "Party"
+						"text": "成员"
 					},
 					{
 						"id": "CharacterStats_Name",
-						"text": "Name: [entity:name]"
+						"text": "名字: [entity:name]"
 					},
 					{
 						"id": "CharacterStats_XP",
-						"text": "XP: [entity:EXP]"
+						"text": "经验: [entity:EXP]"
 					},
 					{
 						"id": "CharacterStats_Level",
-						"text": "Level: [entity:level]"
+						"text": "等级: [entity:level]"
 					},
 					{
 						"id": "CharacterStats_HP",
-						"text": "Health: [entity:CHEA]/[entity:HEA]"
+						"text": "HP: [entity:CHEA]/[entity:HEA]"
 					},
 					{
 						"id": "CharacterStats_AR",
-						"text": "Armor: [entity:CARM]/[entity:ARM]"
+						"text": "护甲: [entity:CARM]/[entity:ARM]"
 					},
 					{
 						"id": "CharacterStats_BR",
-						"text": "Bravery: [entity:CBRA]/[entity:BRA]"
+						"text": "勇气: [entity:CBRA]/[entity:BRA]"
 					},
 					{
 						"id": "CharacterStats_Aim",
-						"text": "Dexterity: [entity:AIM:N]"
+						"text": "技巧: [entity:AIM:N]"
 					},
 					{
 						"id": "CharacterStats_Agility",
-						"text": "Agility: [entity:AGI:N]"
+						"text": "移动力: [entity:AGI:N]"
 					},
 					{
 						"id": "CharacterStats_Intelligence",
-						"text": "Intelligence: [entity:INT:N]"
+						"text": "智力: [entity:INT:N]"
 					},
 					{
 						"id": "CharacterStats_Endurance",
-						"text": "Endurance: [entity:END:N]"
+						"text": "坚忍度: [entity:END:N]"
 					},
 					{
 						"id": "CharacterStats_Reflex",
-						"text": "Reflexes: [entity:EVA:N]"
+						"text": "闪避: [entity:EVA:N]"
 					},
 					{
 						"id": "CharacterStats_Vitality",
-						"text": "Vitality: [entity:HEA:N]"
+						"text": "最大血量: [entity:HEA:N]"
 					},
 					{
 						"id": "CharacterStats_Will",
-						"text": "Willpower: [entity:BRA:N]"
+						"text": "意志: [entity:BRA:N]"
 					},
 					{
 						"id": "CharacterStatsShort_Agility",
-						"text": "AGI"
+						"text": "移动力"
 					},
 					{
 						"id": "CharacterStatsShort_Intelligence",
-						"text": "INT"
+						"text": "智力"
 					},
 					{
 						"id": "CharacterStatsShort_Dexterity",
-						"text": "DEX"
+						"text": "技巧"
 					},
 					{
 						"id": "CharacterStatsShort_Willpower",
-						"text": "WIL"
+						"text": "意志"
 					},
 					{
 						"id": "CharacterStatsShort_Reflex",
-						"text": "RFX"
+						"text": "闪避"
 					},
 					{
 						"id": "CharacterStatsShort_Endurance",
-						"text": "END"
+						"text": "坚忍度"
 					},
 					{
 						"id": "CharacterStatsShort_Vitality",
-						"text": "VIT"
+						"text": "最大血量"
 					},
 					{
 						"id": "CharacterStats_CHEA",
-						"text": "Current Health"
+						"text": "当前血量"
 					},
 					{
 						"id": "CharacterStats_CARM",
-						"text": "Current Armor"
+						"text": "当前护甲"
 					},
 					{
 						"id": "CharacterStats_CBRA",
-						"text": "Current Bravery"
+						"text": "当前勇气点数"
 					},
 					{
 						"id": "CharacterStats_HEA",
-						"text": "Vitality"
+						"text": "最大血量"
 					},
 					{
 						"id": "CharacterStats_BRA",
-						"text": "Willpower"
+						"text": "意志"
 					},
 					{
 						"id": "CharacterStats_AGI",
-						"text": "Agility"
+						"text": "移动力"
 					},
 					{
 						"id": "CharacterStats_AIM",
-						"text": "Dexterity"
+						"text": "技巧"
 					},
 					{
 						"id": "CharacterStats_EVA",
-						"text": "Reflexes"
+						"text": "闪避"
 					},
 					{
 						"id": "CharacterStats_INT",
-						"text": "Intelligence"
+						"text": "智力"
 					},
 					{
 						"id": "CharacterStats_END",
-						"text": "Endurance"
+						"text": "坚忍度"
 					},
 					{
 						"id": "CharacterLevelUp_Title",
-						"text": "Skill Selection"
+						"text": "技能选择"
 					},
 					{
 						"id": "CharacterLevelUp_ConfirmSkill",
-						"text": "Confirm skill choice"
+						"text": "确认技能选择"
 					},
 					{
 						"id": "CharacterLevelUp_CancelWindow",
-						"text": "Close"
+						"text": "关闭"
 					},
 					{
 						"id": "CharacterXPGain_Title",
-						"text": "Experience Reward"
+						"text": "经验奖励"
 					},
 					{
 						"id": "Equipment_Label_Weapon",
-						"text": "Weapon"
+						"text": "武器"
 					},
 					{
 						"id": "Equipment_Label_Item",
-						"text": "Item"
+						"text": "物品"
 					},
 					{
 						"id": "Equipment_Label_Armor",
-						"text": "Armor"
+						"text": "护甲"
 					},
 					{
 						"id": "PerksPane_Label_Name",
@@ -10523,31 +10523,31 @@
 					},
 					{
 						"id": "PerksPane_TemporaryPerk",
-						"text": "This is a temporary perk that only lasts until the end of the adventure."
+						"text": "这是一个临时天赋, 仅在本次冒险中有效."
 					},
 					{
 						"id": "Tooltip_Weapon_Damage",
-						"text": "DMG:"
+						"text": "伤害:"
 					},
 					{
 						"id": "Tooltip_Weapon_Accuracy",
-						"text": "Accuracy:"
+						"text": "精准度:"
 					},
 					{
 						"id": "Tooltip_Weapon_Range",
-						"text": "Range:"
+						"text": "射程:"
 					},
 					{
 						"id": "Tooltip_Weapon_Mag",
-						"text": "Mag Size:"
+						"text": "弹夹容量:"
 					},
 					{
 						"id": "Tooltip_Weapon_Crit",
-						"text": "Crit Chance:"
+						"text": "暴击率:"
 					},
 					{
 						"id": "Tooltip_Weapon_CritDamage",
-						"text": "Crit Damage:"
+						"text": "暴击伤害:"
 					},
 					{
 						"id": "Tooltip_Weapon_WeaponType",
@@ -10555,15 +10555,15 @@
 					},
 					{
 						"id": "Tooltip_Weapon_AmbushAngle",
-						"text": "Ambush Reach:"
+						"text": "伏击范围:"
 					},
 					{
 						"id": "Tooltip_Weapon_BlastAngle",
-						"text": "Blast Reach:"
+						"text": "爆破范围:"
 					},
 					{
 						"id": "Tooltip_Weapon_BurstSpread",
-						"text": "Burst Spread:"
+						"text": "扫射面:"
 					},
 					{
 						"id": "Tooltip_Weapon_DamageAmount",
@@ -11715,7 +11715,7 @@
 					},
 					{
 						"id": "GameOptions_Global_DoubleConfirmActions",
-						"text": "确认移动"
+						"text": "移动确认"
 					},
 					{
 						"id": "GameOptions_Global_DoubleConfirmActionsTooltip",
@@ -11887,7 +11887,7 @@
 					},
 					{
 						"id": "KeyAction_AttackSpecial",
-						"text": "远程攻击(特技)"
+						"text": "远程攻击(技能)"
 					},
 					{
 						"id": "KeyAction_Melee",
@@ -12163,91 +12163,91 @@
 					},
 					{
 						"id": "TeamSelect_Adventurers",
-						"text": "ADVENTURERS"
+						"text": "开始冒险"
 					},
 					{
 						"id": "TeamSelect_Instruction",
-						"text": "Select your team members!"
+						"text": "选择你的小队成员!"
 					},
 					{
 						"id": "TeamSelect_RecruitInfo",
-						"text": "RECRUIT INFO"
+						"text": "招募信息"
 					},
 					{
 						"id": "TeamSelect_Recruit",
-						"text": "RECRUIT"
+						"text": "招募"
 					},
 					{
 						"id": "TeamSelect_Dismiss",
-						"text": "DISMISS"
+						"text": "解雇"
 					},
 					{
 						"id": "TeamSelect_Equip",
-						"text": "CONTINUE"
+						"text": "继续"
 					},
 					{
 						"id": "TeamSelect_Party_Size",
-						"text": "PARTY [0]/[1]"
+						"text": "成员[0]/[1]"
 					},
 					{
 						"id": "TeamSelect_SizeQuestion",
-						"text": "You must select [0] characters for this adventure."
+						"text": "你必须选择[0]个人物以开始这次冒险."
 					},
 					{
 						"id": "TeamSelect_SizeQuestionOk",
-						"text": "Ok"
+						"text": "好"
 					},
 					{
 						"id": "TeamSelect_Recruit_NotEnoughMoney",
-						"text": "INSUFFICIENT FUNDS - $[0] REQUIRED"
+						"text": "资金不足 - 需要$[0]"
 					},
 					{
 						"id": "TeamSelect_Recruit_Buy",
-						"text": "UNLOCK - $[0]"
+						"text": "解锁 - $[0]"
 					},
 					{
 						"id": "TeamSelect_DeadInfo",
-						"text": "KILLED IN ACTION"
+						"text": "在战斗中阵亡"
 					},
 					{
 						"id": "TeamSelect_HospitalizedInfo",
-						"text": "UNIT IS HOSPITALIZED."
+						"text": "单位正在住院."
 					},
 					{
 						"id": "TeamSelect_HospitalizedTime",
-						"text": "RECOVERS AFTER THIS ADVENTURE"
+						"text": "这次冒险结束后康复"
 					},
 					{
 						"id": "TeamSelect_HospitalizedRecover",
-						"text": "HEAL - $[0]"
+						"text": "治愈 - $[0]"
 					},
 					{
 						"id": "TeamSelect_LockedInfo",
-						"text": "UNIT IS LOCKED."
+						"text": "单位处于锁定状态."
 					},
 					{
 						"id": "TeamEquip_Tab",
-						"text": "LOADOUT"
+						"text": "装车"
 					},
 					{
 						"id": "TeamEquip_Instruction",
-						"text": "Manage your team's equipment:"
+						"text": "整理小队的装备:"
 					},
 					{
 						"id": "TeamEquip_PaperHeader",
-						"text": "[entity:name]'s Equipment"
+						"text": "[entity:name]的装备"
 					},
 					{
 						"id": "TeamEquip_Depart",
-						"text": "DEPART"
+						"text": "出发!"
 					},
 					{
 						"id": "TeamEquip_Fuel",
-						"text": "FUEL"
+						"text": "燃料"
 					},
 					{
 						"id": "TeamEquip_Ammo",
-						"text": "AMMO"
+						"text": "弹药"
 					},
 					{
 						"id": "TeamEquip_AmountLabel",
@@ -12259,19 +12259,19 @@
 					},
 					{
 						"id": "ResourceUpgrade_AmmoTitle",
-						"text": "Ammo Storage Upgrade"
+						"text": "升级弹药携带量"
 					},
 					{
 						"id": "ResourceUpgrade_AmmoDescription",
-						"text": "Permanently upgrade your jeep's ammo capacity. More bullets for everyone!"
+						"text": "永久提升你的吉普车能携带的弹药总量. 更多的子弹! 每个人都有份!"
 					},
 					{
 						"id": "ResourceUpgrade_FuelTitle",
-						"text": "Fuel Storage Upgrade"
+						"text": "升级燃料携带量"
 					},
 					{
 						"id": "ResourceUpgrade_FuelDescription",
-						"text": "Permanently upgrade your jeep's fuel capacity. Never run out of fuel again!"
+						"text": "永久提升你的吉普车能携带的燃料总量. 再也不怕油烧完啦!"
 					},
 					{
 						"id": "Tooltip_Language_Title",
@@ -12279,31 +12279,31 @@
 					},
 					{
 						"id": "Tooltip_Language_Content",
-						"text": "[cs:#FF8080FF]* Changing this option is only available from the main menu.[ce]"
+						"text": "[cs:#FF8080FF]* 只能在主界面变更此选项.[ce]"
 					},
 					{
 						"id": "Tooltip_DoubleBuffer_Title",
-						"text": "Double Buffering"
+						"text": "双重缓冲"
 					},
 					{
 						"id": "Tooltip_DoubleBuffer_Content",
-						"text": "Double Buffering.\n\n[cs:#FF8080FF]* This option is not available right now on Windows 7.\n\n* Requires the game to be restarted to take effect.[ce]"
+						"text": "双重缓冲.\n\n[cs:#FF8080FF]* 此选项暂不支持Windows 7.\n\n* 重启游戏才会生效.[ce]"
 					},
 					{
 						"id": "Tooltip_VSync_Title",
-						"text": "Vertical Synchronization"
+						"text": "垂直同步"
 					},
 					{
 						"id": "Tooltip_VSync_Content",
-						"text": "Enables vertical synchronization."
+						"text": "开启垂直同步."
 					},
 					{
 						"id": "Tooltip_SmoothScroll_Title",
-						"text": "Smooth Scrolling"
+						"text": "平滑滚动"
 					},
 					{
 						"id": "Tooltip_SmoothScroll_Content",
-						"text": "Shader effect to smoothen camera scrolling.\n\nTurning off this option can slightly improve render performance."
+						"text": "调整着色器效果使得拉动镜头更加流畅.\n\n关闭此选项可以略微提高渲染性能."
 					},
 					{
 						"id": "NPC_angryOriental_name",
