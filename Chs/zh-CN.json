@@ -13984,7 +13984,7 @@
 					},
 					{
 						"id": "trashSoldier_0_name",
-						"text": "Limp dog biscuit"
+						"text": "软化的狗饼干"
 					},
 					{
 						"id": "trashSoldier_1_description",
@@ -13992,7 +13992,7 @@
 					},
 					{
 						"id": "trashSoldier_1_name",
-						"text": "Worn sock suspender"
+						"text": "穿过的袜子吊带"
 					},
 					{
 						"id": "trashSoldier_2_description",
@@ -14000,7 +14000,7 @@
 					},
 					{
 						"id": "trashSoldier_2_name",
-						"text": "Used shaving brush"
+						"text": "用过的修面刷"
 					},
 					{
 						"id": "trashSoldier_3_description",
@@ -14008,7 +14008,7 @@
 					},
 					{
 						"id": "trashSoldier_3_name",
-						"text": "Old toothbrush"
+						"text": "旧牙刷"
 					},
 					{
 						"id": "trashSoldier_4_description",
@@ -14016,15 +14016,15 @@
 					},
 					{
 						"id": "trashSoldier_4_name",
-						"text": "Tarnished copper button"
+						"text": "破旧的铜钮扣"
 					},
 					{
 						"id": "trashSoldier_5_description",
-						"text": "\"Revive your spirits with a pinch of Sapristi snuff!\""
+						"text": "\"用一小撮Sapristi鼻烟唤醒你的精神！\""
 					},
 					{
 						"id": "trashSoldier_5_name",
-						"text": "Empty snuff box"
+						"text": "空鼻烟盒"
 					},
 					{
 						"id": "trashSoldier_6_description",
@@ -14032,7 +14032,7 @@
 					},
 					{
 						"id": "trashSoldier_6_name",
-						"text": "Rusty can opener"
+						"text": "生锈的开罐器"
 					},
 					{
 						"id": "trashSoldier_7_description",
@@ -14040,7 +14040,7 @@
 					},
 					{
 						"id": "trashSoldier_7_name",
-						"text": "Dented hip flask"
+						"text": "凹扁酒瓶"
 					},
 					{
 						"id": "trashSoldier_8_description",
@@ -14048,15 +14048,15 @@
 					},
 					{
 						"id": "trashSoldier_8_name",
-						"text": "Spoiled field ration"
+						"text": "变质的战时口粮"
 					},
 					{
 						"id": "trashSoldier_9_description",
-						"text": "\"To my beloved Albert, yours eternally, Magda\""
+						"text": "\"献给我亲爱的阿尔伯特，永远属于你的，玛格达。\""
 					},
 					{
 						"id": "trashSoldier_9_name",
-						"text": "Raunchy photograph"
+						"text": "淫秽的照片"
 					},
 					{
 						"id": "valuableAncient_0_a_description",
@@ -14064,7 +14064,7 @@
 					},
 					{
 						"id": "valuableAncient_0_a_name",
-						"text": "Damaged cedar casket"
+						"text": "损坏的雪松木箱"
 					},
 					{
 						"id": "valuableAncient_0_b_description",
@@ -14072,7 +14072,7 @@
 					},
 					{
 						"id": "valuableAncient_0_b_name",
-						"text": "Ornate cedar casket"
+						"text": "华丽的雪松木箱"
 					},
 					{
 						"id": "valuableAncient_0_description",
@@ -14080,7 +14080,7 @@
 					},
 					{
 						"id": "valuableAncient_0_name",
-						"text": "Cedar casket"
+						"text": "雪松木箱"
 					},
 					{
 						"id": "valuableAncient_1_a_description",
@@ -14088,7 +14088,7 @@
 					},
 					{
 						"id": "valuableAncient_1_a_name",
-						"text": "Battered fayence bead necklace"
+						"text": "磨损的Fayence珠子项链"
 					},
 					{
 						"id": "valuableAncient_1_b_description",
@@ -14096,7 +14096,7 @@
 					},
 					{
 						"id": "valuableAncient_1_b_name",
-						"text": "Exquisite fayence bead necklace"
+						"text": "精致的Fayence珠子项链"
 					},
 					{
 						"id": "valuableAncient_1_description",
@@ -14104,7 +14104,7 @@
 					},
 					{
 						"id": "valuableAncient_1_name",
-						"text": "Fayence bead necklace"
+						"text": "Fayence珠子项链"
 					},
 					{
 						"id": "valuableAncient_2_a_description",
@@ -14112,7 +14112,7 @@
 					},
 					{
 						"id": "valuableAncient_2_a_name",
-						"text": "Tarnished bronze sacrificial bowl"
+						"text": "破旧的青铜祭祀碗"
 					},
 					{
 						"id": "valuableAncient_2_b_description",
@@ -14120,7 +14120,7 @@
 					},
 					{
 						"id": "valuableAncient_2_b_name",
-						"text": "Ornate bronze sacrificial bowl"
+						"text": "华丽的青铜祭祀碗"
 					},
 					{
 						"id": "valuableAncient_2_description",
@@ -14128,7 +14128,7 @@
 					},
 					{
 						"id": "valuableAncient_2_name",
-						"text": "Bronze sacrificial bowl"
+						"text": "青铜祭祀碗"
 					},
 					{
 						"id": "valuableAncient_3_a_description",
@@ -14136,7 +14136,7 @@
 					},
 					{
 						"id": "valuableAncient_3_a_name",
-						"text": "Battered ivory figurine"
+						"text": "磨损的象牙雕像"
 					},
 					{
 						"id": "valuableAncient_3_b_description",
@@ -14144,7 +14144,7 @@
 					},
 					{
 						"id": "valuableAncient_3_b_name",
-						"text": "Exquisite ivory figurine"
+						"text": "精致的象牙雕像"
 					},
 					{
 						"id": "valuableAncient_3_description",
@@ -14152,7 +14152,7 @@
 					},
 					{
 						"id": "valuableAncient_3_name",
-						"text": "Ivory figurine"
+						"text": "象牙雕像"
 					},
 					{
 						"id": "valuableAncient_4_a_description",
@@ -14160,7 +14160,7 @@
 					},
 					{
 						"id": "valuableAncient_4_a_name",
-						"text": "Tarnished onyx ring"
+						"text": "破旧的玛瑙戒指"
 					},
 					{
 						"id": "valuableAncient_4_b_description",
@@ -14168,7 +14168,7 @@
 					},
 					{
 						"id": "valuableAncient_4_b_name",
-						"text": "Exquisite onyx ring"
+						"text": "精致的玛瑙戒指"
 					},
 					{
 						"id": "valuableAncient_4_description",
@@ -14176,7 +14176,7 @@
 					},
 					{
 						"id": "valuableAncient_4_name",
-						"text": "Onyx ring"
+						"text": "玛瑙戒指"
 					},
 					{
 						"id": "valuableAncient_5_a_description",
@@ -14184,7 +14184,7 @@
 					},
 					{
 						"id": "valuableAncient_5_a_name",
-						"text": "Damaged Porphyry cartouche"
+						"text": "损坏的斑岩筒"
 					},
 					{
 						"id": "valuableAncient_5_b_description",
@@ -14192,7 +14192,7 @@
 					},
 					{
 						"id": "valuableAncient_5_b_name",
-						"text": "Ornate porphyry cartouche"
+						"text": "华丽的斑岩筒"
 					},
 					{
 						"id": "valuableAncient_5_description",
@@ -14200,7 +14200,7 @@
 					},
 					{
 						"id": "valuableAncient_5_name",
-						"text": "Porphyry cartouche"
+						"text": "斑岩筒"
 					},
 					{
 						"id": "valuableAncient_6_a_description",
@@ -14208,7 +14208,7 @@
 					},
 					{
 						"id": "valuableAncient_6_a_name",
-						"text": "Tarnished hematite signet ring"
+						"text": "破旧的赤铁矿印章戒指"
 					},
 					{
 						"id": "valuableAncient_6_b_description",
@@ -14216,7 +14216,7 @@
 					},
 					{
 						"id": "valuableAncient_6_b_name",
-						"text": "Exquisite hematite signet ring"
+						"text": "精致的赤铁矿印章戒指"
 					},
 					{
 						"id": "valuableAncient_6_description",
@@ -14224,7 +14224,7 @@
 					},
 					{
 						"id": "valuableAncient_6_name",
-						"text": "Hematite signet ring"
+						"text": "赤铁矿印章戒指"
 					},
 					{
 						"id": "valuableAncient_7_a_description",
@@ -14232,7 +14232,7 @@
 					},
 					{
 						"id": "valuableAncient_7_a_name",
-						"text": "Tarnished carnelian amulet"
+						"text": "破旧的玛瑙护身符"
 					},
 					{
 						"id": "valuableAncient_7_b_description",
@@ -14240,7 +14240,7 @@
 					},
 					{
 						"id": "valuableAncient_7_b_name",
-						"text": "Exquisite carnelian amulet"
+						"text": "精致的玛瑙护身符"
 					},
 					{
 						"id": "valuableAncient_7_description",
@@ -14248,7 +14248,7 @@
 					},
 					{
 						"id": "valuableAncient_7_name",
-						"text": "Carnelian amulet"
+						"text": "玛瑙护身符"
 					},
 					{
 						"id": "valuableAncient_8_a_description",
@@ -14256,7 +14256,7 @@
 					},
 					{
 						"id": "valuableAncient_8_a_name",
-						"text": "Tarnished silver mask"
+						"text": "破旧的银面具"
 					},
 					{
 						"id": "valuableAncient_8_b_description",
@@ -14264,7 +14264,7 @@
 					},
 					{
 						"id": "valuableAncient_8_b_name",
-						"text": "Ornate silver mask"
+						"text": "华丽的银面具"
 					},
 					{
 						"id": "valuableAncient_8_description",
@@ -14272,7 +14272,7 @@
 					},
 					{
 						"id": "valuableAncient_8_name",
-						"text": "Silver mask"
+						"text": "银面具"
 					},
 					{
 						"id": "valuableAncient_9_a_description",
@@ -14280,7 +14280,7 @@
 					},
 					{
 						"id": "valuableAncient_9_a_name",
-						"text": "Battered blue ceremonial crown"
+						"text": "磨损的蓝色仪式皇冠"
 					},
 					{
 						"id": "valuableAncient_9_b_description",
@@ -14288,7 +14288,7 @@
 					},
 					{
 						"id": "valuableAncient_9_b_name",
-						"text": "Ornate blue ceremonial crown"
+						"text": "华丽的蓝色仪式皇冠"
 					},
 					{
 						"id": "valuableAncient_9_description",
@@ -14296,7 +14296,7 @@
 					},
 					{
 						"id": "valuableAncient_9_name",
-						"text": "Blue ceremonial crown"
+						"text": "蓝色仪式皇冠"
 					},
 					{
 						"id": "valuableSoldier_0_a_description",
@@ -14304,7 +14304,7 @@
 					},
 					{
 						"id": "valuableSoldier_0_a_name",
-						"text": "Worn officer's leather gloves"
+						"text": "穿过的军官皮手套"
 					},
 					{
 						"id": "valuableSoldier_0_b_description",
@@ -14312,7 +14312,7 @@
 					},
 					{
 						"id": "valuableSoldier_0_b_name",
-						"text": "Exquisite officer's leather gloves"
+						"text": "精致的军官皮手套"
 					},
 					{
 						"id": "valuableSoldier_0_description",
@@ -14320,7 +14320,7 @@
 					},
 					{
 						"id": "valuableSoldier_0_name",
-						"text": "Officer's leather gloves"
+						"text": "军官皮手套"
 					},
 					{
 						"id": "valuableSoldier_1_a_description",
@@ -14328,7 +14328,7 @@
 					},
 					{
 						"id": "valuableSoldier_1_a_name",
-						"text": "Worn Silken handkerchief"
+						"text": "用旧的丝绸手帕"
 					},
 					{
 						"id": "valuableSoldier_1_b_description",
@@ -14336,7 +14336,7 @@
 					},
 					{
 						"id": "valuableSoldier_1_b_name",
-						"text": "Exquisite silken handkerchief"
+						"text": "精致的丝绸手帕"
 					},
 					{
 						"id": "valuableSoldier_1_description",
@@ -14344,7 +14344,7 @@
 					},
 					{
 						"id": "valuableSoldier_1_name",
-						"text": "Silken handkerchief"
+						"text": "丝绸手帕"
 					},
 					{
 						"id": "valuableSoldier_2_a_description",
@@ -14352,7 +14352,7 @@
 					},
 					{
 						"id": "valuableSoldier_2_a_name",
-						"text": "Worn leather wallet"
+						"text": "用旧的皮钱包"
 					},
 					{
 						"id": "valuableSoldier_2_b_description",
@@ -14360,7 +14360,7 @@
 					},
 					{
 						"id": "valuableSoldier_2_b_name",
-						"text": "Massive leather wallet"
+						"text": "鼓鼓的皮钱包"
 					},
 					{
 						"id": "valuableSoldier_2_description",
@@ -14368,7 +14368,7 @@
 					},
 					{
 						"id": "valuableSoldier_2_name",
-						"text": "Leather wallet"
+						"text": "皮钱包"
 					},
 					{
 						"id": "valuableSoldier_3_a_description",
@@ -14376,7 +14376,7 @@
 					},
 					{
 						"id": "valuableSoldier_3_a_name",
-						"text": "Worn monocle"
+						"text": "破旧的单片眼镜"
 					},
 					{
 						"id": "valuableSoldier_3_b_description",
@@ -14384,7 +14384,7 @@
 					},
 					{
 						"id": "valuableSoldier_3_b_name",
-						"text": "Brand-new monocle"
+						"text": "全新的单片眼镜"
 					},
 					{
 						"id": "valuableSoldier_3_description",
@@ -14392,7 +14392,7 @@
 					},
 					{
 						"id": "valuableSoldier_3_name",
-						"text": "Monocle"
+						"text": "单片眼镜"
 					},
 					{
 						"id": "valuableSoldier_4_a_description",
@@ -14400,7 +14400,7 @@
 					},
 					{
 						"id": "valuableSoldier_4_a_name",
-						"text": "Battered tortoiseshell cigarette holder"
+						"text": "磨损的龟壳烟嘴"
 					},
 					{
 						"id": "valuableSoldier_4_b_description",
@@ -14408,7 +14408,7 @@
 					},
 					{
 						"id": "valuableSoldier_4_b_name",
-						"text": "Exquisite tortoiseshell cigarette holder"
+						"text": "精致的龟壳烟嘴"
 					},
 					{
 						"id": "valuableSoldier_4_description",
@@ -14416,7 +14416,7 @@
 					},
 					{
 						"id": "valuableSoldier_4_name",
-						"text": "Tortoiseshell cigarette holder"
+						"text": "龟壳烟嘴"
 					},
 					{
 						"id": "valuableSoldier_5_a_description",
@@ -14424,7 +14424,7 @@
 					},
 					{
 						"id": "valuableSoldier_5_a_name",
-						"text": "Tarnished silver fountain pen"
+						"text": "破旧的银钢笔"
 					},
 					{
 						"id": "valuableSoldier_5_b_description",
@@ -14432,7 +14432,7 @@
 					},
 					{
 						"id": "valuableSoldier_5_b_name",
-						"text": "Exquisite silver fountain pen"
+						"text": "精致的银钢笔"
 					},
 					{
 						"id": "valuableSoldier_5_description",
@@ -14440,7 +14440,7 @@
 					},
 					{
 						"id": "valuableSoldier_5_name",
-						"text": "Silver fountain pen"
+						"text": "银钢笔"
 					},
 					{
 						"id": "valuableSoldier_6_a_description",
@@ -14448,7 +14448,7 @@
 					},
 					{
 						"id": "valuableSoldier_6_a_name",
-						"text": "Tarnished Iron Cross"
+						"text": "破旧的铁十字勋章"
 					},
 					{
 						"id": "valuableSoldier_6_b_description",
@@ -14456,7 +14456,7 @@
 					},
 					{
 						"id": "valuableSoldier_6_b_name",
-						"text": "Shiny Iron Cross"
+						"text": "闪亮的铁十字勋章"
 					},
 					{
 						"id": "valuableSoldier_6_description",
@@ -14464,7 +14464,7 @@
 					},
 					{
 						"id": "valuableSoldier_6_name",
-						"text": "Iron Cross"
+						"text": "铁十字勋章"
 					},
 					{
 						"id": "valuableSoldier_7_a_description",
@@ -14472,7 +14472,7 @@
 					},
 					{
 						"id": "valuableSoldier_7_a_name",
-						"text": "Battered alligator skin cigarette case"
+						"text": "磨损的鳄鱼皮烟盒"
 					},
 					{
 						"id": "valuableSoldier_7_b_description",
@@ -14480,7 +14480,7 @@
 					},
 					{
 						"id": "valuableSoldier_7_b_name",
-						"text": "Exquisite alligator skin cigarette case"
+						"text": "精致的鳄鱼皮烟盒"
 					},
 					{
 						"id": "valuableSoldier_7_description",
@@ -14488,7 +14488,7 @@
 					},
 					{
 						"id": "valuableSoldier_7_name",
-						"text": "Alligator skin cigarette case"
+						"text": "鳄鱼皮烟盒"
 					},
 					{
 						"id": "valuableSoldier_8_a_description",
@@ -14496,7 +14496,7 @@
 					},
 					{
 						"id": "valuableSoldier_8_a_name",
-						"text": "Damaged rangefinder camera"
+						"text": "破损的测距相机"
 					},
 					{
 						"id": "valuableSoldier_8_b_description",
@@ -14504,7 +14504,7 @@
 					},
 					{
 						"id": "valuableSoldier_8_b_name",
-						"text": "Brand-new rangefinder camera"
+						"text": "全新的测距相机"
 					},
 					{
 						"id": "valuableSoldier_8_description",
@@ -14512,7 +14512,7 @@
 					},
 					{
 						"id": "valuableSoldier_8_name",
-						"text": "Rangefinder camera"
+						"text": "测距相机"
 					},
 					{
 						"id": "valuableSoldier_9_a_description",
@@ -14520,7 +14520,7 @@
 					},
 					{
 						"id": "valuableSoldier_9_a_name",
-						"text": "Tarnished golden pocket watch"
+						"text": "破旧的金怀表"
 					},
 					{
 						"id": "valuableSoldier_9_b_description",
@@ -14528,7 +14528,7 @@
 					},
 					{
 						"id": "valuableSoldier_9_b_name",
-						"text": "Brand-new golden pocket watch"
+						"text": "全新的金怀表"
 					},
 					{
 						"id": "valuableSoldier_9_description",
@@ -14536,7 +14536,7 @@
 					},
 					{
 						"id": "valuableSoldier_9_name",
-						"text": "Golden pocket watch"
+						"text": "金怀表"
 					},
 					{
 						"id": "lightArmor_0_description",
@@ -14544,7 +14544,7 @@
 					},
 					{
 						"id": "lightArmor_0_name",
-						"text": "Safari Suit"
+						"text": "猎人套装"
 					},
 					{
 						"id": "lightArmor_0_a_description",
@@ -14552,7 +14552,7 @@
 					},
 					{
 						"id": "lightArmor_0_a_name",
-						"text": "Worn Safari Suit"
+						"text": "穿旧的猎人套装"
 					},
 					{
 						"id": "lightArmor_0_b_description",
@@ -14560,7 +14560,7 @@
 					},
 					{
 						"id": "lightArmor_0_b_name",
-						"text": "Splendid Safari Suit"
+						"text": "优秀的猎人套装"
 					},
 					{
 						"id": "lightArmor_1_description",
@@ -14568,7 +14568,7 @@
 					},
 					{
 						"id": "lightArmor_1_name",
-						"text": "Assistant's Coat"
+						"text": "助手外套"
 					},
 					{
 						"id": "lightArmor_1_a_description",
@@ -14576,7 +14576,7 @@
 					},
 					{
 						"id": "lightArmor_1_a_name",
-						"text": "Worn Assistant's Coat"
+						"text": "穿旧的助手外套"
 					},
 					{
 						"id": "lightArmor_1_b_description",
@@ -14584,7 +14584,7 @@
 					},
 					{
 						"id": "lightArmor_1_b_name",
-						"text": "Splendid Assistant's Coat"
+						"text": "崭新的助手外套"
 					},
 					{
 						"id": "lightArmor_2_description",
@@ -14592,7 +14592,7 @@
 					},
 					{
 						"id": "lightArmor_2_name",
-						"text": "Field Dress"
+						"text": "野外制服"
 					},
 					{
 						"id": "lightArmor_2_a_description",
@@ -14600,7 +14600,7 @@
 					},
 					{
 						"id": "lightArmor_2_a_name",
-						"text": "Worn Field Dress"
+						"text": "穿旧的野外制服"
 					},
 					{
 						"id": "lightArmor_2_b_description",
@@ -14608,7 +14608,7 @@
 					},
 					{
 						"id": "lightArmor_2_b_name",
-						"text": "Splendid Field Dress"
+						"text": "崭新的野外制服"
 					},
 					{
 						"id": "lightArmor_3_description",
@@ -14616,7 +14616,7 @@
 					},
 					{
 						"id": "lightArmor_3_name",
-						"text": "Tweed Suit"
+						"text": "花呢套装"
 					},
 					{
 						"id": "lightArmor_3_a_description",
@@ -14624,7 +14624,7 @@
 					},
 					{
 						"id": "lightArmor_3_a_name",
-						"text": "Worn Tweed Suit"
+						"text": "穿旧的花呢套装"
 					},
 					{
 						"id": "lightArmor_3_b_description",
@@ -14632,7 +14632,7 @@
 					},
 					{
 						"id": "lightArmor_3_b_name",
-						"text": "Splendid Tweed Suit"
+						"text": "崭新的花呢套装"
 					},
 					{
 						"id": "lightArmor_4_description",
@@ -14640,7 +14640,7 @@
 					},
 					{
 						"id": "lightArmor_4_name",
-						"text": "Anorak"
+						"text": "风衣"
 					},
 					{
 						"id": "lightArmor_4_a_description",
@@ -14648,7 +14648,7 @@
 					},
 					{
 						"id": "lightArmor_4_a_name",
-						"text": "Worn Anorak"
+						"text": "穿旧的风衣"
 					},
 					{
 						"id": "lightArmor_4_b_description",
@@ -14656,7 +14656,7 @@
 					},
 					{
 						"id": "lightArmor_4_b_name",
-						"text": "Splendid Anorak"
+						"text": "崭新的风衣"
 					},
 					{
 						"id": "lightArmor_5_description",
@@ -14664,7 +14664,7 @@
 					},
 					{
 						"id": "lightArmor_5_name",
-						"text": "Jungle Garb"
+						"text": "丛林装束"
 					},
 					{
 						"id": "lightArmor_5_a_description",
@@ -14672,7 +14672,7 @@
 					},
 					{
 						"id": "lightArmor_5_a_name",
-						"text": "Worn Jungle Garb"
+						"text": "穿旧的丛林装束"
 					},
 					{
 						"id": "lightArmor_5_b_description",
@@ -14680,7 +14680,7 @@
 					},
 					{
 						"id": "lightArmor_5_b_name",
-						"text": "Splendid Jungle Garb"
+						"text": "崭新的丛林装束"
 					},
 					{
 						"id": "mediumArmor_0_description",
@@ -14688,7 +14688,7 @@
 					},
 					{
 						"id": "mediumArmor_0_name",
-						"text": "Pea Coat"
+						"text": "海军外套"
 					},
 					{
 						"id": "mediumArmor_0_a_description",
@@ -14696,7 +14696,7 @@
 					},
 					{
 						"id": "mediumArmor_0_a_name",
-						"text": "Worn Pea Coat"
+						"text": "穿旧的海军外套"
 					},
 					{
 						"id": "mediumArmor_0_b_description",
@@ -14704,7 +14704,7 @@
 					},
 					{
 						"id": "mediumArmor_0_b_name",
-						"text": "Splendid Pea Coat"
+						"text": "崭新的海军外套"
 					},
 					{
 						"id": "mediumArmor_1_description",
@@ -14712,7 +14712,7 @@
 					},
 					{
 						"id": "mediumArmor_1_name",
-						"text": "Leather Jacket"
+						"text": "皮夹克"
 					},
 					{
 						"id": "mediumArmor_1_a_description",
@@ -14720,7 +14720,7 @@
 					},
 					{
 						"id": "mediumArmor_1_a_name",
-						"text": "Worn Leather Jacket"
+						"text": "穿旧的皮夹克"
 					},
 					{
 						"id": "mediumArmor_1_b_description",
@@ -14728,7 +14728,7 @@
 					},
 					{
 						"id": "mediumArmor_1_b_name",
-						"text": "Splendid Leather Jacket"
+						"text": "崭新的皮夹克"
 					},
 					{
 						"id": "mediumArmor_2_description",
@@ -14736,7 +14736,7 @@
 					},
 					{
 						"id": "mediumArmor_2_name",
-						"text": "Sheepskin Vest"
+						"text": "羊皮背心"
 					},
 					{
 						"id": "mediumArmor_2_a_description",
@@ -14744,7 +14744,7 @@
 					},
 					{
 						"id": "mediumArmor_2_a_name",
-						"text": "Worn Sheepskin Vest"
+						"text": "穿旧的羊皮背心"
 					},
 					{
 						"id": "mediumArmor_2_b_description",
@@ -14752,7 +14752,7 @@
 					},
 					{
 						"id": "mediumArmor_2_b_name",
-						"text": "Splendid Sheepskin Vest"
+						"text": "崭新的羊皮背心"
 					},
 					{
 						"id": "mediumArmor_3_description",
@@ -14760,7 +14760,7 @@
 					},
 					{
 						"id": "mediumArmor_3_name",
-						"text": "Denim Overall"
+						"text": "棉布工装裤"
 					},
 					{
 						"id": "mediumArmor_3_a_description",
@@ -14768,7 +14768,7 @@
 					},
 					{
 						"id": "mediumArmor_3_a_name",
-						"text": "Worn Denim Overall"
+						"text": "穿旧的棉布工装裤"
 					},
 					{
 						"id": "mediumArmor_3_b_description",
@@ -14776,7 +14776,7 @@
 					},
 					{
 						"id": "mediumArmor_3_b_name",
-						"text": "Splendid Denim Overall"
+						"text": "崭新的棉布工装裤"
 					},
 					{
 						"id": "mediumArmor_4_description",
@@ -14784,7 +14784,7 @@
 					},
 					{
 						"id": "mediumArmor_4_name",
-						"text": "Bomber Jacket"
+						"text": "飞行夹克"
 					},
 					{
 						"id": "mediumArmor_4_a_description",
@@ -14792,7 +14792,7 @@
 					},
 					{
 						"id": "mediumArmor_4_a_name",
-						"text": "Worn Bomber Jacket"
+						"text": "穿旧的飞行夹克"
 					},
 					{
 						"id": "mediumArmor_4_b_description",
@@ -14800,7 +14800,7 @@
 					},
 					{
 						"id": "mediumArmor_4_b_name",
-						"text": "Splendid Bomber Jacket"
+						"text": "崭新的飞行夹克"
 					},
 					{
 						"id": "mediumArmor_5_description",
@@ -14808,7 +14808,7 @@
 					},
 					{
 						"id": "mediumArmor_5_name",
-						"text": "Desert Kaftan"
+						"text": "沙漠长袍"
 					},
 					{
 						"id": "mediumArmor_5_a_description",
@@ -14816,7 +14816,7 @@
 					},
 					{
 						"id": "mediumArmor_5_a_name",
-						"text": "Worn Desert Kaftan"
+						"text": "穿旧的沙漠长袍"
 					},
 					{
 						"id": "mediumArmor_5_b_description",
@@ -14824,7 +14824,7 @@
 					},
 					{
 						"id": "mediumArmor_5_b_name",
-						"text": "Splendid Desert Kaftan"
+						"text": "优秀的沙漠长袍"
 					},
 					{
 						"id": "heavyArmor_0_description",
@@ -14832,7 +14832,7 @@
 					},
 					{
 						"id": "heavyArmor_0_name",
-						"text": "Combat Vest"
+						"text": "战斗背心"
 					},
 					{
 						"id": "heavyArmor_0_a_description",
@@ -14840,7 +14840,7 @@
 					},
 					{
 						"id": "heavyArmor_0_a_name",
-						"text": "Worn Combat Vest"
+						"text": "穿旧的战斗背心"
 					},
 					{
 						"id": "heavyArmor_0_b_description",
@@ -14848,7 +14848,7 @@
 					},
 					{
 						"id": "heavyArmor_0_b_name",
-						"text": "Splendid Combat Vest"
+						"text": "优秀的战斗背心"
 					},
 					{
 						"id": "heavyArmor_1_description",
@@ -14856,7 +14856,7 @@
 					},
 					{
 						"id": "heavyArmor_1_name",
-						"text": "Bulletproof Vest"
+						"text": "防弹背心"
 					},
 					{
 						"id": "heavyArmor_1_a_description",
@@ -14864,7 +14864,7 @@
 					},
 					{
 						"id": "heavyArmor_1_a_name",
-						"text": "Worn Bulletproof Vest"
+						"text": "穿旧的防弹背心"
 					},
 					{
 						"id": "heavyArmor_1_b_description",
@@ -14872,7 +14872,7 @@
 					},
 					{
 						"id": "heavyArmor_1_b_name",
-						"text": "Splendid Bulletproof Vest"
+						"text": "优秀的防弹背心"
 					},
 					{
 						"id": "heavyArmor_2_description",
@@ -14880,7 +14880,7 @@
 					},
 					{
 						"id": "heavyArmor_2_name",
-						"text": "Battle Dress"
+						"text": "作战服装"
 					},
 					{
 						"id": "heavyArmor_2_a_description",
@@ -14888,7 +14888,7 @@
 					},
 					{
 						"id": "heavyArmor_2_a_name",
-						"text": "Worn Battle Dress"
+						"text": "穿旧的作战服装"
 					},
 					{
 						"id": "heavyArmor_2_b_description",
@@ -14896,7 +14896,7 @@
 					},
 					{
 						"id": "heavyArmor_2_b_name",
-						"text": "Splendid Battle Dress"
+						"text": "优秀的作战服装"
 					},
 					{
 						"id": "heavyArmor_3_description",
@@ -14904,7 +14904,7 @@
 					},
 					{
 						"id": "heavyArmor_3_name",
-						"text": "Tactical Armor"
+						"text": "战术装甲"
 					},
 					{
 						"id": "heavyArmor_3_a_description",
@@ -14912,7 +14912,7 @@
 					},
 					{
 						"id": "heavyArmor_3_a_name",
-						"text": "Worn Tactical Armor"
+						"text": "穿旧的战术装甲"
 					},
 					{
 						"id": "heavyArmor_3_b_description",
@@ -14920,359 +14920,359 @@
 					},
 					{
 						"id": "heavyArmor_3_b_name",
-						"text": "Splendid Tactical Armor"
+						"text": "优秀的战术装甲"
 					},
 					{
 						"id": "heavyArmor_4_description",
-						"text": "You can't believe such advanced technology actually exists..."
+						"text": "你不相信这样的先进技术真的存在..."
 					},
 					{
 						"id": "heavyArmor_4_name",
-						"text": "Hydraulic Armor"
+						"text": "液压装甲"
 					},
 					{
 						"id": "heavyArmor_4_a_description",
-						"text": "Slightly battered, but still very impressive!"
+						"text": "虽然有点破旧，但仍然令人印象深刻！"
 					},
 					{
 						"id": "heavyArmor_4_a_name",
-						"text": "Worn Hydraulic Armor"
+						"text": "穿旧的液压装甲"
 					},
 					{
 						"id": "heavyArmor_4_b_description",
-						"text": "The dull, blackened steel fittings seem to be a special design."
+						"text": "暗黑色的钢制配件似乎是一种特殊的设计。"
 					},
 					{
 						"id": "heavyArmor_4_b_name",
-						"text": "Splendid Hydraulic Armor"
+						"text": "优秀的液压装甲"
 					},
 					{
 						"id": "heavyArmor_5_description",
-						"text": "Massive and awe-inspiring - a true titan of the battlefield!"
+						"text": "巨大而令人敬畏——一个真正的战场巨人！"
 					},
 					{
 						"id": "heavyArmor_5_name",
-						"text": "Teslaborg Armor"
+						"text": "特斯拉博格装甲"
 					},
 					{
 						"id": "heavyArmor_5_a_description",
-						"text": "Oil has leaked out at the shoulder joints."
+						"text": "肩关节处漏油了。"
 					},
 					{
 						"id": "heavyArmor_5_a_name",
-						"text": "Worn Teslaborg Armor"
+						"text": "穿旧的特斯拉博格装甲"
 					},
 					{
 						"id": "heavyArmor_5_b_description",
-						"text": "Something is engraved into the steel breastplate: 'DAUNTLESS'."
+						"text": "钢制胸甲上刻着“无畏号”。"
 					},
 					{
 						"id": "heavyArmor_5_b_name",
-						"text": "Splendid Teslaborg Armor"
+						"text": "优秀的特斯拉博格装甲"
 					},
 					{
 						"id": "money_description",
-						"text": "A neat bundle of paper sheets. Used as currency around the world."
+						"text": "一捆整齐的纸，用作世界各地的货币。"
 					},
 					{
 						"id": "money_name",
-						"text": "Cash"
+						"text": "现金"
 					},
 					{
 						"id": "money_antique_description",
-						"text": "A pile of valuable looking coins."
+						"text": "一堆看起来很值钱的硬币。"
 					},
 					{
 						"id": "money_antique_name",
-						"text": "Ancient Coins"
+						"text": "古钱币"
 					},
 					{
 						"id": "carFuel_antique_description",
-						"text": "Can be used as car fuel. Apparently."
+						"text": "显然，可作为汽车燃料。"
 					},
 					{
 						"id": "carFuel_antique_name",
-						"text": "Petroleum"
+						"text": "石油"
 					},
 					{
 						"id": "carFuel_description",
-						"text": "Use it to fill up your jeep's tank!"
+						"text": "用它来加满你的吉普车油箱！"
 					},
 					{
 						"id": "carFuel_name",
-						"text": "Car Fuel"
+						"text": "车用燃料"
 					},
 					{
 						"id": "valkyriumCrystal_description",
-						"text": "A strange green crystal of unknown origin. Known to the ancient egyptians as Ka, the mystical life-giver. Reportedly used by German scientists to unleash the powers of ancient artifacts."
+						"text": "一种奇怪的未知来源的绿色水晶，古埃及人称之为Ka — 神秘的生命给予者。据报道，德国科学家用它来释放古代文物的力量。"
 					},
 					{
 						"id": "valkyriumCrystal_name",
-						"text": "Valkyrium crystal"
+						"text": "Valkyrium水晶"
 					},
 					{
 						"id": "ammo_large_description",
-						"text": "This ammo is going to last a while."
+						"text": "这箱弹药能用一段时间。"
 					},
 					{
 						"id": "ammo_large_name",
-						"text": "Large ammo box"
+						"text": "大型弹药箱"
 					},
 					{
 						"id": "ammo_medium_description",
-						"text": "A sizable ammount of bullets."
+						"text": "相当数量的子弹"
 					},
 					{
 						"id": "ammo_medium_name",
-						"text": "Medium ammo box"
+						"text": "中型弹药箱"
 					},
 					{
 						"id": "ammo_small_description",
-						"text": "Enough to reload your average magazine."
+						"text": "至少有一两个弹夹的弹药。"
 					},
 					{
 						"id": "ammo_small_name",
-						"text": "Small ammo box"
+						"text": "小型弹药箱"
 					},
 					{
 						"id": "ammo_antique_small_description",
-						"text": "I'm sure it'll work just as reliably as ammo."
+						"text": "我相信它和弹药一样可靠。"
 					},
 					{
 						"id": "ammo_antique_small_name",
-						"text": "Gunpowder"
+						"text": "火药"
 					},
 					{
 						"id": "medkit_0_description",
-						"text": "Emergency measures for when every second counts."
+						"text": "急救的第一时刻使用。"
 					},
 					{
 						"id": "medkit_0_name",
-						"text": "Compression bandage"
+						"text": "压迫绷带"
 					},
 					{
 						"id": "medkit_1_description",
-						"text": "Also helps with tension headaches."
+						"text": "也有助于缓解紧张性头痛。"
 					},
 					{
 						"id": "medkit_1_name",
-						"text": "Painkiller"
+						"text": "止痛药"
 					},
 					{
 						"id": "medkit_2_description",
-						"text": "Don't give gangrene a chance!"
+						"text": "别给坏疽机会！"
 					},
 					{
 						"id": "medkit_2_name",
-						"text": "Penicillin syringe"
+						"text": "青霉素注射器"
 					},
 					{
 						"id": "medkit_3_description",
-						"text": "A true lifesaver."
+						"text": "真正的救星。"
 					},
 					{
 						"id": "medkit_3_name",
-						"text": "First Aid Kit"
+						"text": "急救包"
 					},
 					{
 						"id": "medkit_4_description",
-						"text": "Traditionally, Serqet was the patron goddess of healers."
+						"text": "根据传统，Serket是治疗师的守护神。"
 					},
 					{
 						"id": "medkit_4_name",
-						"text": "Lesser Potion of Serqet"
+						"text": "Serket的小药水"
 					},
 					{
 						"id": "medkit_5_description",
-						"text": "\"Holy Hathor, Mother Goddess! You alone grant Solace to the Wretched.\""
+						"text": "\"神圣的哈索尔女神！只有你才能安慰那些不幸的人。\""
 					},
 					{
 						"id": "medkit_5_name",
-						"text": "Arcane Potion of Hathor"
+						"text": "哈索尔的神秘药剂"
 					},
 					{
 						"id": "medkit_6_description",
-						"text": "The cult of Khuttoora was known in antiquity for the miracles wrought by its wandering priestesses."
+						"text": "古时候，北方Khuttoora的祭祀因其游走的女祭司创造的奇迹而闻名。"
 					},
 					{
 						"id": "medkit_6_name",
-						"text": "Holy Potion of Khuttoora"
+						"text": "Khuttoora的圣药"
 					},
 					{
 						"id": "repairkit_0_description",
-						"text": "You have to improvise to succeed in life."
+						"text": "你必须即兴发挥才能在生活中成功。"
 					},
 					{
 						"id": "repairkit_0_name",
-						"text": "Needle and thread"
+						"text": "针线"
 					},
 					{
 						"id": "repairkit_1_description",
-						"text": "When needle and thread just aren't enough!"
+						"text": "当针线不够的时候！"
 					},
 					{
 						"id": "repairkit_1_name",
-						"text": "Awl and leather patch"
+						"text": "锥子和皮革补丁"
 					},
 					{
 						"id": "repairkit_2_description",
-						"text": "Smoothes out even the most serious damage."
+						"text": "即使是最严重的伤害也能消除。"
 					},
 					{
 						"id": "repairkit_2_name",
-						"text": "Hammer and pliers"
+						"text": "锤子和钳子"
 					},
 					{
 						"id": "repairkit_3_description",
-						"text": "The High Hawk Priest Nerkut-Nir was tasked with the eternal preservation of the cult’s sacred artifacts."
+						"text": "高鹰牧师尼尔库特涅尔的任务是永远保存邪教的神圣文物。"
 					},
 					{
 						"id": "repairkit_3_name",
-						"text": "Lesser Balm of Nerkut-Nir"
+						"text": "尼尔库特涅尔小香膏"
 					},
 					{
 						"id": "repairkit_4_description",
-						"text": "Nefri-Ka-Hor was the founder of an alchemical tradition dedicated to the preservation of matter."
+						"text": "奈弗里·卡·霍尔是致力于物质保存的炼金术传统的创始人。"
 					},
 					{
 						"id": "repairkit_4_name",
-						"text": "Arcane Balm of Nefri-Ka-Hor"
+						"text": "奈弗里·卡·霍尔秘膏"
 					},
 					{
 						"id": "repairkit_5_description",
-						"text": "The local nomads tell incredible tales about the miraculous effects of this resinous-smelling balm."
+						"text": "当地的游牧民族讲述了这种树脂味香膏的功效真实奇迹。"
 					},
 					{
 						"id": "repairkit_5_name",
-						"text": "Holy Balm of Qum‘rash"
+						"text": "Qum‘rash圣膏"
 					},
 					{
 						"id": "artefact01_description",
-						"text": "An ancient tome full of cabbalistic charts and symbols."
+						"text": "一部充满卡巴利斯特图表和符号的古书。"
 					},
 					{
 						"id": "artefact01_name",
-						"text": "The Secret Revelation to Moses"
+						"text": "摩西的秘密启示"
 					},
 					{
 						"id": "artefact02_description",
-						"text": "An old round shield with a surface of polished copper."
+						"text": "一种表面是抛光铜的旧圆形盾牌。"
 					},
 					{
 						"id": "artefact02_name",
-						"text": "The Shield of Perseus"
+						"text": "珀尔修斯之盾"
 					},
 					{
 						"id": "artefact03_description",
-						"text": "This crude stone figure with its strangely elongated facial features doesn‘t seem to belong to any known human culture."
+						"text": "这个粗糙的石像有着奇怪的细长面部特征，似乎不属于任何已知的人类文化。"
 					},
 					{
 						"id": "artefact03_name",
-						"text": "An Archaic Figurine"
+						"text": "古老的雕像"
 					},
 					{
 						"id": "artefact04_description",
-						"text": "Seven papyrus scrolls, almost decayed and painted all over with faded hieroglyphs."
+						"text": "七幅纸莎草卷轴，几乎全都腐烂了，上面全是褪色的象形文字。"
 					},
 					{
 						"id": "artefact04_name",
-						"text": "The Book of the Dead"
+						"text": "死亡之书"
 					},
 					{
 						"id": "artefact05_description",
-						"text": "An enigmatic device, roughly one foot long and made out of a strangely gleaming steel alloy."
+						"text": "一种神秘的武器，大约一英尺长，由一种奇怪的抛光钢合金制成。"
 					},
 					{
 						"id": "artefact05_name",
-						"text": "The Sword of the Cherubim"
+						"text": "智天使之剑"
 					},
 					{
 						"id": "artefact06_description",
-						"text": "A warmely pulsating gem stone, jet-black and polished."
+						"text": "一块温暖的脉动宝石，墨黑色，经过了磨光处理。"
 					},
 					{
 						"id": "artefact06_name",
-						"text": "The Stone of Zerzura"
+						"text": "Zerzura宝石"
 					},
 					{
 						"id": "artefact07_description",
-						"text": "The legendary votive crown of the hapless kings of Kush."
+						"text": "不幸国王Kush的传奇奉献之冠。"
 					},
 					{
 						"id": "artefact07_name",
-						"text": "Ancient Hallowed Crown"
+						"text": "古代圣冠"
 					},
 					{
 						"id": "artefact08_description",
-						"text": "One of the eleven fabulous emerald scarabs from the sunken desert city of Kharga Serabit."
+						"text": "沉没的沙漠城市哈尔加塞拉比特的十一个神奇的祖母绿圣甲虫之一。"
 					},
 					{
 						"id": "artefact08_name",
-						"text": "Emerald Scarab"
+						"text": "翡翠圣甲虫"
 					},
 					{
 						"id": "artefact09_description",
-						"text": "According to its inscription, this is the death mask of Alexander the Great, one of the greatest conquerors of human history."
+						"text": "根据铭文，这是亚历山大大帝的死亡面具，他是人类历史上最伟大的征服者之一。"
 					},
 					{
 						"id": "artefact09_name",
-						"text": "Silver Death Mask"
+						"text": "银死亡面具"
 					},
 					{
 						"id": "artefact10_description",
-						"text": "The Greek explorer Herodotus recorded his travels in the Middle East in this forgotten travelogue."
+						"text": "希腊探险家希罗多德在这本被遗忘的游记中记录了他在中东的旅行。"
 					},
 					{
 						"id": "artefact10_name",
-						"text": "Ancient Parchment"
+						"text": "古代羊皮纸"
 					},
 					{
 						"id": "artefact11_description",
-						"text": "The Book of Treasures is an ancient collection of myths. It contains insightful passages about the lost treasures of the Arabian Peninsula."
+						"text": "《宝书》是古代神话的集锦，它记载了关于阿拉伯半岛丢失宝藏的有价值的部分。"
 					},
 					{
 						"id": "artefact11_name",
-						"text": "The Kitab al-Kanuz"
+						"text": "珍宝之书"
 					},
 					{
 						"id": "artefact12_description",
-						"text": "According to legend, this is the sword that Genghis Khan used to execute the rulers of the peoples he conquered."
+						"text": "据传说，这是成吉思汗用来处决被他征服人民的统治者的刀。"
 					},
 					{
 						"id": "artefact12_name",
-						"text": "Huge Scimitar"
+						"text": "巨型弯刀"
 					},
 					{
 						"id": "artefact13_description",
-						"text": "The walking stick of the enlightened Rabbi Isaac Luria. The carved ivory lion's head can be unscrewed. A small cavity contains a carefully folded piece of paper with a cabbalistic number puzzle."
+						"text": "开明的拉比艾萨克卢里亚的手杖。象牙雕狮子的头可以拧开。一个小洞里有一张精心折叠的纸，上面有一个卡巴利斯特数字拼图。"
 					},
 					{
 						"id": "artefact13_name",
-						"text": "Lionhead Cane"
+						"text": "狮首手杖"
 					},
 					{
 						"id": "artefact14_description",
-						"text": "It appears to be about the deployment plans for Research Battalion South."
+						"text": "这似乎是关于南方研究营的部署计划。"
 					},
 					{
 						"id": "artefact14_name",
-						"text": "An encrypted Telegram"
+						"text": "加密电报"
 					},
 					{
 						"id": "artefact15_description",
-						"text": "The contents appear to be a speculative design of a capacitor brain."
+						"text": "内容似乎是一个电容大脑的推理设计。"
 					},
 					{
 						"id": "artefact15_name",
-						"text": "A sealed Briefcase"
+						"text": "密封的公文包"
 					},
 					{
 						"id": "artefact16_description",
-						"text": "Could this be the prototype blueprint for a Valkyrium machine?"
+						"text": "这可能是一个Valkyrium机器的原型蓝图吗？"
 					},
 					{
 						"id": "artefact16_name",
-						"text": "A confusing Blueprint"
+						"text": "令人困惑的蓝图"
 					},
 					{
 						"id": "trashUndead_0_description",
@@ -15280,23 +15280,23 @@
 					},
 					{
 						"id": "trashUndead_0_name",
-						"text": "Bloody scalp"
+						"text": "沾血头皮"
 					},
 					{
 						"id": "trashUndead_1_description",
-						"text": "Are those... fingertips?!"
+						"text": "那些是…指尖？！"
 					},
 					{
 						"id": "trashUndead_1_name",
-						"text": "Strange bracelet"
+						"text": "奇怪的手镯"
 					},
 					{
 						"id": "trashUndead_2_description",
-						"text": "\"Then take a man; flay him.\""
+						"text": "\"然后抓住一个人，剥去他的皮。\""
 					},
 					{
 						"id": "trashUndead_2_name",
-						"text": "Stained Diary"
+						"text": "褪色日记"
 					},
 					{
 						"id": "trashUndead_3_description",
@@ -15304,7 +15304,7 @@
 					},
 					{
 						"id": "trashUndead_3_name",
-						"text": "Skull drill"
+						"text": "颅骨钻"
 					},
 					{
 						"id": "trashUndead_4_description",
@@ -15312,7 +15312,7 @@
 					},
 					{
 						"id": "trashUndead_4_name",
-						"text": "Bag of Incense"
+						"text": "香包"
 					},
 					{
 						"id": "trashUndead_5_description",
@@ -15320,7 +15320,7 @@
 					},
 					{
 						"id": "trashUndead_5_name",
-						"text": "Curved shaving knive"
+						"text": "弧形剃须刀"
 					},
 					{
 						"id": "trashUndead_6_description",
@@ -15328,7 +15328,7 @@
 					},
 					{
 						"id": "trashUndead_6_name",
-						"text": "Wax doll"
+						"text": "蜡娃娃"
 					},
 					{
 						"id": "trashUndead_7_description",
@@ -15336,71 +15336,71 @@
 					},
 					{
 						"id": "trashUndead_7_name",
-						"text": "Ritual dagger"
+						"text": "仪式匕首"
 					},
 					{
 						"id": "trashUndead_8_description",
-						"text": "The ring gives off an aura of profound evil."
+						"text": "戒指散发出一种深深的罪恶气息。"
 					},
 					{
 						"id": "trashUndead_8_name",
-						"text": "Mysterious signet ring"
+						"text": "神秘印戒"
 					},
 					{
 						"id": "trashUndead_9_description",
-						"text": "Two blood red rubies are sewn into the sunken eye holes!"
+						"text": "两颗血红色的红宝石被缝在凹陷的眼洞里！"
 					},
 					{
 						"id": "trashUndead_9_name",
-						"text": "Shrunken head"
+						"text": "缩小的头颅"
 					},
 					{
 						"id": "rock01_description",
-						"text": "A Rock"
+						"text": "一块岩石"
 					},
 					{
 						"id": "rock01_name",
-						"text": "A Rock"
+						"text": "岩石"
 					},
 					{
 						"id": "donut_teeth_name",
-						"text": "Sharp Fangs"
+						"text": "利牙"
 					},
 					{
 						"id": "donut_teeth_description",
-						"text": "Pointy and merciless!"
+						"text": "尖刻无情！"
 					},
 					{
 						"id": "fenris_teeth_name",
-						"text": "Pointy Fangs"
+						"text": "尖牙"
 					},
 					{
 						"id": "fenris_teeth_description",
-						"text": "Sharp and nasty!"
+						"text": "又尖又脏！"
 					},
 					{
 						"id": "donut_armor_name",
-						"text": "Fuzzy Fur"
+						"text": "绒毛皮"
 					},
 					{
 						"id": "donut_armor_description",
-						"text": "White as snow..."
+						"text": "白如雪..."
 					},
 					{
 						"id": "fenris_armor_name",
-						"text": "Fluffy Fur"
+						"text": "蓬松毛皮"
 					},
 					{
 						"id": "fenris_armor_description",
-						"text": "Black as the night..."
+						"text": "黑如夜..."
 					},
 					{
 						"id": "shinyBiscuit_0_name",
-						"text": "Shiny Dog Biscuit"
+						"text": "亮闪闪的狗饼干"
 					},
 					{
 						"id": "shinyBiscuit_0_description",
-						"text": "A mysteriously valuable dog biscuit."
+						"text": "一种非常珍贵的狗饼干。"
 					}
 				]
 			},
