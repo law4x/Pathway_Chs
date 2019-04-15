@@ -605,227 +605,227 @@
 				"rows": [
 					{
 						"id": "GameDescription",
-						"text": "Introduction"
+						"text": "游戏简介"
 					},
 					{
 						"id": "GameDescription_Content",
-						"text": "[h1]Background[/h1]The year is 1936 and Nazi activity is increasing in intensity by the day.\nTirelessly, they send their expeditions into the vastness of the deserts and the inhospitable mountains of the Middle East.\nNorth Africa, Arabia - what could the armies of evil be looking for?\n[p][img:codex_atmoshot]\n[p][h1]Every expedition is different[/h1]In Pathway, you send a group of intrepid adventurers on perilous expeditions. They must win turn-based battles, uncover ancient secrets, and manage their fuel supplies to ensure they arrive in time to thwart the evil plans of their merciless enemies.\nEvery expedition is different in Pathway. This is because – in addition to a basic outline  – expeditions are always assigned a random series of new events. Even events that you may have encountered before can take unexpected turns, either through chance or because of the different composition of your team.\n[p][h1]Persistent gameplay[/h1]Even a defeat means progress in Pathway, as characters gain experience even when they fail. Over the course of individual adventures, characters will gain enough experience and equipment to attempt increasingly risky undertakings.\nManage your expedition! Make use of the strengths of its individual members! Make the right decisions on the events you experience during your journey!\n[p][h1]Every decision counts[/h1]The world is on the brink of disaster. An undeclared war rages in the shadows! Victory or defeat – only you and your unsung heroes can decide the outcome!\n[p][img:codex_armor]"
+						"text": "[h1]背景[/h1]1936年，纳粹活动日趋激烈。\n他们不知疲倦地将他们的探险队派往广阔的沙漠和荒凉的中东山区。\n北非，阿拉伯-邪恶的军队在寻找什么？\n[p][img:codex_atmoshot]\n[p][h1]每次探险都不一样[/h1]在Pathway，你派出一群勇敢的冒险家进行危险的探险。他们必须赢得基于回合的战斗，揭露古老的秘密，并管理他们的燃料供应，以确保他们及时到达，以挫败无情敌人的邪恶计划。\n每一次探险都有不同的路线。这是因为，除了一个基本的主线外，探险总是会随机分配一系列新的事件。即使是你以前遇到过的事件，也可能会发生意想不到的转折，无论是偶然发生的，还是由于你的团队组成不同。\n[p][h1]持久的游戏玩法[/h1]即使失败也意味着道路上的进步，因为角色即使失败也会获得经验。在个人冒险的过程中，角色将获得足够的经验和装备来尝试越来越冒险的事业。\n管理你的探险！利用其个人独特的优势！对您在旅途中遇到的事件做出正确的决定！\n[p][h1]每个决定都很重要[/h1]世界正处于灾难的边缘。一场未宣布的战争在阴影中肆虐！胜利还是失败——只有你和你的无名英雄才能决定结果！\n[p][img:codex_armor]"
 					},
 					{
 						"id": "KeyBindings",
-						"text": "Key Bindings"
+						"text": "按键绑定"
 					},
 					{
 						"id": "KeyBindings_Content",
-						"text": "[h1]Key Bindings[/h1]As you progress through the codex, you will learn in detail how to play Pathway. Additionally, you can configure key bindings under Options / Controls. By default, key bindings are defined as described below:\n[p][h1]Map[/h1]I: Open Team Screen\n[p][h1]Team Screen[/h1]Right-click on weapon: Reload\nRight-click on medkit: Heal / revive character\nRight-click on repairkit: Repair armor\nRight-click on any item: Drop item\n[p][h1]Map / Battle[/h1]WASD: Move camera\nPress Space + LMB: Free camera move\n[p][h1]Battle[/h1]Right arrow: Next own unit\nLeft arrow: Previous own unit\nReturn: End turn\n1: Standard ranged attack\n2: Special ranged attack\n3: Standard knife attack\n4: Special knife attack\n5: Use item\nF: Armor-related special action\nR: Reload\nB: Fist Punch\nLMB: Initiate action\nRMB: Abort action\n[p][h1]Trader[/h1]Right-click on own item: Sell item\nRight-click or left-click on trader item: Buy item"
+						"text": "[h1]按键绑定[/h1]当你通过事典的指引前行时，你将详细学习如何玩Pathway。此外，还可以在选项/控件下配置按键绑定。默认情况下，按键绑定定义如下：\n[p][h1]地图[/h1]I: 打开队伍窗口\n[p][h1]打开队伍窗口[/h1]右键单击武器：重新装填\n右键单击医疗包：治疗/复活角色\n右键单击修理包：修复护甲\n右键单击任意物品：丢弃该物品\n[p][h1]地图 / 战斗[/h1]WASD: 移动镜头\n按下 空格 + 鼠标左键：自由镜头\n[p][h1]战斗[/h1]右箭头：下一个我方单位\n左箭头：上一个我方单位\n返回：结束回合\n1：普通远程攻击\n2：特殊远程攻击\n3：普通近战攻击\n4：特殊近战攻击\n5：使用道具\nF：护甲相关的特殊行动\nR：重新装填\nB：拳击\n鼠标左键：发起行动\n鼠标右键：中止行动\n[p][h1]商人[/h1]右键单击物品：出售物品\n右键单击或左键单击商人物品：购买物品"
 					},
 					{
 						"id": "Adventures",
-						"text": "Adventures"
+						"text": "冒险"
 					},
 					{
 						"id": "Adventures_Content",
-						"text": "[h1]Teams and adventures[/h1]Pathway consists of a series of individual adventures that gradually increase in difficulty. At the start of an adventure, you need to assemble a team from the total available unlocked and uninjured characters.\nThe number of characters in your team depends on the adventure.\n[p][img:codex_teamselect]\n[p][h1]Unlocking New Adventures[/h1]At the start of the game, all adventures are locked apart from the starting adventure. Each completed adventure automatically unlocks the next adventure."
+						"text": "[h1]队伍与冒险[/h1]Pathway包括一系列个人冒险，难度逐渐增加。在冒险之初，你需要从所有可用的已解锁和未受伤的角色中组建一个队伍。\n你队伍中的角色数量取决于冒险。\n[p][img:codex_teamselect]\n[p][h1]解锁新的冒险[/h1]在游戏开始时，除了开始冒险之外，所有冒险都被锁定。每个冒险完成后都会自动解锁下一个冒险。"
 					},
 					{
 						"id": "JeepStorage",
-						"text": "Jeep Storage"
+						"text": "吉普车后备箱"
 					},
 					{
 						"id": "JeepStorage_Content",
-						"text": "[h1]Jeep Storage[/h1]Once you have assembled your team, you can equip your characters with new items, provided there is loot from previous adventures.\n[p][img:codex_jeepstorage]\n[p]Items not needed by your team can be moved to the valuables bag to clear inventory space. Just right-click on any given item. Items in the valuables bag can be sold to a trader at a later point. Beware: This action is irrevocable!\n[p]Besides that, you can permanently upgrade your jeep's fuel and ammo capacity. This option costs money and is thus only available when you have sufficient funds."
+						"text": "[h1]吉普车后备箱[/h1]当你集合了你的队伍，吉普车后备箱是你可以储存燃料和弹药供应的地方，以及出售你在以前的远征中发现的各种物品。这也是为角色装备新物品的地方。\n[p][img:codex_jeepstorage]"
 					},
 					{
 						"id": "EquipmentSlots",
-						"text": "Equipment Slots"
+						"text": "装备槽"
 					},
 					{
 						"id": "EquipmentSlots_Content",
-						"text": "[h1]Equipment Slots[/h1]You can equip a character’s first equipment slot with either a ranged weapon or a melee weapon. You can equip a character’s second slot with either a melee weapon or another item. These other items can be hand grenades, medkits and repairkits. The third slot is intended exclusively for armor.\n[p][img:codex_itemslots]"
+						"text": "[h1]装备槽[/h1]你可以用远程武器或近战武器装备角色的第一个装备槽，你可以在角色的第二个槽位装备近战武器或其他物品，这些其他物品可以是手榴弹、医疗包或修理包。第三个槽专门用于装甲。\n[p][img:codex_itemslots]"
 					},
 					{
 						"id": "Characters",
-						"text": "Characters"
+						"text": "角色"
 					},
 					{
 						"id": "Characters_Content",
-						"text": "[h1]Recruit Info[/h1]When you select a character, their character stats are displayed to the right, along with a brief summary of their strengths and weaknesses. The three colored bars immediately to the right of the character portrait indicate their health (red), armor value (blue), and bravery (orange).\n[p][img:codex_character]"
+						"text": "[h1]招募信息[/h1]当您选择一个角色时，其角色信息将显示在右侧，并简要总结其优缺点。人物头像右侧的三个彩色条线表示他们的血量（红色）、护甲（蓝色）和勇气（橙色）。\n[p][img:codex_character]"
 					},
 					{
 						"id": "CharacterAttributes",
-						"text": "Character Stats"
+						"text": "角色属性"
 					},
 					{
 						"id": "CharacterAttributes_Content",
-						"text": "[h1]Character Stats[/h1]In addition to their equipment, characters also have different character stats:\n[p][img:codex_charstats]\n[p][h1]Vitality (VIT)[/h1]Determines a character’s health.\n[p][h1]Willpower (WIL)[/h1]Determines a character’s bravery points. Bravery is needed for special actions.\n[p][h1]Dexterity (DEX)[/h1]Affects accuracy for ranged attacks.\n[p][h1]Agility (AGI)[/h1]Affects how far a character can move on their turn.\n[p][h1]Intelligence (INT)[/h1]Affects how many experience points a character receives. The higher the value, the faster a character progresses.\n[p][h1]Reflexes (RFX)[/h1]Affects the probability that a character can dodge an attack.\n[p][h1]Endurance (END)[/h1]Affects the number of turns that an unconscious character remains alive."
+						"text": "[h1]角色属性[/h1]除了装备之外，角色还具有不同的角色属性：\n[p][img:codex_charstats]\n[p][h1]生命 (VIT)[/h1]决定角色的健康状况。\n[p][h1]意志 (WIL)[/h1]决定角色的勇气点。特殊行动需要勇气。\n[p][h1]熟练 (DEX)[/h1]影响远程攻击的准确性。\n[p][h1]移动 (AGI)[/h1]决定角色在每回合可以移动的距离。\n[p][h1]智力 (INT)[/h1]影响角色接收的经验点数。值越高，角色成长越快。\n[p][h1]反应 (RFX)[/h1]决定角色躲避攻击的概率。\n[p][h1]耐力 (END)[/h1]决定角色被击倒后存活的回合数。"
 					},
 					{
 						"id": "CharacterSkills",
-						"text": "Perks and Skills"
+						"text": "特殊能力和技能"
 					},
 					{
 						"id": "CharacterSkills_Content",
-						"text": "[h1]Perks[/h1]Perks further distinguish your characters, giving them various advantages and disadvantages.\n[p][img:codex_perklist]\n[p][h1]Skills[/h1]Left-click on a character’s skill button to open the Skill View.\n[p][h1]Item Skills[/h1]Item skills define which items a character may equip. Skill icons with a green plus sign give advantages, while the ones with red minus signs have certain disadvantages.\nSkills that have both advantages and disadvantages are indicated with a red-green icon.\n[p][img:codex_itemskills]\n[p][h1]Skill Tree and Leveling Up[/h1]Left-click on the Skill Tree button to open the Skill Tree. Every time a character levels up, they gain a new advantage that they can choose from the options in the Skill Tree. Your character can improve their stats and skills or learn how to use new items.\n[p][img:codex_skilltree]"
+						"text": "[h1]特殊能力[/h1]特殊能力进一步区分您的角色，赋予他们各种优点和缺点。\n[p][img:codex_perklist]\n[p][h1]技能[/h1]左键单击角色的技能按钮以打开技能视图。\n[p][h1]物品技能[/h1]物品技能定义角色可以装备的物品。 带有绿色加号的技能图标具有优势，而带有红色减号的技能图标具有某些缺点。\n具有优点和缺点的技能用红绿图标表示。\n[p][img:codex_itemskills]\n[p][h1]技能树和升级[/h1]左键单击技能树按钮以打开技能树。每当角色升级时，他们就会获得一个新的技能点，他们可以从技能树中的选项中进行选择。您的角色可以提高他们的属性和技能，或学习如何使用新物品。\n[p][img:codex_skilltree]"
 					},
 					{
 						"id": "CharacterUnlock",
-						"text": "Unlocking New Characters"
+						"text": "解锁新角色"
 					},
 					{
 						"id": "CharacterUnlock_Content",
-						"text": "[h1]Unlocking New Characters[/h1][img:codex_unlock01]\n[p]You start the game with a limited number of playable characters. Additional characters are unlocked during the game whenever you meet certain conditions. The precise conditions for each character are displayed when you left-click on them or read the achievements list.\n[p][img:codex_unlock02]"
+						"text": "[h1]解锁新角色[/h1][img:codex_unlock01]\n[p]您使用有限数量的可玩角色开始游戏。每当您遇到特定条件时，其他角色将在游戏中解锁。左键单击或读取成就列表时，将显示每个成就的具体要求。\n[p][img:codex_unlock02]"
 					},
 					{
 						"id": "HospitalizedChars",
-						"text": "Hospitalized Characters"
+						"text": "角色住院"
 					},
 					{
 						"id": "HospitalizedChars_Content",
-						"text": "[h1]Hospitalized characters and recovery[/h1][img:codex_hospitalized01]\n[p]Characters who are incapacitated during an adventure are locked for the next expedition, as they need to recover from their injuries. You can pay cash to buy better medical care and reduce their time in the hospital.\n[p][img:codex_hospitalized02]"
+						"text": "[h1]角色住院恢复[/h1][img:codex_hospitalized01]\n[p]在冒险期间丧失能力的角色将被锁定以进行下一次探险，因为他们需要从受伤中恢复过来。您可以支付现金购买更好的医疗护理并减少他们在医院的时间。\n[p][img:codex_hospitalized02]"
 					},
 					{
 						"id": "Persistence",
-						"text": "Persistence"
+						"text": "坚持不懈"
 					},
 					{
 						"id": "Persistence_Content",
-						"text": "[h1]Gaining experience and equipment[/h1]Regardless of the outcome of an adventure, every participating character keeps the experience points and items they gain. Only cancelling an adventure will reset any experience points and items gained by all participating characters during that adventure."
+						"text": "[h1]获得经验和装备[/h1]无论冒险的结果如何，每个参与角色都会保留经验值和获得的物品。 只有取消冒险才会重置所有参与角色在此次冒险中获得的经验值和物品。"
 					},
 					{
 						"id": "Achievements",
-						"text": "Achievements"
+						"text": "成就"
 					},
 					{
 						"id": "Achievements_Content",
-						"text": "[h1]Achievements[/h1]You can access your trophies from the tab on the bottom right of this Codex Screen. These trophies represent all the achievements you can complete in Pathway. Move the cursor over an achievement to see its name and the actions required to unlock it.\n[p]Every unlocked achievement grants a reward; this is also described in the tooltip. Each reward can be claimed either immediately when an achievement is unlocked or later by left-clicking on the achievement on the Trophy Screen.\n[p][img:codex_achievements]"
+						"text": "[h1]成就[/h1]您可以从此事典界面右下方的选项卡访问您的奖杯。这些奖杯代表了您可以在Pathway中完成的所有成就。将光标移动到成就上以查看其名称以及解锁它所需的条件。\n[p]每一个未锁定的成就都会获得奖励；这也在工具提示中描述。每次奖励都可以在解锁成就时立即领取，或者稍后在奖杯界面上左键单击成就即可领取。\n[p][img:codex_achievements]"
 					},
 					{
 						"id": "TravelBasics",
-						"text": "Basics"
+						"text": "基本要素"
 					},
 					{
 						"id": "TravelBasics_Content",
-						"text": "[h1]Basics[/h1]Overland travel is depicted in Pathway as a series of events on a map: Every location that your expedition travels to on the map has its own event. Accessible locations (green) are connected by a dashed travel line to the current location of your characters (orange). Locations and travel lines already visited by your team are also displayed in orange.\n[p][img:codex_travelnodes]\n[p]Overland travel involves some strategic planning (e.g. careful allocation of travel resources, choice of a travel route that meets the goals of your expedition).\n[p]The objective of every journey is to reach the corresponding destination. To complete the corresponding adventure, your travelers must arrive at this location. Longer adventures can consist of several maps that are linked via individual destinations.\n[p]Although each map has a specific pattern of travel lines, no journey is the same as the next, as your events are redetermined at the beginning of each adventure. However, each adventure has its own events that drive the story of that individual adventure, as well as the overarching narrative."
+						"text": "[h1]基本要素[/h1]在Pathway中陆路旅行被描绘为地图上的一系列事件：您的探险队在地图上前往的每个位置都有自己的活动。可访问的位置（绿色）通过虚线连接到角色的当前位置（橙色）。您的团队已经访问过的地点和旅行线路也以橙色显示。\n[p][img:codex_travelnodes]\n[p]陆路旅行涉及一些战略规划（例如仔细分配旅行资源，选择符合探险目标的旅行路线）。\n[p]每个旅程的目标是到达相应的目的地。要完成相应的冒险，您的旅行者必须到达这个位置。更长的冒险活动可以由几个地图组成，这些地图通过各个目的地连接起来。\n[p]虽然每个地图都有一个特定的旅游线路模式，但是没有一次旅行与下一次相同，因为你的活动在每次探险开始时都会被重新确定。然而，每一次冒险都有其自己的事件来驱动个体冒险的故事，以及总体的叙述。"
 					},
 					{
 						"id": "TravelResources",
-						"text": "Travel Resources"
+						"text": "旅行物资"
 					},
 					{
 						"id": "TravelResources_Content",
-						"text": "[h1]Travel Resources[/h1]Travel from one location to another costs one unit of fuel. When the expedition’s fuel supply is used up, you may either admit defeat or attempt to make it through the inhospitable desert on foot. Such an endeavor will drain the characters‘ health rapidly. The exact damage taken is dependant on each individual‘s endurance. If you manage to find new fuel in the near future, you will be able to resume the journey with the jeep. Otherwise, your expedition will end in failure.\n[p][img:codex_travelresources]\n[p]When your characters have used up all their ammunition, they will be forced to resort to knives, fists, and grenades.\n[p]The expedition needs money to replenish its stocks of fuel and equipment, as well as to hire new recruits.\n[p]Some characters have perks that boost the number of resources you capture."
+						"text": "[h1]旅行物资[/h1]从一个地方到另一个地方需要花费一个单位的燃料。当探险队的燃料供应用尽时，你可以承认失败或试图徒步穿越荒凉的沙漠。这样做将迅速消耗角色的健康。所受到的确切伤害取决于每个人的耐力。如果你设法在不久的将来找到新的燃料，你将能够用吉普车恢复旅程。否则，你的探险将以失败告终。\n[p][img:codex_travelresources]\n[p]当你的角色用尽了所有的弹药，他们将不得不求助于刀子、拳头和手榴弹。\n[p]探险队需要资金来补充燃料和设备的储备，以及雇用新兵。\n[p]有些角色的特殊能力可以增加你获得的资源数量。"
 					},
 					{
 						"id": "Events",
-						"text": "Event Icons"
+						"text": "事件图标"
 					},
 					{
 						"id": "Events_Content",
-						"text": "[h1]Event Icons[/h1]Events on the map are typically displayed as round symbols. A range of special events do have their own unique icons, though:\n[p][h1]Destination[/h1][img:codex_destination]\n[p]The destination of your journey, unlike the other possible travel locations, is indicated with a cross rather than a circle. The icon depicts a flag on a cross.\n[p][h1]Battles[/h1][img:codex_battle]\n[p]Events where you can expect to do battle are indicated by a crosshair icon.\nAll traveling companions that survive and are fully conscious at the end of a battle receive experience points based on the individual character’s intelligence as well as the number of enemies defeated.\n[p][h1]Resting Places[/h1][img:codex_restingplace]\n[p]Resting places allow you to recover health and repair armor for your expedition. Unconscious characters will heal completely here. Resting places are marked on the map with a tent icon. You can visit resting places as many times as you like.\n[p][h1]New Recruits[/h1][img:codex_recruiter]\n[p]Locations where you can hire new team members are indicated with an icon depicting a friendly potential recruit. If your expedition does not hire the character, you can still do so by returning to the location later on.\n[p][h1]Traders[/h1][img:codex_trader]\n[p]Traders are indicated on the map with a money bag. In addition to fuel and ammunition, traders also sell other valuable items. You can visit each trader as often as you like.\n[p]Buy and sell:\n[p]Right-click on your own items to sell them to a trader.\nYou can right-click or left-click to buy an item from a trader."
+						"text": "[h1]事件图标[/h1]地图上的事件通常显示为圆形符号。 但是，一系列特殊事件都有自己独特的图标：\n[p][h1]目的地[/h1][img:codex_destination]\n[p]与其他可能的旅行地点不同，您旅行的目的地用十字而不是圆圈表示。图标在十字架上描绘了一面旗帜。\n[p][h1]战斗[/h1][img:codex_battle]\n[p]十字线图标指示您可以进行战斗的事件。\n所有在战斗结束时存活并完全清醒的旅行同伴都将根据个人的智力和被击败的敌人数量获得经验点。\n[p][h1]休息地[/h1][img:codex_restingplace]\n[p]休息的地方可以让你恢复健康和修复你的探险装甲。无意识的角色将在这里完全愈合。休息的地方在地图上用帐篷图标标出。你可以随时去休息的地方。\n[p][h1]新兵[/h1][img:codex_recruiter]\n[p]你可以雇佣新团队成员的地点会用一个图标来表示一个友好的潜在新兵。如果你的探险队没有雇佣这个角色，你可以稍后返回到这个位置。\n[p][h1]商人[/h1][img:codex_trader]\n[p]地图上用一个钱袋标明商人。除了燃料和弹药外，商人还出售其他贵重物品。你可以随时拜访每一位商人。\n[p]购买与出售：\n[p]右键单击你自己的物品，把它们卖给商人。\n您可以右键单击或左键单击从商人那里购买商品。"
 					},
 					{
 						"id": "IconVisibility",
-						"text": "Event Icons and Visibility"
+						"text": "事件图标和可见性"
 					},
 					{
 						"id": "IconVisibility_Content",
-						"text": "[h1]Event Icons and Visibility[/h1]When an expedition enters a new map, you can only see a random number of events, providing you with an initial basis for planning your journey."
+						"text": "[h1]事件图标和可见性[/h1]当探险队进入一张新地图时，您只能看到随机数目的事件，为您规划旅程提供了初步依据。"
 					},
 					{
 						"id": "EventCourses",
-						"text": "Event Outcomes"
+						"text": "事件结果"
 					},
 					{
 						"id": "EventCourses_Content",
-						"text": "[h1]Event Outcomes[/h1]The results of individual events can vary, as the consequences of player decisions are determined randomly.\n[p]Some characters have perks that unlock alternative solutions.\n[p][img:codex_perkchoice]\n[p]As a rule of thumb, the probability of success for these perk decisions is always higher than for the standard options. Characters who use an event perk successfully will also gain a substantial amount of experience points.\n[p]Perk decisions are usually clearly displayed as an option. They can, however, also operate in the background as a hidden mechanism that is triggered only if one of the expedition members has the relevant event perk. The effects of multiple event perks do not stack."
+						"text": "[h1]事件结果[/h1]个别事件的结果可能会有所不同，因为玩家决策的后果是随机确定的。\n[p]有些角色有特殊能力，可以解锁其他解决方案。\n[p][img:codex_perkchoice]\n[p]根据经验，这些特殊能力决策的成功概率总是高于标准。成功使用特殊能力的角色也将获得大量的经验点。\n[p]特殊能力决定通常作为一个选项清晰地显示出来。但是，它们也可以作为一个隐藏的机制在后台运行，只有当一个探险队员拥有相关的活动特殊能力时才会触发这个机制。多个活动特殊能力的效果不会叠加。"
 					},
 					{
 						"id": "PerkList",
-						"text": "Perk List"
+						"text": "特殊能力表"
 					},
 					{
 						"id": "PerkList_Content",
-						"text": "[h1]Ancient Languages[/h1]Enables alternative decisions based on the character’s ability to decipher ancient languages or to understand local dialects.\n[p][h1]Daredevil[/h1]Enables alternative decisions based on quick-thinking, unorthodox, and often rash actions.\n[p][h1]Brute[/h1]Enables alternative decisions based on the application of brute force.\n[p][h1]Shadow[/h1]Enables alternative decisions based on stealth and general athletic prowess.\n[p][h1]Medical Expert[/h1]Enables alternative decisions based on medical knowledge that goes beyond the ability to apply improvised bandages.\n[p][h1]Engineer[/h1]Enables alternative decisions based on technical knowledge.\n[p][h1]Trickster[/h1]Enables alternative decisions based on sleight of hand and manipulating the unsuspecting.\n[p][h1]Sixth Sense[/h1]Enables alternative decisions based on intuition and situational awareness.\n[p][h1]Intimidation[/h1]Enables alternative decisions based on the ability to exert psychological pressure on others.\n[p][h1]Survivalist[/h1]Enables alternative decisions based on in-depth knowledge of the natural environment, including weather conditions and the characteristics of various wildlife.\n[p][h1]Forbidden Lore[/h1]Enables alternative decisions that start where school learning ends and the gray area of mystical traditions begins."
+						"text": "[h1]古代语言[/h1]根据角色破译古语言或理解当地方言的能力，可以做出其他选择。\n[p][h1]胆大妄为[/h1]提供基于快速思考、非正统和经常草率行动的替代决策。\n[p][h1]蛮力[/h1]提供基于蛮力运用的替代决策。\n[p][h1]影子[/h1]提供基于隐身和一般运动能力的替代决策。\n[p][h1]医学专家[/h1]提供基于医学知识提升使用临时绷带的能力的替代决策。\n[p][h1]工程师[/h1]提供基于技术知识的替代决策。\n[p][h1]魔术师[/h1]能够根据巧妙的手法和操纵毫无戒心的人做出其他决定。\n[p][h1]第六感[/h1]能够根据直觉和情境感知做出选择。\n[p][h1]恐吓[/h1]能够对他人施加心理压力的能力的替代决策。\n[p][h1]死里逃生[/h1]根据对自然环境的深入了解，包括天气状况和各种野生动物的特征，做出其他决策。\n[p][h1]禁忌知识[/h1]在学校学习结束和神秘传统灰色区域开始的地方，可以做出其他选择。"
 					},
 					{
 						"id": "TeamScreen",
-						"text": "Team Screen"
+						"text": "队伍界面"
 					},
 					{
 						"id": "TeamScreen_Content",
-						"text": "[h1]Team Screen[/h1]Left-clicking on the lower info bar during an overland journey takes you to the Team Screen where you can heal characters and repair their armor between battles.\n[p][img:codex_teamopen]\n[p]This is done by right-clicking on a medkit or repairkit. The desired target person is then selected via LMB. You can reload weapons by right-clicking on them and also drag and drop items to swap them between the jeep storage and the characters.\n[p][img:codex_repair]\n[p]Characters can only equip items when they are not in combat. Right-click on any item to drop it. Left-clicking on a character portrait will open the corresponding character view."
+						"text": "[h1]队伍界面[/h1]在陆路旅行中，左键点击下方的信息栏，你将进入团队界面，在那里你可以治疗角色并修复他们在战斗中的盔甲。\n[p][img:codex_teamopen]\n[p]这可以通过右键单击医疗包或重新标记来完成。然后通过鼠标左键选择所需的目标人员。您可以通过右键单击武器来重新加载武器，还可以拖放物品以在吉普车后备箱和角色之间交换武器。\n[p][img:codex_repair]\n[p]角色只有在非战斗状态下才能装备物品。右键单击任何物品将其删除。左键单击一个角色头像将打开相应的角色视图。"
 					},
 					{
 						"id": "LevelUp",
-						"text": "Leveling Up"
+						"text": "升级"
 					},
 					{
 						"id": "LevelUp_Content",
-						"text": "[h1]Leveling Up[/h1]A small icon on the lower info bar indicates that a character has leveled up.\n[p][img:codex_levelup]\n[p]You can upgrade the character in the team screen by left-clicking on the Level Up button over the corresponding character.\n[p][img:codex_levelupbutton]\n[p]The game then opens the character’s skill tree where you can choose their new advantage."
+						"text": "[h1]升级[/h1]下方信息栏上的小图标表示角色已升级。\n[p][img:codex_levelup]\n[p]您可以通过左键单击相应角色上的“升级”按钮来升级团队界面中的角色。\n[p][img:codex_levelupbutton]\n[p]然后在游戏中打开角色的技能树，在那里你可以选择他们的新技能。"
 					},
 					{
 						"id": "RareItems",
-						"text": "Item Rarities"
+						"text": "物品稀有度"
 					},
 					{
 						"id": "RareItems_Content",
-						"text": "[h1]Item Rarities[/h1]An item‘s rarity indicates its excellence: rare items are overall better than common ones. Thus, with ascending rarity the worth of an item increases as well.\nThere are four categories of rarity in Pathway: Common (white), Rare (blue), Epic (purple), and Legendary (golden).\n[p][img:codex_itemlegendary]"
+						"text": "[h1]物品稀有度[/h1]物品的稀有度表明其卓越：稀有物品总的来说比普通物品好。因此，随着稀有性的增加，物品的价值也会增加。\nPathway中有四种稀有度：普通（白色）、稀有（蓝色）、史诗（紫色）和传奇（金色）。\n[p][img:codex_itemlegendary]"
 					},
 					{
 						"id": "CharacterPlacement",
-						"text": "Unit Placement"
+						"text": "单元布局"
 					},
 					{
 						"id": "CharacterPlacement_Content",
-						"text": "[h1]Character Placement[/h1]At the beginning of a battle, you start by placing all characters within the green area.\n[p][img:codex_placement]\n[p]The size and shape of the green area depends on the type of encounter: If your expedition surprises the enemy or in encounters that neither side was expecting, you will have an extensive starting area. But if your characters are ambushed, they will have less space for deployment."
+						"text": "[h1]角色放置[/h1]在战斗开始时，首先将所有角色放在绿色区域内。\n[p][img:codex_placement]\n[p]绿地的大小和形状取决于遇到的类型：如果你的远征使敌人感到意外，或者在双方都没有预料到的情况下遭遇，你将有一个广阔的起点。但是如果你的角色被伏击了，他们将没有足够的部署空间。"
 					},
 					{
 						"id": "EnemyInfo",
-						"text": "Enemy Info"
+						"text": "敌人信息"
 					},
 					{
 						"id": "EnemyInfo_Content",
-						"text": "[h1]Enemy Info[/h1]During the placement phase, you can view the Enemy Info for all enemies within the field of vision of your characters. During the course of the battle, you can click on the tabs on the left to alternate between the Character Actions and the Enemy Info. Left-clicking on an enemy portrait will focus the camera on the corresponding unit.\n[p][img:codex_enemyinfo]"
+						"text": "[h1]敌人信息[/h1]在放置阶段，您可以查看角色视野内所有敌人的信息。在战斗过程中，您可以单击左侧的选项卡，在角色动作和敌人信息之间切换。用鼠标左键点击敌人的头像，镜头将聚焦到相应的单位。\n[p][img:codex_enemyinfo]"
 					},
 					{
 						"id": "CharacterSelection",
-						"text": "Char Selection"
+						"text": "选择角色"
 					},
 					{
 						"id": "CharacterSelection_Content",
-						"text": "[h1]Character Selection[/h1]During combat, you select a character by left-clicking on it or on its character portrait at the bottom left.\n[p][img:codex_charselect]"
+						"text": "[h1]选择角色[/h1]在战斗中，您可以通过左键单击角色或左下角的角色头像来选择角色。\n[p][img:codex_charselect]"
 					},
 					{
 						"id": "CoverTypes",
-						"text": "Types of Cover"
+						"text": "掩体类型"
 					},
 					{
 						"id": "CoverTypes_Content",
-						"text": "[h1]Types of Cover[/h1]When a character is placed directly next to cover, this is indicated as a tooltip. A character that stops immediately adjacent to cover will automatically crouch down and benefit from its protection - diagonal contact with cover does not provide any protection.\n[p][h1]Example[/h1][img:codex_coveruse]\n[p]Brunhilda (kneeling, left) is directly next to the cover to her south. This grants her protection from all attacks from the south.\nJackson (standing, right), is only diagonally adjacent to the cover on his right. Therefore, he is not protected.\n[p]Pathway distinguishes between two types of cover. Walls also provide very effective protection."
+						"text": "[h1]掩体类型[/h1]当一个角色直接放置在掩体旁边时，这将显示为工具提示。一个角色立即停止接近掩体将自动蹲下并受益于其保护-对角线接触的掩体不提供任何保护。\n[p][h1]例如[/h1][img:codex_coveruse]\n[p]Brunhilda（跪着，左边）就在她南边的掩体旁边。这使她免受南边的攻击。\nJackson（站着，右）只与右边的掩体呈对角线。因此，他不受保护。\n[p]Pathway区分两种掩体类型。墙壁也提供了非常有效的保护。"
 					},
 					{
 						"id": "PartialCovers",
-						"text": "Partial Covers"
+						"text": "部分掩体"
 					},
 					{
 						"id": "PartialCovers_Content",
-						"text": "[h1]Weak Cover[/h1]Weak cover lowers the probability of being hit by a ranged attack by [cover:SmallCover]%. It also provides complete protection from grenade shrapnel. The protection radius includes all frontal attacks. It does not break line of sight and can be jumped over. Characters crouching behind weak cover stand up automatically if they want to shoot over it. Grenades can be thrown over weak cover, nullifying its protection. Solid objects up to about knee height and higher objects made of less resistant material are considered to be weak cover. Weak cover is displayed as a half-full shield in the tooltip.\n[p][img:codex_weakcover]\n[p][h1]Strong cover[/h1]Strong cover behaves in much the same way as weak cover, but it lowers the probability of being hit by a ranged attack by [cover:MediumCover]%. Solid objects between hip and shoulder height are considered to be strong cover. Strong cover is displayed as a full shield in the tooltip.\n[p][img:codex_strongcover]"
+						"text": "[h1]弱掩体[/h1]弱掩体降低了被远程攻击[cover:SmallCover]%的概率。它还提供了对手榴弹弹片的完全保护。保护半径包括所有正面攻击。它不违反视线，可以越过。蹲在弱掩体后面的角色如果想在上面射击，会自动站起来。手榴弹可以扔到薄弱的掩体上，使其失去保护。高约膝盖的固体物体和低阻力材料制成的更高物体被认为是弱掩体。弱掩体在工具提示中显示为半满的盾。\n[p][img:codex_weakcover]\n[p][h1]强掩体[/h1]强掩体与弱掩体的作用方式基本相同，但它降低了被远程攻击[cover:MediumCover]%的概率。高度在臀部和肩部之间的固体物被认为是强掩体。强掩体在工具提示中显示为全盾。\n[p][img:codex_strongcover]"
 					},
 					{
 						"id": "Walls",
-						"text": "Walls"
+						"text": "墙壁"
 					},
 					{
 						"id": "Walls_Content",
-						"text": "[h1]Walls[/h1]Walls provide complete protection from all ranged attacks carried out from the other side of the wall. The protected area includes all frontal attacks. It is not possible to jump over walls or throw hand grenades over them. If a wall is located along a direct line between two tiles, it breaks the line of sight. Characters standing at the edge of a wall automatically take a side step to shoot past that edge, if necessary to hit their target. Solid objects of shoulder height or higher are considered walls. Walls are displayed in the tooltip as a segment of wall.\n[p][img:codex_wall]"
+						"text": "[h1]墙壁[/h1]墙提供了完整的保护，阻止从墙的另一侧发起的所有远程攻击。保护区包括所有正面攻击。角色不可能从墙上跳下来，也不可能向墙上扔手榴弹。如果一堵墙位于两格之间的直线上，它会破坏视线。站在墙边的角色会自动采取一个侧面的步骤来越过墙边，如果有必要的话，可以击中他们的目标。高度在肩部或以上的实体被视为墙。墙在工具提示中显示为墙的一段。\n[p][img:codex_wall]"
 					},
 					{
 						"id": "HitChances",
-						"text": "Protected Areas"
+						"text": "保护区"
 					},
 					{
 						"id": "HitChances_Content",
-						"text": "[h1]Protected Areas and Hit Probabilities[/h1]In Pathway, a visible target that is not in cover and within range is always hit during ranged combat. For ranged combat targets behind weak and strong cover, the hit probability is calculated using a formula that takes into account the type of cover, the accuracy of the weapon and the dexterity of the shooter. Attacks from adjacent tiles cancel out the protective effects of cover. This is why melee attacks always hit.\n[p][h1]Example[/h1][img:codex_coverangle]\n[p]The Nazi stormtrooper has cover protection from all attacks from the south.\nBecause Annabelle (bottom right, pilot’s cap) is positioned to the south of him, her chance to hit is reduced accordingly.\nNatalya (top right, lab coat), however, is at the same level as the German soldier. She, and all units positioned to the north would have a clear shot.\nGeorgette (left, kneeling) is positioned to the south of the soldier, but she is also in a directly adjacent tile, thereby negating the protective effects of his cover."
+						"text": "[h1]保护区和命中概率[/h1]在Pathway中，一个不在掩护范围内的可见目标总是在远程战斗中被击中。对于弱掩体和强掩体后的远程作战目标，采用考虑掩体类型、武器精度和射手熟练度的公式计算命中概率。相邻格子的攻击会使保护层的作用消失。这就是为什么近战攻击总是命中的原因。\n[p][h1]例如[/h1][img:codex_coverangle]\n[p]纳粹冲锋队抵挡了来自南方的所有攻击。\n由于Annabelle（右下角，戴着飞行员帽）位于他南部，她的命中机率会相应减少。\nNatalya（右上角，身穿实验服），但是，与德国士兵处于同一水平。她和所有北边的部队都有明确的目标。\nGeorgette（左，跪着）位于士兵的南面，但她也在一块直接相邻的格子上，因此没有了士兵的保护效果。"
 					},
 					{
 						"id": "CharacterActions",
@@ -833,111 +833,111 @@
 					},
 					{
 						"id": "CharacterActions_Content",
-						"text": "[h1]Character actions[/h1]Combat in Pathway is turn based. Pressing the red button at the end of the action bar ends your turn and begins the enemy turn.\n[p][img:codex_endturn]\n[p]Each character may perform a maximum of two actions per turn: This can include a maximum of one attack action and one movement action, as well as up to two neutral actions. A character that has used up all their actions is indicated with a small checkmark.\n[p]All actions other than walking are equipment dependent. Actions are carried out by left-clicking on the corresponding action button. If this action is connected to a follow-up action (e.g. target selection), you can still cancel the action by right-clicking."
+						"text": "[h1]角色动作[/h1]Pathway的战斗是基于回合的。按下行动条末端的红色按钮结束回合，敌人回合开始。\n[p][img:codex_endturn]\n[p]每个角色每回合最多可以执行两个动作：这可以包括最多一个攻击动作和一个移动动作，以及最多两个待命动作。一个用完了所有动作的角色用一个小的复选标记来表示。\n[p]除了步行以外的所有动作都依赖于设备。通过左键单击相应的操作按钮执行动作。如果此动作连接到后续操作（例如目标选择），则仍可以通过右键单击取消操作。"
 					},
 					{
 						"id": "SpecialActions",
-						"text": "Special Actions"
+						"text": "特殊动作"
 					},
 					{
 						"id": "SpecialActions_Content",
-						"text": "[h1]Special Actions[/h1]Some attack and movement actions are special actions and use bravery points.\nA character will regenerate bravery points as a result of the following:\n[p]A successful attack on an enemy: +[bravery:Hit] bravery\nCritical hit on an enemy: +[bravery:HitCritical] bravery\nSuccessfully evade an enemy attack: +[bravery:Evade] bravery\nHeal yourself or a friend: +[bravery:UseMedKit] bravery\nRepair your armor or that of a friend: +[bravery:UseRepairKit] bravery"
+						"text": "[h1]特殊动作[/h1]一些攻击和移动动作是特殊动作，使用勇气点。\n由于以下原因，角色将重新生成勇气点：\n[p]对敌人的成功攻击：+[bravery:Hit] 勇气\n对敌人的致命打击：+[bravery:HitCritical] 勇气\n成功躲避敌人攻击：+[bravery:Evade] 勇气\n治愈自己或朋友：+[bravery:UseMedKit] 勇气\n修复你或朋友的盔甲：+[bravery:UseRepairKit] 勇气"
 					},
 					{
 						"id": "MovementActions",
-						"text": "Movement Actions"
+						"text": "移动动作"
 					},
 					{
 						"id": "MovementActions_Content",
-						"text": "[h1]Walk[/h1][img:codex_walk]\n[p]Any activated character can move by moving the cursor to the desired location within the character’s movement radius (blue) and then left-clicking.\n[p]If you find yourself making moves by mistake you may activate an additional confirm click before a movement action is executed. This can be enabled in the game options by activating the \"Confirm Move\" toggle.\n[p][h1]Sprint (Special)[/h1][img:codex_sprint]\n[p]Any character with light armor can perform the Sprint special action, granting them a significant movement bonus."
+						"text": "[h1]步行[/h1][img:codex_walk]\n[p]任何激活的角色都可以通过将光标移动到角色移动半径（蓝色）内的所需位置，然后单击鼠标左键来移动。\n[p][h1]冲锋 (特殊)[/h1][img:codex_sprint]\n[p]任何拥有轻甲的角色都可以执行冲锋特殊动作，给予他们显著的移动奖励。"
 					},
 					{
 						"id": "AttackActions",
-						"text": "Attack Actions"
+						"text": "攻击动作"
 					},
 					{
 						"id": "AttackActions_Content",
-						"text": "[h1]Ranged Attack[/h1][img:codex_ranged]\n[p]Any character equipped with a loaded ranged weapon can perform the Ranged Attack standard action. To do this, position the cursor over an enemy within the character’s field of fire (red) and left-click to trigger the attack. The field of fire is defined by the character’s weapon range and field of vision. The tooltip displays the target’s most important combat values, as well as your hit probability.\n[p][h1]Double Shot (Special)[/h1][img:codex_doubleshot]\n[p]Any character with a pistol can perform the Double Shot special action, which allows two quick shots at two different targets. To do this, you select two enemies and left-click them to trigger the attacks.\n[p][h1]Burst Fire (Special)[/h1][img:codex_rifleburst]\n[p]Any character with an assault rifle can perform the Burst Fire special action, which allows you to attack multiple targets in a straight line. You use the mouse wheel to define the direction of fire and left-click to trigger it.\n[p][h1]Ambush (Special)[/h1][img:codex_ambush]\n[p]Any character with a sniper rifle can perform the Ambush special action, which impedes enemy actions within a previously defined area. You move the cursor to define the field of fire and left-click to confirm it. The ambush is then triggered during the subsequent enemy turn when an enemy unit tries to move or perform an attack within the defined field of fire.\n[p][h1]Shotgun Blast (Special)[/h1][img:codex_blast]\n[p]Any character with a shotgun can perform the Shotgun Blast special action, which fires at all units within a short-range conical field of fire. You move the cursor to define the field of fire and left-click to trigger the attack.\n[p][h1]Meltdown (Special)[/h1][img:codex_meltdown]\n[p]Any character with a disintegrator can perform the Meltdown special action, which fires a ray in a straight line through any number of targets until it hits a wall. You move the cursor to define the direction of fire and left-click to trigger the attack.\n[p][h1]Knife Attack[/h1][img:codex_melee]\n[p]Any character with a knife can perform the knife attack standard action when standing right next to an enemy unit. To do this, position the cursor over an enemy within the character’s field of attack (red) and left-click to trigger the attack.\n[p][h1]Bleed (Special)[/h1][img:codex_bleed]\n[p]Any character with a knife can perform the Bleed special action, which inflicts additional damage on the enemy in subsequent rounds. To do this, position the cursor over an enemy within the character’s field of attack (red) and left-click to trigger the attack.\n[p][h1]Fist Punch[/h1][img:codex_punch]\n[p]Characters without a knife can perform the standard action punch whilst standing adjacent to an enemy unit. When the action is selected, position the cursor over an enemy within the character’s field of attack (red) and left-click to execute. A punch only causes a small amount of damage.\n[p][h1]Throw Grenade[/h1][img:codex_grenadethrow]\n[p]Any character with a grenade can perform the Throw Grenade standard action. Position the cursor within the field of attack (red), select a target tile, and left-click to trigger the attack. The damage area is displayed."
+						"text": "[h1]远程攻击[/h1][img:codex_ranged]\n[p]任何装备了远程武器的角色都可以执行远程攻击标准动作。要执行此操作，请将光标放在角色的火力范围（红色）内的敌人上方，然后左键单击以触发攻击。射击范围由角色的武器射程和视野定义。工具提示显示目标最重要的战斗值以及命中概率。\n[p][h1]双发 (特殊)[/h1][img:codex_doubleshot]\n[p]任何带手枪的角色都可以执行双发特殊动作，可以对两个不同的目标进行两次快速射击。要执行此操作，请选择两个敌人并左键单击它们以触发攻击。\n[p][h1]扫射 (特殊)[/h1][img:codex_rifleburst]\n[p]任何使用突击步枪的角色都可以执行扫射特殊动作，这可以让你直线攻击多个目标。您可以使用鼠标滚轮定义扫射方向，然后单击鼠标左键触发开火。\n[p][h1]埋伏 (特殊)[/h1][img:codex_ambush]\n[p]任何使用狙击步枪的角色都可以执行伏击特殊行动，这会阻碍敌人在先前预定的区域内的行动。移动光标以选择开火范围，然后左键单击以确认该范围。然后，当敌军单位试图在选定的火力范围内移动或执行攻击时，在随后的敌军回合期间触发伏击，只能埋伏经过的第一个敌人。\n[p][h1]喷射 (特殊)[/h1][img:codex_blast]\n[p]任何具有散弹枪的角色都可以执行散弹枪喷射特殊动作，在短程锥形火力范围内向所有单位开火。移动光标以选定火力范围，然后左键单击以触发攻击。\n[p][h1]腐蚀射线 (特殊)[/h1][img:codex_meltdown]\n[p]任何具有分裂者的角色都可以执行腐蚀射线特殊操作，该操作以直线方式发射光线射向任意数量的目标，直到它击中墙壁。移动光标以选定射击方向，然后左键单击以触发攻击。\n[p][h1]小刀攻击[/h1][img:codex_melee]\n[p]任何带刀的角色都可以在站在敌人单位旁边时执行小刀攻击标准动作。要执行此操作，请将光标放在角色的攻击区域（红色）内的敌人上方，然后左键单击以触发攻击。\n[p][h1]流血攻击 (特殊)[/h1][img:codex_bleed]\n[p]任何使用刀的角色都可以执行流血攻击特殊行动，在随后的回合中对敌人造成额外伤害。要执行此操作，请将光标放在角色的攻击区域（红色）内的敌人上方，然后左键单击以触发攻击。\n[p][h1]拳头攻击[/h1][img:codex_punch]\n[p]不带刀的角色可以在与敌军单位相邻的位置执行标准动作拳击。选择该动作后，将光标放在角色攻击区域（红色）内的敌人上方，然后左键单击以执行。拳击只会造成少量的损坏。\n[p][h1]掷手雷[/h1][img:codex_grenadethrow]\n[p]任何有手榴弹的角色都可以执行投掷手榴弹的标准动作。将光标定位在攻击区域（红色），选择一个目标方格，然后左击触发攻击。损坏区域会显示出来。"
 					},
 					{
 						"id": "NeutralActions",
-						"text": "Neutral actions"
+						"text": "待命"
 					},
 					{
 						"id": "NeutralActions_Content",
-						"text": "[h1]Reload[/h1][img:codex_reload]\n[p]Any character equipped with a ranged weapon can perform the Reload standard action. The weapon’s magazine is completely reloaded, provided you have sufficient ammunition.\n[p][h1]Use Medkit[/h1][img:codex_healkit]\n[p]Any character with Medkit can perform the Use Medkit standard action to heal themselves or their team members.  Left-click on a target in the field of effect (green) to trigger the healing. This action can be used to revive unconscious companions.\n[p][h1]Use Repairkit[/h1][img:codex_repairkit]\n[p]Any character with Repairkit can perform the Repair special action to repair their armor or a companion’s armor. Left-click on a target in the field of effect (green) to trigger the repair.\n[p][h1]Low Profile (Special)[/h1][img:codex_lowprofile]\n[p]Any character with medium armor can perform the Low Profile special action that grants them a significant evade bonus in the current and subsequent turn.\n[p][h1]Hunker Down (Special)[/h1][img:codex_hunkerdown]\n[p]Any character with heavy armor can perform the Hunker Down special action that significantly reduces all damage the character receives in the current and subsequent turn."
+						"text": "[h1]重新装填[/h1][img:codex_reload]\n[p]任何装备远程武器的角色都可以执行重装标准动作。只要你有足够的弹药，武器库就可以完全重新装弹。\n[p][h1]使用医疗包[/h1][img:codex_healkit]\n[p]任何具有医疗包的角色都可以执行使用医疗包标准操作来治疗自己或其团队成员。左键单击效果域中的目标（绿色）以触发愈合。这个动作可以用来唤醒失去知觉的同伴。\n[p][h1]使用修理包[/h1][img:codex_repairkit]\n[p]任何有修理包的角色都可以执行修理特殊动作来修理他们的盔甲或同伴的盔甲。左键单击效果作用区域（绿色）中的目标以触发修复。\n[p][h1]隐蔽 (特殊)[/h1][img:codex_lowprofile]\n[p]任何拥有中等护甲的角色都可以执行隐蔽的特殊动作，在当前和后续回合中给予他们一个重要的躲避加成。\n[p][h1]固守 (特殊)[/h1][img:codex_hunkerdown]\n[p]任何拥有重甲的角色都可以执行固守特殊动作，显著减少角色在当前和后续回合中受到的所有伤害。"
 					},
 					{
 						"id": "DamageClasses",
-						"text": "Types of Damage"
+						"text": "伤害类型"
 					},
 					{
 						"id": "DamageClasses_Content",
-						"text": "All types of damage other than armor piercing must first reduce any armor value to zero before they damage the health of their target.\n[p][h1]Standard[/h1]Standard damage deals the same damage to health ([damage:Standard:0]%) and armor ([damage:Standard:1]%).\n[p][h1]Splinter[/h1]Splinter damage is devastating to unarmored targets ([damage:Splinter:0]%), but receives a penalty against enemies wearing armor ([damage:Splinter:1]%). Shotguns inflict splinter damage by default, as do special models of other weapon classes.\n[p][h1]Corrosion[/h1]Corrosion rays inflict high damage to armor ([damage:Corrosion:1]%), but receive a penalty against unarmored enemies ([damage:Corrosion:0]%). Only disintegrators can inflict corrosion damage.\n[p][h1]Armor Piercing[/h1]Armor-piercing weapons ignore armor ([damage:ArmorPiercing:1]%) and instead apply all damage directly to the health of their target ([damage:ArmorPiercing:0]%). Special models of all weapon classes can inflict armor-piercing damage."
+						"text": "除穿甲以外的所有类型的伤害必须首先将任何护甲值降低到零，然后才能扣除目标的血量。\n[p][h1]标准[/h1]标准伤害对血量 ([damage:Standard:0]%) 和装甲 ([damage:Standard:1]%)造成相同的伤害。\n[p][h1]溅射伤害[/h1]溅射伤害对未穿护甲的目标 ([damage:Splinter:0]%)是致命的，但是对穿着盔甲的敌人 ([damage:Splinter:1]%)会受到惩罚。霰弹枪默认造成溅射伤害，其他类别的武器的特殊形态也是如此。\n[p][h1]腐蚀[/h1]腐蚀射线对穿着护甲的角色造成([damage:Corrosion:1]%)的高伤害，但对未穿装甲的角色会受到惩罚 ([damage:Corrosion:0]%)。只有分裂者能造成腐蚀伤害。\n[p][h1]Armor Piercing[/h1]穿甲武器无视装甲 ([damage:ArmorPiercing:1]%) 并且直接扣除目标的血量 ([damage:ArmorPiercing:0]%)。所有武器类别的特殊形态都能造成穿甲伤害。"
 					},
 					{
 						"id": "WeaponTypeIntro",
-						"text": "Weapon Classes"
+						"text": "武器种类"
 					},
 					{
 						"id": "WeaponTypeIntro_Content",
-						"text": "[h1]Advantages and disadvantages of different weapon classes[/h1]In Pathway, the characters can draw on an arsenal of five different ranged weapon classes and one melee weapon class. There is also one item class (grenades) that can be used to inflict damage.\n[p]Each weapon has a specific chance to inflict a critical hit. Crits generate additional damage. The general crit chance varies from weapon class to weapon class, as described below."
+						"text": "[h1]不同武器类别的优缺点[/h1]在Pathway，角色可以使用五种不同的远程武器和一种近战武器。还有一种武器类别（手榴弹）可以用来造成伤害。\n[p]每种武器都有特定的机会造成致命一击。暴击产生额外伤害。一般暴击几率因武器等级而异，如下所述。"
 					},
 					{
 						"id": "WeaponTypePistol",
-						"text": "Pistols"
+						"text": "手枪"
 					},
 					{
 						"id": "WeaponTypePistol_Content",
-						"text": "[h1]Pistols[/h1]Pistols have large magazines and a high crit chance. However, they only inflict moderate standard damage at medium range and accuracy. Their Double Shot special action makes pistols an extremely flexible weapon class.\n[p][img:codex_pistol]"
+						"text": "[h1]手枪[/h1]手枪有大弹匣和高爆击几率。然而，它们只能在中等距离和精度下造成中等标准伤害。他们的双发特殊动作使手枪成为一种非常灵活的武器。\n[p][img:codex_pistol]"
 					},
 					{
 						"id": "WeaponTypeShotgun",
-						"text": "Shotguns"
+						"text": "霰弹枪"
 					},
 					{
 						"id": "WeaponTypeShotgun_Content",
-						"text": "[h1]Shotguns[/h1]Shotguns inflict high splinter damage but are very limited in terms of range, accuracy, crit chance and magazine size. Their Shotgun Blast special action is devastating to groups of nearby, unarmored opponents.\n[p][img:codex_shotgun]"
+						"text": "[h1]霰弹枪[/h1]散弹枪造成很高的溅射伤害，但在射程、准确度、暴击几率和弹匣大小方面非常有限。霰弹枪的喷射的特殊能力对附近的团体和未穿装甲的对手是毁灭性的。\n[p][img:codex_shotgun]"
 					},
 					{
 						"id": "WeaponTypeAssault",
-						"text": "Assault Rifles"
+						"text": "突击步枪"
 					},
 					{
 						"id": "WeaponTypeAssault_Content",
-						"text": "[h1]Assault Rifles[/h1]Assault rifles are mid-range weapons in terms of range, accuracy, crit chance and magazine size; they inflict average standard damage. Their Burst Fire special action is moderately flexible and can provide an effective means of dealing with groups of enemies at medium distance.\n[p][img:codex_rifle]"
+						"text": "[h1]突击步枪[/h1]突击步枪在射程、准确度、暴击几率和弹匣尺寸上都是中程武器，它们造成平均标准伤害。其扫射特殊能力具有一定的灵活性，可为中距离群体对抗提供有效手段。\n[p][img:codex_rifle]"
 					},
 					{
 						"id": "WeaponTypeSniper",
-						"text": "Sniper Rifles"
+						"text": "狙击步枪"
 					},
 					{
 						"id": "WeaponTypeSniper_Content",
-						"text": "[h1]Sniper Rifles[/h1]Sniper Rifles combine high accuracy and range with average crit chance, but they only have a small magazine and moderate standard damage. Their Ambush special action is a good way to control your enemies.\n[p][img:codex_sniperrifle]"
+						"text": "[h1]狙击步枪[/h1]狙击步枪结合了高精度和射程和平均暴击几率，但他们只有一个小弹匣和中等标准的伤害。他们的埋伏特殊能力是控制敌人的好方法。\n[p][img:codex_sniperrifle]"
 					},
 					{
 						"id": "WeaponTypeDisintegrator",
-						"text": "Disintegrators"
+						"text": "分裂者"
 					},
 					{
 						"id": "WeaponTypeDisintegrator_Content",
-						"text": "[h1]Disintegrators[/h1]Disintegrators inflict high corrosion damage, but they only have a moderate range and crit chance. They have a medium magazine size and accuracy. Their Meltdown special action is extremely dependent upon enemy positioning but in optimum conditions it provides an effective means of dealing with heavily armored enemies at almost any distance.\n[p][img:codex_disintegrator]"
+						"text": "[h1]分裂者[/h1]分裂者会造成高腐蚀伤害，但它们只有中度的射程和暴击几率，中等弹匣和精准度。他们的腐蚀射线特殊能力极其依赖于敌人的位置，但在最佳条件下，它提供了一种有效的方法来处理几乎任何距离的重型装甲敌人。\n[p][img:codex_disintegrator]"
 					},
 					{
 						"id": "WeaponTypeKnife",
-						"text": "Knives"
+						"text": "刀"
 					},
 					{
 						"id": "WeaponTypeKnife_Content",
-						"text": "[h1]Knives[/h1]Knives combine high standard damage with excellent crit chances, while requiring proximity with the enemy and all the risks that entails. The Bleed special action inflicts additional damage.\n[p][img:codex_knife]"
+						"text": "[h1]刀[/h1]刀结合了高标准的伤害和极好的爆击机会，同时需要与敌人接近面临应有的风险。流血攻击特殊行动能造成额外伤害。\n[p][img:codex_knife]"
 					},
 					{
 						"id": "WeaponTypeGrenade",
-						"text": "Grenades"
+						"text": "手雷"
 					},
 					{
 						"id": "WeaponTypeGrenade_Content",
-						"text": "[h1]Grenades[/h1]Grenades inflict medium damage at medium distances. Weak and strong cover both provide complete protection from grenade shrapnel. Grenades can, however, bypass this protection if they are thrown behind the cover. Grenades cannot be targeted on cover tiles. They cause area damage, but no critical hits.\n[p][img:codex_grenade]"
+						"text": "[h1]手雷[/h1]手榴弹造成中等距离的伤害。弱掩体和强掩体都提供了对手榴弹弹片的完全保护。然而，如果手榴弹被扔到掩体后面，它们就可以绕过这种保护。手榴弹不能对准格子。它们会造成范围伤害，但不会造成严重伤害。\n[p][img:codex_grenade]"
 					},
 					{
 						"id": "TheNazis",
