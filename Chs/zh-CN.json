@@ -528,7 +528,7 @@
 					},
 					{
 						"id": "unlockGeorgette_desc",
-						"text": "Kill [amount] enemies with an Ambush to unlock Georgette."
+						"text": "Kill [amount] enemies with Ambush ability to unlock Georgette."
 					},
 					{
 						"id": "unlockGeorgette_title",
@@ -552,7 +552,7 @@
 					},
 					{
 						"id": "unlockShani_desc",
-						"text": "Kill [amount] enemies with Knives to unlock Shani."
+						"text": "Kill [amount] enemies with Melee attacks to unlock Shani."
 					},
 					{
 						"id": "unlockShani_title",
@@ -7670,7 +7670,7 @@
 					},
 					{
 						"id": "BE_VillageBloodbath01_Intro",
-						"text": "At first glance, the village seems deserted, but you soon you discover the reason for the ghostly silence that blankets this place: An unknown enemy has brutally slaughtered the villagers! Their mutilated remains lie scattered in the blood-soaked sand. [CTP]\n\nYou are shaken by the sheer brutality of the massacre – who or what could have caused such a bloodbath?"
+						"text": "At first glance, the village seems deserted, but you soon discover the reason for the ghostly silence that blankets this place: An unknown enemy has brutally slaughtered the villagers! Their mutilated remains lie scattered in the blood-soaked sand. [CTP]\n\nYou are shaken by the sheer brutality of the massacre – who or what could have caused such a bloodbath?"
 					},
 					{
 						"id": "BE_VillageBloodbath01_Choice01",
@@ -12932,6 +12932,10 @@
 					{
 						"id": "Trashbag_Empty",
 						"text": "Empty :("
+					},
+					{
+						"id": "Trashbag_UndoDescription",
+						"text": "Return last item from the valuables bag back to your inventory."
 					},
 					{
 						"id": "EventEffect_ItemReceived",
