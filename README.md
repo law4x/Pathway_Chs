@@ -7,9 +7,9 @@ Phatway【路径】 简体中文
 详情 QQ群讨论 322105492
 目前分工：
 
-Achievements：
+Achievements：@constancy 
 
-Codex：
+Codex：@xfnyl 
 
 Events：
 
@@ -17,11 +17,11 @@ GameUI：@Karnie
 
 Items：@xfnyl 
 
-Perks：
+Perks：@軒雨 
 
 Quotes：
 
-Tutorial：
+Tutorial：@law
 
 效果图：
 
