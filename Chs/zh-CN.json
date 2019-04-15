@@ -10271,7 +10271,7 @@
 					},
 					{
 						"id": "CharacterPanel_Label_ItemSkills",
-						"text": "物品和技能"
+						"text": "物品技能"
 					},
 					{
 						"id": "CharacterPanel_Label_SkillTree",
@@ -10303,7 +10303,7 @@
 					},
 					{
 						"id": "GlobalInventory_Label_Inventory",
-						"text": "吉普车存储空间"
+						"text": "吉普车后备箱"
 					},
 					{
 						"id": "VaultInventory_Label_Inventory",
@@ -10383,7 +10383,7 @@
 					},
 					{
 						"id": "CharacterStats_HP",
-						"text": "HP: [entity:CHEA]/[entity:HEA]"
+						"text": "血量: [entity:CHEA]/[entity:HEA]"
 					},
 					{
 						"id": "CharacterStats_AR",
@@ -10395,11 +10395,11 @@
 					},
 					{
 						"id": "CharacterStats_Aim",
-						"text": "技巧: [entity:AIM:N]"
+						"text": "熟练: [entity:AIM:N]"
 					},
 					{
 						"id": "CharacterStats_Agility",
-						"text": "移动力: [entity:AGI:N]"
+						"text": "移动: [entity:AGI:N]"
 					},
 					{
 						"id": "CharacterStats_Intelligence",
@@ -10407,15 +10407,15 @@
 					},
 					{
 						"id": "CharacterStats_Endurance",
-						"text": "坚忍度: [entity:END:N]"
+						"text": "耐力: [entity:END:N]"
 					},
 					{
 						"id": "CharacterStats_Reflex",
-						"text": "闪避: [entity:EVA:N]"
+						"text": "反应: [entity:EVA:N]"
 					},
 					{
 						"id": "CharacterStats_Vitality",
-						"text": "最大血量: [entity:HEA:N]"
+						"text": "生命: [entity:HEA:N]"
 					},
 					{
 						"id": "CharacterStats_Will",
@@ -10423,7 +10423,7 @@
 					},
 					{
 						"id": "CharacterStatsShort_Agility",
-						"text": "移动力"
+						"text": "移动"
 					},
 					{
 						"id": "CharacterStatsShort_Intelligence",
@@ -10431,7 +10431,7 @@
 					},
 					{
 						"id": "CharacterStatsShort_Dexterity",
-						"text": "技巧"
+						"text": "熟练"
 					},
 					{
 						"id": "CharacterStatsShort_Willpower",
@@ -10439,15 +10439,15 @@
 					},
 					{
 						"id": "CharacterStatsShort_Reflex",
-						"text": "闪避"
+						"text": "反应"
 					},
 					{
 						"id": "CharacterStatsShort_Endurance",
-						"text": "坚忍度"
+						"text": "耐力"
 					},
 					{
 						"id": "CharacterStatsShort_Vitality",
-						"text": "最大血量"
+						"text": "生命"
 					},
 					{
 						"id": "CharacterStats_CHEA",
@@ -10463,7 +10463,7 @@
 					},
 					{
 						"id": "CharacterStats_HEA",
-						"text": "最大血量"
+						"text": "生命"
 					},
 					{
 						"id": "CharacterStats_BRA",
@@ -10471,15 +10471,15 @@
 					},
 					{
 						"id": "CharacterStats_AGI",
-						"text": "移动力"
+						"text": "移动"
 					},
 					{
 						"id": "CharacterStats_AIM",
-						"text": "技巧"
+						"text": "熟练"
 					},
 					{
 						"id": "CharacterStats_EVA",
-						"text": "闪避"
+						"text": "反应"
 					},
 					{
 						"id": "CharacterStats_INT",
@@ -10487,7 +10487,7 @@
 					},
 					{
 						"id": "CharacterStats_END",
-						"text": "坚忍度"
+						"text": "耐力"
 					},
 					{
 						"id": "CharacterLevelUp_Title",
@@ -10559,7 +10559,7 @@
 					},
 					{
 						"id": "Tooltip_Weapon_BlastAngle",
-						"text": "爆破范围:"
+						"text": "喷射范围:"
 					},
 					{
 						"id": "Tooltip_Weapon_BurstSpread",
@@ -10603,15 +10603,15 @@
 					},
 					{
 						"id": "Tooltip_Grenade_Damage",
-						"text": "DMG:"
+						"text": "造成伤害:"
 					},
 					{
 						"id": "Tooltip_Grenade_DamageArea",
-						"text": "Area of DMG:"
+						"text": "爆炸范围:"
 					},
 					{
 						"id": "Tooltip_Grenade_ThrowRange",
-						"text": "Throw Range:"
+						"text": "投掷距离:"
 					},
 					{
 						"id": "Tooltip_Grenade_DamageAmount",
@@ -10627,7 +10627,7 @@
 					},
 					{
 						"id": "Tooltip_Repairkit_RepairAmount",
-						"text": "Repair:"
+						"text": "修理:"
 					},
 					{
 						"id": "Tooltip_Repairkit_RepairValue",
@@ -10635,7 +10635,7 @@
 					},
 					{
 						"id": "Tooltip_Medkit_HealAmount",
-						"text": "Heal:"
+						"text": "治疗:"
 					},
 					{
 						"id": "Tooltip_Medkit_HealValue",
@@ -10643,11 +10643,11 @@
 					},
 					{
 						"id": "Tooltip_Armor_Amount",
-						"text": "Armor:"
+						"text": "护甲:"
 					},
 					{
 						"id": "Tooltip_Armor_Type",
-						"text": "Armor Type: [item:armorType]"
+						"text": "护甲类型: [item:armorType]"
 					},
 					{
 						"id": "Tooltip_Armor_AmountValue",
@@ -10667,19 +10667,19 @@
 					},
 					{
 						"id": "Tooltip_Item_Value",
-						"text": "Value:"
+						"text": "价值:"
 					},
 					{
 						"id": "Tooltip_Item_Fame",
-						"text": "Fame:"
+						"text": "声望:"
 					},
 					{
 						"id": "Tooltip_Item_Rarity",
-						"text": "Rarity:"
+						"text": "稀有度:"
 					},
 					{
 						"id": "Tooltip_Item_Stacksize",
-						"text": "Max Stack Size:"
+						"text": "最大堆叠数:"
 					},
 					{
 						"id": "Tooltip_Item_ValueAmount",
@@ -10699,11 +10699,11 @@
 					},
 					{
 						"id": "Tooltip_Entity_Health",
-						"text": "Health:"
+						"text": "HP:"
 					},
 					{
 						"id": "Tooltip_Entity_Armor",
-						"text": "Armor:"
+						"text": "护甲:"
 					},
 					{
 						"id": "Tooltip_Entity_HealthAmount",
@@ -10715,267 +10715,267 @@
 					},
 					{
 						"id": "Tooltip_Item_SkillRequirement",
-						"text": "Skill Req"
+						"text": "需要技能"
 					},
 					{
 						"id": "Tooltip_Skill_SkillType",
-						"text": "Skill Type:"
+						"text": "技能类型:"
 					},
 					{
 						"id": "Tooltip_Skill_SkillCategory",
-						"text": "Skill Category:"
+						"text": "技能目录:"
 					},
 					{
 						"id": "Tooltip_Skill_SkillTraits",
-						"text": "Skill Traits:"
+						"text": "技能特点:"
 					},
 					{
 						"id": "Tooltip_SkillCategory_Weapon",
-						"text": "Weapon"
+						"text": "武器"
 					},
 					{
 						"id": "Tooltip_SkillCategory_Grenade",
-						"text": "Item"
+						"text": "物品"
 					},
 					{
 						"id": "Tooltip_SkillCategory_Armor",
-						"text": "Armor"
+						"text": "护甲"
 					},
 					{
 						"id": "Tooltip_SkillCategory_Medkit",
-						"text": "Item"
+						"text": "物品"
 					},
 					{
 						"id": "Tooltip_SkillCategory_Repairkit",
-						"text": "Item"
+						"text": "物品"
 					},
 					{
 						"id": "Tooltip_ActionTab",
-						"text": "Show Character Actions"
+						"text": "显示人物行动"
 					},
 					{
 						"id": "Tooltip_EnemyTab",
-						"text": "Show Enemy Info"
+						"text": "显示敌人信息"
 					},
 					{
 						"id": "Tooltip_EquippedLabel",
-						"text": "Equipped"
+						"text": "装备中"
 					},
 					{
 						"id": "Rarity_Common",
-						"text": "Common"
+						"text": "普通"
 					},
 					{
 						"id": "Rarity_Rare",
-						"text": "Rare"
+						"text": "稀有"
 					},
 					{
 						"id": "Rarity_Epic",
-						"text": "Epic"
+						"text": "史诗"
 					},
 					{
 						"id": "Rarity_Legendary",
-						"text": "Legendary"
+						"text": "传奇"
 					},
 					{
 						"id": "Rarity_Unique",
-						"text": "Unique"
+						"text": "绝世"
 					},
 					{
 						"id": "DamageType_Standard",
-						"text": "Standard"
+						"text": "标准"
 					},
 					{
 						"id": "DamageType_Splinter",
-						"text": "Splinter"
+						"text": "溅射"
 					},
 					{
 						"id": "DamageType_ArmorPiercing",
-						"text": "Armor-Piercing"
+						"text": "破甲"
 					},
 					{
 						"id": "DamageType_Corrosion",
-						"text": "Corrosion"
+						"text": "腐蚀"
 					},
 					{
 						"id": "ArmorType_Light",
-						"text": "Light Armor"
+						"text": "轻甲"
 					},
 					{
 						"id": "ArmorType_Medium",
-						"text": "Medium Armor"
+						"text": "中甲"
 					},
 					{
 						"id": "ArmorType_Heavy",
-						"text": "Heavy Armor"
+						"text": "重甲"
 					},
 					{
 						"id": "ArmorType_Light_Plural",
-						"text": "Light Armors"
+						"text": "轻甲"
 					},
 					{
 						"id": "ArmorType_Medium_Plural",
-						"text": "Medium Armors"
+						"text": "中甲"
 					},
 					{
 						"id": "ArmorType_Heavy_Plural",
-						"text": "Heavy Armors"
+						"text": "重甲"
 					},
 					{
 						"id": "ItemType_Grenade",
-						"text": "Grenade"
+						"text": "手雷"
 					},
 					{
 						"id": "ItemType_Medkit",
-						"text": "Medkit"
+						"text": "医疗包"
 					},
 					{
 						"id": "ItemType_Repairkit",
-						"text": "Repairkit"
+						"text": "修理包"
 					},
 					{
 						"id": "ItemType_Grenade_Plural",
-						"text": "Grenades"
+						"text": "手雷"
 					},
 					{
 						"id": "ItemType_Medkit_Plural",
-						"text": "Medkits"
+						"text": "医疗包"
 					},
 					{
 						"id": "ItemType_Repairkit_Plural",
-						"text": "Repairkits"
+						"text": "修理包"
 					},
 					{
 						"id": "WeaponType_SniperRifle",
-						"text": "Sniper Rifle"
+						"text": "狙击步枪"
 					},
 					{
 						"id": "WeaponType_Pistol",
-						"text": "Pistol"
+						"text": "手枪"
 					},
 					{
 						"id": "WeaponType_CloseCombat",
-						"text": "Knife"
+						"text": "步枪"
 					},
 					{
 						"id": "WeaponType_AssaultRifle",
-						"text": "Assault Rifle"
+						"text": "突击步枪"
 					},
 					{
 						"id": "WeaponType_Shotgun",
-						"text": "Shotgun"
+						"text": "霰弹枪"
 					},
 					{
 						"id": "WeaponType_Disintegrator",
-						"text": "Disintegrator"
+						"text": "分裂者"
 					},
 					{
 						"id": "WeaponType_SniperRifle_Plural",
-						"text": "Sniper Rifles"
+						"text": "狙击步枪"
 					},
 					{
 						"id": "WeaponType_Pistol_Plural",
-						"text": "Pistols"
+						"text": "手枪"
 					},
 					{
 						"id": "WeaponType_CloseCombat_Plural",
-						"text": "Knives"
+						"text": "刀"
 					},
 					{
 						"id": "WeaponType_AssaultRifle_Plural",
-						"text": "Assault Rifles"
+						"text": "突击步枪"
 					},
 					{
 						"id": "WeaponType_Shotgun_Plural",
-						"text": "Shotguns"
+						"text": "霰弹枪"
 					},
 					{
 						"id": "WeaponType_Disintegrator_Plural",
-						"text": "Disintegrators"
+						"text": "分裂者"
 					},
 					{
 						"id": "AmbushAngle_Low",
-						"text": "Low"
+						"text": "小"
 					},
 					{
 						"id": "AmbushAngle_Medium",
-						"text": "Medium"
+						"text": "中等"
 					},
 					{
 						"id": "AmbushAngle_High",
-						"text": "High"
+						"text": "大"
 					},
 					{
 						"id": "BlastAngle_Low",
-						"text": "Low"
+						"text": "小"
 					},
 					{
 						"id": "BlastAngle_Medium",
-						"text": "Medium"
+						"text": "中等"
 					},
 					{
 						"id": "BlastAngle_High",
-						"text": "High"
+						"text": "大"
 					},
 					{
 						"id": "BurstSpread_Low",
-						"text": "Low"
+						"text": "窄"
 					},
 					{
 						"id": "BurstSpread_Medium",
-						"text": "Medium"
+						"text": "中等"
 					},
 					{
 						"id": "BurstSpread_High",
-						"text": "High"
+						"text": "广"
 					},
 					{
 						"id": "PerkType_Knowledge",
-						"text": "New Item Skill"
+						"text": "新的可使用物品"
 					},
 					{
 						"id": "PerkType_Event",
-						"text": "Event"
+						"text": "随机事件"
 					},
 					{
 						"id": "PerkType_Vendetta",
-						"text": "Vendetta"
+						"text": "宿怨"
 					},
 					{
 						"id": "PerkType_Specialisation",
-						"text": "Skill Specialisation"
+						"text": "技能专精"
 					},
 					{
 						"id": "PerkType_Experience",
-						"text": "Stat Bonus"
+						"text": "属性增益"
 					},
 					{
 						"id": "PerkType_Exploration",
-						"text": "Exploration"
+						"text": "探索"
 					},
 					{
 						"id": "PerkEffect_Attribute_Dummy",
-						"text": "This perk has an effect"
+						"text": "这个天赋的效果."
 					},
 					{
 						"id": "PerkEffect_Attribute_ArmorSkill",
-						"text": "Can equip [perk:attributeTypePlural]"
+						"text": "可以装备[perk:attributeTypePlural]"
 					},
 					{
 						"id": "PerkEffect_Attribute_Event",
-						"text": "May use [perk:attributeType] Event Options"
+						"text": "可以使用[perk:attributeType] Event Options"
 					},
 					{
 						"id": "PerkEffect_Attribute_Grenade",
-						"text": "Grenades [perk:attributeType] [perk:attributeAmount]"
+						"text": "手雷[perk:attributeType] [perk:attributeAmount]"
 					},
 					{
 						"id": "PerkEffect_Attribute_Medkit",
-						"text": "Medkits [perk:attributeType] [perk:attributeAmount]"
+						"text": "医疗包[perk:attributeType] [perk:attributeAmount]"
 					},
 					{
 						"id": "PerkEffect_Attribute_ItemSkill",
-						"text": "May use [perk:attributeTypePlural]"
+						"text": "可以使用[perk:attributeTypePlural]"
 					},
 					{
 						"id": "PerkEffect_Attribute_Map",
@@ -10987,7 +10987,7 @@
 					},
 					{
 						"id": "PerkEffect_Attribute_RepairKit",
-						"text": "Repairkits [perk:attributeType] [perk:attributeAmount]"
+						"text": "修理包[perk:attributeType] [perk:attributeAmount]"
 					},
 					{
 						"id": "PerkEffect_Attribute_Stats",
@@ -10999,7 +10999,7 @@
 					},
 					{
 						"id": "PerkEffect_Attribute_WeaponSkill",
-						"text": "Can equip [perk:attributeTypePlural]"
+						"text": "可以装备[perk:attributeTypePlural]"
 					},
 					{
 						"id": "PerkEffect_Attribute_Armor",
@@ -11007,287 +11007,287 @@
 					},
 					{
 						"id": "PerkEffect_Attribute_EntityTypeDamage",
-						"text": "[perk:attributeAmount]% damage vs. [perk:attributeType]"
+						"text": "[perk:attributeAmount]% 伤害 vs. [perk:attributeType]"
 					},
 					{
 						"id": "PerkEffect_DamageAdjustment",
-						"text": "[perk:attributeAmount]% damage"
+						"text": "[perk:attributeAmount]% 伤害"
 					},
 					{
 						"id": "PerkEffect_DamageReceivedAdjustment",
-						"text": "[perk:attributeAmount]% received damage"
+						"text": "[perk:attributeAmount]% 受到的伤害"
 					},
 					{
 						"id": "WeaponSkillAdjustment_Pistol",
-						"text": "Pistol Skill"
+						"text": "手枪"
 					},
 					{
 						"id": "WeaponSkillAdjustment_AssaultRifle",
-						"text": "Assault Rifle Skill"
+						"text": "突击步枪"
 					},
 					{
 						"id": "WeaponSkillAdjustment_SniperRifle",
-						"text": "Sniper Rifle Skill"
+						"text": "狙击步枪"
 					},
 					{
 						"id": "WeaponSkillAdjustment_Shotgun",
-						"text": "Shotgun Skill"
+						"text": "霰弹枪"
 					},
 					{
 						"id": "WeaponSkillAdjustment_CloseCombat",
-						"text": "Knife Skill"
+						"text": "小刀"
 					},
 					{
 						"id": "WeaponSkillAdjustment_Disintegrator",
-						"text": "Disintegrator Skill"
+						"text": "分裂者"
 					},
 					{
 						"id": "ItemSkillAdjustment_Grenade",
-						"text": "Grenade Skill"
+						"text": "手雷"
 					},
 					{
 						"id": "ItemSkillAdjustment_Medkit",
-						"text": "Medkit Skill"
+						"text": "医疗包"
 					},
 					{
 						"id": "ItemSkillAdjustment_Repairkit",
-						"text": "Repairkit Skill"
+						"text": "修理包"
 					},
 					{
 						"id": "ArmorSkillAdjustment_Light",
-						"text": "Light Armor Skill"
+						"text": "轻甲"
 					},
 					{
 						"id": "ArmorSkillAdjustment_Medium",
-						"text": "Medium Armor Skill"
+						"text": "中甲"
 					},
 					{
 						"id": "ArmorSkillAdjustment_Heavy",
-						"text": "Heavy Armor Skill"
+						"text": "重甲"
 					},
 					{
 						"id": "WeaponSkillDescription_Pistol",
-						"text": "Can equip Pistols. Pistols have the special ability Double Shot, which allows firing of two rapid shots in one turn."
+						"text": "可以装备手枪. 手枪可以使用双发技能, 允许一回合快速射击两次."
 					},
 					{
 						"id": "WeaponSkillDescription_AssaultRifle",
-						"text": "Can equip Assault Rifles. Assault Rifles have the special ability Burst Fire, which allows targeting multiple adjacent tiles."
+						"text": "可以装备突击步枪. 突击步枪可以使用扫射技能, 能同时朝多个邻近的目标开火."
 					},
 					{
 						"id": "WeaponSkillDescription_SniperRifle",
-						"text": "Can equip Sniper Rifles. Sniper Rifles have the special ability Ambush, which fires at any enemy moving or attacking inside the ambush area during the next turn."
+						"text": "可以装备狙击步枪. 狙击步枪可以埋伏敌人. 下回合任何在范围内路过或开火的敌人都会受到伏击."
 					},
 					{
 						"id": "WeaponSkillDescription_Shotgun",
-						"text": "Can equip Shotguns. Shotguns have the special ability Blast, which damages all enemies within a cone."
+						"text": "可以装备霰弹枪. 霰弹枪有喷射技能, 可以对锥形范围内所有敌人造成伤害."
 					},
 					{
 						"id": "WeaponSkillDescription_CloseCombat",
-						"text": "Can equip Knives. Knives have the special ability Bleed, causing the target to take additional damage in subsequent turns."
+						"text": "可以装备刀. 刀的技能是使敌人流血, 在接下来的回合中对目标造成额外伤害."
 					},
 					{
 						"id": "WeaponSkillDescription_Disintegrator",
-						"text": "Can equip Disintegrators. Disintegrators have the special ability Meltdown, which damages everyone in a straight line until stopped by a wall."
+						"text": "可以装备分裂者. 分裂者可以发射腐蚀射线, 可以穿透打击一条直线上的敌人, 直到被墙壁挡住."
 					},
 					{
 						"id": "ArmorSkillDescription_Light",
-						"text": "Can equip Light Armors. Light Armors enable the special ability Sprint. Sprinting allows to cover a much larger distance than a normal move."
+						"text": "可以装备轻甲. 穿轻甲的角色可以发动技能冲锋. 冲锋可以让角色比普通移动走得更远."
 					},
 					{
 						"id": "ArmorSkillDescription_Medium",
-						"text": "Can equip Medium Armors. Medium Armors enable the special ability Low Profile. When Low Profile is activated, the character receives a temporary Evade boost of 40% in the current turn and during the next enemy turn."
+						"text": "可以装备中甲. 中甲可以让角色发动技能隐蔽. 隐蔽状态下, 本回合与接下来敌人行动回合中角色回避率额外提高40%."
 					},
 					{
 						"id": "ArmorSkillDescription_Heavy",
-						"text": "Can equip Heavy Armors. Heavy Armors enable the special ability Hunker Down. When active, all damage taken in the current turn and during the next enemy turn is reduced by 75%."
+						"text": "可以装备重甲. 穿重甲的角色可以发动技能固守. 固守状态下, 本回合与接下来敌人行动回合中角色受到的所有伤害降低75%."
 					},
 					{
 						"id": "ItemSkillDescription_Grenade",
-						"text": "May use Grenades. Grenades can be thrown at a distance and cause area damage."
+						"text": "可以使用手雷. 手雷可以远距离投掷, 造成AOE伤害."
 					},
 					{
 						"id": "ItemSkillDescription_Medkit",
-						"text": "May use Medkits. Medkits can be used to heal and revive people when they are knocked out."
+						"text": "可以使用医疗包. 医疗包可以用来治疗以及复活倒地的队友."
 					},
 					{
 						"id": "ItemSkillDescription_Repairkit",
-						"text": "May use Repairkits. Repairkits can be used to restore armor."
+						"text": "可以使用修理包. 修理包可以用来回复护甲值."
 					},
 					{
 						"id": "EventTooltip_UnvisitedLocationTitle",
-						"text": "Unvisited location"
+						"text": "未拜访区域"
 					},
 					{
 						"id": "EventTooltip_CurrentLocation",
-						"text": "This is your current location."
+						"text": "这是你当前的位置."
 					},
 					{
 						"id": "EventTooltip_UnvisitedLocation",
-						"text": "You have not yet visited this location."
+						"text": "你还没有拜访过这里."
 					},
 					{
 						"id": "EventTooltip_VisitedLocation",
-						"text": "You have visited this location."
+						"text": "已拜访过这里."
 					},
 					{
 						"id": "EventTooltip_TraderLocation",
-						"text": "There is a trader at this location."
+						"text": "这里有人贩卖物资."
 					},
 					{
 						"id": "EventTooltip_RecruiterLocation",
-						"text": "You may recruit a new team member at this location."
+						"text": "你可以在这里招募到新成员."
 					},
 					{
 						"id": "EventTooltip_RestingPlaceLocation",
-						"text": "This location allows resting."
+						"text": "可以在这里休息."
 					},
 					{
 						"id": "EventTooltip_POILocation",
-						"text": "There appears to be something interesting at this location."
+						"text": "这里看上去有些有意思的东西."
 					},
 					{
 						"id": "EventTooltip_EndPointLocation",
-						"text": "Travel here to finish this adventure."
+						"text": "这里是这次冒险的终点."
 					},
 					{
 						"id": "EventTooltip_CanBeRevisited",
-						"text": "This location can be revisited multiple times."
+						"text": "这里可以多次拜访."
 					},
 					{
 						"id": "Action_Attack",
-						"text": "Ranged Attack"
+						"text": "远程攻击"
 					},
 					{
 						"id": "Action_Melee",
-						"text": "Knife Attack"
+						"text": "小刀攻击"
 					},
 					{
 						"id": "Action_Bleed",
-						"text": "Bleed"
+						"text": "流血攻击"
 					},
 					{
 						"id": "Action_Reload",
-						"text": "Reload"
+						"text": "装填弹夹"
 					},
 					{
 						"id": "Action_Walk",
-						"text": "Walk"
+						"text": "移动"
 					},
 					{
 						"id": "Action_Sprint",
-						"text": "Sprint"
+						"text": "冲锋"
 					},
 					{
 						"id": "Action_LowProfile",
-						"text": "Low Profile"
+						"text": "隐蔽"
 					},
 					{
 						"id": "Action_HunkerDown",
-						"text": "Hunker Down"
+						"text": "固守"
 					},
 					{
 						"id": "Action_Burst",
-						"text": "Burst Fire"
+						"text": "扫射"
 					},
 					{
 						"id": "Action_Blast",
-						"text": "Shotgun Blast"
+						"text": "霰弹喷射"
 					},
 					{
 						"id": "Action_EnergyLance",
-						"text": "Meltdown"
+						"text": "腐蚀射线"
 					},
 					{
 						"id": "Action_Ambush",
-						"text": "Ambush"
+						"text": "埋伏"
 					},
 					{
 						"id": "Action_DoubleShot",
-						"text": "Double Shot"
+						"text": "双发"
 					},
 					{
 						"id": "Action_Medkit",
-						"text": "Use Medkit"
+						"text": "使用医疗包"
 					},
 					{
 						"id": "Action_Repairkit",
-						"text": "Use Repairkit"
+						"text": "使用修理包"
 					},
 					{
 						"id": "Action_Grenade",
-						"text": "Throw Grenade"
+						"text": "投掷手雷"
 					},
 					{
 						"id": "Action_Punch",
-						"text": "Punch"
+						"text": "拳头攻击"
 					},
 					{
 						"id": "ActionDescription_Attack",
-						"text": "Attack a single target within the weapon's range."
+						"text": "攻击射程内的单个目标."
 					},
 					{
 						"id": "ActionDescription_Melee",
-						"text": "Knife attack a target on a neighbouring tile. "
+						"text": "用刀攻击邻近敌人. "
 					},
 					{
 						"id": "ActionDescription_Bleed",
-						"text": "Bleed causes melee damage and additional damage the following turns."
+						"text": "流血攻击除了造成物理伤害外接下来的回合还会造成额外伤害."
 					},
 					{
 						"id": "ActionDescription_Reload",
-						"text": "Reload your weapon's magazine."
+						"text": "重新装填你的弹夹."
 					},
 					{
 						"id": "ActionDescription_Walk",
-						"text": "Move within the character's walk range. The range is determined by the character's agility."
+						"text": "在角色可移动范围内移动. 可移动范围取决于角色的移动力."
 					},
 					{
 						"id": "ActionDescription_Sprint",
-						"text": "Sprint allows you to move with an additional range bonus."
+						"text": "冲锋可以临时增加角色移动力."
 					},
 					{
 						"id": "ActionDescription_LowProfile",
-						"text": "When in Low Profile, this character receives an evade bonus of 40% in the current turn and during the next enemy turn."
+						"text": "隐蔽中的角色在本回合及接下来敌人行动的回合中回避率额外提高40%."
 					},
 					{
 						"id": "ActionDescription_HunkerDown",
-						"text": "When hunkered down, you take 75% less damage in the current turn and during the next enemy turn."
+						"text": "固守状态下, 本回合与接下来敌人行动回合中角色受到的所有伤害降低75%."
 					},
 					{
 						"id": "ActionDescription_Burst",
-						"text": "Burst Fire allows you to target enemy's within a straight connected line. It uses 1 ammo for every target inside the target area. \nMousewheel to rotate orientation."
+						"text": "扫射可以攻击一条直线上的敌人. 范围内每个目标都会消耗一发子弹. \n鼠标滚轮调整朝向."
 					},
 					{
 						"id": "ActionDescription_Blast",
-						"text": "A powerful blast damaging targets in a conical shape in front of you. It uses 2 ammo. Blast damage is reduced by 20%."
+						"text": "强力喷射可以攻击到你面前圆锥形范围内的所有目标. 会消耗两发子弹. 喷射伤害较原来降低20%."
 					},
 					{
 						"id": "ActionDescription_EnergyLance",
-						"text": "A meltdown damages all units in a straight line until it hits an obstacle. Each successive unit shot reduces the remaining damage by 40%. Meltdown empties the magazine."
+						"text": "腐蚀射线可以攻击一条直线上的所有敌人, 直到它被墙壁挡住. 每穿透一个敌人攻击力降低40%. 腐蚀射线会一次性打空整个弹夹."
 					},
 					{
 						"id": "ActionDescription_Ambush",
-						"text": "Ambush lets you place a conical area to observe. The first enemy trying to move or attack in this area will be interrupted and trigger a counter attack from your character."
+						"text": "埋伏时可以设置一片圆锥形的观察区域. 区域内第一个试图移动或攻击的敌人行动会被打断并被你的角色反击."
 					},
 					{
 						"id": "ActionDescription_DoubleShot",
-						"text": "Attacks two targets in rapid succession. A Double Shot uses 2 ammo."
+						"text": "快速连续攻击两次. 一次双发消耗两发子弹."
 					},
 					{
 						"id": "ActionDescription_Medkit",
-						"text": "Use Medkit on target to heal or revive people when they are knocked out."
+						"text": "使用医疗包治疗已方或复活倒地队友."
 					},
 					{
 						"id": "ActionDescription_Repairkit",
-						"text": "Use Repairkit on target to restore armor."
+						"text": "使用修理包回复护甲值."
 					},
 					{
 						"id": "ActionDescription_Grenade",
-						"text": "Throw grenade at target tile causing area damage."
+						"text": "朝目标区域投掷手雷造成AOE伤害."
 					},
 					{
 						"id": "ActionDescription_Punch",
-						"text": "Attack a neighbouring target with your fist. Does little damage, but sometimes that's all you need."
+						"text": "用拳头攻击相邻目标. 伤害不高, 但有时候正是你所需的."
 					},
 					{
 						"id": "ActionType_Attack",
