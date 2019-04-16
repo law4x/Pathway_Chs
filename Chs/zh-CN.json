@@ -332,7 +332,7 @@
 					},
 					{
 						"id": "shotgunKills01_title",
-						"text": "霰弹枪手"
+						"text": "散弹枪手"
 					},
 					{
 						"id": "sickBeduinCamel01_desc",
@@ -873,7 +873,7 @@
 					},
 					{
 						"id": "DamageClasses_Content",
-						"text": "除穿甲以外的所有类型的伤害计算是先将护甲值降低到零,然后扣除目标的血量.\n[p][h1]标准[/h1]标准伤害对血量 ([damage:Standard:0]%) 和装甲 ([damage:Standard:1]%)造成相同的伤害.\n[p][h1]溅射伤害[/h1]溅射伤害对未穿护甲的目标 ([damage:Splinter:0]%)是致命的,但是对穿着盔甲的敌人 ([damage:Splinter:1]%)会受到惩罚.霰弹枪默认造成溅射伤害,其他类别的武器的特殊形态也是如此.\n[p][h1]腐蚀[/h1]腐蚀射线对穿着护甲的角色造成([damage:Corrosion:1]%)的高伤害,但对未穿装甲的角色会受到惩罚 ([damage:Corrosion:0]%).只有分裂者能造成腐蚀伤害.\n[p][h1]Armor Piercing[/h1]穿甲武器无视装甲 ([damage:ArmorPiercing:1]%) 并且直接扣除目标的血量 ([damage:ArmorPiercing:0]%).所有武器类别的特殊形态都能造成穿甲伤害."
+						"text": "除穿甲以外的所有类型的伤害计算是先将护甲值降低到零,然后扣除目标的血量.\n[p][h1]标准[/h1]标准伤害对血量 ([damage:Standard:0]%) 和装甲 ([damage:Standard:1]%)造成相同的伤害.\n[p][h1]溅射伤害[/h1]溅射伤害对未穿护甲的目标 ([damage:Splinter:0]%)是致命的,但是对穿着盔甲的敌人 ([damage:Splinter:1]%)会受到惩罚.散弹枪默认造成溅射伤害,其他类别的武器的特殊形态也是如此.\n[p][h1]腐蚀[/h1]腐蚀射线对穿着护甲的角色造成([damage:Corrosion:1]%)的高伤害,但对未穿装甲的角色会受到惩罚 ([damage:Corrosion:0]%).只有分裂者能造成腐蚀伤害.\n[p][h1]Armor Piercing[/h1]穿甲武器无视装甲 ([damage:ArmorPiercing:1]%) 并且直接扣除目标的血量 ([damage:ArmorPiercing:0]%).所有武器类别的特殊形态都能造成穿甲伤害."
 					},
 					{
 						"id": "WeaponTypeIntro",
@@ -893,11 +893,11 @@
 					},
 					{
 						"id": "WeaponTypeShotgun",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "WeaponTypeShotgun_Content",
-						"text": "[h1]霰弹枪[/h1]散弹枪造成很高的溅射伤害,但在射程、准确度、暴击几率和弹匣大小方面非常有限.霰弹枪的喷射的特殊能力对附近的团体和未穿装甲的对手是毁灭性的.\n[p][img:codex_shotgun]"
+						"text": "[h1]散弹枪[/h1]散弹枪造成很高的溅射伤害,但在射程、准确度、暴击几率和弹匣大小方面非常有限.散弹枪的喷射的特殊能力对附近的团体和未穿装甲的对手是毁灭性的.\n[p][img:codex_shotgun]"
 					},
 					{
 						"id": "WeaponTypeAssault",
@@ -969,7 +969,7 @@
 					},
 					{
 						"id": "Shotgunner_Content",
-						"text": "[h1]突击队[/h1]突击队是德国最具攻击性的部队.机动性强,装甲精良,他们坚持不懈地前进,用霰弹枪与敌人交战.突击队是无畏且致命的近距离战士.\n[p][img:codex_shocktroopers]"
+						"text": "[h1]突击队[/h1]突击队是德国最具攻击性的部队.机动性强,装甲精良,他们坚持不懈地前进,用散弹枪与敌人交战.突击队是无畏且致命的近距离战士.\n[p][img:codex_shocktroopers]"
 					},
 					{
 						"id": "Sniper",
@@ -10863,7 +10863,7 @@
 					},
 					{
 						"id": "WeaponType_Shotgun",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "WeaponType_Disintegrator",
@@ -10887,7 +10887,7 @@
 					},
 					{
 						"id": "WeaponType_Shotgun_Plural",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "WeaponType_Disintegrator_Plural",
@@ -11031,7 +11031,7 @@
 					},
 					{
 						"id": "WeaponSkillAdjustment_Shotgun",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "WeaponSkillAdjustment_CloseCombat",
@@ -11079,7 +11079,7 @@
 					},
 					{
 						"id": "WeaponSkillDescription_Shotgun",
-						"text": "可以装备霰弹枪. 霰弹枪有喷射技能, 可以对锥形范围内所有敌人造成伤害."
+						"text": "可以装备散弹枪. 散弹枪有喷射技能, 可以对锥形范围内所有敌人造成伤害."
 					},
 					{
 						"id": "WeaponSkillDescription_CloseCombat",
@@ -11191,7 +11191,7 @@
 					},
 					{
 						"id": "Action_Blast",
-						"text": "霰弹喷射"
+						"text": "散弹喷射"
 					},
 					{
 						"id": "Action_EnergyLance",
@@ -11431,7 +11431,7 @@
 					},
 					{
 						"id": "Bio_Pereira_Positive",
-						"text": "霰弹枪专家, 非常耐打"
+						"text": "散弹枪专家, 非常耐打"
 					},
 					{
 						"id": "Bio_Pereira_Negative",
@@ -11479,7 +11479,7 @@
 					},
 					{
 						"id": "Bio_DrChandra_Positive",
-						"text": "会用霰弹枪, 也能兼职奶妈"
+						"text": "会用散弹枪, 也能兼职奶妈"
 					},
 					{
 						"id": "Bio_DrChandra_Negative",
@@ -15677,7 +15677,7 @@
 					},
 					{
 						"id": "WeaponType_Shotgun",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "WeaponType_Flamethrower",
@@ -15713,7 +15713,7 @@
 					},
 					{
 						"id": "WeaponType_Shotgun_Plural",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "WeaponType_Disintegrator_Plural",
@@ -16121,7 +16121,7 @@
 					},
 					{
 						"id": "shotgunBasics_name",
-						"text": "霰弹枪"
+						"text": "散弹枪"
 					},
 					{
 						"id": "assaultRifleBasics_name",
@@ -16277,27 +16277,27 @@
 					},
 					{
 						"id": "shotgunDamage01_name",
-						"text": "霰弹枪伤害"
+						"text": "散弹枪伤害"
 					},
 					{
 						"id": "shotgunMagSize01_name",
-						"text": "霰弹枪弹夹容量"
+						"text": "散弹枪弹夹容量"
 					},
 					{
 						"id": "shotgunAim01_name",
-						"text": "霰弹枪精准度"
+						"text": "散弹枪精准度"
 					},
 					{
 						"id": "shotgunCritChance01_name",
-						"text": "霰弹枪暴击率"
+						"text": "散弹枪暴击率"
 					},
 					{
 						"id": "shotgunCritStrength01_name",
-						"text": "霰弹枪暴击伤害"
+						"text": "散弹枪暴击伤害"
 					},
 					{
 						"id": "shotgunRange01_name",
-						"text": "霰弹枪射程"
+						"text": "散弹枪射程"
 					},
 					{
 						"id": "disintegratorRange01_name",
@@ -18535,7 +18535,7 @@
 					},
 					{
 						"id": "LoadingScreen_Hint_10",
-						"text": "护甲总是优先吸收伤害.对于像霰弹枪这样的碎片伤害武器特别有效!"
+						"text": "护甲总是优先吸收伤害.对于像散弹枪这样的碎片伤害武器特别有效!"
 					},
 					{
 						"id": "LoadingScreen_Hint_11",
@@ -18571,7 +18571,7 @@
 					},
 					{
 						"id": "LoadingScreen_Hint_19",
-						"text": "霰弹枪可以进行喷射射击,直接破坏你面前扇形区域中的任何物体."
+						"text": "散弹枪可以进行喷射射击,直接破坏你面前扇形区域中的任何物体."
 					},
 					{
 						"id": "LoadingScreen_Hint_20",
