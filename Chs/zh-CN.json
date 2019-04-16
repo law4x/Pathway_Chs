@@ -8,43 +8,43 @@
 				"rows": [
 					{
 						"id": "adventure01Clue01_desc",
-						"text": "What on earth are the Nazis up to?"
+						"text": "纳粹在搞毛?"
 					},
 					{
 						"id": "adventure01Clue01_title",
-						"text": "The Armenian Trail"
+						"text": "亚美尼亚路线"
 					},
 					{
 						"id": "adventure01Clue03_desc",
-						"text": "The circling vultures put us on his trail..."
+						"text": "盘旋的秃鹰跟踪我们……"
 					},
 					{
 						"id": "adventure01Clue03_title",
-						"text": "Hubris"
+						"text": "就是吊"
 					},
 					{
 						"id": "adventure02Clue01_desc",
-						"text": "They thought they could catch us unawares!"
+						"text": "出其不意!"
 					},
 					{
 						"id": "adventure02Clue01_title",
-						"text": "Sword of Flames"
+						"text": "炽热之剑."
 					},
 					{
 						"id": "adventure02Clue02_desc",
-						"text": "Their solitary radio station was tucked away in a sea of dunes."
+						"text": "他们的电台隐蔽在茫茫的沙海中."
 					},
 					{
 						"id": "adventure02Clue02_title",
-						"text": "Tip of the Iceberg"
+						"text": "冰山一角"
 					},
 					{
 						"id": "adventure02Clue03_desc",
-						"text": "They were hard on his heels..."
+						"text": "紧随其后"
 					},
 					{
 						"id": "adventure02Clue03_title",
-						"text": "The Coming War"
+						"text": "山雨欲来"
 					},
 					{
 						"id": "adventure03MapArrival02_desc",
@@ -52,7 +52,7 @@
 					},
 					{
 						"id": "adventure03MapArrival02_title",
-						"text": "Realm of Torment"
+						"text": "苦难之所"
 					},
 					{
 						"id": "adventure05Clue01_desc",
