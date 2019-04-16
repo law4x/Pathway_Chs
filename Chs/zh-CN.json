@@ -601,7 +601,7 @@
 				]
 			},
 			{
-				"id": "Codex",
+				"id": "Codex",//120条done
 				"rows": [
 					{
 						"id": "GameDescription",
@@ -609,7 +609,7 @@
 					},
 					{
 						"id": "GameDescription_Content",
-						"text": "[h1]背景[/h1]1936年,纳粹活动日趋激烈.\n他们不知疲倦地将他们的探险队派往广阔的沙漠和荒凉的中东山区.\n北非,阿拉伯-邪恶的军队在寻找什么？\n[p][img:codex_atmoshot]\n[p][h1]每次探险都不一样[/h1]在Pathway,你派出一群勇敢的冒险家进行危险的探险.他们必须赢得基于回合的战斗,揭露古老的秘密,并管理他们的燃料供应,确保他们及时到达,以挫败无情敌人的邪恶计划.\n每一次探险都有不同的路线.因为除了一个基本的主线外,探险总是会随机分配一系列新的事件.即使是你以前遇到过的事件,也可能会发生意想不到的转折,无论是偶然发生的,还是由于你的团队组成不同,结果也会不同.\n[p][h1]持久的游戏玩法[/h1]即使失败也意味着道路上的进步,因为角色即使失败也会获得经验.在个人冒险的过程中,角色将获得足够的经验和装备来尝试越来越冒险的任务.\n管理你的探险!利用其个人独特的优势!对您在旅途中遇到的事件做出正确的决定!\n[p][h1]每个决定都很重要[/h1]世界正处于灾难的边缘.一场未宣布的战争在阴影中肆虐!胜利还是失败——只有你和你的无名英雄才能决定最终结果!\n[p][img:codex_armor]"
+						"text": "[h1]背景[/h1]1936年,纳粹活动日趋激烈.\n他们不知疲倦地将他们的探险队派往广阔的沙漠和荒凉的中东山区.\n北非,阿拉伯-邪恶的军队在寻找什么?\n[p][img:codex_atmoshot]\n[p][h1]每次探险都不一样[/h1]在Pathway,你派出一群勇敢的冒险家进行危险的探险.他们必须赢得基于回合的战斗,揭露古老的秘密,并管理他们的燃料供应,确保他们及时到达,以挫败无情敌人的邪恶计划.\n每一次探险都有不同的路线.因为除了一个基本的主线外,探险总是会随机分配一系列新的事件.即使是你以前遇到过的事件,也可能会发生意想不到的转折,无论是偶然发生的,还是由于你的团队组成不同,结果也会不同.\n[p][h1]持久的游戏玩法[/h1]即使失败也意味着道路上的进步,因为角色即使失败也会获得经验.在个人冒险的过程中,角色将获得足够的经验和装备来尝试越来越冒险的任务.\n管理你的探险!利用其个人独特的优势!对您在旅途中遇到的事件做出正确的决定!\n[p][h1]每个决定都很重要[/h1]世界正处于灾难的边缘.一场未宣布的战争在阴影中肆虐!胜利还是失败--只有你和你的无名英雄才能决定最终结果!\n[p][img:codex_armor]"
 					},
 					{
 						"id": "KeyBindings",
@@ -841,7 +841,7 @@
 					},
 					{
 						"id": "SpecialActions_Content",
-						"text": "[h1]特殊动作[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点：\n[p]成功攻击敌人：+[bravery:Hit] 勇气\n对敌人进行致命打击：+[bravery:HitCritical] 勇气\n成功躲避敌人攻击：+[bravery:Evade] 勇气\n治愈自己或朋友：+[bravery:UseMedKit] 勇气\n修复自己或朋友的盔甲：+[bravery:UseRepairKit] 勇气"
+						"text": "[h1]特殊动作[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点：\n[p]成功攻击敌人：+[bravery:Hit] 勇气\n对敌人进行致命打击：+[bravery:HitCritical] 勇气\n成功躲避敌人攻击：+[bravery:Evade] 勇气\n治愈自己或队友：+[bravery:UseMedKit] 勇气\n修复自己或队友的盔甲：+[bravery:UseRepairKit] 勇气"
 					},
 					{
 						"id": "MovementActions",
@@ -945,7 +945,7 @@
 					},
 					{
 						"id": "TheNazis_Content",
-						"text": "[h1]Valkyrium之谜[/h1]德意志帝国痴迷于一种叫做Valkyrium的神秘物质.\n这种奇怪的物质是什么？它授予那些拥有它的人什么权力？\n纳粹似乎找到了这些问题的答案-可怕的答案...\n[p][img:codex_valkyrium]"
+						"text": "[h1]Valkyrium之谜[/h1]德意志帝国痴迷于一种叫做Valkyrium的神秘物质.\n这种奇怪的物质是什么?它授予那些拥有它的人什么权力?\n纳粹似乎找到了这些问题的答案-可怕的答案...\n[p][img:codex_valkyrium]"
 					},
 					{
 						"id": "Infanterist",
@@ -993,7 +993,7 @@
 					},
 					{
 						"id": "Officer_Content",
-						"text": "[h1]德国军官[/h1]德国军官以无情的纪律领导他们的军队——任何轻微的违法行为都会受到严厉的惩罚.尽管如此,德国军官拥有出色的战术训练——如果军官指挥,德国陆军部队的战斗效率将显著提高.德国军官以无情的纪律领导他们的军队——任何轻微的违法行为都会受到严厉的惩罚.尽管如此,德国军官拥有出色的战术训练——如果有军官指挥,德国陆军部队的战斗效率将显著提高.\n[p][img:codex_officers]"
+						"text": "[h1]德国军官[/h1]德国军官以无情的纪律领导他们的军队--任何轻微的违法行为都会受到严厉的惩罚.尽管如此,德国军官拥有出色的战术训练--如果军官指挥,德国陆军部队的战斗效率将显著提高.德国军官以无情的纪律领导他们的军队--任何轻微的违法行为都会受到严厉的惩罚.尽管如此,德国军官拥有出色的战术训练--如果有军官指挥,德国陆军部队的战斗效率将显著提高.\n[p][img:codex_officers]"
 					},
 					{
 						"id": "EliteDog",
@@ -1009,7 +1009,7 @@
 					},
 					{
 						"id": "Teslaborg_Content",
-						"text": "[h1]Teslaborg[/h1]他们是德国远征军的突击队员,绝对是恐怖分子中的精英!Teslaborg由于其巨大的装甲和毁灭性的火力,在战斗中是一场钢铁般的噩梦.\n[p][img:codex_teslaborgs]"
+						"text": "[h1]Teslaborg[/h1]他们是德国远征军的突击队员,是恐怖分子中的精英!Teslaborg由于其巨大的装甲和毁灭性的火力,在战斗中是一场钢铁般的噩梦.\n[p][img:codex_teslaborgs]"
 					},
 					{
 						"id": "TheBrotherhood",
@@ -1025,7 +1025,7 @@
 					},
 					{
 						"id": "Cultist_Content",
-						"text": "[h1]邪教分子[/h1]兄弟会的步兵——狂热迷信,充满仇恨,愿意战斗至死.与他们可怕的不死族盟友不同,邪教分子能够有策略地战斗及使用掩体,或者在有必要的时候逃跑.邪教分子燃烧的硫磺罐将死亡和毁灭降到他们的敌人身上.\n[p][img:codex_cultists]"
+						"text": "[h1]邪教分子[/h1]兄弟会的步兵--狂热迷信,充满仇恨,愿意战斗至死.与他们可怕的不死族盟友不同,邪教分子能够有策略地战斗及使用掩体,或者在有必要的时候逃跑.邪教分子燃烧的硫磺罐将死亡和毁灭降到他们的敌人身上.\n[p][img:codex_cultists]"
 					},
 					{
 						"id": "Zombie",
@@ -1033,7 +1033,7 @@
 					},
 					{
 						"id": "Zombie_Content",
-						"text": "[h1]僵尸[/h1]是什么赋予兄弟会对死者的邪恶力量？有一件事是肯定的：无论他们出现在哪里,僵尸部落就在不远处.他们饱受折磨,毫无思想,被不断的饥饿和对生活的憎恨所驱使.没有什么东西比受伤的僵尸更危险...\n[p][img:codex_zombies]"
+						"text": "[h1]僵尸[/h1]是什么赋予兄弟会对死者的邪恶力量?有一件事是肯定的：无论他们出现在哪里,僵尸部落就在不远处.他们饱受折磨,毫无思想,被不断的饥饿和对生活的憎恨所驱使.没有什么东西比受伤的僵尸更危险...\n[p][img:codex_zombies]"
 					},
 					{
 						"id": "Infected",
@@ -1049,7 +1049,7 @@
 					},
 					{
 						"id": "Sporebearer_Content",
-						"text": "[h1]孢子寄生菌[/h1]兄弟会通过他们神秘的仪式,创造了一种寄生的可憎之物,使敌人在一团有毒的孢子中瘫痪.这些不幸的灵魂有什么痛苦？它们的变异将揭晓什么样的最终形态？\n[p][img:codex_sporebearers]"
+						"text": "[h1]孢子寄生菌[/h1]兄弟会通过他们神秘的仪式,创造了一种寄生的可憎之物,使敌人在一团有毒的孢子中瘫痪.这些不幸的灵魂有什么痛苦?它们的变异将揭晓什么样的最终形态?\n[p][img:codex_sporebearers]"
 					},
 					{
 						"id": "HighPriestess",
@@ -1057,7 +1057,7 @@
 					},
 					{
 						"id": "HighPriestess_Content",
-						"text": "[h1]高级女祭司[/h1]通过多年的学习和不可告人的实验,这些可恶的兄弟会领导人已经知道了最黑暗的秘密.他们现在掌握着生与死的秘密——他们会毫不犹豫地释放他们的邪恶力量来实现他们的目标...\n[p][img:codex_highpriestesses]"
+						"text": "[h1]高级女祭司[/h1]通过多年的学习和不可告人的实验,这些可恶的兄弟会领导人已经知道了最黑暗的秘密.他们现在掌握着生与死的秘密--他们会毫不犹豫地释放他们的邪恶力量来实现他们的目标...\n[p][img:codex_highpriestesses]"
 					},
 					{
 						"id": "TravelSummary",
@@ -1077,7 +1077,7 @@
 					},
 					{
 						"id": "Credits",
-						"text": "[h1]汉化人员名单：[/h1][br]\n[br]\n[p][h2]constancy[/h2]\n[p][h2]Karnie[/h2]\n[p][h2]law4x[/h2]\n[p][h2]xfnyl[/h2]\n[p][h2]Zain[/h2]\n[p][h2]law4x[/h2]整合\n[br]\n[br]\n[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]感谢游玩Pathway![/h2][br]\n[br]\n[br]"
+						"text": "[h1]汉化人员名单：[/h1][br]\n[h2]constancy[/h2][h2]Karnie[/h2][h2]law4x[/h2][h2]xfnyl[/h2][h2]Zain[/h2][br]\n[br]\n[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]感谢游玩Pathway![/h2][br]\n[br]\n[br]"
 					}
 				]
 			},
@@ -13004,151 +13004,151 @@
 				]
 			},
 			{
-				"id": "Items",
+				"id": "Items",//600条done
 				"rows": [
 					{
 						"id": "knife_0_a_description",
-						"text": "The blade is almost completely dull."
+						"text": "刀刃几乎全钝了."
 					},
 					{
 						"id": "knife_0_a_name",
-						"text": "Tarnished pocket knife"
+						"text": "破旧的小刀"
 					},
 					{
 						"id": "knife_0_b_description",
-						"text": "Hey, it even has a corkscrew!"
+						"text": "嘿,上面有个开瓶器!"
 					},
 					{
 						"id": "knife_0_b_name",
-						"text": "Splendid pocket knife"
+						"text": "优秀的小刀"
 					},
 					{
 						"id": "knife_0_description",
-						"text": "It doesn’t even have a corkscrew."
+						"text": "它没有开瓶器"
 					},
 					{
 						"id": "knife_0_name",
-						"text": "Pocket knife"
+						"text": "小刀"
 					},
 					{
 						"id": "knife_1_a_description",
-						"text": "It's pretty rusty."
+						"text": "它绣得很严重."
 					},
 					{
 						"id": "knife_1_a_name",
-						"text": "Tarnished stiletto"
+						"text": "破旧的匕首"
 					},
 					{
 						"id": "knife_1_b_description",
-						"text": "It's as sharp as a razor!"
+						"text": "像剃须刀一样锋利!"
 					},
 					{
 						"id": "knife_1_b_name",
-						"text": "Splendid stiletto"
+						"text": "优秀的匕首"
 					},
 					{
 						"id": "knife_1_description",
-						"text": "Elegant and deadly..."
+						"text": "优雅且致命..."
 					},
 					{
 						"id": "knife_1_name",
-						"text": "Stiletto"
+						"text": "匕首"
 					},
 					{
 						"id": "knife_2_a_description",
-						"text": "The blade is a little loose."
+						"text": "刀刃有一些松了."
 					},
 					{
 						"id": "knife_2_a_name",
-						"text": "Tarnished bowie knife"
+						"text": "破旧的单刃猎刀"
 					},
 					{
 						"id": "knife_2_b_description",
-						"text": "It's a work of art!"
+						"text": "这是件艺术品!"
 					},
 					{
 						"id": "knife_2_b_name",
-						"text": "Splendid bowie knife"
+						"text": "优秀的单刃猎刀"
 					},
 					{
 						"id": "knife_2_description",
-						"text": "Now that's a knife..."
+						"text": "它不是30cm以下的刀..."
 					},
 					{
 						"id": "knife_2_name",
-						"text": "Bowie knife"
+						"text": "单刃猎刀"
 					},
 					{
 						"id": "knife_3_a_description",
-						"text": "It must have been lying around for years."
+						"text": "它一定在地下沉默了好多年了."
 					},
 					{
 						"id": "knife_3_a_name",
-						"text": "Tarnished machete"
+						"text": "破旧的大砍刀"
 					},
 					{
 						"id": "knife_3_b_description",
-						"text": "Top quality!"
+						"text": "顶级品质!"
 					},
 					{
 						"id": "knife_3_b_name",
-						"text": "Splendid machete"
+						"text": "优秀的大砍刀"
 					},
 					{
 						"id": "knife_3_description",
-						"text": "A little heavy, but it fits well in your hand."
+						"text": "很重,但手感好."
 					},
 					{
 						"id": "knife_3_name",
-						"text": "Machete"
+						"text": "大砍刀"
 					},
 					{
 						"id": "knife_4_a_description",
-						"text": "This thing badly needs sharpening."
+						"text": "急需打磨."
 					},
 					{
 						"id": "knife_4_a_name",
-						"text": "Tarnished butcher's knife"
+						"text": "破旧的屠刀"
 					},
 					{
 						"id": "knife_4_b_description",
-						"text": "It looks like it's fresh from the kitchen."
+						"text": "看起来像刚从厨房拿来的一样!"
 					},
 					{
 						"id": "knife_4_b_name",
-						"text": "Splendid butcher's knife"
+						"text": "优秀的屠刀"
 					},
 					{
 						"id": "knife_4_description",
-						"text": "Cuts through bone like butter!"
+						"text": "削铁如泥!"
 					},
 					{
 						"id": "knife_4_name",
-						"text": "Butcher's knife"
+						"text": "屠刀"
 					},
 					{
 						"id": "knife_5_a_description",
-						"text": "This weapon has seen better days."
+						"text": "这种武器见过更好的日子."
 					},
 					{
 						"id": "knife_5_a_name",
-						"text": "Tarnished kukri"
+						"text": "破旧的尼泊尔弯刀"
 					},
 					{
 						"id": "knife_5_b_description",
-						"text": "Terrifyingly sharp!"
+						"text": "惊人地锋利!"
 					},
 					{
 						"id": "knife_5_b_name",
-						"text": "Splendid kukri"
+						"text": "优秀的尼泊尔弯刀"
 					},
 					{
 						"id": "knife_5_description",
-						"text": "The standard weapon of the dreaded Ghurka warriors: agile and deadly."
+						"text": "可怕的廓尔喀战士的标准武器：敏捷而致命."
 					},
 					{
 						"id": "knife_5_name",
-						"text": "Kukri"
+						"text": "尼泊尔弯刀"
 					},
 					{
 						"id": "disintegrator_0_a_description",
@@ -13180,7 +13180,7 @@
 					},
 					{
 						"id": "disintegrator_1_a_name",
-						"text": "破旧的Adler & Stahlknecht原型机"
+						"text": "破旧的Adler & Stahlknecht原型机枪"
 					},
 					{
 						"id": "disintegrator_1_b_description",
@@ -13188,7 +13188,7 @@
 					},
 					{
 						"id": "disintegrator_1_b_name",
-						"text": "优秀的Adler & Stahlknecht原型机"
+						"text": "优秀的Adler & Stahlknecht原型机枪"
 					},
 					{
 						"id": "disintegrator_1_description",
@@ -13196,7 +13196,7 @@
 					},
 					{
 						"id": "disintegrator_1_name",
-						"text": "Adler & Stahlknecht原型机"
+						"text": "Adler & Stahlknecht原型机枪"
 					},
 					{
 						"id": "disintegrator_2_a_description",
@@ -13228,7 +13228,7 @@
 					},
 					{
 						"id": "disintegrator_3_a_name",
-						"text": "破旧的Litvak-Vertov Vril燃烧器"
+						"text": "破旧的Litvak-Vertov Vril喷火器"
 					},
 					{
 						"id": "disintegrator_3_b_description",
@@ -13236,7 +13236,7 @@
 					},
 					{
 						"id": "disintegrator_3_b_name",
-						"text": "优秀的Litvak-Vertov Vril燃烧器"
+						"text": "优秀的Litvak-Vertov Vril喷火器"
 					},
 					{
 						"id": "disintegrator_3_description",
@@ -13244,7 +13244,7 @@
 					},
 					{
 						"id": "disintegrator_3_name",
-						"text": "Litvak-Vertov Vril燃烧器"
+						"text": "Litvak-Vertov Vril喷火器"
 					},
 					{
 						"id": "disintegrator_4_a_description",
@@ -14952,7 +14952,7 @@
 					},
 					{
 						"id": "heavyArmor_5_description",
-						"text": "巨大而令人敬畏——一个真正的战场巨人!"
+						"text": "巨大而令人敬畏--一个真正的战场巨人!"
 					},
 					{
 						"id": "heavyArmor_5_name",
@@ -15008,7 +15008,7 @@
 					},
 					{
 						"id": "valkyriumCrystal_description",
-						"text": "一种奇怪的未知来源的绿色水晶,古埃及人称之为Ka — 神秘的生命给予者.据报道,德国科学家用它来释放古代文物的力量."
+						"text": "一种奇怪的未知来源的绿色水晶,古埃及人称之为Ka - 神秘的生命给予者.据报道,德国科学家用它来释放古代文物的力量."
 					},
 					{
 						"id": "valkyriumCrystal_name",
@@ -15272,7 +15272,7 @@
 					},
 					{
 						"id": "artefact16_description",
-						"text": "这可能是一个Valkyrium机器的原型蓝图吗？"
+						"text": "这可能是一个Valkyrium机器的原型蓝图吗?"
 					},
 					{
 						"id": "artefact16_name",
@@ -15288,7 +15288,7 @@
 					},
 					{
 						"id": "trashUndead_1_description",
-						"text": "那些是…指尖？!"
+						"text": "那些是…指尖?!"
 					},
 					{
 						"id": "trashUndead_1_name",
@@ -16470,251 +16470,251 @@
 				]
 			},
 			{
-				"id": "Quotes",
+				"id": "Quotes",//504条processing
 				"rows": [
 					{
 						"id": "natalya_NeedReloading_0",
-						"text": "I have to reload my pistol."
+						"text": "手枪需要重新装弹."
 					},
 					{
 						"id": "natalya_NeedHealing_0",
-						"text": "I need medical attention immediately."
+						"text": "我急需治疗."
 					},
 					{
 						"id": "natalya_CriticalStrike_0",
-						"text": "A perfect execution."
+						"text": "完美击杀."
 					},
 					{
 						"id": "natalya_Killshot_0",
-						"text": "One more down."
+						"text": "又干掉一个."
 					},
 					{
 						"id": "natalya_Evade_0",
-						"text": "That was incredibly close."
+						"text": "刚才真惊险."
 					},
 					{
 						"id": "natalya_Idle_0",
-						"text": "We have much more to discover!"
+						"text": "还有很多地方等着我们去探索!"
 					},
 					{
 						"id": "natalya_Flanked_0",
-						"text": "I need help here!"
+						"text": "我需要救助."
 					},
 					{
 						"id": "natalya_NeedFuel_0",
-						"text": "We're almost out of fuel."
+						"text": "燃油快耗尽了."
 					},
 					{
 						"id": "natalya_NeedAmmo_0",
-						"text": "Our ammo supplies are low."
+						"text": "弹药量不太够了."
 					},
 					{
 						"id": "natalya_ItemUpgrade_0",
-						"text": "An excellent choice."
+						"text": "这决定棒极了."
 					},
 					{
 						"id": "natalya_ItemDowngrade_0",
-						"text": "That seems like a bad idea."
+						"text": "这主意听起来有点糟."
 					},
 					{
 						"id": "natalya_Recruited_0",
-						"text": "Always excited for another adventure."
+						"text": "我已经迫不及待进行下一次冒险了."
 					},
 					{
 						"id": "natalya_LevelUp_0",
-						"text": "What an interesting journey!"
+						"text": "这旅途真有意思."
 					},
 					{
 						"id": "natalya_EnemySpotted_0",
-						"text": "Enemy spotted!"
+						"text": "发现敌军!"
 					},
 					{
 						"id": "natalya_NeedReloading_1",
-						"text": "That was my last shot."
+						"text": "最后一发."
 					},
 					{
 						"id": "natalya_NeedHealing_1",
-						"text": "Anyone got a bandage for me?"
+						"text": "谁还有绷带?"
 					},
 					{
 						"id": "natalya_CriticalStrike_1",
-						"text": "That must've hurt."
+						"text": "那一定很疼."
 					},
 					{
 						"id": "natalya_Killshot_1",
-						"text": "Don't take it the wrong way!"
+						"text": "别误会了!"
 					},
 					{
 						"id": "natalya_Evade_1",
-						"text": "Another close call."
+						"text": "又幸免于难."
 					},
 					{
 						"id": "natalya_Idle_1",
-						"text": "I don't wan't to complain, but I'm starting to get bored here."
+						"text": "我不想抱怨,但是这里太无聊了!"
 					},
 					{
 						"id": "natalya_Flanked_1",
-						"text": "They're everywhere!"
+						"text": "到处都是敌人!"
 					},
 					{
 						"id": "natalya_NeedFuel_1",
-						"text": "We're not going to make it far with the fuel left."
+						"text": "靠剩下的这点燃料走不了多远了."
 					},
 					{
 						"id": "natalya_NeedAmmo_1",
-						"text": "What will we do when we run out of ammo?"
+						"text": "子弹打光了怎么办?"
 					},
 					{
 						"id": "natalya_ItemUpgrade_1",
-						"text": "Can I keep it?"
+						"text": "我能留着它吗?"
 					},
 					{
 						"id": "natalya_ItemDowngrade_1",
-						"text": "Not a fan."
+						"text": "我不太乐意."
 					},
 					{
 						"id": "natalya_Recruited_1",
-						"text": "I'm so excited!"
+						"text": "很高兴加入你们!"
 					},
 					{
 						"id": "natalya_LevelUp_1",
-						"text": "I think I'm beginning to understand."
+						"text": "我想我开始明白了."
 					},
 					{
 						"id": "natalya_EnemySpotted_1",
-						"text": "There’s another one!"
+						"text": "那边还有一个敌人!"
 					},
 					{
 						"id": "leonora_NeedReloading_0",
-						"text": "I should reload my weapon."
+						"text": "我要重装弹药了."
 					},
 					{
 						"id": "leonora_NeedHealing_0",
-						"text": "I am badly wounded."
+						"text": "我伤的很重."
 					},
 					{
 						"id": "leonora_CriticalStrike_0",
-						"text": "A marvelous hit!"
+						"text": "惊人的一击!"
 					},
 					{
 						"id": "leonora_Killshot_0",
-						"text": "A lovely day to die."
+						"text": "美丽的死亡之日."
 					},
 					{
 						"id": "leonora_Evade_0",
-						"text": "Blimey! It almost hit me."
+						"text": "啊呀!差点打中我了."
 					},
 					{
 						"id": "leonora_Idle_0",
-						"text": "My bottom is beginning to hurt from all this sitting around."
+						"text": "坐得我屁股都疼了."
 					},
 					{
 						"id": "leonora_Flanked_0",
-						"text": "Cowards."
+						"text": "懦夫."
 					},
 					{
 						"id": "leonora_NeedFuel_0",
-						"text": "Our fuel supplies won't replenish themselves."
+						"text": "我们的燃料可不会自己加满."
 					},
 					{
 						"id": "leonora_NeedAmmo_0",
-						"text": "We may want to pay attention to our ammo supply."
+						"text": "我们要省点弹药了."
 					},
 					{
 						"id": "leonora_ItemUpgrade_0",
-						"text": "I approve."
+						"text": "我同意."
 					},
 					{
 						"id": "leonora_ItemDowngrade_0",
-						"text": "Not my cup of tea."
+						"text": "我不喜欢."
 					},
 					{
 						"id": "leonora_Recruited_0",
-						"text": "Let me check my schedule ...\nYes, fine."
+						"text": "我查下日程表...\n行,可以."
 					},
 					{
 						"id": "leonora_LevelUp_0",
-						"text": "I think I learned something today..."
+						"text": "我想我今天学到了一些东西..."
 					},
 					{
 						"id": "leonora_EnemySpotted_0",
-						"text": "I think I see another one!"
+						"text": "我想我又看见了一个敌人."
 					},
 					{
 						"id": "leonora_NeedReloading_1",
-						"text": "My magazine is empty."
+						"text": "我的弹匣空了."
 					},
 					{
 						"id": "leonora_NeedHealing_1",
-						"text": "I'm feeling very light-headed. Have I lost too much blood?"
+						"text": "我觉得有点儿头昏眼花.是我失血过多了吗?"
 					},
 					{
 						"id": "leonora_CriticalStrike_1",
-						"text": "Applied archeology, Baby!"
+						"text": "这是应用考古学,宝贝!"
 					},
 					{
 						"id": "leonora_Killshot_1",
-						"text": "This one won't hurt us any longer."
+						"text": "他不会再伤害我们了."
 					},
 					{
 						"id": "leonora_Evade_1",
-						"text": "Ludicrous."
+						"text": "搞笑."
 					},
 					{
 						"id": "leonora_Idle_1",
-						"text": "My professor once told me real archeology happens in the library... Hah!"
+						"text": "我的教授曾经告诉我真正的考古学在图书馆...啊哈!"
 					},
 					{
 						"id": "leonora_Flanked_1",
-						"text": "Find cover!"
+						"text": "寻找掩护!"
 					},
 					{
 						"id": "leonora_NeedFuel_1",
-						"text": "Has anyone checked the gas tank recently?"
+						"text": "最近有人检查过油箱吗?"
 					},
 					{
 						"id": "leonora_NeedAmmo_1",
-						"text": "Is that all of our ammo?"
+						"text": "这是我们所有的弹药吗?"
 					},
 					{
 						"id": "leonora_ItemUpgrade_1",
-						"text": "Oh yes, please."
+						"text": "哦,是的,请."
 					},
 					{
 						"id": "leonora_ItemDowngrade_1",
-						"text": "Rubbish."
+						"text": "垃圾."
 					},
 					{
 						"id": "leonora_Recruited_1",
-						"text": "Ready when you are."
+						"text": "准备就绪."
 					},
 					{
 						"id": "leonora_LevelUp_1",
-						"text": "Every challenge is a learning experience!"
+						"text": "每一次挑战都是学习体验!"
 					},
 					{
 						"id": "leonora_EnemySpotted_1",
-						"text": "Look out! Enemy ahead!"
+						"text": "留神!前方敌人!"
 					},
 					{
 						"id": "veduti_NeedReloading_0",
-						"text": "Must reload."
+						"text": "必须要重新装弹了."
 					},
 					{
 						"id": "veduti_NeedHealing_0",
-						"text": "My wounds need attention."
+						"text": "我的伤口需要注意一下了."
 					},
 					{
 						"id": "veduti_CriticalStrike_0",
-						"text": "I did not learn this at the seminary."
+						"text": "我不是在神学院学的."
 					},
 					{
 						"id": "veduti_Killshot_0",
-						"text": "Vae victis!"
+						"text": "可悲的失败者!"
 					},
 					{
 						"id": "veduti_Evade_0",
-						"text": "God defends those who adore him."
+						"text": "上帝保佑那些崇拜他的人."
 					},
 					{
 						"id": "veduti_Idle_0",
@@ -16722,127 +16722,127 @@
 					},
 					{
 						"id": "veduti_Flanked_0",
-						"text": "There are many evils in this world."
+						"text": "这个世界上有许多恶行."
 					},
 					{
 						"id": "veduti_NeedFuel_0",
-						"text": "Our fuel supplies are running low."
+						"text": "我们的燃料供应不足."
 					},
 					{
 						"id": "veduti_NeedAmmo_0",
-						"text": "We have to find more ammo."
+						"text": "我们必须找到更多的弹药."
 					},
 					{
 						"id": "veduti_ItemUpgrade_0",
-						"text": "Grazie mille."
+						"text": "非常感谢你."
 					},
 					{
 						"id": "veduti_ItemDowngrade_0",
-						"text": "I don't like that."
+						"text": "我不喜欢那样."
 					},
 					{
 						"id": "veduti_Recruited_0",
-						"text": "For the greater glory of God."
+						"text": "为了上帝更高的荣耀."
 					},
 					{
 						"id": "veduti_LevelUp_0",
-						"text": "Life is always teaching us new things..."
+						"text": "生活总是教会我们新的东西..."
 					},
 					{
 						"id": "veduti_EnemySpotted_0",
-						"text": "There’s another one hiding up there!"
+						"text": "还有一个藏在那里!"
 					},
 					{
 						"id": "veduti_NeedReloading_1",
-						"text": "Do we have any more bullets?"
+						"text": "我们还有子弹吗?"
 					},
 					{
 						"id": "veduti_NeedHealing_1",
-						"text": "I see… a bright light… in the darkness."
+						"text": "我看见...黑暗中...有道亮光..."
 					},
 					{
 						"id": "veduti_CriticalStrike_1",
-						"text": "Eye for eye, tooth for tooth."
+						"text": "以眼还眼,以牙还牙."
 					},
 					{
 						"id": "veduti_Killshot_1",
-						"text": "Rest in peace!"
+						"text": "安息吧!"
 					},
 					{
 						"id": "veduti_Evade_1",
-						"text": "My time hasn't come yet."
+						"text": "我的时间还没到."
 					},
 					{
 						"id": "veduti_Idle_1",
-						"text": "If anyone needs a confession - it appears I have a little time."
+						"text": "如果有人需要忏悔,我似乎有点时间."
 					},
 					{
 						"id": "veduti_Flanked_1",
-						"text": "I will not cover in fear."
+						"text": "我无所畏惧."
 					},
 					{
 						"id": "veduti_NeedFuel_1",
-						"text": "We'll be praying our last prayers soon if we don't find fuel quickly ..."
+						"text": "如果我们不尽快找到燃料,就只能指望最后的祈祷了..."
 					},
 					{
 						"id": "veduti_NeedAmmo_1",
-						"text": "Out of ammo? Lord help us all."
+						"text": "弹药用尽?上帝保佑我们."
 					},
 					{
 						"id": "veduti_ItemUpgrade_1",
-						"text": "Halleluja!"
+						"text": "哈利路亚!"
 					},
 					{
 						"id": "veduti_ItemDowngrade_1",
-						"text": "I accept with humilty."
+						"text": "我谦虚地接受了."
 					},
 					{
 						"id": "veduti_Recruited_1",
-						"text": "You may call it chance, I say it's God's will."
+						"text": "你称之为机会,要我说这是上帝的旨意."
 					},
 					{
 						"id": "veduti_LevelUp_1",
-						"text": "Wisdom comes with age."
+						"text": "智慧伴随着年龄增长."
 					},
 					{
 						"id": "veduti_EnemySpotted_1",
-						"text": "Did you think I couldn’t see you?"
+						"text": "你以为我看不见你吗?"
 					},
 					{
 						"id": "brunhilda_NeedReloading_0",
-						"text": "Reload time!"
+						"text": "重新装弹时间!"
 					},
 					{
 						"id": "brunhilda_NeedHealing_0",
-						"text": "My strength is at an end."
+						"text": "我使出最后一点力气了."
 					},
 					{
 						"id": "brunhilda_CriticalStrike_0",
-						"text": "Right where it hurts."
+						"text": "就在痛的地方."
 					},
 					{
 						"id": "brunhilda_Killshot_0",
-						"text": "Bam!"
+						"text": "嘣!"
 					},
 					{
 						"id": "brunhilda_Evade_0",
-						"text": "That was really close."
+						"text": "刚才真的很近."
 					},
 					{
 						"id": "brunhilda_Idle_0",
-						"text": "Can we keep moving?"
+						"text": "我们能继续前进吗?"
 					},
 					{
 						"id": "brunhilda_Flanked_0",
-						"text": "I am surrounded!"
+						"text": "我被包围了!"
 					},
 					{
 						"id": "brunhilda_NeedFuel_0",
-						"text": "We need more fuel."
+						"text": "我们需要更多的燃料."
 					},
 					{
 						"id": "brunhilda_NeedAmmo_0",
-						"text": "Our ammo supplies are almost empty."
+						"text": "我们的弹药库快空了."
 					},
 					{
 						"id": "brunhilda_ItemUpgrade_0",
@@ -16850,59 +16850,59 @@
 					},
 					{
 						"id": "brunhilda_ItemDowngrade_0",
-						"text": "I can do better."
+						"text": "我可以做得更好."
 					},
 					{
 						"id": "brunhilda_Recruited_0",
-						"text": "Huzzah! I love adventures."
+						"text": "好哇!我喜欢冒险."
 					},
 					{
 						"id": "brunhilda_LevelUp_0",
-						"text": "I am getting even stronger!"
+						"text": "我变得更强了!"
 					},
 					{
 						"id": "brunhilda_EnemySpotted_0",
-						"text": "I found another one!"
+						"text": "我又发现了一个!"
 					},
 					{
 						"id": "brunhilda_NeedReloading_1",
-						"text": "Was that my last shot?"
+						"text": "那是我最后一枪吗?"
 					},
 					{
 						"id": "brunhilda_NeedHealing_1",
-						"text": "Bah, just a little flesh wound!"
+						"text": "啊,只是一点肉伤!"
 					},
 					{
 						"id": "brunhilda_CriticalStrike_1",
-						"text": "Next time I will hit even harder!"
+						"text": "下次我会更加努力!"
 					},
 					{
 						"id": "brunhilda_Killshot_1",
-						"text": "I love the sound of breaking bones."
+						"text": "我喜欢破骨的声音."
 					},
 					{
 						"id": "brunhilda_Evade_1",
-						"text": "Beginner."
+						"text": "初学者."
 					},
 					{
 						"id": "brunhilda_Idle_1",
-						"text": "I'm going to nap - unless we're moving?"
+						"text": "我可以打个盹直到我们出发吗?"
 					},
 					{
 						"id": "brunhilda_Flanked_1",
-						"text": "I can handle this myself!"
+						"text": "我自己能处理!"
 					},
 					{
 						"id": "brunhilda_NeedFuel_1",
-						"text": "Hopefully we'll make it to the next gas station."
+						"text": "希望我们能去下一个加油站."
 					},
 					{
 						"id": "brunhilda_NeedAmmo_1",
-						"text": "No ammo left? Let our fists do the talking."
+						"text": "没有弹药了吗?让我们用拳头说话."
 					},
 					{
 						"id": "brunhilda_ItemUpgrade_1",
-						"text": "Into the battle!"
+						"text": "进入战斗!"
 					},
 					{
 						"id": "brunhilda_ItemDowngrade_1",
@@ -16910,239 +16910,239 @@
 					},
 					{
 						"id": "brunhilda_Recruited_1",
-						"text": "I hope you're kidding. Of course I will join!"
+						"text": "我希望你在开玩笑.我当然会加入!"
 					},
 					{
 						"id": "brunhilda_LevelUp_1",
-						"text": "I feel powerful!"
+						"text": "我感受到力量了."
 					},
 					{
 						"id": "brunhilda_EnemySpotted_1",
-						"text": "Over there!"
+						"text": "在那边!"
 					},
 					{
 						"id": "pereira_NeedReloading_0",
-						"text": "Gotta reload the tin can."
+						"text": "必须重新装填锡罐."
 					},
 					{
 						"id": "pereira_NeedHealing_0",
-						"text": "I could use some help over here."
+						"text": "我想得到援助."
 					},
 					{
 						"id": "pereira_CriticalStrike_0",
-						"text": "The old man's still got it."
+						"text": "这个老头还是得到了."
 					},
 					{
 						"id": "pereira_Killshot_0",
-						"text": "See you in the next life!"
+						"text": "下辈子见!"
 					},
 					{
 						"id": "pereira_Evade_0",
-						"text": "Ha! The nitwit can't even aim."
+						"text": "哈!傻瓜瞄不准."
 					},
 					{
 						"id": "pereira_Idle_0",
-						"text": "Anyone got any drinks? I'm bored."
+						"text": "有酒吗?我烦透了."
 					},
 					{
 						"id": "pereira_Flanked_0",
-						"text": "I'm feeling a little exposed here."
+						"text": "我觉得这里有点暴露."
 					},
 					{
 						"id": "pereira_NeedFuel_0",
-						"text": "Running dry on fuel soon."
+						"text": "很快就会耗尽燃料."
 					},
 					{
 						"id": "pereira_NeedAmmo_0",
-						"text": "Almost no ammo left from what I can see here."
+						"text": "我这里几乎看不到弹药了."
 					},
 					{
 						"id": "pereira_ItemUpgrade_0",
-						"text": "That's a nice piece of gear."
+						"text": "这是一件很好的装备."
 					},
 					{
 						"id": "pereira_ItemDowngrade_0",
-						"text": "Please, no."
+						"text": "请不要这样."
 					},
 					{
 						"id": "pereira_Recruited_0",
-						"text": "Aye - I will drink to that!"
+						"text": "是的-我要为此干杯!"
 					},
 					{
 						"id": "pereira_LevelUp_0",
-						"text": "Great!"
+						"text": "棒极了!"
 					},
 					{
 						"id": "pereira_EnemySpotted_0",
-						"text": "Enemy spotted!"
+						"text": "发现敌军!"
 					},
 					{
 						"id": "pereira_NeedReloading_1",
-						"text": "Can someone throw me a full magazine my way?"
+						"text": "有人可以给我一个满弹匣吗?"
 					},
 					{
 						"id": "pereira_NeedHealing_1",
-						"text": "It only hurts when I laugh."
+						"text": "只有当我笑的时候才会疼."
 					},
 					{
 						"id": "pereira_CriticalStrike_1",
-						"text": "Oh, did that hurt?"
+						"text": "哦,疼吗?"
 					},
 					{
 						"id": "pereira_Killshot_1",
-						"text": "These landlubbers can't handle anything."
+						"text": "这些无家可归的人什么都处理不了."
 					},
 					{
 						"id": "pereira_Evade_1",
-						"text": "Ha! Missed!"
+						"text": "哈!Missed!"
 					},
 					{
 						"id": "pereira_Idle_1",
-						"text": "A plumber, a cook and a nun walk into a bar ..."
+						"text": "水管工,厨师和修女走进酒吧..."
 					},
 					{
 						"id": "pereira_Flanked_1",
-						"text": "They're starting to get on my nerves!"
+						"text": "他们开始让我神经紧张!"
 					},
 					{
 						"id": "pereira_NeedFuel_1",
-						"text": "The engine might also run on some Schnaps... I think."
+						"text": "我觉得也许烧酒也能启动引擎..."
 					},
 					{
 						"id": "pereira_NeedAmmo_1",
-						"text": "We're getting a bit low on ammo."
+						"text": "我们的弹药量有点低."
 					},
 					{
 						"id": "pereira_ItemUpgrade_1",
-						"text": "Aye aye!"
+						"text": "好的好的!"
 					},
 					{
 						"id": "pereira_ItemDowngrade_1",
-						"text": "Garbage."
+						"text": "废物."
 					},
 					{
 						"id": "pereira_Recruited_1",
-						"text": "You can always rely on old Piranha."
+						"text": "你可以一直依靠Piranha."
 					},
 					{
 						"id": "pereira_LevelUp_1",
-						"text": "A round of grog on me!"
+						"text": "为所有人干一杯!"
 					},
 					{
 						"id": "pereira_EnemySpotted_1",
-						"text": "There’s another one!"
+						"text": "还有一个!"
 					},
 					{
 						"id": "jackson_NeedReloading_0",
-						"text": "Gun's empty."
+						"text": "枪膛空了."
 					},
 					{
 						"id": "jackson_NeedHealing_0",
-						"text": "I'm bleeding pretty badly, kid."
+						"text": "我流了很多血,孩子."
 					},
 					{
 						"id": "jackson_CriticalStrike_0",
-						"text": "I'm good at this!"
+						"text": "我很擅长这个!"
 					},
 					{
 						"id": "jackson_Killshot_0",
-						"text": "That one went down quickly!"
+						"text": "他很快就倒了!"
 					},
 					{
 						"id": "jackson_Evade_0",
-						"text": "That was .. entirely too close."
+						"text": "那真是...太近了."
 					},
 					{
 						"id": "jackson_Idle_0",
-						"text": "Can I drive? This is taking too long."
+						"text": "我可以开车吗?这太花时间了."
 					},
 					{
 						"id": "jackson_Flanked_0",
-						"text": "Listen kid ... I need backup here."
+						"text": "听着孩子...我需要支援."
 					},
 					{
 						"id": "jackson_NeedFuel_0",
-						"text": "Any gas stations nearby?"
+						"text": "附近有加油站吗?"
 					},
 					{
 						"id": "jackson_NeedAmmo_0",
-						"text": "If we run out of ammo, so help us god."
+						"text": "如果弹药用完了,上帝保佑我们."
 					},
 					{
 						"id": "jackson_ItemUpgrade_0",
-						"text": "I approve, kid."
+						"text": "我赞成,孩子."
 					},
 					{
 						"id": "jackson_ItemDowngrade_0",
-						"text": "You gotta be kidding me."
+						"text": "你开玩笑吧."
 					},
 					{
 						"id": "jackson_Recruited_0",
-						"text": "Fortune and glory, kid."
+						"text": "幸运与荣耀,孩子."
 					},
 					{
 						"id": "jackson_LevelUp_0",
-						"text": "I expected nothing less of myself."
+						"text": "我对自己的期望丝毫没有减少."
 					},
 					{
 						"id": "jackson_EnemySpotted_0",
-						"text": "I think I see another one!"
+						"text": "我想我又看到一个了!"
 					},
 					{
 						"id": "jackson_NeedReloading_1",
-						"text": "A spare magazine would be helpful right now!"
+						"text": "一个备用的弹夹会很有帮助的!"
 					},
 					{
 						"id": "jackson_NeedHealing_1",
-						"text": "I won't give up that easily!"
+						"text": "我不会轻易放弃的!"
 					},
 					{
 						"id": "jackson_CriticalStrike_1",
-						"text": "It's you or me."
+						"text": "是你死还是我亡."
 					},
 					{
 						"id": "jackson_Killshot_1",
-						"text": "I think he got the message."
+						"text": "我想他明白了."
 					},
 					{
 						"id": "jackson_Evade_1",
-						"text": "I'm starting to take this personally."
+						"text": "我开始把这件事当作自己的事了."
 					},
 					{
 						"id": "jackson_Idle_1",
-						"text": "I suppose the Sultan of Zanzibar still isn’t talking to me..."
+						"text": "我想桑给巴尔的苏丹仍然不跟我说话..."
 					},
 					{
 						"id": "jackson_Flanked_1",
-						"text": "This doesn't look good at all..."
+						"text": "这个看起来一点都不好..."
 					},
 					{
 						"id": "jackson_NeedFuel_1",
-						"text": "What do you mean, no more gas?"
+						"text": "你什么意思,没汽油了?"
 					},
 					{
 						"id": "jackson_NeedAmmo_1",
-						"text": "If we don’t get hold of more ammo soon, we'll have to start improvising!"
+						"text": "如果我们不能尽快获得更多弹药,我们就得开始即兴表演了!"
 					},
 					{
 						"id": "jackson_ItemUpgrade_1",
-						"text": "Not bad kid, not bad at all."
+						"text": "不错,孩子,还不赖嘛."
 					},
 					{
 						"id": "jackson_ItemDowngrade_1",
-						"text": "Do we have to?"
+						"text": "我们必须这样做吗?"
 					},
 					{
 						"id": "jackson_Recruited_1",
-						"text": "Danger and hardship? Bring it on!"
+						"text": "危险和困难? 带上它!"
 					},
 					{
 						"id": "jackson_LevelUp_1",
-						"text": "This trip is doing me good!"
+						"text": "这次旅行对我有好处!"
 					},
 					{
 						"id": "jackson_EnemySpotted_1",
-						"text": "Look out! Enemy ahead!"
+						"text": "当心!前方敌人!"
 					},
 					{
 						"id": "georgette_NeedReloading_0",
