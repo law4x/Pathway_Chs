@@ -601,7 +601,7 @@
 				]
 			},
 			{
-				"id": "Codex",//120条done
+				"id": "Codex",
 				"rows": [
 					{
 						"id": "GameDescription",
@@ -16470,7 +16470,7 @@
 				]
 			},
 			{
-				"id": "Quotes",//504条processing
+				"id": "Quotes",
 				"rows": [
 					{
 						"id": "natalya_NeedReloading_0",
