@@ -1086,23 +1086,23 @@
 				"rows": [
 					{
 						"id": "GE_HealingWell01_Intro",
-						"text": "You reach a rocky landscape, interspersed with rugged massifs. A vague smell of sulfur hangs in the air. As you are considering whether to avoid this inhospitable area, you spot a steaming waterhole surrounded by rocks.[CTP]\n\nTurquoise crystals give the edge of the pool an unreal color. You cough as the swaths of acrid steam sting your throats. Do you want to take a short break or leave immediately?"
+						"text": "你到达了一处满是崎岖山丘的地方。空气中隐约能够闻到一丝硫磺的气味。正当你在考虑是否要避开这个荒凉的地方时，你发现了一个被岩石包围的冒着热气的水池。[CTP]\n\n绿松石点缀着水池的边缘，带着一种不真实的色彩。你想要休息一会儿还是马上离开？"
 					},
 					{
 						"id": "GE_HealingWell01_Choice03",
-						"text": "Inspect the water"
+						"text": "检查水池"
 					},
 					{
 						"id": "GE_HealingWell01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_HealingWell01_Rest01",
-						"text": "After a short inspection, you establish that the water is pleasantly warm but completely unpalatable. An initial foot bath leads to a refreshing group bath in the steaming mineral spring.\n\nThe warm water burns slightly at your wounds, but by the time you get dressed, you all feel wonderfully invigorated."
+						"text": "invigorated.经过短暂的检查，你确定水很温暖，但不能喝。试探性地足浴后，你在充满矿物质的蒸汽温泉中好好地泡了个澡。\n\n温暖的泉水微微灼烧着你的伤口，但是当你穿好衣服后，你感到精神焕发。"
 					},
 					{
 						"id": "GE_HealingWell01_Rest02",
-						"text": "As you relax at the edge of the pool and let your feet dangle into the water, you suddenly see large bubbles rising from the bottom of the waterhole. Moments later, a barely perceptible vibration shakes the ground beneath you! [CTP]\n\nYou dive for safety - and not a second too soon: a towering fountain of super-heated water shoots past you and into the air! Your reflexes saved you from the worst of it, but [char0] has been scalded."
+						"text": "当你在泳池边休息，把你的脚放入水中，你突然看到巨大的泡泡从水池底部冒出来。过了一会儿，你脚下的地面几乎觉察不到的震动了一下![CTP]\n\n你立刻向边上扑倒，瞬间一道巨大的滚烫的喷泉从你身边喷涌而出，直冲云霄!你的反应拯救了你自己，但是[char0]被烫伤了。"
 					},
 					{
 						"id": "GE_HealingWell01_Rest02_female",
@@ -1110,11 +1110,11 @@
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvant01_Choice01",
-						"text": "Ambush from the shadows!"
+						"text": "在阴影处伏击！"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvant01_Choice02",
-						"text": "Leave this place unseen"
+						"text": "当做没看见，离开这里"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvant01_A_Intro",
@@ -1294,7 +1294,7 @@
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_JourneyOn",
@@ -1398,7 +1398,7 @@
 					},
 					{
 						"id": "BE_BigNaziDesertAdvantage01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_FightAtTheOasis01_Intro",
@@ -1414,7 +1414,7 @@
 					},
 					{
 						"id": "BE_FightAtTheOasis01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_FightAtTheOasis01_Aftermath",
@@ -1498,7 +1498,7 @@
 					},
 					{
 						"id": "BE_LostRockTemple01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_LostRockTemple01_RE01_Intro",
@@ -1602,7 +1602,7 @@
 					},
 					{
 						"id": "CR_AngryMob01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "FE_WhiteCamels01_Intro",
@@ -1618,7 +1618,7 @@
 					},
 					{
 						"id": "ME_OrientalTrader01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_AngryCobra01_Intro",
@@ -1670,7 +1670,7 @@
 					},
 					{
 						"id": "LE_AngryCobra01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_AngryCobra01_Choice05",
@@ -1818,7 +1818,7 @@
 					},
 					{
 						"id": "ME_GenericOriental01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "ME_GenericOriental01_A_Intro",
@@ -1846,7 +1846,7 @@
 					},
 					{
 						"id": "RE_GenericOasis01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "RE_GenericOasis01_A_Intro",
@@ -1974,7 +1974,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvant01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvant01_A_Intro",
@@ -2058,7 +2058,7 @@
 					},
 					{
 						"id": "BE_NaziExcavation01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_NaziExcavation01_Enter",
@@ -2258,7 +2258,7 @@
 					},
 					{
 						"id": "RE_PalmCopse01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "RE_PalmCopse01_Rest",
@@ -2278,7 +2278,7 @@
 					},
 					{
 						"id": "GE_LockedWellChamber01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_LockedWellChamber01_Search",
@@ -2310,7 +2310,7 @@
 					},
 					{
 						"id": "CR_Brandy01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "CR_Brandy01_Choice03",
@@ -2350,7 +2350,7 @@
 					},
 					{
 						"id": "CR_Parachute01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "CR_Excavation01_Intro",
@@ -2366,7 +2366,7 @@
 					},
 					{
 						"id": "CR_Excavation01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "CR_Expenses01_Intro",
@@ -2382,7 +2382,7 @@
 					},
 					{
 						"id": "CR_Expenses01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_Shadow01_Intro",
@@ -2394,7 +2394,7 @@
 					},
 					{
 						"id": "GE_Shadow01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "ME_ParkedBeduinCar01_Intro",
@@ -2406,7 +2406,7 @@
 					},
 					{
 						"id": "ME_ParkedBeduinCar01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "ME_ParkedBeduinCar01_Trade",
@@ -2422,7 +2422,7 @@
 					},
 					{
 						"id": "GE_BuriedMerchant01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_BuriedMerchant01_Choice03",
@@ -2470,7 +2470,7 @@
 					},
 					{
 						"id": "ME_NaziDeserterMerchant01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_DesertedShrine01_Intro",
@@ -2502,7 +2502,7 @@
 					},
 					{
 						"id": "LE_DesertedShrine01_Choice01",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_DesertedShrine01_Choice02",
@@ -2534,7 +2534,7 @@
 					},
 					{
 						"id": "LE_FriendlyBeduins01_Choice01",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_FriendlyBeduins01_Choice02",
@@ -2670,7 +2670,7 @@
 					},
 					{
 						"id": "LE_CursedAltar01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_CursedAltar01_LanguagesW",
@@ -2742,7 +2742,7 @@
 					},
 					{
 						"id": "LE_DerelictCar01_Choice01",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_DerelictCar01_Choice02",
@@ -2794,7 +2794,7 @@
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Enter",
@@ -2898,7 +2898,7 @@
 					},
 					{
 						"id": "LE_VillageVault01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_VillageVault01_Fail01",
@@ -2966,7 +2966,7 @@
 					},
 					{
 						"id": "AE_OldMiningShaft01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "AE_OldMiningShaft01_Enter",
@@ -3038,7 +3038,7 @@
 					},
 					{
 						"id": "AE_PoisonWell01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "AE_PoisonWell01_MedicalW",
@@ -3210,7 +3210,7 @@
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Stash",
@@ -3330,7 +3330,7 @@
 					},
 					{
 						"id": "ME_GenericVillage01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "ME_GenericVillage01_A_Intro",
@@ -3358,7 +3358,7 @@
 					},
 					{
 						"id": "RE_GenericRuins01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "RE_GenericRuins01_A_Intro",
@@ -3686,7 +3686,7 @@
 					},
 					{
 						"id": "SE_Adventure01Clue03_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure01Clue03_AgentMonologue",
@@ -3838,7 +3838,7 @@
 					},
 					{
 						"id": "LE_BooyTrap01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_BooyTrap01_DetectW",
@@ -3882,7 +3882,7 @@
 					},
 					{
 						"id": "BE_SupplyTransport01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_SupplyTransport01_ChaseW",
@@ -3978,7 +3978,7 @@
 					},
 					{
 						"id": "LE_CobraCache01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasW",
@@ -4042,7 +4042,7 @@
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrap",
@@ -4130,7 +4130,7 @@
 					},
 					{
 						"id": "LE_TarantulaCorpse01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_TarantulaCorpse01_SearchW",
@@ -4170,7 +4170,7 @@
 					},
 					{
 						"id": "LE_GuardedCanisters01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_GuardedCanisters01_Talk",
@@ -4322,7 +4322,7 @@
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Choice03",
@@ -4378,7 +4378,7 @@
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Choice03",
@@ -4458,7 +4458,7 @@
 					},
 					{
 						"id": "GE_StargateFragment01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_StargateFragment01_InvestigateF",
@@ -4518,7 +4518,7 @@
 					},
 					{
 						"id": "BE_CreepyHut01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_CreepyHut01_NoLoot",
@@ -4546,7 +4546,7 @@
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_AlienMonolith01_Collaps",
@@ -4698,7 +4698,7 @@
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Choice05",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_ForbiddenFruit01_ExamineTree",
@@ -4754,7 +4754,7 @@
 					},
 					{
 						"id": "LE_ElectricObelisk01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_ElectricObelisk01_ExamineSoldier",
@@ -4926,7 +4926,7 @@
 					},
 					{
 						"id": "LE_TempleGusher01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_TempleGusher01_Wading",
@@ -5050,7 +5050,7 @@
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice05",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Crypt",
@@ -5142,7 +5142,7 @@
 					},
 					{
 						"id": "AE_CollapsingSewer01_CHoice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "AE_CollapsingSewer01_TechnicalW",
@@ -5186,7 +5186,7 @@
 					},
 					{
 						"id": "LE_SewerAltar01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_SewerAltar01_DeadEnd",
@@ -5278,7 +5278,7 @@
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage03_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage04_Choice02",
@@ -5746,7 +5746,7 @@
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice05",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Busted",
@@ -6022,7 +6022,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_PilferW",
@@ -6066,7 +6066,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice06",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Cave",
@@ -6078,7 +6078,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice08",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Lucky",
@@ -6158,7 +6158,7 @@
 					},
 					{
 						"id": "BE_LostIdol01_Choice06",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_LostIdol01_HighPriestess",
@@ -6198,7 +6198,7 @@
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_MonsterAssault01_EnterBunker",
@@ -6242,1407 +6242,1407 @@
 					},
 					{
 						"id": "GE_HealingWell01_Title",
-						"text": "Some rocks"
+						"text": "一些岩石"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage02_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage03_Title",
-						"text": "An abandoned temple"
+						"text": "一座废弃神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage04_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage05_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage06_Title",
-						"text": "A temple"
+						"text": "一座神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage07_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage08_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvantage09_Title",
-						"text": "An ancient ruin"
+						"text": "一个古老遗迹"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage01_Title",
-						"text": "A temple"
+						"text": "一座神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage02_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage03_Title",
-						"text": "A temple"
+						"text": "一座神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage04_Title",
-						"text": "An abandoned temple"
+						"text": "一座废弃神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage05_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage06_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage07_Title",
-						"text": "A temple"
+						"text": "一座神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage08_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonDisadvantage09_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral01_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral02_Title",
-						"text": "A temple"
+						"text": "一座神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral03_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral04_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral05_Title",
-						"text": "An abandoned temple"
+						"text": "一座废弃神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral06_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral07_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral08_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziDungeonNeutral09_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage01_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage02_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage03_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage05_Title",
-						"text": "An abandoned camp"
+						"text": "一个废弃营地"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage06_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "BE_GenericNaziRuinsAdvantage01_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "BE_GenericNaziRuinsAdvantage02_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericNaziRuinsAdvantage03_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericNaziRuinsAdvantage04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziRuinsAdvantage05_Title",
-						"text": "Some ruins"
+						"text": "一些遗迹"
 					},
 					{
 						"id": "BE_GenericNaziRuinsAdvantage06_Title",
-						"text": "Some huts"
+						"text": "一些小屋"
 					},
 					{
 						"id": "BE_GenericNaziRuinsNeutral01_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "BE_GenericNaziRuinsNeutral02_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericNaziRuinsNeutral03_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericNaziRuinsNeutral04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziRuinsNeutral05_Title",
-						"text": "Some ruins"
+						"text": "一些遗迹"
 					},
 					{
 						"id": "BE_GenericNaziRuinsNeutral06_Title",
-						"text": "Some old huts"
+						"text": "一些古老小屋"
 					},
 					{
 						"id": "BE_BigNaziDesertAdvantage01_Title",
-						"text": "A military camp"
+						"text": "一座军营"
 					},
 					{
 						"id": "BE_FightAtTheOasis01_Title",
-						"text": "A shepherds’ village"
+						"text": "一个牧羊人的村子"
 					},
 					{
 						"id": "BE_LostRockTemple01_Title",
-						"text": "An abandoned temple"
+						"text": "一座废弃神庙"
 					},
 					{
 						"id": "FE_WhiteCamels01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_AngryCobra01_Title",
-						"text": "A palm grove"
+						"text": "一片棕榈林"
 					},
 					{
 						"id": "SE_Adventure01Intro_Title",
-						"text": "Somewhere in Morocco"
+						"text": "摩洛哥的某处"
 					},
 					{
 						"id": "SE_Adventure01FinalFight_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "SE_Adventure01FinalFight_rezzed_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_GenericDesertRuins01_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "FE_GenericDesertRuins02_Title",
-						"text": "An ancient desert village"
+						"text": "一个古老的沙漠村庄"
 					},
 					{
 						"id": "FE_GenericDesertRuins03_Title",
-						"text": "A wasteland"
+						"text": "一座废墟"
 					},
 					{
 						"id": "FE_GenericDesertRuins04_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "FE_GenericDesertRuins05_Title",
-						"text": "Some huts"
+						"text": "一些小屋"
 					},
 					{
 						"id": "FE_GenericOldCemetery01_Title",
-						"text": "Some old tombstones"
+						"text": "一些老旧墓碑"
 					},
 					{
 						"id": "FE_GenericOldCemetery02_Title",
-						"text": "An ancient burial ground"
+						"text": "一个古老的坟场"
 					},
 					{
 						"id": "FE_GenericOldCemetery03_Title",
-						"text": "An old desert graveyard"
+						"text": "古老的沙漠墓地"
 					},
 					{
 						"id": "FE_GenericOldCemetery04_Title",
-						"text": "Some ancient tombs"
+						"text": "一些古墓"
 					},
 					{
 						"id": "FE_GenericOldCemetery05_Title",
-						"text": "Some old graves"
+						"text": "一些老坟"
 					},
 					{
 						"id": "FE_GenericBrushwood01_Title",
-						"text": "Some brushwood"
+						"text": "一些草丛"
 					},
 					{
 						"id": "FE_GenericBrushwood02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_GenericBrushwood03_Title",
-						"text": "A few scraggy shrubs"
+						"text": "几棵矮小的灌木"
 					},
 					{
 						"id": "FE_GenericBrushwood04_Title",
-						"text": "Some scraggy brushwood"
+						"text": "一些矮小的草丛"
 					},
 					{
 						"id": "FE_GenericBrushwood05_Title",
-						"text": "A couple of parched trees"
+						"text": "几颗干枯的树"
 					},
 					{
 						"id": "FE_GenericLonelyGoats01_Title",
-						"text": "Some lonely goats"
+						"text": "几头孤独的山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoats02_Title",
-						"text": "A herd of goats"
+						"text": "一群山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoats03_Title",
-						"text": "A few thirsty goats"
+						"text":"几头口渴的山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoats04_Title",
-						"text": "A herd of goats"
+						"text": "一群山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoats05_Title",
-						"text": "A few scrawny goats"
+						"text": "几头骨瘦如柴的山羊"
 					},
 					{
 						"id": "BE_GenericNaziCampAdvantage01_Title",
-						"text": "A fortified camp"
+						"text": "一座设防的营地"
 					},
 					{
 						"id": "BE_GenericNaziCampAdvantage02_Title",
-						"text": "A military camp"
+						"text": "一座军营"
 					},
 					{
 						"id": "BE_GenericNaziCampAdvantage03_Title",
-						"text": "Some sandbags"
+						"text": "一些沙包"
 					},
 					{
 						"id": "BE_GenericNaziCampAdvantage04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziCampAdvantage05_Title",
-						"text": "A German Army camp"
+						"text": "一座德国军营"
 					},
 					{
 						"id": "BE_GenericNaziCampAdvantage06_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericNaziCampDisadvantage01_Title",
-						"text": "An abandoned camp"
+						"text": "一个废弃营地"
 					},
 					{
 						"id": "BE_GenericNaziCampDisadvantage02_Title",
-						"text": "Some sandbags"
+						"text": "一些沙包"
 					},
 					{
 						"id": "BE_GenericNaziCampDisadvantage03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziCampDisadvantage04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziCampDisadvantage05_Title",
-						"text": "A desert camp"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericNaziCampDisadvantage06_Title",
-						"text": "A fortified camp"
+						"text": "一座设防的营地"
 					},
 					{
 						"id": "BE_GenericNaziCampNeutral01_Title",
-						"text": "A fortified camp"
+						"text": "一座设防的营地"
 					},
 					{
 						"id": "BE_GenericNaziCampNeutral02_Title",
-						"text": "A military camp"
+						"text": "一座军营"
 					},
 					{
 						"id": "BE_GenericNaziCampNeutral03_Title",
-						"text": "Some sandbags"
+						"text": "一些沙包"
 					},
 					{
 						"id": "BE_GenericNaziCampNeutral04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziCampNeutral05_Title",
-						"text": "A German Army camp"
+						"text": "一座德国军营"
 					},
 					{
 						"id": "BE_GenericNaziCampNeutral06_Title",
-						"text": "A desert camp"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage01_Title",
-						"text": "An old water cistern"
+						"text": "一个旧水箱"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage02_Title",
-						"text": "An old well"
+						"text": "一口古井"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage03_Title",
-						"text": "An empty well"
+						"text": "一口干涸的水井"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage04_Title",
-						"text": "An empty cistern"
+						"text": "一个空水箱"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage05_Title",
-						"text": "An old system of cisterns"
+						"text": "老旧的贮水系统"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage06_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage01_Title",
-						"text": "An old cistern"
+						"text": "一个老水箱"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage02_Title",
-						"text": "An old well"
+						"text": "一口古井"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage03_Title",
-						"text": "An empty well"
+						"text": "一口干涸的水井"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage04_Title",
-						"text": "An empty cistern"
+						"text": "一个空水箱"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage05_Title",
-						"text": "An old system of cisterns"
+						"text": "老旧的贮水系统"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage06_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral01_Title",
-						"text": "An old water cistern"
+						"text": "一个旧水箱"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral02_Title",
-						"text": "An old well"
+						"text": "一口古井"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral03_Title",
-						"text": "An empty well"
+						"text": "一口干涸的水井"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral04_Title",
-						"text": "An empty water cistern"
+						"text": "一个空水箱"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral05_Title",
-						"text": "An old water supply system"
+						"text": "老旧的供水系统"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral06_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_NaziExcavation01_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "BE_NaziDesertNeutral01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_NaziDesertAdvantage01_Title",
-						"text": "A German Army camp"
+						"text": "一座德国军营"
 					},
 					{
 						"id": "BE_NaziDesertDisadvantage01_Title",
-						"text": "An abandoned camp"
+						"text": "一个废弃营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_anabelle_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_drChandra_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_jackson_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_miguel_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_caballero_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_shaneeka_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_bellamy_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_professor_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_brunhilda_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_georgette_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_natalya_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_pereira_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_rose_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_baron_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_fantome_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_leFantome_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_leonora_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_omar_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_veduti_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "GE_LockedWellChamber01_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "GE_RecruitShadow01_shadow_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "CR_RecruitShadow01_leFantome_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "GE_BuriedTraveller01_Title",
-						"text": "A deserted oasis"
+						"text": "一个废弃的绿洲"
 					},
 					{
 						"id": "LE_DesertedShrine01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_FriendlyBeduins01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_FriendlyBeduins02_Title",
-						"text": "A campsite"
+						"text": "一个营地"
 					},
 					{
 						"id": "FE_UnknownPlane01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "GE_SickBeduinCamel01_Title",
-						"text": "A lone hut"
+						"text": "一个孤独的小屋"
 					},
 					{
 						"id": "FE_ShotsFromNowhere01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "SE_Adventure01Clue01_Title",
-						"text": "A fortified camp"
+						"text": "一座设防的营地"
 					},
 					{
 						"id": "SE_Adventure01Clue01_rezzed_Title",
-						"text": "A fortified camp"
+						"text": "一座设防的营地"
 					},
 					{
 						"id": "LE_CursedAltar01_Title",
-						"text": "A lone shrine"
+						"text": "一个孤独的神龛"
 					},
 					{
 						"id": "LE_DerelictCar01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_GraveRobberCache01_Title",
-						"text": "A rock in the desert"
+						"text": "沙漠中的岩石"
 					},
 					{
 						"id": "LE_LostNaziCanisters01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_FleeingNaziScouts01_Title",
-						"text": "An ancient ruin"
+						"text": "一个古老的废墟"
 					},
 					{
 						"id": "LE_VillageVault01_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "AE_TankLeak01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_Quicksand01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_OldMiningShaft01_Title",
-						"text": "Some rocks"
+						"text": "一些岩石"
 					},
 					{
 						"id": "AE_PoisonWell01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "AE_CarFailure01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_CarFailure02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_CarFailure03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_CarFailure01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_CarFailure02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TimeLost01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TimeLost02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TimeLost03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TimeLost04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TimeLost05_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "GE_OrientalTinkerer01_Title",
-						"text": "A remote village"
+						"text": "一个偏远村庄"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadvantage02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadvantage03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadvantage04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadvantage05_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadvantage06_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvantage02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvantage03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvantage04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvantage05_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvantage06_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral05_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral06_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "LE_GenericOrientalCamp02_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "LE_GenericOrientalCamp03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_GenericOrientalCamp04_Title",
-						"text": "An old campsite"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "LE_GenericOrientalCamp05_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp01_Title",
-						"text": "An abandoned camp"
+						"text": "一个废弃营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp02_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_GenericNaziCamp04_Title",
-						"text": "An old campsite"
+						"text": "一个古老营地site"
 					},
 					{
 						"id": "LE_GenericNaziCamp05_Title",
-						"text": "An old camp"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "SE_Adventure01Clue02_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Title",
-						"text": "A fortified camp"
+						"text": "一座设防的营地"
 					},
 					{
 						"id": "BE_UnholyVault01_Title",
-						"text": "An abandoned temple"
+						"text": "一座废弃神庙"
 					},
 					{
 						"id": "CR_AngryMob01_baron_Title",
-						"text": "A village in the desert"
+						"text": "沙漠中的一个村庄"
 					},
 					{
 						"id": "CR_AngryMob01_omar_Title",
-						"text": "A village in the desert"
+						"text": "沙漠中的一个村庄"
 					},
 					{
 						"id": "SE_Adventure01Clue03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "CR_Brandy01_caballero_Title",
-						"text": "A desert settlement"
+						"text": "一个沙漠定居点"
 					},
 					{
 						"id": "CR_Brandy01_pereira_Title",
-						"text": "A desert settlement"
+						"text": "一个沙漠定居点"
 					},
 					{
 						"id": "CR_Excavation01_drChandra_Title",
-						"text": "An excavation"
+						"text": "挖掘现场"
 					},
 					{
 						"id": "CR_Excavation01_leonora_Title",
-						"text": "An excavation"
+						"text": "挖掘现场"
 					},
 					{
 						"id": "CR_Excavation01_natalya_Title",
-						"text": "An excavation"
+						"text": "挖掘现场"
 					},
 					{
 						"id": "CR_Excavation01_veduti_Title",
-						"text": "An excavation"
+						"text": "挖掘现场"
 					},
 					{
 						"id": "CR_Expenses01_brunhilda_Title",
-						"text": "A desert village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "CR_Expenses01_jackson_Title",
-						"text": "A village in the desert"
+						"text": "沙漠中的一个村庄"
 					},
 					{
 						"id": "CR_Expenses01_rose_Title",
-						"text": "A settlement"
+						"text": "定居点"
 					},
 					{
 						"id": "CR_Expenses01_shaneeka_Title",
-						"text": "A desert village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "CR_Parachute01_anabelle_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "CR_Parachute01_georgette_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "CR_Parachute01_professor_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "ME_GenericVillage01_Title",
-						"text": "An oasis village"
+						"text": "一个绿洲村落"
 					},
 					{
 						"id": "ME_GenericVillage02_Title",
-						"text": "Some huts"
+						"text": "一些小屋"
 					},
 					{
 						"id": "ME_GenericVillage03_Title",
-						"text": "A desert village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "ME_GenericVillage04_Title",
-						"text": "A village in the desert"
+						"text": "沙漠中的一个村庄"
 					},
 					{
 						"id": "ME_GenericVillage05_Title",
-						"text": "A settlement"
+						"text": "定居点"
 					},
 					{
 						"id": "ME_GenericOriental01_Title",
-						"text": "A palm grove"
+						"text": "一片棕榈林"
 					},
 					{
 						"id": "ME_GenericOriental02_Title",
-						"text": "Some palms"
+						"text": "一些棕榈"
 					},
 					{
 						"id": "ME_GenericOriental03_Title",
-						"text": "A small oasis"
+						"text": "一个小绿洲"
 					},
 					{
 						"id": "ME_GenericOriental04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "ME_GenericOriental05_Title",
-						"text": "A desert oasis"
+						"text": "一个沙漠绿洲"
 					},
 					{
 						"id": "ME_NaziDeserterMerchant01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "ME_OrientalTrader01_Title",
-						"text": "A desert oasis"
+						"text": "一个沙漠绿洲"
 					},
 					{
 						"id": "ME_ParkedBeduinCar01_Title",
-						"text": "A settlement"
+						"text": "定居点"
 					},
 					{
 						"id": "RE_DateTreeGrove01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "RE_PalmCopse01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "RE_GenericOasis01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "RE_GenericOasis02_Title",
-						"text": "An oasis"
+						"text": "绿洲"
 					},
 					{
 						"id": "RE_GenericOasis03_Title",
-						"text": "A small well"
+						"text": "一口小水井"
 					},
 					{
 						"id": "RE_GenericOasis04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "RE_GenericOasis05_Title",
-						"text": "A small oasis"
+						"text": "一个小绿洲"
 					},
 					{
 						"id": "RE_GenericRuins01_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "RE_GenericRuins02_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "RE_GenericRuins03_Title",
-						"text": "Some old huts"
+						"text": "一些古老小屋"
 					},
 					{
 						"id": "RE_GenericRuins04_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "RE_GenericRuins05_Title",
-						"text": "Village ruins"
+						"text": "村庄废墟"
 					},
 					{
 						"id": "LE_BoobyTrap01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_SupplyTransport01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_Title",
-						"text": "An old caravansary"
+						"text": "一座老旧旅舍"
 					},
 					{
 						"id": "LE_CobraCache01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Title",
-						"text": "An old desert temple"
+						"text": "一座古老沙漠神庙"
 					},
 					{
 						"id": "LE_TarantulaCorpse01_Title",
-						"text": "An old waterhole"
+						"text": "一个古老的水潭"
 					},
 					{
 						"id": "LE_GuardedCanisters01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GorgeAmbush01_Title",
-						"text": "A rocky gorge"
+						"text": "岩石峡谷"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched01_Title",
-						"text": "A temple chamber"
+						"text": "神庙房间"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched02_Title",
-						"text": "An ancient inner sanctum"
+						"text": "古旧神庙内室"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched03_Title",
-						"text": "An ancient burial chamber"
+						"text": "古老墓室"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched04_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched05_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_GenericTempleAltar01_Title",
-						"text": "A temple chamber"
+						"text": "神庙房间"
 					},
 					{
 						"id": "LE_GenericTempleAltar02_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "LE_GenericTempleAltar03_Title",
-						"text": "An ancient burial chamber"
+						"text": "古老墓室"
 					},
 					{
 						"id": "LE_GenericTempleAltar04_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "LE_GenericTempleAltar05_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed01_Title",
-						"text": "A temple chamber"
+						"text": "神庙房间"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed02_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed03_Title",
-						"text": "An ancient burial chamber"
+						"text": "古老墓室"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed04_Title",
-						"text": "A desert temple"
+						"text": "一座沙漠神庙"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed05_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_GenericOutdoorAltar01_Title",
-						"text": "An abandoned altar"
+						"text": "一座废弃祭坛"
 					},
 					{
 						"id": "LE_GenericOutdoorAltar02_Title",
-						"text": "A desert altar"
+						"text": "一座沙漠祭坛"
 					},
 					{
 						"id": "LE_GenericOutdoorAltar03_Title",
-						"text": "A shrine in the sand"
+						"text": "沙海中的神龛"
 					},
 					{
 						"id": "LE_GenericOutdoorAltar04_Title",
-						"text": "A shrine"
+						"text": "一座神龛"
 					},
 					{
 						"id": "LE_GenericOutdoorAltar05_Title",
-						"text": "An old altar"
+						"text": "古老的祭坛"
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_SanctuaryExcavation01_Title",
-						"text": "An excavation site"
+						"text": "一个挖掘现场"
 					},
 					{
 						"id": "GE_StargateFragment01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_CreepyHut01_Title",
-						"text": "A lone hut"
+						"text": "一个孤独的小屋"
 					},
 					{
 						"id": "BE_AlienMonolith01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Title",
-						"text": "A strange temple"
+						"text": "一座奇怪的神庙"
 					},
 					{
 						"id": "LE_BurningJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_ElectricObelisk01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "GE_ParadiseGarden01_Title",
-						"text": "A rock face"
+						"text":"一张岩石脸"
 					},
 					{
 						"id": "LE_GhostTown01_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "LE_TempleGusher01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "LE_MountainChase01_Title",
-						"text": "A mountain track"
+						"text": "一山间轨道"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Title",
-						"text": "An old cistern"
+						"text": "一个老水箱"
 					},
 					{
 						"id": "AE_CollapsingSewer01_Title",
-						"text": "An old cistern"
+						"text": "一个老水箱"
 					},
 					{
 						"id": "LE_SewerAltar01_Title",
-						"text": "An old water cistern"
+						"text": "一个旧水箱"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonDisadvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonDisadvantage02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonDisadvantage03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsNeutral01_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsNeutral02_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsNeutral03_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage01_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage02_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage03_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsDisadvantage01_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsDisadvantage02_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsDisadvantage03_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_GenericUndeadMineNeutral01_Title",
-						"text": "An old mineshaft"
+						"text": "旧矿区"
 					},
 					{
 						"id": "BE_GenericUndeadMineNeutral02_Title",
-						"text": "An ancient mine"
+						"text": "一个古代矿井"
 					},
 					{
 						"id": "BE_GenericUndeadMineNeutral03_Title",
-						"text": "An old mine"
+						"text": "一个老矿井"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage01_Title",
-						"text": "An old mineshaft"
+						"text": "旧矿区"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage02_Title",
-						"text": "An ancient mine"
+						"text": "一个古代矿井"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage03_Title",
-						"text": "An old mine"
+						"text": "一个老矿井"
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage01_Title",
-						"text": "An old mineshaft"
+						"text": "旧矿区"
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage02_Title",
-						"text": "An ancient mine"
+						"text": "一个古代矿井"
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage03_Title",
-						"text": "A forgotten mine shaft"
+						"text": "被遗忘的矿井"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral01_Title",
-						"text": "An ancient necropolis"
+						"text": "史前坟场"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral02_Title",
-						"text": "An ancient graveyard"
+						"text": "古代墓地"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral03_Title",
-						"text": "An ancient burial ground"
+						"text": "一个古老的坟场"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01_Title",
-						"text": "An ancient necropolis"
+						"text": "史前坟场"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage02_Title",
-						"text": "An ancient graveyard"
+						"text": "古代墓地"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage03_Title",
-						"text": "An ancient burial ground"
+						"text": "一个古老的坟场"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage01_Title",
-						"text": "An ancient necropolis"
+						"text": "史前坟场"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage02_Title",
-						"text": "An ancient graveyard"
+						"text": "古代墓地"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage03_Title",
-						"text": "An ancient burial ground"
+						"text": "一个古老的坟场"
 					},
 					{
 						"id": "BE_GenericUndeadCampNeutral01_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampNeutral02_Title",
-						"text": "A Brotherhood camp"
+						"text": "兄弟会营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampNeutral03_Title",
-						"text": "A cultist camp"
+						"text": "邪教营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage01_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage02_Title",
-						"text": "A cultist camp"
+						"text": "邪教营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage03_Title",
-						"text": "A Brotherhood camp"
+						"text": "兄弟会营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage01_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage02_Title",
-						"text": "A Brotherhood camp"
+						"text": "兄弟会营地"
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage03_Title",
-						"text": "A cultist camp"
+						"text": "邪教营地"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerNeutral01_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerNeutral02_Title",
-						"text": "A sinister bunker"
+						"text": "一座凶险的地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerNeutral03_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage02_Title",
-						"text": "A sinister bunker"
+						"text": "一座凶险的地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage01_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage02_Title",
-						"text": "A sinister bunker"
+						"text": "一座凶险的地堡"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage03_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Title",
-						"text": "An ancient graveyard"
+						"text": "古代墓地"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Title",
-						"text": "Deep underground"
+						"text": "地下"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Title",
-						"text": "An old mine"
+						"text": "一个老矿井"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Title",
-						"text": "An ancient rock temple"
+						"text": "古代岩石神殿"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_LostIdol01_Title",
-						"text": "An old water supply system"
+						"text": "老旧的供水系统"
 					},
 					{
 						"id": "BE_MonsterAssault01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_OutOfFuel_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_OutOfTime_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TheyFoundUs01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_CowardOfficer01_Title",
-						"text": "An old bunker"
+						"text": "一座老地堡"
 					},
 					{
 						"id": "BE_CowardOfficer01_Intro",
@@ -7666,7 +7666,7 @@
 					},
 					{
 						"id": "BE_VillageBloodbath01_Title",
-						"text": "A desert village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "BE_VillageBloodbath01_Intro",
@@ -7698,7 +7698,7 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Title",
-						"text": "A Brotherhood camp"
+						"text": "兄弟会营地"
 					},
 					{
 						"id": "BE_TreasureCamp01_Intro",
@@ -7714,7 +7714,7 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_TreasureCamp01_SneakIntoCamp",
@@ -7734,7 +7734,7 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice07",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_TreasureCamp01_SneakW",
@@ -7762,7 +7762,7 @@
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Title",
-						"text": "An old mine"
+						"text": "一个老矿井"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Intro",
@@ -7818,7 +7818,7 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Title",
-						"text": "An ancient graveyard"
+						"text": "古代墓地"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Intro",
@@ -7838,7 +7838,7 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Hand",
@@ -7882,7 +7882,7 @@
 					},
 					{
 						"id": "LE_SlipperyWell01_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "LE_SlipperyWell01_Intro",
@@ -7894,7 +7894,7 @@
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_SlipperyWell01_DescentLucky",
@@ -7962,7 +7962,7 @@
 					},
 					{
 						"id": "LE_MurderousIdol01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_MurderousIdol01_Intro",
@@ -7974,7 +7974,7 @@
 					},
 					{
 						"id": "LE_MurderousIdol01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_MurderousIdol01_ExamineIdol",
@@ -7998,7 +7998,7 @@
 					},
 					{
 						"id": "LE_LavaBridge01_Title",
-						"text": "An ancient mine"
+						"text": "一个古代矿井"
 					},
 					{
 						"id": "LE_LavaBridge01_Intro",
@@ -8094,7 +8094,7 @@
 					},
 					{
 						"id": "LE_FailedInvocation01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_FailedInvocation01_Unlucky",
@@ -8110,7 +8110,7 @@
 					},
 					{
 						"id": "LE_FungusOfDeath01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "LE_FungusOfDeath01_Intro",
@@ -8126,7 +8126,7 @@
 					},
 					{
 						"id": "LE_FungusOfDeath01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "LE_FungusOfDeath01_MedicalF",
@@ -8150,7 +8150,7 @@
 					},
 					{
 						"id": "LE_UnstableSewer01_Title",
-						"text": "An old system of cisterns"
+						"text": "老旧的贮水系统"
 					},
 					{
 						"id": "LE_UnstableSewer01_Intro",
@@ -8222,7 +8222,7 @@
 					},
 					{
 						"id": "SE_Adventure02Intro_Title",
-						"text": "Outside Jerusalem"
+						"text": "耶路撒冷城外"
 					},
 					{
 						"id": "SE_Adventure02Intro_Intro",
@@ -8230,7 +8230,7 @@
 					},
 					{
 						"id": "SE_Adventure03Intro_Title",
-						"text": "On the banks of the Nile"
+						"text": "在尼罗河岸边"
 					},
 					{
 						"id": "SE_Adventure03Intro_Intro",
@@ -8238,7 +8238,7 @@
 					},
 					{
 						"id": "SE_Adventure02FinalFight_Title",
-						"text": "Mount Ararat"
+						"text": "亚拉拉特山"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_Intro",
@@ -8274,7 +8274,7 @@
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Title",
-						"text": "The Temple of Turash-Ra"
+						"text": "图拉什拉神庙"
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Intro",
@@ -8302,7 +8302,7 @@
 					},
 					{
 						"id": "SE_Adventure02Clue03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "SE_Adventure02Clue03_Intro",
@@ -8330,7 +8330,7 @@
 					},
 					{
 						"id": "SE_Adventure02Clue01_Title",
-						"text": "Some huts"
+						"text": "一些小屋"
 					},
 					{
 						"id": "SE_Adventure02Clue01_Intro",
@@ -8342,7 +8342,7 @@
 					},
 					{
 						"id": "SE_Adventure02Clue02_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Intro",
@@ -8402,7 +8402,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue02_Title",
-						"text": "A camp in the desert"
+						"text": "一个沙漠营地"
 					},
 					{
 						"id": "SE_Adventure03Clue02_Intro",
@@ -8422,7 +8422,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue03_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Intro",
@@ -8478,7 +8478,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue01_Title",
-						"text": "An old waterhole"
+						"text": "一个古老的水潭"
 					},
 					{
 						"id": "SE_Adventure03Clue01_Intro",
@@ -8494,7 +8494,7 @@
 					},
 					{
 						"id": "SE_Adventure01Clue04_Title",
-						"text": "A desert bunker"
+						"text": "一座沙漠地堡"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Intro",
@@ -8506,7 +8506,7 @@
 					},
 					{
 						"id": "SE_Adventure01Clue04_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Infiltrate",
@@ -8526,7 +8526,7 @@
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Title",
-						"text": "The Atlas Mountains"
+						"text": "阿特拉斯山脉"
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Intro",
@@ -8570,7 +8570,7 @@
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Title",
-						"text": "The Syrian Desert"
+						"text": "叙利亚沙漠"
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Intro",
@@ -8582,7 +8582,7 @@
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Title",
-						"text": "The Armenian Mountains"
+						"text": "亚美尼亚山脉"
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Intro",
@@ -8590,7 +8590,7 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_anabelle_Title",
-						"text": "An old mineshaft"
+						"text": "旧矿区"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Intro",
@@ -8602,7 +8602,7 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Aftermath",
@@ -8614,7 +8614,7 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_Title",
-						"text": "The Nubian border"
+						"text": "努比亚边境"
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_Intro",
@@ -8626,7 +8626,7 @@
 					},
 					{
 						"id": "SE_Adventure05Intro_Title",
-						"text": "Near Jeddah"
+						"text": "吉达附近"
 					},
 					{
 						"id": "SE_Adventure05Intro_Intro",
@@ -8634,11 +8634,11 @@
 					},
 					{
 						"id": "SE_Adventure05Clue01b_Title",
-						"text": "An oasis"
+						"text": "绿洲"
 					},
 					{
 						"id": "SE_Adventure05Clue01_Title",
-						"text": "An oasis"
+						"text": "绿洲"
 					},
 					{
 						"id": "SE_Adventure05Clue01_Intro01",
@@ -8666,7 +8666,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Intro",
@@ -8682,7 +8682,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Intro",
@@ -8698,7 +8698,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Leave",
@@ -8734,7 +8734,7 @@
 					},
 					{
 						"id": "SE_Adventure05Clue02_Title",
-						"text": "An ancient mine"
+						"text": "一个古代矿井"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Intro",
@@ -8746,7 +8746,7 @@
 					},
 					{
 						"id": "SE_Adventure05Clue02_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Enter",
@@ -8782,7 +8782,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Title",
-						"text": "The endless desert"
+						"text": "无尽的沙漠"
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Intro",
@@ -8802,7 +8802,7 @@
 					},
 					{
 						"id": "SE_Adventure05Clue03_Title",
-						"text": "An oasis settlement"
+						"text": "绿洲定居点"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Intro",
@@ -8846,7 +8846,7 @@
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice04",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice05",
@@ -8882,7 +8882,7 @@
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Title",
-						"text": "Kharga Serabit"
+						"text": "Kharga Serabit古城"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Intro",
@@ -8922,7 +8922,7 @@
 					},
 					{
 						"id": "SE_Adventure06Intro_Title",
-						"text": "Near Djibouti"
+						"text": "吉布提附近"
 					},
 					{
 						"id": "SE_Adventure06Intro_Intro",
@@ -8930,7 +8930,7 @@
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Title",
-						"text": "An ancient tomb"
+						"text": "古代墓穴"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Intro",
@@ -8978,39 +8978,39 @@
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_anabelle_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_annabelle_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_chandra_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_georgette_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_jackson_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_leonora_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_natalya_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_rose_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_veduti_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_Intro",
@@ -9034,7 +9034,7 @@
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Title",
-						"text": "The Amhara Highlands"
+						"text": "阿姆哈拉高地"
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Intro",
@@ -9094,7 +9094,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue01_Title",
-						"text": "In ancient Aksum"
+						"text": "在古代阿克苏姆"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Intro",
@@ -9106,7 +9106,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice02",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Enter",
@@ -9146,7 +9146,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice07",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure06Clue01_DetectionW",
@@ -9166,7 +9166,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue02_Title",
-						"text": "A mountain village"
+						"text": "山中小村"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Intro",
@@ -9202,7 +9202,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice06",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Attack",
@@ -9234,7 +9234,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue03_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06Clue03_Intro",
@@ -9250,7 +9250,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue03_Choice03",
-						"text": "Continue your journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "SE_Adventure06Clue03_ShooDogsF",
@@ -9294,7 +9294,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue04_Title",
-						"text": "In the mountains"
+						"text": "在山里"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Intro",
@@ -9358,15 +9358,15 @@
 					},
 					{
 						"id": "FE_Nothing01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingUndeadBlack01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingUndeadWhite01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_Nothing01_Intro",
@@ -9374,31 +9374,31 @@
 					},
 					{
 						"id": "FE_NothingAmmoLoot01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingAmmoLootUndeadBlack01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingAmmoLootUndeadWhite01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingFuelLoot01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingFuelLoot01UndeadBlack_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_NothingFuelLootUndeadWhite01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "CU_Fenrir01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "CU_Fenrir01_Intro",
@@ -9410,7 +9410,7 @@
 					},
 					{
 						"id": "CU_SnowWhite01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "CU_SnowWhite01_Intro",
@@ -9422,7 +9422,7 @@
 					},
 					{
 						"id": "FA_FenrirDied01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_FenrirDied01_Intro",
@@ -9434,7 +9434,7 @@
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Intro",
@@ -9446,7 +9446,7 @@
 					},
 					{
 						"id": "FA_AloneRescue01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_AloneRescue01_Intro",
@@ -9454,7 +9454,7 @@
 					},
 					{
 						"id": "FA_TeamDied01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied01_Intro",
@@ -9462,7 +9462,7 @@
 					},
 					{
 						"id": "FA_TeamDied02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied02_Intro",
@@ -9470,7 +9470,7 @@
 					},
 					{
 						"id": "FA_TeamDied03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied03_Intro",
@@ -9478,7 +9478,7 @@
 					},
 					{
 						"id": "FA_TeamDied04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied04_Intro",
@@ -9486,7 +9486,7 @@
 					},
 					{
 						"id": "FA_TeamDied05_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied05_Intro",
@@ -9494,7 +9494,7 @@
 					},
 					{
 						"id": "FA_TeamDied06_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FA_TeamDied06_Intro",
@@ -9566,19 +9566,19 @@
 					},
 					{
 						"id": "SE_Adventure01FinalFight_Trailer_title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Trailer_title",
-						"text": "The Armenian Mountains"
+						"text": "亚美尼亚山脉"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Trailer_title",
-						"text": "An oasis settlement"
+						"text": "沙漠定居点"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Trailer_title",
-						"text": "In ancient Aksum"
+						"text": "在古代阿克苏姆"
 					},
 					{
 						"id": "FE_CavedInTemple01_Intro",
@@ -9706,463 +9706,463 @@
 					},
 					{
 						"id": "FE_CavedInTemple01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_MineEntrance01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_BunkerEntrace01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_ClosedWell01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_RockFormation01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_OldTree01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_AbandonedJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TrashMount01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandyCrate01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandyCanister01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandDunes01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_LostCamel01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_LostGoat01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_LostSheep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_Snake01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_NaziTent01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_UndeadTent01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_EmptyAltar01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_Bushes01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TatteredBooks01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandySkull01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SpearedSkull01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_OldMap01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_Ruins01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_Campfire01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_StrangeObject01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_Cactus01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_NaziFlag01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SpiderNest01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_Grass01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_OldRadio01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_TimeLost01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_TimeLost02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_TimeLost03_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "AE_TimeLost04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaAdvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaAdvantage02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaAdvantage03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaDisadvantage01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaDisadvantage02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaDisadvantage03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaNeutral01_Title",
-						"text": "An ancient temple"
+						"text": "一座古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaNeutral02_Title",
-						"text": "A temple complex"
+						"text": "一座大型神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaNeutral03_Title",
-						"text": "A ruined temple"
+						"text": "一座荒废神庙"
 					},
 					{
 						"id": "CU_FenrirNoJeep01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "CU_SnowWhiteNoJeep01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_AloneRescueNoJeep01_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep01_Title",
-						"text": "Some brushwood"
+						"text": "一些草丛"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep02_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep03_Title",
-						"text": "A few scraggy shrubs"
+						"text": "几棵矮小的灌木"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep04_Title",
-						"text": "Some scraggy brushwood"
+						"text": "一些矮小的草丛"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep05_Title",
-						"text": "A couple of parched trees"
+						"text": "几颗干枯的树"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep01_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep02_Title",
-						"text": "An ancient desert village"
+						"text": "一个古老的沙漠村庄"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep03_Title",
-						"text": "A wasteland"
+						"text": "一座废墟"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep04_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep05_Title",
-						"text": "Some huts"
+						"text": "一些小屋"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep01_Title",
-						"text": "Some lonely goats"
+						"text": "几头孤独的山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep02_Title",
-						"text": "A herd of goats"
+						"text": "一群山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep03_Title",
-						"text": "A few thirsty goats"
+						"text":"几头口渴的山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep04_Title",
-						"text": "A herd of goats"
+						"text": "一群山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep05_Title",
-						"text": "A few scrawny goats"
+						"text": "几头骨瘦如柴的山羊"
 					},
 					{
 						"id": "FE_AbandonedJeepNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_BunkerEntraceNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_BushesNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_CactusNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_CampfireNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_CavedInTempleNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_ClosedWellNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_EmptyAltarNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_GrassNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_LostCamelNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_LostGoatNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_LostSheepNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_MineEntranceNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_NaziFlagNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_NaziTentNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_OldMapNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_OldRadioNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_OldTreeNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_RockFormationNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_RuinsNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandDunesNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandyCanisterNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandyCrateNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SandySkullNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SnakeNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SpearedSkullNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_SpiderNestNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_StrangeObjectNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TatteredBooksNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_TrashMountNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "FE_UndeadTentNoJeep01_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep01_Title",
-						"text": "A waterhole"
+						"text": "一个水潭"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep02_Title",
-						"text": "An oasis"
+						"text": "绿洲"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep03_Title",
-						"text": "A small well"
+						"text": "一口小水井"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep04_Title",
-						"text": "Somewhere in the desert"
+						"text": "沙漠的某处"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep05_Title",
-						"text": "A small oasis"
+						"text": "一个小绿洲"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep01_Title",
-						"text": "Some ruined walls"
+						"text": "一些断壁残垣"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep02_Title",
-						"text": "Some village ruins"
+						"text": "一些村庄遗迹"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep03_Title",
-						"text": "Some old huts"
+						"text": "一些古老小屋"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep04_Title",
-						"text": "A deserted village"
+						"text": "一个沙漠村庄"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep05_Title",
-						"text": "Village ruins"
+						"text": "村庄废墟"
 					},
 					{
 						"id": "FA_TeamDied01_Fenrir_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied01_SnowWhite_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied02_Fenrir_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied02_SnowWhite_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied03_Fenrir_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied03_SnowWhite_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied04_Fenrir_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied04_SnowWhite_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied05_Fenrir_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied05_SnowWhite_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied06_Fenrir_Title",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					},
 					{
 						"id": "FA_TeamDied06_SnowWhite",
-						"text": "In the middle of nowhere"
+						"text": "在荒无人烟的地方"
 					}
 				]
 			},
