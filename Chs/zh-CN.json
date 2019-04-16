@@ -745,7 +745,7 @@
 					},
 					{
 						"id": "PerkList_Content",
-						"text": "[h1]古代语言[/h1]根据角色破译古语言或理解当地方言的能力，可以做出其他选择。\n[p][h1]胆大妄为[/h1]提供基于快速思考、非正统和经常草率行动的替代决策。\n[p][h1]蛮力[/h1]提供基于蛮力运用的替代决策。\n[p][h1]影子[/h1]提供基于隐身和一般运动能力的替代决策。\n[p][h1]医学专家[/h1]提供基于医学知识提升使用临时绷带的能力的替代决策。\n[p][h1]工程师[/h1]提供基于技术知识的替代决策。\n[p][h1]魔术师[/h1]能够根据巧妙的手法和操纵毫无戒心的人做出其他决定。\n[p][h1]第六感[/h1]能够根据直觉和情境感知做出选择。\n[p][h1]恐吓[/h1]能够对他人施加心理压力的能力的替代决策。\n[p][h1]死里逃生[/h1]根据对自然环境的深入了解，包括天气状况和各种野生动物的特征，做出其他决策。\n[p][h1]禁忌知识[/h1]在学校学习结束和神秘传统灰色区域开始的地方，可以做出其他选择。"
+						"text": "[h1]古代语[/h1]根据角色破译古语言或理解当地方言的能力，可以做出其他选择。\n[p][h1]敢死队[/h1]提供基于快速思考、非正统和经常草率行动的替代决策。\n[p][h1]大力士[/h1]提供基于蛮力运用的替代决策。\n[p][h1]潜行者[/h1]提供基于隐身和一般运动能力的替代决策。\n[p][h1]医学家[/h1]提供基于医学知识提升使用临时绷带的能力的替代决策。\n[p][h1]工程师[/h1]提供基于技术知识的替代决策。\n[p][h1]诡术师[/h1]能够根据巧妙的手法操纵毫无戒心的人做出其他决定。\n[p][h1]第六感[/h1]能够根据直觉和情境感知做出选择。\n[p][h1]恐吓[/h1]能够对他人施加心理压力的能力的替代决策。\n[p][h1]求生者[/h1]根据对自然环境的深入了解，包括天气状况和各种野生动物的特征，做出其他决策。\n[p][h1]禁忌术[/h1]在学校学习结束和神秘传统灰色区域开始的地方，可以做出其他选择。"
 					},
 					{
 						"id": "TeamScreen",
@@ -829,7 +829,7 @@
 					},
 					{
 						"id": "CharacterActions",
-						"text": "Actions"
+						"text": "角色动作"
 					},
 					{
 						"id": "CharacterActions_Content",
@@ -941,67 +941,67 @@
 					},
 					{
 						"id": "TheNazis",
-						"text": "The Nazis"
+						"text": "纳粹党"
 					},
 					{
 						"id": "TheNazis_Content",
-						"text": "[h1]The Valkyrium question[/h1]The German Reich’s secret obsession is called Valkyrium.\nWhat is this strange substance? What powers does it grant those who possess it?\nIt seems the Nazis have found answers to these questions - terrible answers...\n[p][img:codex_valkyrium]"
+						"text": "[h1]Valkyrium之谜[/h1]德意志帝国痴迷于一种叫做Valkyrium的神秘物质。\n这种奇怪的物质是什么？它授予那些拥有它的人什么权力？\n纳粹似乎找到了这些问题的答案-可怕的答案...\n[p][img:codex_valkyrium]"
 					},
 					{
 						"id": "Infanterist",
-						"text": "Nazi Trooper"
+						"text": "纳粹士兵"
 					},
 					{
 						"id": "Infanterist_Content",
-						"text": "[h1]Nazi Trooper[/h1]Armed with assault rifles, these jackbooted German troops are excellently equipped for battle in the desert. Nazi troopers are the backbone of the German expeditionary forces. Their discipline and resolve make them formidable opponents in any situation.\n[p][img:codex_nazitroopers]"
+						"text": "[h1]纳粹士兵[/h1]装备突击步枪的德国士兵装备精良，在沙漠中作战。纳粹士兵是德国远征军的中坚力量。他们的纪律和决心使他们在任何情况下都成为强大的对手。\n[p][img:codex_nazitroopers]"
 					},
 					{
 						"id": "Dog",
-						"text": "Attack dog"
+						"text": "军犬"
 					},
 					{
 						"id": "Dog_Content",
-						"text": "[h1]Attack dog[/h1]German attack dogs are fearsome beasts: Once they have latched on to their target, they will not let go until it is lying bleeding and defenseless in the desert sands. Unlike their masters, they have no concept of tactics and cover.\n[p][img:codex_dogs]"
+						"text": "[h1]军犬[/h1]德国的军犬是可怕的野兽：一旦它们锁定了目标，它们便会穷追不舍，直到敌人毫无防备地躺在沙漠的沙地上流血。与它们的主人不同，它们没有战术和掩护的概念。\n[p][img:codex_dogs]"
 					},
 					{
 						"id": "Shotgunner",
-						"text": "Shock Trooper"
+						"text": "突击队"
 					},
 					{
 						"id": "Shotgunner_Content",
-						"text": "[h1]Shock Trooper[/h1]Shock troopers are the most aggressive German troop contingent. Mobile and well-armored, they advance relentlessly to engage the enemy with their shotguns. Shock troopers are fearless and deadly close-quarters fighters.\n[p][img:codex_shocktroopers]"
+						"text": "[h1]突击队[/h1]突击队是德国最具攻击性的部队。机动性强，装甲精良，他们坚持不懈地前进，用霰弹枪与敌人交战。突击队是无畏和致命的近距离战士。\n[p][img:codex_shocktroopers]"
 					},
 					{
 						"id": "Sniper",
-						"text": "Sniper"
+						"text": "狙击手"
 					},
 					{
 						"id": "Sniper_Content",
-						"text": "[h1]Sniper[/h1]Unfortunately, there is not much cover that can reliably protect you from the accuracy of German snipers. While they are not particularly tough or mobile, they dominate the battlefield thanks to the superior range of their precision rifles.\n[p][img:codex_snipers]"
+						"text": "[h1]狙击手[/h1]不幸的是，没有太多的掩体可以可靠地保护你免受德国狙击手的精确攻击。虽然他们不是特别强硬，机动性也不强，但由于他们的精确步枪射程更大，他们在战场上占据主导地位。\n[p][img:codex_snipers]"
 					},
 					{
 						"id": "Medic",
-						"text": "Medic"
+						"text": "野战医生"
 					},
 					{
 						"id": "Medic_Content",
-						"text": "[h1]Medic[/h1]The uniform insignia of the German field medics makes them easily recognizable from afar. Their main task is to care for their wounded comrades – but that does not mean they don’t know how to use their service pistols...\n[p][img:codex_medics]"
+						"text": "[h1]野战医生[/h1]德国野战医生的统一徽章使他们很容易从远处辨认出来。他们的主要任务是照顾受伤的同志，但这并不意味着他们不知道如何使用他们的服务手枪。...\n[p][img:codex_medics]"
 					},
 					{
 						"id": "Officer",
-						"text": "Officer"
+						"text": "德国军官"
 					},
 					{
 						"id": "Officer_Content",
-						"text": "[h1]Officer[/h1]German officers lead their troops with merciless discipline – the slightest of transgressions is met with severe punishment. Nevertheless, German officers have excellent tactical training – a German army unit will fight noticeably more efficiently if commanded by an officer.\n[p][img:codex_officers]"
+						"text": "[h1]德国军官[/h1]德国军官以无情的纪律领导他们的军队——任何轻微的违法行为都会受到严厉的惩罚。尽管如此，德国军官拥有出色的战术训练——如果军官指挥，德国陆军部队的战斗效率将显著提高。德国军官以无情的纪律领导他们的军队——任何轻微的违法行为都会受到严厉的惩罚。尽管如此，德国军官拥有出色的战术训练——如果有军官指挥，德国陆军部队的战斗效率将显著提高。\n[p][img:codex_officers]"
 					},
 					{
 						"id": "EliteDog",
-						"text": "Battle Hound"
+						"text": "战斗猎犬"
 					},
 					{
 						"id": "EliteDog_Content",
-						"text": "[h1]Battle Hound[/h1]The Nazis must have done something unspeakable to these monstrous creatures! There is no training program in the world that could induce such implacable bloodlust. Not to mention their strangely lifeless eyes...\n[p][img:codex_elitedogs]"
+						"text": "[h1]战斗猎犬[/h1]纳粹一定对这些怪物做了一些无法形容的事！世界上没有一个训练项目能引起如此难以根除的杀戮。更不用说他们奇怪的死气沉沉的眼睛了...\n[p][img:codex_elitedogs]"
 					},
 					{
 						"id": "Teslaborg",
@@ -1009,75 +1009,75 @@
 					},
 					{
 						"id": "Teslaborg_Content",
-						"text": "[h1]Teslaborg[/h1]The absolute elite of terror. Stormtroopers of the German expeditionary forces. The Teslaborg is a steel nightmare in combat due to its monstrous armor and devastating firepower.\n[p][img:codex_teslaborgs]"
+						"text": "[h1]Teslaborg[/h1]他们是德国远征军的突击队员，绝对是恐怖分子中的精英！Teslaborg由于其巨大的装甲和毁灭性的火力，在战斗中是一场钢铁般的噩梦。\n[p][img:codex_teslaborgs]"
 					},
 					{
 						"id": "TheBrotherhood",
-						"text": "The Brotherhood"
+						"text": "兄弟会"
 					},
 					{
 						"id": "TheBrotherhood_Content",
-						"text": "[h1]The menace in the shadows[/h1]The true goals of the Brotherhood of Khonesh remain shrouded in darkness - but that darkness is filled with loathsome rumors...\nRumors that rob you of your sleep and gnaw at the edges of your souls!\n[p][img:codex_ring]"
+						"text": "[h1]阴影中的威胁[/h1]Khonesh兄弟会的真正目标仍然笼罩在黑暗中，但黑暗中充满了令人厌恶的谣言。...\nRumors that rob you of your sleep and gnaw at the edges of your souls!\n[p][img:codex_ring]"
 					},
 					{
 						"id": "Cultist",
-						"text": "Cultist"
+						"text": "邪教分子"
 					},
 					{
 						"id": "Cultist_Content",
-						"text": "[h1]Cultist[/h1]The foot soldiers of the Brotherhood – fanatical, hate-filled and willing to fight to the death. Unlike their horrific undead allies, cultists fight tactically, use cover or flee when it makes sense. The cultists’ blazing sulfur pots rain death and destruction over their enemies.\n[p][img:codex_cultists]"
+						"text": "[h1]邪教分子[/h1]兄弟会的步兵——狂热迷信，充满仇恨，愿意战斗至死。与他们可怕的不死族盟友不同，邪教分子能够有策略地战斗及使用掩体，或者在有必要的时候逃跑。邪教分子燃烧的硫磺罐将死亡和毁灭降到他们的敌人身上。\n[p][img:codex_cultists]"
 					},
 					{
 						"id": "Zombie",
-						"text": "Zombie"
+						"text": "僵尸"
 					},
 					{
 						"id": "Zombie_Content",
-						"text": "[h1]Zombie[/h1]What gives the Brotherhood its unholy power over the dead? One thing is certain: wherever they appear, the zombie hordes are not far behind. Tormented and mindless, they are driven by a constant hunger and hate for the living. Few things are as dangerous as an injured zombie...\n[p][img:codex_zombies]"
+						"text": "[h1]僵尸[/h1]是什么赋予兄弟会对死者的邪恶力量？有一件事是肯定的：无论他们出现在哪里，僵尸部落就在不远处。他们饱受折磨，毫无思想，被不断的饥饿和对生活的憎恨所驱使。没有什么东西比受伤的僵尸更危险...\n[p][img:codex_zombies]"
 					},
 					{
 						"id": "Infected",
-						"text": "Infected"
+						"text": "感染者"
 					},
 					{
 						"id": "Infected_Content",
-						"text": "[h1]Infected[/h1]Death and destruction follow the Brotherhood wherever it goes. The infected clearly play an important role in their sinister plans. Bloated and decayed, they spread their sickness by spewing forth vile putrescence over their enemies.\n[p][img:codex_infecteds]"
+						"text": "[h1]感染者[/h1]无论兄弟会走到哪里，死亡和毁灭都会随之而来。感染者显然在他们的邪恶计划中起着重要作用。他们浮肿衰败，向敌人吐出可恶的腐烂物，传播疾病。\n[p][img:codex_infecteds]"
 					},
 					{
 						"id": "Sporebearer",
-						"text": "Spore Bearer"
+						"text": "孢子寄生菌"
 					},
 					{
 						"id": "Sporebearer_Content",
-						"text": "[h1]Spore Bearer[/h1]With their unspeakable rituals, the Brotherhood have created a parasitic abomination that paralyzes its enemies in a cloud of poisonous spores. What affliction possesses these unfortunate souls? What final form will their metamorphosis reveal?\n[p][img:codex_sporebearers]"
+						"text": "[h1]孢子寄生菌[/h1]兄弟会通过他们无法言喻的仪式，创造了一种寄生的可憎之物，使敌人在一团有毒的孢子中瘫痪。这些不幸的灵魂有什么痛苦？它们的变异将揭晓什么样的最终形态？\n[p][img:codex_sporebearers]"
 					},
 					{
 						"id": "HighPriestess",
-						"text": "High Priestess"
+						"text": "高级女祭司"
 					},
 					{
 						"id": "HighPriestess_Content",
-						"text": "[h1]High Priestess[/h1]Through years of study and ineffable practices, these abhorrent leaders of the Brotherhood have learned the darkest mysteries of the occult. They now command the secrets of life and death – they will not hesitate to unleash their unholy powers to achieve their goals...\n[p][img:codex_highpriestesses]"
+						"text": "[h1]高级女祭司[/h1]通过多年的学习和不可言喻的实践，这些可恶的兄弟会领导人已经学会了最黑暗的秘密。他们现在掌握着生与死的秘密——他们会毫不犹豫地释放他们的邪恶力量来实现他们的目标...\n[p][img:codex_highpriestesses]"
 					},
 					{
 						"id": "TravelSummary",
-						"text": "Introduction"
+						"text": "介绍"
 					},
 					{
 						"id": "TravelSummary_Content",
-						"text": "[h1]Objective[/h1]The goal of each adventure is to reach the destination point of the map. On the way there, the team travels from location to location.\n[p][img:codex_encounter]\n[p][h1]Events[/h1]Each location presents a new event. The event may be a simple mood text without any gameplay consequences or more significant occurrences like loot, traders, resting places and challenging battles.\n[p]Some events are short and to the point whilst others provide complex branching options. Character perks like Daredevil or Survivalist may open additional choices and event branches.\n[p][h1]Fuel Reserves[/h1]The journey will slowly drain fuel reserves. Once depleted, you may give up or continue with the expedition on foot at the cost of the team's health.\n[p][h1]Failure[/h1]The expedition fails as soon as the last of your characters dies either due to the harsh conditions of foot travel or at the hands of your enemies."
+						"text": "[h1]目标[/h1]每次探险的目标都是到达地图的终点。在去那里的路上，队伍会一个位置到达另一个位置。\n[p][img:codex_encounter]\n[p][h1]事件[/h1]每个地点都有一个新的活动。事件可能是一个简短的情绪记录，没有任何游戏后果或是更重要的事件，如战利品，商人，休息地和具有挑战性的战斗。\n[p]有些事件很短，而且非常重要，而另一些事件提供了复杂的分支选项。像敢死队或不死鸟这样的角色的特殊能力可以打开更多的选择和事件分支。\n[p][h1]燃料储备[/h1]旅程将慢慢耗尽燃油储备。一旦耗尽，你可以放弃或继续徒步探险，代价是牺牲队伍的健康。\n[p][h1]失败[/h1]当你的最后一个角色因恶劣的徒步旅行条件或因敌人之手而死亡时，探险就失败了。"
 					},
 					{
 						"id": "CombatSummary",
-						"text": "Introduction"
+						"text": "介绍"
 					},
 					{
 						"id": "CombatSummary_Content",
-						"text": "[h1]Turn-based Combat[/h1]Combat in Pathway is turn-based: The player first enters a planning phase in which they may place their characters inside a marked  area (green). The player and the enemy then each take their turns sequentially. The battle is over when one of the teams has lost all their units.\n[p][img:codex_battleimpression]\n[p]During their turn, the player can move their characters in any order. Once finished, the enemy proceeds to execute their actions in return.\n[p][h1]Actions[/h1]Each unit can execute a maximum of two actions per turn: Attack and move are limited to one per turn. Neutral actions, such as reload or healing an allied character, can be done up to two times per turn.\n[p]Each weapon and armor type provide a unique special ability to its user. They also require bravery points to use. Bravery is regenerated through various actions such as successful attacks and evades.\n[p][h1]Covers[/h1]Characters positioned directly (not diagonally) next to cover receive some protection against ranged weapons. Weak and strong covers reduce the enemy's hitchance. Walls break the line of sight and therefore also prevent ranged attacks.\n[p][h1]Heal, Repair, and Revive[/h1]If a character is equipped with medkits they may use it to heal nearby allies. Additionally, medkits can be used to revive unconscious characters. Units with repairkits may be used to repair armor during combat."
+						"text": "[h1]回合制战斗[/h1]Pathway中的战斗是基于回合制的：玩家首先进入一个计划阶段，在这个阶段他们可以将角色放在一个标记区域（绿色）内。然后玩家和敌人依次轮流进行。当一支队伍失去了所有的单位时，战斗就结束了。\n[p][img:codex_battleimpression]\n[p]轮到玩家时，玩家可以按任意顺序移动角色。一旦完成，就轮到敌人就开始执行他们的行动。\n[p][h1]动作[/h1]每个单位每回合最多可以执行两个动作：攻击和移动限制为每回合一个。中立的行动，如重装或治疗一个盟军人物，可以每回合做最多两次。\n[p]每种武器和装甲类型都为其使用者提供了独特的特殊能力。他们还需要使用勇气点。勇气是通过各种行动，如成功的攻击和闪避而回复的。\n[p][h1]掩体[/h1]直接（不是对角）放置在掩体旁边的角色会受到一些远程武器的伤害减免。弱掩体和强掩体减少了敌人的牵制。墙打破了视线，因此也可以防止远程攻击。\n[p][h1]治疗、修理和复活[/h1]如果一个角色装备了医疗包，他们可以用它来治疗附近的盟友。此外，医疗包还可以用来唤醒倒地的角色。有修理包的单位可以在战斗中用来修理装甲。"
 					},
 					{
 						"id": "Credits",
-						"text": "[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"Redacted\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nSergei Klimov\nMario Zechner\nRolf Klischewski\nMatthias Kaestner\nLili Ibrahim\nChristian Verling\nTimo Krahl\nDaniel Kvarfordt\nDouble Fine\nThomas “Cyangmou” Feichtmeir\nAlex Vostrov\nSeriouslyClara\nDune\nAndrew Ferguson\nPawel Pastuszak\nIoannis Tsakpinis\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\nHans-Juergen & Elvira Zuelch\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]Thank you for playing Pathway![/h2][br]\n[br]\n[br]"
+						"text": "[h1]汉化人员名单：[/h1][br]\n[br]\n[p][h2]constancy[/h2]\n[p][h2]Karnie[/h2]\n[p][h2]law4x[/h2]\n[p][h2]xfnyl[/h2]\n[p][h2]Zain[/h2]\n[p][h2]law4x[/h2]整合\n[br]\n[br]\n[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]感谢游玩Pathway！[/h2][br]\n[br]\n[br]"
 					}
 				]
 			},
