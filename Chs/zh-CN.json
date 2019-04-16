@@ -48,7 +48,7 @@
 					},
 					{
 						"id": "adventure03MapArrival02_desc",
-						"text": "The stench of death hung over the desolate custom house."
+						"text": "死亡的恶臭笼罩着那座废弃的海关建筑."
 					},
 					{
 						"id": "adventure03MapArrival02_title",
@@ -56,7 +56,7 @@
 					},
 					{
 						"id": "adventure05Clue01_desc",
-						"text": "It was the only well for miles!"
+						"text": "这是方圆数里内唯一的一口井!"
 					},
 					{
 						"id": "adventure05Clue01_title",
@@ -64,11 +64,11 @@
 					},
 					{
 						"id": "adventure05Clue02_desc",
-						"text": "The rocks loomed like a clenched fist."
+						"text": "石头就似那握紧的拳头."
 					},
 					{
 						"id": "adventure05Clue02_title",
-						"text": "The Brothers‘ Betrayal"
+						"text": "兄弟间的背叛"
 					},
 					{
 						"id": "adventure05Clue03_desc",
@@ -92,11 +92,11 @@
 					},
 					{
 						"id": "adventureFail01_title",
-						"text": "旧的结束新的开始 一"
+						"text": "旧的结束新的开始 I"
 					},
 					{
 						"id": "adventureFail02_desc",
-						"text": "Fail [amount] adventures."
+						"text": "第 [amount] 次探险失败."
 					},
 					{
 						"id": "adventureFail02_title",
@@ -104,7 +104,7 @@
 					},
 					{
 						"id": "adventureFail03_desc",
-						"text": "Fail [amount] adventures."
+						"text": "第 [amount] 次探险失败."
 					},
 					{
 						"id": "adventureFail03_title",
@@ -112,7 +112,7 @@
 					},
 					{
 						"id": "aloneRescue01_desc",
-						"text": "Never give up hope."
+						"text": "永不放弃希望."
 					},
 					{
 						"id": "aloneRescue01_title",
@@ -120,39 +120,39 @@
 					},
 					{
 						"id": "armorRestored01_desc",
-						"text": "Restore [amount] AR."
+						"text": "修复 [amount] AR."
 					},
 					{
 						"id": "armorRestored01_title",
-						"text": "修补匠 一"
+						"text": "修补匠 I"
 					},
 					{
 						"id": "armorRestored02_desc",
-						"text": "Restore [amount] AR."
+						"text": "修复 [amount] AR."
 					},
 					{
 						"id": "armorRestored02_title",
-						"text": "修补匠 二"
+						"text": "修补匠 II"
 					},
 					{
 						"id": "armorRestored03_desc",
-						"text": "Restore [amount] AR."
+						"text": "修复 [amount] AR."
 					},
 					{
 						"id": "armorRestored03_title",
-						"text": "修补匠 三"
+						"text": "修补匠 III"
 					},
 					{
 						"id": "deadNaziCourier01_desc",
-						"text": "Who knows what really killed the courier?"
+						"text": "信使到底怎么死的?"
 					},
 					{
 						"id": "deadNaziCourier01_title",
-						"text": "Drug Fiend"
+						"text": "瘾君子"
 					},
 					{
 						"id": "disintegratorKills01_desc",
-						"text": "Kill [amount] enemies with a Disintegrator."
+						"text": "以分裂者干掉 [amount] 敌人."
 					},
 					{
 						"id": "disintegratorKills01_title",
@@ -160,11 +160,11 @@
 					},
 					{
 						"id": "donutFound01_desc",
-						"text": "Sometimes salvation comes when you least expect it..."
+						"text": "绝渡逢舟"
 					},
 					{
 						"id": "donutFound01_title",
-						"text": "A loyal companion"
+						"text": "忠诚的伙伴"
 					},
 					{
 						"id": "fenrisFound01_desc",
@@ -172,7 +172,7 @@
 					},
 					{
 						"id": "fenrisFound01_title",
-						"text": "A Friend and Helper"
+						"text": "同伴"
 					},
 					{
 						"id": "firstBlood01_desc",
@@ -188,43 +188,43 @@
 					},
 					{
 						"id": "fourKillsInOne01_title",
-						"text": "杀手 三"
+						"text": "杀手 III"
 					},
 					{
 						"id": "friendlyBeduins01_desc",
-						"text": "A game between friends..."
+						"text": "朋友间的游戏..."
 					},
 					{
 						"id": "friendlyBeduins01_title",
-						"text": "A Sly Fox"
+						"text": "老狐狸"
 					},
 					{
 						"id": "healthRestored01_desc",
-						"text": "Restore [amount] HP."
+						"text": "回复 [amount] HP."
 					},
 					{
 						"id": "healthRestored01_title",
-						"text": "Healer I"
+						"text": "疗伤师 I"
 					},
 					{
 						"id": "healthRestored02_desc",
-						"text": "Restore [amount] HP."
+						"text": "回复 [amount] HP."
 					},
 					{
 						"id": "healthRestored02_title",
-						"text": "Healer II"
+						"text": "疗伤师 II"
 					},
 					{
 						"id": "healthRestored03_desc",
-						"text": "Restore [amount] HP."
+						"text": "回复 [amount] HP."
 					},
 					{
 						"id": "healthRestored03_title",
-						"text": "Healer III"
+						"text": "疗伤师 III"
 					},
 					{
 						"id": "knifeKills01_desc",
-						"text": "Kill [amount] enemies with a Knife."
+						"text": "以匕首干掉 [amount] 敌人."
 					},
 					{
 						"id": "knifeKills01_title",
@@ -232,15 +232,15 @@
 					},
 					{
 						"id": "lostRockTemple01_desc",
-						"text": "The huge boulder rumbled towards us..."
+						"text": "巨石呼啸而来..."
 					},
 					{
 						"id": "lostRockTemple01_title",
-						"text": "The Power of Desperation"
+						"text": "破釜沉舟"
 					},
 					{
 						"id": "moneyCollected01_desc",
-						"text": "Collect $[amount]."
+						"text": "筹集 $[amount]."
 					},
 					{
 						"id": "moneyCollected01_title",
@@ -248,7 +248,7 @@
 					},
 					{
 						"id": "moneyCollected02_desc",
-						"text": "Collect $[amount]."
+						"text": "筹集 $[amount]."
 					},
 					{
 						"id": "moneyCollected02_title",
@@ -256,7 +256,7 @@
 					},
 					{
 						"id": "moneyCollected03_desc",
-						"text": "Collect $[amount]."
+						"text": "筹集 $[amount]."
 					},
 					{
 						"id": "moneyCollected03_title",
@@ -264,7 +264,7 @@
 					},
 					{
 						"id": "murderousIdol_desc",
-						"text": "The idol’s empty eyes seemed to follow us everywhere..."
+						"text": "神像空洞的眼睛似乎无时无刻不在看着我们.."
 					},
 					{
 						"id": "murderousIdol_title",
@@ -272,31 +272,31 @@
 					},
 					{
 						"id": "naziKills01_desc",
-						"text": "Kill [amount] Nazis."
+						"text": "干掉 [amount] 纳粹."
 					},
 					{
 						"id": "naziKills01_title",
-						"text": "Nazi Hunter I"
+						"text": "纳粹狩猎者 I"
 					},
 					{
 						"id": "naziKills02_desc",
-						"text": "Kill [amount] Nazis."
+						"text": "干掉 [amount] 纳粹."
 					},
 					{
 						"id": "naziKills02_title",
-						"text": "Nazi Hunter II"
+						"text": "纳粹狩猎者 II"
 					},
 					{
 						"id": "naziKills03_desc",
-						"text": "Kill [amount] Nazis."
+						"text": "干掉 [amount] 纳粹."
 					},
 					{
 						"id": "naziKills03_title",
-						"text": "Nazi Hunter III"
+						"text": "纳粹狩猎者 III"
 					},
 					{
 						"id": "pistolKills01_desc",
-						"text": "Kill [amount] enemies with a Pistol."
+						"text": "以手枪干掉 [amount] 敌人."
 					},
 					{
 						"id": "pistolKills01_title",
@@ -304,7 +304,7 @@
 					},
 					{
 						"id": "recruit01_desc",
-						"text": "Recruit [amount] characters."
+						"text": "已征召角色 [amount]."
 					},
 					{
 						"id": "recruit01_title",
@@ -348,7 +348,7 @@
 					},
 					{
 						"id": "singleShotKills01_title",
-						"text": "One Shot Killer I"
+						"text": "一枪毙敌 I"
 					},
 					{
 						"id": "singleShotKills02_desc",
@@ -356,7 +356,7 @@
 					},
 					{
 						"id": "singleShotKills02_title",
-						"text": "One Shot Killer II"
+						"text": "一枪毙敌 II"
 					},
 					{
 						"id": "singleShotKills03_desc",
@@ -364,7 +364,7 @@
 					},
 					{
 						"id": "singleShotKills03_title",
-						"text": "One Shot Killer III"
+						"text": "一枪毙敌 III"
 					},
 					{
 						"id": "sniperKills01_desc",
@@ -380,7 +380,7 @@
 					},
 					{
 						"id": "stargateFragment01_title",
-						"text": "Kissed By The Eons"
+						"text": "永世之吻"
 					},
 					{
 						"id": "tankLeak01_desc",
@@ -404,7 +404,7 @@
 					},
 					{
 						"id": "threeKillsInOne01_title",
-						"text": "Killer II"
+						"text": "杀手 II"
 					},
 					{
 						"id": "trashSold01_desc",
@@ -420,7 +420,7 @@
 					},
 					{
 						"id": "twoKillsInOne01_title",
-						"text": "Killer I"
+						"text": "杀手 I"
 					},
 					{
 						"id": "undeadKills01_desc",
@@ -580,7 +580,7 @@
 					},
 					{
 						"id": "nodesTravelled01_title",
-						"text": "Traveller I"
+						"text": "旅行者 I"
 					},
 					{
 						"id": "nodesTravelled02_desc",
@@ -588,7 +588,7 @@
 					},
 					{
 						"id": "nodesTravelled02_title",
-						"text": "Traveller II"
+						"text": "旅行者 II"
 					},
 					{
 						"id": "nodesTravelled03_desc",
@@ -596,7 +596,7 @@
 					},
 					{
 						"id": "nodesTravelled03_title",
-						"text": "Traveller III"
+						"text": "旅行者 III"
 					}
 				]
 			},
