@@ -18194,7 +18194,7 @@
 					},
 					{
 						"id": "leFantome_ItemDowngrade_0",
-						"text": "No, no, no."
+						"text": "不, 不, 不."
 					},
 					{
 						"id": "leFantome_Recruited_0",
@@ -18214,7 +18214,7 @@
 					},
 					{
 						"id": "leFantome_NeedHealing_1",
-						"text": "It really hurts."
+						"text": "真的很疼."
 					},
 					{
 						"id": "leFantome_CriticalStrike_1",
@@ -18230,11 +18230,11 @@
 					},
 					{
 						"id": "leFantome_Idle_1",
-						"text": "They never proved it was me who broke in to the German embassy in Paris."
+						"text": "他们无法证明是我闯入德国驻巴黎大使馆."
 					},
 					{
 						"id": "leFantome_Flanked_1",
-						"text": "You’ll never catch me!"
+						"text": "你永远不会抓住我!"
 					},
 					{
 						"id": "leFantome_NeedFuel_1",
@@ -18246,11 +18246,11 @@
 					},
 					{
 						"id": "leFantome_ItemUpgrade_1",
-						"text": "An excellent choice."
+						"text": "不错的选择."
 					},
 					{
 						"id": "leFantome_ItemDowngrade_1",
-						"text": "Seriously?"
+						"text": "认真的?"
 					},
 					{
 						"id": "leFantome_Recruited_1",
@@ -18258,11 +18258,11 @@
 					},
 					{
 						"id": "leFantome_LevelUp_1",
-						"text": "I feel great!"
+						"text": "我感觉很好!"
 					},
 					{
 						"id": "leFantome_EnemySpotted_1",
-						"text": "Over there!"
+						"text": "在那里!"
 					},
 					{
 						"id": "fenris_NeedReloading_0",
@@ -18314,7 +18314,7 @@
 					},
 					{
 						"id": "fenris_LevelUp_0",
-						"text": "*Heavy Panting*"
+						"text": "*气喘吁吁*"
 					},
 					{
 						"id": "fenris_EnemySpotted_0",
@@ -18370,7 +18370,7 @@
 					},
 					{
 						"id": "fenris_LevelUp_1",
-						"text": "*Heavy Panting*"
+						"text": "*气喘吁吁*"
 					},
 					{
 						"id": "fenris_EnemySpotted_1",
@@ -18426,7 +18426,7 @@
 					},
 					{
 						"id": "snowWhite_LevelUp_0",
-						"text": "*Heavy Panting*"
+						"text": "*气喘吁吁*"
 					},
 					{
 						"id": "snowWhite_EnemySpotted_0",
@@ -18450,7 +18450,7 @@
 					},
 					{
 						"id": "snowWhite_Evade_1",
-						"text": "*Whimpers*"
+						"text": "*呜咽*"
 					},
 					{
 						"id": "snowWhite_Idle_1",
@@ -18482,7 +18482,7 @@
 					},
 					{
 						"id": "snowWhite_LevelUp_1",
-						"text": "*Heavy Panting*"
+						"text": "*气喘吁吁*"
 					},
 					{
 						"id": "snowWhite_EnemySpotted_1",
