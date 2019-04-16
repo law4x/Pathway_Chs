@@ -60,7 +60,7 @@
 					},
 					{
 						"id": "adventure05Clue01_title",
-						"text": "The Fountain of Youth"
+						"text": "活力之泉"
 					},
 					{
 						"id": "adventure05Clue02_desc",
@@ -76,7 +76,7 @@
 					},
 					{
 						"id": "adventure05Clue03_title",
-						"text": "Project Valhalla"
+						"text": "英灵殿"
 					},
 					{
 						"id": "adventure06Clue01_desc",
@@ -84,11 +84,11 @@
 					},
 					{
 						"id": "adventure06Clue01_title",
-						"text": "A Fresh Track"
+						"text": "新的道路"
 					},
 					{
 						"id": "adventureFail01_desc",
-						"text": "Fail an adventure."
+						"text": "一次失败的探险."
 					},
 					{
 						"id": "adventureFail01_title",
