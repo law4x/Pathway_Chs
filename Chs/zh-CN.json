@@ -92,7 +92,7 @@
 					},
 					{
 						"id": "adventureFail01_title",
-						"text": "An Ending and a New Beginning I"
+						"text": "旧的结束新的开始 一"
 					},
 					{
 						"id": "adventureFail02_desc",
@@ -100,7 +100,7 @@
 					},
 					{
 						"id": "adventureFail02_title",
-						"text": "An Ending and a New Beginning II"
+						"text": "旧的结束新的开始 二"
 					},
 					{
 						"id": "adventureFail03_desc",
@@ -108,7 +108,7 @@
 					},
 					{
 						"id": "adventureFail03_title",
-						"text": "An Ending and a New Beginning III"
+						"text": "旧的结束新的开始 三"
 					},
 					{
 						"id": "aloneRescue01_desc",
@@ -116,7 +116,7 @@
 					},
 					{
 						"id": "aloneRescue01_title",
-						"text": "Lost & Found"
+						"text": "得 & 失"
 					},
 					{
 						"id": "armorRestored01_desc",
@@ -124,7 +124,7 @@
 					},
 					{
 						"id": "armorRestored01_title",
-						"text": "Tinker I"
+						"text": "修补匠 一"
 					},
 					{
 						"id": "armorRestored02_desc",
@@ -132,7 +132,7 @@
 					},
 					{
 						"id": "armorRestored02_title",
-						"text": "Tinker II"
+						"text": "修补匠 二"
 					},
 					{
 						"id": "armorRestored03_desc",
@@ -140,7 +140,7 @@
 					},
 					{
 						"id": "armorRestored03_title",
-						"text": "Tinker III"
+						"text": "修补匠 三"
 					},
 					{
 						"id": "deadNaziCourier01_desc",
@@ -156,7 +156,7 @@
 					},
 					{
 						"id": "disintegratorKills01_title",
-						"text": "Relentless Progress"
+						"text": "坚持不懈"
 					},
 					{
 						"id": "donutFound01_desc",
@@ -176,19 +176,19 @@
 					},
 					{
 						"id": "firstBlood01_desc",
-						"text": "Kill a Nazi."
+						"text": "干掉一个."
 					},
 					{
 						"id": "firstBlood01_title",
-						"text": "First Blood"
+						"text": "第一滴血"
 					},
 					{
 						"id": "fourKillsInOne01_desc",
-						"text": "Kill 4 enemies with one attack."
+						"text": "一石四鸟."
 					},
 					{
 						"id": "fourKillsInOne01_title",
-						"text": "Killer III"
+						"text": "杀手 三"
 					},
 					{
 						"id": "friendlyBeduins01_desc",
@@ -228,7 +228,7 @@
 					},
 					{
 						"id": "knifeKills01_title",
-						"text": "Butcher"
+						"text": "屠夫"
 					},
 					{
 						"id": "lostRockTemple01_desc",
@@ -268,7 +268,7 @@
 					},
 					{
 						"id": "murderousIdol_title",
-						"text": "You Never Know"
+						"text": "世事无常"
 					},
 					{
 						"id": "naziKills01_desc",
@@ -300,7 +300,7 @@
 					},
 					{
 						"id": "pistolKills01_title",
-						"text": "Pistolero"
+						"text": "神枪手"
 					},
 					{
 						"id": "recruit01_desc",
@@ -316,7 +316,7 @@
 					},
 					{
 						"id": "restingPlace01_title",
-						"text": "Campfire Tales"
+						"text": "月光光鬼咁慌"
 					},
 					{
 						"id": "rifleKills01_desc",
@@ -324,7 +324,7 @@
 					},
 					{
 						"id": "rifleKills01_title",
-						"text": "Rifleman"
+						"text": "步枪兵"
 					},
 					{
 						"id": "shotgunKills01_desc",
@@ -332,7 +332,7 @@
 					},
 					{
 						"id": "shotgunKills01_title",
-						"text": "Shotgunner"
+						"text": "霰弹枪手"
 					},
 					{
 						"id": "sickBeduinCamel01_desc",
@@ -372,7 +372,7 @@
 					},
 					{
 						"id": "sniperKills01_title",
-						"text": "Sniper"
+						"text": "狙鸡儿手"
 					},
 					{
 						"id": "stargateFragment01_desc",
@@ -388,7 +388,7 @@
 					},
 					{
 						"id": "tankLeak01_title",
-						"text": "Environmental Hazard"
+						"text": "环境危害"
 					},
 					{
 						"id": "tarantulaCorpse_desc",
@@ -452,7 +452,7 @@
 					},
 					{
 						"id": "unholyVault01_title",
-						"text": "Run, you fools!"
+						"text": "滚，你个二货！"
 					},
 					{
 						"id": "unlockAdventure02_desc",
@@ -548,7 +548,7 @@
 					},
 					{
 						"id": "unlockRose_title",
-						"text": "Rose"
+						"text": "肉丝"
 					},
 					{
 						"id": "unlockShani_desc",
