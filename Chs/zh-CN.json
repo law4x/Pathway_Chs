@@ -1086,7 +1086,7 @@
 				"rows": [
 					{
 						"id": "GE_HealingWell01_Intro",
-						"text": "你到达了一处满是崎岖山丘的地方。空气中隐约能够闻到一丝硫磺的气味。正当你在考虑是否要避开这个荒凉的地方时，你发现了一个被岩石包围的冒着热气的水池。[CTP]\n\n绿松石点缀着水池的边缘，带着一种不真实的色彩。你想要休息一会儿还是马上离开？"
+						"text": "你到达了一处满是崎岖山丘的地方.空气中隐约能够闻到一丝硫磺的气味.正当你在考虑是否要避开这个荒凉的地方时,你发现了一个被岩石包围的冒着热气的水池.[CTP]\n\n绿松石点缀着水池的边缘,带着一种不真实的色彩.你想要休息一会儿还是马上离开?"
 					},
 					{
 						"id": "GE_HealingWell01_Choice03",
@@ -1098,11 +1098,11 @@
 					},
 					{
 						"id": "GE_HealingWell01_Rest01",
-						"text": "invigorated.经过短暂的检查，你确定水很温暖，但不能喝。试探性地足浴后，你在充满矿物质的蒸汽温泉中好好地泡了个澡。\n\n温暖的泉水微微灼烧着你的伤口，但是当你穿好衣服后，你感到精神焕发。"
+						"text": "经过短暂的检查,你确定水很温暖,但不能喝.试探性地足浴后,你在充满矿物质的蒸汽温泉中好好地泡了个澡.\n\n温暖的泉水微微灼烧着你的伤口,但是当你穿好衣服后,你感到精神焕发."
 					},
 					{
 						"id": "GE_HealingWell01_Rest02",
-						"text": "当你在泳池边休息，把你的脚放入水中，你突然看到巨大的泡泡从水池底部冒出来。过了一会儿，你脚下的地面几乎觉察不到的震动了一下![CTP]\n\n你立刻向边上扑倒，瞬间一道巨大的滚烫的喷泉从你身边喷涌而出，直冲云霄!你的反应拯救了你自己，但是[char0]被烫伤了。"
+						"text": "当你在泳池边休息,把你的脚放入水中,你突然看到巨大的泡泡从水池底部冒出来.过了一会儿,你脚下的地面几乎觉察不到的震动了一下![CTP]\n\n你立刻向边上扑倒,瞬间一道巨大的滚烫的喷泉从你身边喷涌而出,直冲云霄!你的反应拯救了你自己,但是[char0]被烫伤了."
 					},
 					{
 						"id": "GE_HealingWell01_Rest02_female",
@@ -1110,11 +1110,11 @@
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvant01_Choice01",
-						"text": "在阴影处伏击！"
+						"text": "在阴影处伏击!"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvant01_Choice02",
-						"text": "当做没看见，离开这里"
+						"text": "当做没看见,离开这里"
 					},
 					{
 						"id": "BE_GenericNaziDungeonAdvant01_A_Intro",
@@ -6610,7 +6610,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage01_Title",
-						"text": "一个旧水箱"
+						"text": "老旧的水道"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage02_Title",
@@ -6622,7 +6622,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage04_Title",
-						"text": "一个空水箱"
+						"text": "干涸的水道"
 					},
 					{
 						"id": "BE_GenericNaziSewerAdvantage05_Title",
@@ -6634,7 +6634,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage01_Title",
-						"text": "一个老水箱"
+						"text": "古老的水道"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage02_Title",
@@ -6646,7 +6646,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage04_Title",
-						"text": "一个空水箱"
+						"text": "干涸的水道"
 					},
 					{
 						"id": "BE_GenericNaziSewerDisadvantage05_Title",
@@ -6658,7 +6658,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral01_Title",
-						"text": "一个旧水箱"
+						"text": "老旧的水道"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral02_Title",
@@ -6670,7 +6670,7 @@
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral04_Title",
-						"text": "一个空水箱"
+						"text": "干涸的水道"
 					},
 					{
 						"id": "BE_GenericNaziSewerNeutral05_Title",
@@ -6682,7 +6682,7 @@
 					},
 					{
 						"id": "BE_NaziExcavation01_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "BE_NaziDesertNeutral01_Title",
@@ -6750,27 +6750,27 @@
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_baron_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_fantome_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_leFantome_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_leonora_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_omar_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_veduti_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "GE_LockedWellChamber01_Title",
@@ -6862,7 +6862,7 @@
 					},
 					{
 						"id": "AE_PoisonWell01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "AE_CarFailure01_Title",
@@ -7018,7 +7018,7 @@
 					},
 					{
 						"id": "LE_GenericNaziCamp04_Title",
-						"text": "一个古老营地site"
+						"text": "一个古老营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp05_Title",
@@ -7154,15 +7154,15 @@
 					},
 					{
 						"id": "RE_DateTreeGrove01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "RE_PalmCopse01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "RE_GenericOasis01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "RE_GenericOasis02_Title",
@@ -7318,7 +7318,7 @@
 					},
 					{
 						"id": "BE_SanctuaryExcavation01_Title",
-						"text": "一个挖掘现场"
+						"text": "文物挖掘现场"
 					},
 					{
 						"id": "GE_StargateFragment01_Title",
@@ -7358,7 +7358,7 @@
 					},
 					{
 						"id": "LE_TempleGusher01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "LE_MountainChase01_Title",
@@ -7370,15 +7370,15 @@
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Title",
-						"text": "一个老水箱"
+						"text": "古老的水道"
 					},
 					{
 						"id": "AE_CollapsingSewer01_Title",
-						"text": "一个老水箱"
+						"text": "古老的水道"
 					},
 					{
 						"id": "LE_SewerAltar01_Title",
-						"text": "一个旧水箱"
+						"text": "老旧的水道"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral01_Title",
@@ -8422,7 +8422,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue03_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Intro",
@@ -8666,7 +8666,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Intro",
@@ -8682,7 +8682,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Intro",
@@ -10078,7 +10078,7 @@
 					},
 					{
 						"id": "RE_GenericOasisNoJeep01_Title",
-						"text": "一个水潭"
+						"text": "水池边"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep02_Title",
