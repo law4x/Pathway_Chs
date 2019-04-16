@@ -32,7 +32,7 @@
 					},
 					{
 						"id": "adventure02Clue02_desc",
-						"text": "他们的电台隐蔽在茫茫的沙海中."
+						"text": "他们的电台暗藏在茫茫的沙海中."
 					},
 					{
 						"id": "adventure02Clue02_title",
@@ -100,7 +100,7 @@
 					},
 					{
 						"id": "adventureFail02_title",
-						"text": "旧的结束新的开始 二"
+						"text": "旧的结束新的开始 II"
 					},
 					{
 						"id": "adventureFail03_desc",
@@ -108,7 +108,7 @@
 					},
 					{
 						"id": "adventureFail03_title",
-						"text": "旧的结束新的开始 三"
+						"text": "旧的结束新的开始 III"
 					},
 					{
 						"id": "aloneRescue01_desc",
@@ -148,7 +148,7 @@
 					},
 					{
 						"id": "deadNaziCourier01_title",
-						"text": "瘾君子"
+						"text": "嗜毒鬼"
 					},
 					{
 						"id": "disintegratorKills01_desc",
@@ -272,7 +272,7 @@
 					},
 					{
 						"id": "naziKills01_desc",
-						"text": "干掉 [amount] 纳粹."
+						"text": "已干掉纳粹 [amount]."
 					},
 					{
 						"id": "naziKills01_title",
@@ -280,7 +280,7 @@
 					},
 					{
 						"id": "naziKills02_desc",
-						"text": "干掉 [amount] 纳粹."
+						"text": "已干掉纳粹 [amount]."
 					},
 					{
 						"id": "naziKills02_title",
@@ -288,7 +288,7 @@
 					},
 					{
 						"id": "naziKills03_desc",
-						"text": "干掉 [amount] 纳粹."
+						"text": "已干掉纳粹 [amount]."
 					},
 					{
 						"id": "naziKills03_title",
@@ -548,7 +548,7 @@
 					},
 					{
 						"id": "unlockRose_title",
-						"text": "肉欧丝儿"
+						"text": "rose"
 					},
 					{
 						"id": "unlockShani_desc",
@@ -576,7 +576,7 @@
 					},
 					{
 						"id": "nodesTravelled01_desc",
-						"text": "Travel to [amount] locations."
+						"text": "已走过的目的地 [amount]."
 					},
 					{
 						"id": "nodesTravelled01_title",
@@ -584,7 +584,7 @@
 					},
 					{
 						"id": "nodesTravelled02_desc",
-						"text": "Travel to [amount] locations."
+						"text": "已走过的目的地 [amount]."
 					},
 					{
 						"id": "nodesTravelled02_title",
@@ -592,7 +592,7 @@
 					},
 					{
 						"id": "nodesTravelled03_desc",
-						"text": "Travel to [amount] locations."
+						"text": "已走过的目的地 [amount]."
 					},
 					{
 						"id": "nodesTravelled03_title",
