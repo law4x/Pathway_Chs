@@ -19,7 +19,7 @@ Items：@xfnyl
 
 Perks：@Zain 
 
-Quotes：
+Quotes：@xfnyl
 
 Tutorial：@law
 
