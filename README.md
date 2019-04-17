@@ -13,7 +13,10 @@ Phatway【路径】 简体中文
 目前分工：  
 Achievements：@constancy   
 Codex：@xfnyl   
-Events：  
+Events：Zain    1085 - 3126
+        Karnie  3127 - 5462
+        Law     5463 - 7818
+        xfnyl   7819 - 10169
 GameUI：@Karnie   
 Items：@xfnyl   
 Perks：@Zain   
