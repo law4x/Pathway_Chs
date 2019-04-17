@@ -11151,7 +11151,7 @@
 					},
 					{
 						"id": "EventTooltip_CanBeRevisited",
-						"text": "这里可以多次拜访."
+						"text": "可以多次拜访."
 					},
 					{
 						"id": "Action_Attack",
@@ -11159,7 +11159,7 @@
 					},
 					{
 						"id": "Action_Melee",
-						"text": "小刀攻击"
+						"text": "近战攻击"
 					},
 					{
 						"id": "Action_Bleed",
@@ -11323,7 +11323,7 @@
 					},
 					{
 						"id": "ActionTooltip_AlternateView",
-						"text": "[key:AlternateView]: 调整移动距离"
+						"text": "[key:AlternateView]: 查看移动范围"
 					},
 					{
 						"id": "ActionTooltip_ContextMenu",
@@ -11395,7 +11395,7 @@
 					},
 					{
 						"id": "Bio_Leonora_Positive",
-						"text": "后勤多面手, 可以使用突击步枪"
+						"text": "后勤多面手, \n  可以使用突击步枪"
 					},
 					{
 						"id": "Bio_Leonora_Negative",
@@ -11443,7 +11443,7 @@
 					},
 					{
 						"id": "Bio_Jackson_Positive",
-						"text": "突击步枪专家, 擅长射击，耐力高"
+						"text": "突击步枪专家, \n  擅长射击, 耐力高"
 					},
 					{
 						"id": "Bio_Jackson_Negative",
@@ -11491,7 +11491,7 @@
 					},
 					{
 						"id": "Bio_Shaneeka_Positive",
-						"text": "致命的近战打手, 擅长对付不死生物"
+						"text": "致命的近战打手, \n  擅长对付不死生物"
 					},
 					{
 						"id": "Bio_Shaneeka_Negative",
@@ -11515,7 +11515,7 @@
 					},
 					{
 						"id": "Bio_Rose_Positive",
-						"text": "会用多种武器, 有后勤技能可以学"
+						"text": "会用多种武器, \n  有后勤技能可以学"
 					},
 					{
 						"id": "Bio_Rose_Negative",
@@ -11527,7 +11527,7 @@
 					},
 					{
 						"id": "Bio_Caballero_Positive",
-						"text": "手雷专家, 擅长对付纳米"
+						"text": "手雷专家, 擅长对付纳粹"
 					},
 					{
 						"id": "Bio_Caballero_Negative",
@@ -11563,7 +11563,7 @@
 					},
 					{
 						"id": "Bio_LeFantome_Positive",
-						"text": "敏捷的近战打手, 多样的升级路线"
+						"text": "敏捷的近战打手, \n  多样的升级路线"
 					},
 					{
 						"id": "Bio_LeFantome_Negative",
@@ -11579,7 +11579,7 @@
 					},
 					{
 						"id": "Adv_adventureTutorial_Intro",
-						"text": "你在离卡萨布兰卡几英里远的一个边境村落稍作休整，这里是离开文明世界的最后一站 – 再往前就只剩下茫茫无情的沙漠. Morten就在前方的某处..."
+						"text": "你在离卡萨布兰卡几英里远的一个边境荒地稍作休整, 这里是离开文明世界的最后一站 – 再往前就只剩下茫茫无情的沙漠. Morten就在前方的某处..."
 					},
 					{
 						"id": "Adv_adventureTutorial_Extro",
@@ -11607,7 +11607,7 @@
 					},
 					{
 						"id": "Adv_adventure03_Desc",
-						"text": "开罗, 埃及:\n几周以来在当地术士间疯传的流言让你得出了一个可怕的结论:\nKhonesh兄弟会的邪教成员们打算复活黑法老Turash-Ra! \n你正前往梅罗伊的石漠荒地阻止他们! "
+						"text": "开罗, 埃及:\n几周来当地术士间疯传的流言让你得出了一个可怕结论:\nKhonesh兄弟会的邪教成员们打算复活黑法老Turash-Ra! \n你正前往梅罗伊的石漠荒地阻止他们! "
 					},
 					{
 						"id": "Adv_adventure03_Intro",
@@ -11643,7 +11643,7 @@
 					},
 					{
 						"id": "Adv_adventure05_Intro",
-						"text": "沿着尘土飞扬的沙漠小径你离开了吉达, 离开了这座人们引以为傲的港口城市. 一同告别的还有墙面花圃上郁郁葱葱的绿色植被, 以及拍打在闪闪发光的洁白岸壁上的红海碧波."
+						"text": "沿着尘土飞扬的沙漠小径你离开了吉达, 离开了这座人们引以为傲的港口城市. 一同告别的还有墙面花圃上郁郁葱葱的绿色植被, 以及拍打在闪闪发光的洁白岸壁上的红海碧波..."
 					},
 					{
 						"id": "Adv_adventure05_Extro",
@@ -11655,7 +11655,7 @@
 					},
 					{
 						"id": "Adv_adventure06_Desc",
-						"text": "吉布提, 东非:\nKhonesh兄弟会的邪教徒们正在阿比西尼亚高地寻找Sheba女王的最后安息之地. 据传说记载, 她的陵墓是神圣战车Merkabah的存放之所. \n你必须阻止他们!"
+						"text": "吉布提, 东非:\nKhonesh兄弟会的邪教徒们正在阿比西尼亚高地寻找\nSheba女王的最后安息之地. 据传说记载, 她的陵墓是神圣战车Merkabah的存放之所. \n你必须阻止他们!"
 					},
 					{
 						"id": "Adv_adventure06_Intro",
@@ -11735,7 +11735,7 @@
 					},
 					{
 						"id": "VideoOptions_Window_Monitor",
-						"text": "显示"
+						"text": "显示屏"
 					},
 					{
 						"id": "VideoOptions_Window_Resolution",
@@ -11803,7 +11803,7 @@
 					},
 					{
 						"id": "VideoOptionsKeep_Question",
-						"text": "显示设置已更改，要保留这些更改么?\n\n[0]秒后还原为原先设置..."
+						"text": "显示设置已更改, 要保留这些更改么?\n\n[0]秒后还原为原先设置..."
 					},
 					{
 						"id": "VideoOptionsKeep_QuestionYes",
@@ -11891,11 +11891,11 @@
 					},
 					{
 						"id": "KeyAction_Melee",
-						"text": "小刀攻击"
+						"text": "近战攻击"
 					},
 					{
 						"id": "KeyAction_MeleeSpecial",
-						"text": "小刀攻击(流血)"
+						"text": "近战攻击(流血)"
 					},
 					{
 						"id": "KeyAction_UseItem",
@@ -12403,15 +12403,15 @@
 					},
 					{
 						"id": "Enemy_eliteInfantrist_0_name",
-						"text": "Teslaborg I"
+						"text": "重装步兵 I"
 					},
 					{
 						"id": "Enemy_eliteInfantrist_1_name",
-						"text": "Teslaborg II"
+						"text": "重装步兵 II"
 					},
 					{
 						"id": "Enemy_eliteInfantrist_2_name",
-						"text": "Teslaborg III"
+						"text": "重装步兵 III"
 					},
 					{
 						"id": "Enemy_officer_0_name",
@@ -12463,15 +12463,15 @@
 					},
 					{
 						"id": "Enemy_shotgunner_0_name",
-						"text": "突击队 I"
+						"text": "重甲兵 I"
 					},
 					{
 						"id": "Enemy_shotgunner_1_name",
-						"text": "突击队 II"
+						"text": "重甲兵 II"
 					},
 					{
 						"id": "Enemy_shotgunner_2_name",
-						"text": "突击队 III"
+						"text": "重甲兵 III"
 					},
 					{
 						"id": "Enemy_medic_0_name",
@@ -12851,7 +12851,7 @@
 					},
 					{
 						"id": "AdventureStats_ItemsCollectedLabel",
-						"text": "收集物品"
+						"text": "获得物品"
 					},
 					{
 						"id": "AdventureStats_ItemsCollectedAmount",
@@ -12859,7 +12859,7 @@
 					},
 					{
 						"id": "AdventureStats_MoneyCollectedLabel",
-						"text": "收集财物"
+						"text": "获得金钱"
 					},
 					{
 						"id": "AdventureStats_MoneyCollectedAmount",
@@ -12895,7 +12895,7 @@
 					},
 					{
 						"id": "AdventureStats_EvadesAmount",
-						"text": "x[0]"
+						"text": "[0]次"
 					},
 					{
 						"id": "AdventureStats_CritsLabel",
@@ -12903,7 +12903,7 @@
 					},
 					{
 						"id": "AdventureStats_CritsAmount",
-						"text": "x[0]"
+						"text": "[0]次"
 					},
 					{
 						"id": "AdventureStats_KillCounter",
@@ -12951,7 +12951,7 @@
 					},
 					{
 						"id": "EventEffect_UnitRevived",
-						"text": "回满"
+						"text": "  "
 					},
 					{
 						"id": "EventEffect_Fuel",
