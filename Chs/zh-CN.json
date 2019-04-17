@@ -609,7 +609,7 @@
 					},
 					{
 						"id": "GameDescription_Content",
-						"text": "[h1]背景[/h1]1936年,纳粹活动日趋激烈.\n他们不知疲倦地将他们的探险队派往广阔的沙漠和荒凉的中东山区.\n北非,阿拉伯-邪恶的军队在寻找什么?\n[p][img:codex_atmoshot]\n[p][h1]每次探险都不一样[/h1]在Pathway,你派出一群勇敢的冒险家进行危险的探险.他们必须赢得基于回合的战斗,揭露古老的秘密,并管理他们的燃料供应,确保他们及时到达,以挫败无情敌人的邪恶计划.\n每一次探险都有不同的路线.因为除了一个基本的主线外,探险总是会随机分配一系列新的事件.即使是你以前遇到过的事件,也可能会发生意想不到的转折,无论是偶然发生的,还是由于你的团队组成不同,结果也会不同.\n[p][h1]持久的游戏玩法[/h1]即使失败也意味着道路上的进步,因为角色即使失败也会获得经验.在个人冒险的过程中,角色将获得足够的经验和装备来尝试越来越冒险的任务.\n管理你的探险!利用其个人独特的优势!对您在旅途中遇到的事件做出正确的决定!\n[p][h1]每个决定都很重要[/h1]世界正处于灾难的边缘.一场未宣布的战争在阴影中肆虐!胜利还是失败--只有你和你的无名英雄才能决定最终结果!\n[p][img:codex_armor]"
+						"text": "[h1]背景[/h1]1936年,纳粹活动日趋激烈.\n他们不知疲倦地将他们的探险队派往广阔的沙漠和荒凉的中东山区.\n在北非和阿拉伯 -- 邪恶的军队在寻找什么?\n[p][img:codex_atmoshot]\n[p][h1]每次探险都不一样[/h1]在Pathway,你派出一群勇敢的冒险家进行危险的探险.他们必须赢得基于回合的战斗,破解古老的秘密,并管理他们的燃料供应,确保他们及时到达,以挫败无情敌人的邪恶计划.\n每一次探险都有不同的路线.因为除了一个基本的主线外,探险总是会随机分配一系列新的事件.即使是你以前遇到过的事件,也可能会发生意想不到的转折,无论是偶然发生的,还是由于你的团队组成不同,结果也会不同.\n[p][h1]持久的游戏玩法[/h1]即使失败也意味着道路上的进步,因为角色即使失败也会获得经验.在个人冒险的过程中,角色将获得足够的经验和装备来尝试越来越冒险的任务.\n管理你的探险!利用其个人独特的优势!对您在旅途中遇到的事件做出正确的决定!\n[p][h1]每个决定都很重要[/h1]世界正处于灾难的边缘.一场未宣布的战争在阴影中肆虐!胜利还是失败--只有你和你的无名英雄才能决定最终结果!\n[p][img:codex_armor]"
 					},
 					{
 						"id": "KeyBindings",
@@ -617,7 +617,7 @@
 					},
 					{
 						"id": "KeyBindings_Content",
-						"text": "[h1]按键绑定[/h1]当你通过事典的指引前行时,你将详细学习如何玩Pathway.此外,还可以在选项/控件下配置按键绑定.默认情况下,按键绑定定义如下：\n[p][h1]地图[/h1]I: 打开队伍窗口\n[p][h1]打开队伍窗口[/h1]右键单击武器：重新装填\n右键单击医疗包：治疗/复活角色\n右键单击修理包：修复护甲\n右键单击任意物品：丢弃该物品\n[p][h1]地图 / 战斗[/h1]WASD: 移动镜头\n按下 空格 + 鼠标左键：自由镜头\n[p][h1]战斗[/h1]右箭头：下一个我方单位\n左箭头：上一个我方单位\n返回：结束回合\n1：普通远程攻击\n2：特殊远程攻击\n3：普通近战攻击\n4：特殊近战攻击\n5：使用道具\nF：护甲相关的特殊行动\nR：重新装填\nB：拳击\n鼠标左键：发起行动\n鼠标右键：中止行动\n[p][h1]商人[/h1]右键单击物品：出售物品\n右键单击或左键单击商人物品：购买物品"
+						"text": "[h1]按键绑定[/h1]当你通过事典的指引前行时,你将详细学习如何玩Pathway.此外,还可以在设置/控制下配置按键绑定.默认情况下,按键绑定定义如下:\n[p][h1]地图[/h1]I: 打开队伍窗口\n[p][h1]打开队伍窗口[/h1]右键单击武器:重新装填\n右键单击医疗包:治疗/复活角色\n右键单击修理包:修复护甲\n右键单击任意物品:丢弃该物品\n[p][h1]地图 / 战斗[/h1]WASD: 移动镜头\n按下 空格 + 鼠标左键:自由镜头\n[p][h1]战斗[/h1]右方向键:下一个我方单位\n左方向键:上一个我方单位\n返回:结束回合\n1:普通远程攻击\n2:特殊远程攻击\n3:普通近战攻击\n4:特殊近战攻击\n5:使用道具\nF:护甲相关的特殊行动\nR:重新装填\nB:拳头攻击\n鼠标左键:发起行动\n鼠标右键:中止行动\n[p][h1]商人[/h1]右键单击物品:出售物品\n右键单击或左键单击商人物品:购买物品"
 					},
 					{
 						"id": "Adventures",
@@ -625,7 +625,7 @@
 					},
 					{
 						"id": "Adventures_Content",
-						"text": "[h1]队伍与冒险[/h1]Pathway包括一系列个人冒险,难度逐渐增加.在冒险之初,你需要从所有可用的已解锁及未受伤的角色中组建一个队伍.\n你队伍中的角色数量取决于冒险.\n[p][img:codex_teamselect]\n[p][h1]解锁新的冒险[/h1]在游戏开始时,除了开始冒险之外,所有冒险都被锁定.每个冒险完成后都会自动解锁下一个冒险."
+						"text": "[h1]队伍与冒险[/h1]在Pathway中有一系列冒险,它们的难度会逐渐增加.在冒险之初,你需要从所有已解锁且未住院的角色中组建一个队伍.\n你队伍中的角色数量会因冒险而变化.\n[p][img:codex_teamselect]\n[p][h1]解锁新的冒险[/h1]在游戏开始时,除初始冒险外,所有冒险都被锁定.每个冒险完成后都会自动解锁下一个冒险."
 					},
 					{
 						"id": "JeepStorage",
@@ -641,7 +641,7 @@
 					},
 					{
 						"id": "EquipmentSlots_Content",
-						"text": "[h1]装备槽[/h1]你可以用远程武器或近战武器装备角色的第一个装备槽,你可以在角色的第二个槽位装备近战武器或其他物品,这些其他物品可以是手榴弹、医疗包或修理包.第三个槽专门用于装甲.\n[p][img:codex_itemslots]"
+						"text": "[h1]装备槽[/h1]你可以用远程武器或近战武器装备角色的第一个装备槽,你可以在角色的第二个槽位装备近战武器或其他物品,这些其他物品可以是手榴弹,医疗包或修理包.第三个槽专门用于装甲.\n[p][img:codex_itemslots]"
 					},
 					{
 						"id": "Characters",
@@ -649,7 +649,7 @@
 					},
 					{
 						"id": "Characters_Content",
-						"text": "[h1]招募信息[/h1]当您选择一个角色时,其角色信息将显示在右侧,并简要总结其优缺点.人物头像右侧的三个彩色条表示他们的血量（红色）、护甲（蓝色）和勇气（橙色）.\n[p][img:codex_character]"
+						"text": "[h1]招募信息[/h1]当您选择一个角色时,其角色信息将显示在右侧,并简要总结其优缺点.人物头像右侧的三个彩色条表示他们的血量(红色),护甲(蓝色)和勇气(橙色).\n[p][img:codex_character]"
 					},
 					{
 						"id": "CharacterAttributes",
@@ -657,7 +657,7 @@
 					},
 					{
 						"id": "CharacterAttributes_Content",
-						"text": "[h1]角色属性[/h1]除了装备之外,角色还具有不同的角色属性：\n[p][img:codex_charstats]\n[p][h1]生命 (VIT)[/h1]决定角色的健康状况.\n[p][h1]意志 (WIL)[/h1]决定角色的勇气点.特殊行动需要勇气.\n[p][h1]熟练 (DEX)[/h1]影响远程攻击的准确性.\n[p][h1]移动 (AGI)[/h1]影响角色在每回合可以移动的距离.\n[p][h1]智力 (INT)[/h1]影响角色接收的经验点数.值越高,角色成长越快.\n[p][h1]反应 (RFX)[/h1]影响角色躲避攻击的概率.\n[p][h1]耐力 (END)[/h1]影响角色被击倒后存活的回合数."
+						"text": "[h1]角色属性[/h1]除了装备之外,角色还具有不同的角色属性:\n[p][img:codex_charstats]\n[p][h1]生命 (VIT)[/h1]决定角色的健康状况.\n[p][h1]意志 (WIL)[/h1]决定角色的勇气点.特殊行动需要勇气.\n[p][h1]熟练 (DEX)[/h1]影响远程攻击的准确性.\n[p][h1]移动 (AGI)[/h1]影响角色在每回合可以移动的距离.\n[p][h1]智力 (INT)[/h1]影响角色接收的经验点数.值越高,角色成长越快.\n[p][h1]反应 (RFX)[/h1]影响角色躲避攻击的概率.\n[p][h1]耐力 (END)[/h1]影响角色被击倒后存活的回合数."
 					},
 					{
 						"id": "CharacterSkills",
@@ -665,7 +665,7 @@
 					},
 					{
 						"id": "CharacterSkills_Content",
-						"text": "[h1]特殊能力[/h1]特殊能力进一步区分您的角色,赋予他们各种优点和缺点.\n[p][img:codex_perklist]\n[p][h1]技能[/h1]左键单击角色的技能按钮以打开技能窗口.\n[p][h1]物品技能[/h1]物品技能定义角色可以装备的物品. 带有绿色加号的技能具有优势,而带有红色减号的技能具有某些弱点.\n具有优点和弱点的技能用红绿图标表示.\n[p][img:codex_itemskills]\n[p][h1]技能树和升级[/h1]左键单击技能树按钮以打开技能树.每当角色升级时,他们就会获得一个新的技能点,他们可以从技能树中的选项中进行选择.您的角色可以提高他们的属性和技能,或学习如何使用新物品.\n[p][img:codex_skilltree]"
+						"text": "[h1]特殊能力[/h1]特殊能力进一步区分您的角色,赋予他们各种优点和缺点.\n[p][img:codex_perklist]\n[p][h1]技能[/h1]左键单击角色的技能按钮以打开技能窗口.\n[p][h1]物品技能[/h1]物品技能定义角色可以装备的物品. 带有绿色加号的技能具有增益效果,而带有红色减号的技能则被削弱.\n具有增益和受到削弱的技能用红绿图标表示.\n[p][img:codex_itemskills]\n[p][h1]技能树和升级[/h1]左键单击技能树按钮以打开技能树.每当角色升级时,他们就会获得一个新的技能点,他们可以从技能树中的选项中进行选择.您的角色可以提高他们的属性和技能,或学习如何使用新物品.\n[p][img:codex_skilltree]"
 					},
 					{
 						"id": "CharacterUnlock",
@@ -697,7 +697,7 @@
 					},
 					{
 						"id": "Achievements_Content",
-						"text": "[h1]成就[/h1]您可以从此事典界面右下方的选项卡访问您的奖杯.这些奖杯代表了您可以在Pathway中完成的所有成就.将光标移动到成就上以查看其名称以及解锁它所需的条件.\n[p]解锁每一个未解锁的成就都会获得奖励；奖励会显示在工具提示中.每次奖励都可以在解锁成就时立即领取,或者稍后在奖杯界面上左键单击成就领取.\n[p][img:codex_achievements]"
+						"text": "[h1]成就[/h1]您可以从此事典界面右下方的选项卡访问您的奖章.这些奖章代表了您可以在Pathway中完成的所有成就.将光标移动到成就上以查看其名称以及解锁它所需的条件.\n[p]解锁每一个未解锁的成就都会获得奖励;奖励会显示在工具提示中.每次奖励都可以在解锁成就时立即领取,或者稍后在奖章界面上左键单击领取.\n[p][img:codex_achievements]"
 					},
 					{
 						"id": "TravelBasics",
@@ -705,7 +705,7 @@
 					},
 					{
 						"id": "TravelBasics_Content",
-						"text": "[h1]基本要素[/h1]在Pathway中,陆路冒险就是在路途上发生的一系列事件：您的探险队在地图上前往的每个位置都会进行活动.可访问的位置（绿色）通过虚线连接到角色的当前位置（橙色）.您的团队已经访问过的地点和旅行线路也以橙色显示.\n[p][img:codex_travelnodes]\n[p]陆路冒险涉及一些战略规划（例如仔细分配旅行资源,选择符合探险目标的旅行路线）.\n[p]每个旅程的目标是到达相应的目的地.要完成相应的冒险,您的旅行者必须到达这个位置.更长的冒险活动可以由几个地图组成,这些地图通过各个目的地连接起来.\n[p]虽然每个地图都有一个特定的旅游线路模式,但是每一次旅行都与之前不同,因为你的活动在每次探险开始时都会被重新确定.然而,每一次冒险都有其自己的事件来驱动支线故事与主线剧情."
+						"text": "[h1]基本要素[/h1]在Pathway中,陆路冒险就是在路途上发生的一系列事件:您的探险队在地图上前往的每个位置都会进行活动.可访问的位置(绿色)通过虚线连接到角色的当前位置(橙色).您的团队已经访问过的地点和旅行线路也以橙色显示.\n[p][img:codex_travelnodes]\n[p]陆路冒险涉及一些战略规划(例如仔细分配旅行资源,选择符合探险目标的旅行路线).\n[p]每个旅程的目标是到达相应的目的地.要完成相应的冒险,您的旅行者必须到达这个位置.更长的冒险活动可以由几个地图组成,这些地图通过各个目的地连接起来.\n[p]虽然每个地图都有一个特定的旅游线路模式,但是每一次旅行都与之前不同,因为你的活动在每次探险开始时都会被重新确定.然而,每一次冒险都有其自己的事件来驱动支线故事与主线剧情."
 					},
 					{
 						"id": "TravelResources",
@@ -713,7 +713,7 @@
 					},
 					{
 						"id": "TravelResources_Content",
-						"text": "[h1]旅行物资[/h1]从一个地方到另一个地方需要花费一个单位的燃料.当探险队的燃料用尽时,你可以承认失败或试图徒步穿越荒凉的沙漠.这样做将迅速消耗角色的血量.所受到的确切伤害取决于每个人的耐力.如果你设法尽快找到新的燃料补给,就能够用吉普车恢复旅程.否则,你的探险将以失败告终.\n[p][img:codex_travelresources]\n[p]当你的角色用尽了所有的弹药,他们将不得不求助于刀、拳头和手雷.\n[p]探险队需要资金来补充燃料和物品的储备,以及雇用新兵.\n[p]有些角色的特殊能力可以增加你获得的资源数量."
+						"text": "[h1]旅行物资[/h1]从一个地方到另一个地方需要花费一个单位的燃料.当探险队的燃料用尽时,你可以承认失败或试图徒步穿越荒凉的沙漠.这样做将迅速消耗角色的血量.所受到的确切伤害取决于每个人的耐力.如果你设法尽快找到新的燃料补给,就能够用吉普车恢复旅程.否则,你的探险将以失败告终.\n[p][img:codex_travelresources]\n[p]当你的角色用尽了所有的弹药,他们将不得不求助于刀,拳头和手雷.\n[p]探险队需要资金来补充燃料和物品的储备,以及雇用新兵.\n[p]有些角色的特殊能力可以增加你获得的资源数量."
 					},
 					{
 						"id": "Events",
@@ -721,7 +721,7 @@
 					},
 					{
 						"id": "Events_Content",
-						"text": "[h1]事件图标[/h1]地图上的事件通常显示为圆形符号. 但是,一系列特殊事件都有自己独特的图标：\n[p][h1]目的地[/h1][img:codex_destination]\n[p]与其他可能的旅行地点不同,您旅行的目的地用十字架表示,在十字架上画了一面旗帜.\n[p][h1]战斗[/h1][img:codex_battle]\n[p]十字线图标指示您可以进行战斗的事件.\n所有在战斗结束时存活并完全清醒的角色都将根据个人的智力和杀敌数获得经验点.\n[p][h1]休息地[/h1][img:codex_restingplace]\n[p]休息的地方可以让你恢复血量和修理你的探险装甲.重伤倒地的角色将在这里完全愈合.休息的地方在地图上用帐篷的图标标出.你可以随时去休息的地方.\n[p][h1]新兵[/h1][img:codex_recruiter]\n[p]你可以雇佣新的团队成员的地点会用图标表示一个友好的潜在新兵.如果你的探险队没有雇佣这个角色,你可以稍后返回到这个位置.\n[p][h1]商人[/h1][img:codex_trader]\n[p]地图上用一个钱袋标明商人.除了燃料和弹药外,商人还出售其他贵重物品.你可以随时拜访每一位商人.\n[p]购买与出售：\n[p]右键单击你自己的物品,把它们卖给商人.\n您可以右键单击或左键单击从商人那里购买商品."
+						"text": "[h1]事件图标[/h1]地图上的事件通常显示为圆形符号. 但是,一系列特殊事件都有自己独特的图标:\n[p][h1]目的地[/h1][img:codex_destination]\n[p]与其他可能的旅行地点不同,您旅行的目的地用十字叉表示,在十字叉上有一面旗帜.\n[p][h1]战斗[/h1][img:codex_battle]\n[p]十字准星图标指示您可以进行战斗的事件.\n所有在战斗结束时存活且未倒地的角色都将根据个人的智力和杀敌数获得经验点.\n[p][h1]休息地[/h1][img:codex_restingplace]\n[p]休息的地方可以让你恢复血量和修理你的探险装甲.重伤倒地的角色将在这里完全愈合.休息的地方在地图上用帐篷的图标标出.你可以随时去休息的地方.\n[p][h1]新兵[/h1][img:codex_recruiter]\n[p]你可以雇佣新的团队成员的地点会用图标表示一个友好的潜在新兵.如果你的冒险队没有雇佣这个角色,你可以稍后返回到这个位置雇佣.\n[p][h1]商人[/h1][img:codex_trader]\n[p]地图上用一个钱袋标明商人.除了燃料和弹药外,商人还出售其他贵重物品.你可以随时拜访每一位商人.\n[p]购买与出售:\n[p]右键单击你自己的物品,把它们卖给商人.\n您可以右键单击或左键单击从商人那里购买商品."
 					},
 					{
 						"id": "IconVisibility",
@@ -729,7 +729,7 @@
 					},
 					{
 						"id": "IconVisibility_Content",
-						"text": "[h1]事件图标和可见性[/h1]当探险队进入一张新地图时,您只能看到随机数目的事件,这为您的旅程规划提供了初步依据."
+						"text": "[h1]事件图标和可见性[/h1]当冒险队进入一张新地图时,您只能看到随机数目的事件,这为您的旅程规划提供了初步依据."
 					},
 					{
 						"id": "EventCourses",
@@ -737,7 +737,7 @@
 					},
 					{
 						"id": "EventCourses_Content",
-						"text": "[h1]事件结果[/h1]个别事件的结果可能会有所不同,因为玩家决策的后果是随机的.\n[p]有些角色有特殊能力,可以解锁其他解决方案.\n[p][img:codex_perkchoice]\n[p]根据经验,这些特殊能力决策的成功概率总是高于标准水平.成功使用特殊能力的角色也将获得大量的经验点.\n[p]特殊能力决定通常作为一个选项清晰地显示出来.但是,它们也可以作为一个隐藏的机制在后台运行,只有当一个探险队员拥有相关活动的特殊能力时才会触发这个机制.多个活动特殊能力的效果不会叠加."
+						"text": "[h1]事件结果[/h1]个别事件的结果可能会有所不同,因为玩家决策的结果是随机的.\n[p]有些角色有特殊能力,可以提供其他解决方案.\n[p][img:codex_perkchoice]\n[p]根据经验,这些特殊能力决策的成功概率总是高于标准水平.成功使用特殊能力的角色也将获得大量的经验点.\n[p]特殊能力决定通常作为一个选项清晰地显示出来.但是,它们也可以作为一个隐藏的机制在后台运行,只有当一个探险队员拥有相关活动的特殊能力时才会触发这个机制.多个活动特殊能力的效果不会叠加."
 					},
 					{
 						"id": "PerkList",
@@ -745,7 +745,7 @@
 					},
 					{
 						"id": "PerkList_Content",
-						"text": "[h1]古代语[/h1]根据角色破译古语言或理解当地方言的能力,可以做出其他选择.\n[p][h1]敢死队[/h1]提供基于快速思考、非正统和经常草率行动的替代决策.\n[p][h1]大力士[/h1]提供基于蛮力运用的替代决策.\n[p][h1]潜行者[/h1]提供基于隐身和一般运动能力的替代决策.\n[p][h1]医学家[/h1]提供基于医学知识提升使用临时绷带的能力的替代决策.\n[p][h1]工程师[/h1]提供基于技术知识的替代决策.\n[p][h1]诡术师[/h1]能够根据巧妙的手法和操纵毫无戒心的人做出其他决定.\n[p][h1]第六感[/h1]能够根据直觉和情境感知做出选择.\n[p][h1]恐吓[/h1]能够对他人施加心理压力的能力的替代决策.\n[p][h1]生存专家[/h1]根据对自然环境的深入了解,包括天气状况和各种野生动物的特征,做出其他决策.\n[p][h1]禁忌术[/h1]在学校学习结束和神秘传统灰色区域开始的地方,可以做出其他选择."
+						"text": "[h1]古代语[/h1]根据角色破译古语言或理解当地方言的能力,可以做出其他选择.\n[p][h1]敢死队[/h1]提供基于快速思考,非正统和经常草率行动的替代决策.\n[p][h1]洪荒之力[/h1]提供基于蛮力运用的替代决策.\n[p][h1]潜行者[/h1]提供基于隐身和一般运动能力的替代决策.\n[p][h1]医学家[/h1]提供基于医学知识提升使用临时绷带的能力的替代决策.\n[p][h1]工程师[/h1]提供基于技术知识的替代决策.\n[p][h1]诡术师[/h1]能够根据巧妙的手法和操纵毫无戒心的人做出其他决定.\n[p][h1]第六感[/h1]能够根据直觉和情境感知做出选择.\n[p][h1]恐吓[/h1]能够对他人施加心理压力的能力的替代决策.\n[p][h1]生存专家[/h1]根据对自然环境的深入了解,包括天气状况和各种野生动物的特征,做出其他决策.\n[p][h1]禁忌术[/h1]在学校学习结束和神秘传统灰色区域开始的地方,可以做出其他选择."
 					},
 					{
 						"id": "TeamScreen",
@@ -769,7 +769,7 @@
 					},
 					{
 						"id": "RareItems_Content",
-						"text": "[h1]物品稀有度[/h1]物品的稀有度表明其卓越：总的来说稀有物品比普通物品好.因此,随着稀有性的增加,物品的价值也会增加.\nPathway中有四种稀有度：普通（白色）、稀有（蓝色）、史诗（紫色）和传奇（金色）.\n[p][img:codex_itemlegendary]"
+						"text": "[h1]物品稀有度[/h1]物品的稀有度表明其卓越:总的来说稀有物品比普通物品好.因此,随着稀有度的上升,物品的价值也会增加.\nPathway中有四种稀有度:普通(白色),稀有(蓝色),史诗(紫色)和传奇(金色).\n[p][img:codex_itemlegendary]"
 					},
 					{
 						"id": "CharacterPlacement",
@@ -777,7 +777,7 @@
 					},
 					{
 						"id": "CharacterPlacement_Content",
-						"text": "[h1]角色放置[/h1]在战斗开始时,首先将所有角色放在绿色区域内.\n[p][img:codex_placement]\n[p]绿地的大小和形状取决于遭遇战的类型：如果你的远征使敌人感到意外,或者在双方都没有预料到的情况下遭遇,你将有一个广阔的起点.但是如果你的角色被埋伏了,他们将没有足够的部署空间."
+						"text": "[h1]角色放置[/h1]在战斗开始时,首先将所有角色放在绿色区域内.\n[p][img:codex_placement]\n[p]绿地的大小和形状取决于遭遇战的类型:如果你的远征使敌人感到意外,或者在双方都没有预料到的情况下遭遇,你将有一个广阔的起点.但是如果你的角色被埋伏了,他们将没有足够的部署空间."
 					},
 					{
 						"id": "EnemyInfo",
@@ -801,7 +801,7 @@
 					},
 					{
 						"id": "CoverTypes_Content",
-						"text": "[h1]掩体类型[/h1]当一个角色直接放置在掩体旁边时,会有工具提示显示.一个角色停在掩体旁将会自动蹲下并得到其保护-对角线接触的掩体不提供任何保护.\n[p][h1]例如[/h1][img:codex_coveruse]\n[p]Brunhilda（跪着,左边）就在她南边的掩体旁边.这使她免受南边的攻击.\nJackson（站着,右）与右边的掩体呈对角线.因此,他不受保护.\n[p]Pathway区分两种掩体类型.墙壁也提供了非常有效的保护."
+						"text": "[h1]掩体类型[/h1]当一个角色直接放置在掩体旁边时,会有工具提示显示.一个角色停在掩体旁将会自动蹲下并得到其保护-对角线接触的掩体不提供任何保护.\n[p][h1]实例[/h1][img:codex_coveruse]\n[p]Brunhilda(跪着,左)就在她南边的掩体旁边.这使她免受南边的攻击.\nJackson(站着,右)与右边的掩体呈对角线.因此,他不会受到保护.\n[p]Pathway区分两种掩体类型.墙壁也提供了非常有效的保护."
 					},
 					{
 						"id": "PartialCovers",
@@ -809,7 +809,7 @@
 					},
 					{
 						"id": "PartialCovers_Content",
-						"text": "[h1]弱掩体[/h1]弱掩体降低了被远程攻击[cover:SmallCover]%的概率.它还能防止手榴弹弹片的伤害.保护半径覆盖所有的正面攻击.它不会遮挡视线,可以越过.蹲在弱掩体后面的角色如果想在上面射击,会自动站起来.手榴弹可以扔到薄弱的掩体上,掩体就失去了作用.弱掩体是指高约膝盖的物体和低阻力材料制成的更高物体.弱掩体在工具提示中显示为半满的盾.\n[p][img:codex_weakcover]\n[p][h1]强掩体[/h1]强掩体与弱掩体的作用方式基本相同,但它降低了被远程攻击[cover:MediumCover]%的概率.强掩体是指高度在臀部和肩部之间的物.强掩体在工具提示中显示为全盾.\n[p][img:codex_strongcover]"
+						"text": "[h1]弱掩体[/h1]弱掩体降低了被远程攻击击中[cover:SmallCover]%的概率.它还能防止手榴弹弹片的伤害.保护半径覆盖所有的正面攻击.它不会遮挡视线,可以越过.蹲在弱掩体后面的角色如果想在上面射击,会自动站起来.手榴弹可以扔到薄弱的掩体后方,这样掩体就失去了作用.弱掩体是指高约膝盖的物体和低阻力材料制成的更高物体.弱掩体在工具提示中显示为半满的盾.\n[p][img:codex_weakcover]\n[p][h1]强掩体[/h1]强掩体与弱掩体的作用方式基本相同,但它降低了被远程攻击击中[cover:MediumCover]%的概率.强掩体是指高度在臀部和肩部之间的物.强掩体在工具提示中显示为全盾.\n[p][img:codex_strongcover]"
 					},
 					{
 						"id": "Walls",
@@ -817,7 +817,7 @@
 					},
 					{
 						"id": "Walls_Content",
-						"text": "[h1]墙壁[/h1]墙提供了完整的保护,能够阻止从墙的另一侧发起的所有远程攻击.保护区覆盖所有正面攻击.角色不能从墙上跳下来,也不能向墙上扔手榴弹.如果一堵墙位于两格之间的直线上,它会遮挡视线.站在墙边的角色会自动采取一个侧身的行动来超出墙边以击中目标.墙是指高度在肩部或以上的物体.墙在工具提示中显示为一段墙.\n[p][img:codex_wall]"
+						"text": "[h1]墙壁[/h1]墙提供了完整的保护,能够阻止从墙的另一侧发起的所有远程攻击.保护区覆盖所有正面攻击.角色不能从墙上跳下来,也不能向墙后方扔手榴弹.如果一堵墙位于两格之间的直线上,它会遮挡视线.站在墙边的角色会自动采取一个侧身的行动来超出墙边以击中目标.墙是指高度在肩部或以上的物体.墙在工具提示中显示为一段墙.\n[p][img:codex_wall]"
 					},
 					{
 						"id": "HitChances",
@@ -825,7 +825,7 @@
 					},
 					{
 						"id": "HitChances_Content",
-						"text": "[h1]保护区和命中概率[/h1]在Pathway的远程战斗中,不在掩护范围内的可见目标总是会被击中.对于弱掩体和强掩体后的远程作战目标,游戏会采用考虑掩体类型、武器精度和射手熟练度的公式计算命中概率.相邻格子的攻击会使掩体作用消失.这也是为什么近战攻击总是命中的原因.\n[p][h1]例如[/h1][img:codex_coverangle]\n[p]纳粹冲锋队抵挡了来自南方的所有攻击.\n由于Annabelle（右下角,戴着飞行员帽）位于他南部,她的命中机率会相应减少.\nNatalya（右上角,身穿实验服）但是,与德国士兵处于同一水平.她和所有北边的部队都有明确的目标.\nGeorgette（左,跪着）位于士兵的南面,但她也在一块直接相邻的格子上,因此没有了士兵的保护效果."
+						"text": "[h1]保护区和命中概率[/h1]在Pathway的远程战斗中,不在掩护范围内的可见目标总是会被击中.对于弱掩体和强掩体后的远程作战目标,游戏会采用考虑掩体类型,武器精度和射手熟练度的公式计算命中概率.相邻格子的攻击会使掩体作用消失.这也是为什么近战攻击总是命中的原因.\n[p][h1]实例[/h1][img:codex_coverangle]\n[p]纳粹重甲兵(左二)抵挡了来自南边的所有攻击.\n由于Annabelle(右下,戴着飞行员帽)位于纳粹重甲兵南部,她的命中机率会相应减少.\nNatalya(右上,身穿实验服)但是,与德国士兵处于同一水平线.她和所有北边的单位都有同样的视野.\nGeorgette(左,跪着)位于士兵的南面,但她在一块直接相邻的格子上,因此士兵不受到掩体的保护效果."
 					},
 					{
 						"id": "CharacterActions",
@@ -833,7 +833,7 @@
 					},
 					{
 						"id": "CharacterActions_Content",
-						"text": "[h1]角色动作[/h1]Pathway的战斗是基于回合的.按下行动条末端的红色按钮结束回合,开始敌人的回合.\n[p][img:codex_endturn]\n[p]每个角色每回合最多可以执行两个动作：可执行最多一个攻击动作和一个移动动作,以及最多两个待命动作.用完了所有动作的角色会用一个小的复选标记来表示.\n[p]除了步行以外的所有动作都依赖于设备.左键单击相应的操作按钮执行动作.如果此动作链接到后续操作（例如目标选择）,则仍可以通过右键单击取消操作."
+						"text": "[h1]角色动作[/h1]Pathway的战斗是基于回合的.按下行动条末端的红色对勾按钮结束回合,开始敌人的回合.\n[p][img:codex_endturn]\n[p]每个角色每回合最多可以执行两个动作:可执行最多一个攻击动作和一个移动动作,以及最多两个待命动作.用完了所有动作的角色会用一个小的对勾记号来表示.\n[p]除了步行以外的所有动作都依赖于设备.左键单击相应的操作按钮执行动作.如果此动作链接到后续操作(例如目标选择),则仍可以通过右键单击取消操作."
 					},
 					{
 						"id": "SpecialActions",
@@ -841,7 +841,7 @@
 					},
 					{
 						"id": "SpecialActions_Content",
-						"text": "[h1]特殊动作[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点：\n[p]成功攻击敌人：+[bravery:Hit] 勇气\n对敌人进行致命打击：+[bravery:HitCritical] 勇气\n成功躲避敌人攻击：+[bravery:Evade] 勇气\n治愈自己或队友：+[bravery:UseMedKit] 勇气\n修复自己或队友的盔甲：+[bravery:UseRepairKit] 勇气"
+						"text": "[h1]特殊动作[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点:\n[p]成功攻击敌人:    +[bravery:Hit] 勇气\n致命打击敌人:    +[bravery:HitCritical] 勇气\n躲避敌人攻击:    +[bravery:Evade] 勇气\n治愈队伍成员:    +[bravery:UseMedKit] 勇气\n修复我方装甲:    +[bravery:UseRepairKit] 勇气"
 					},
 					{
 						"id": "MovementActions",
@@ -849,7 +849,7 @@
 					},
 					{
 						"id": "MovementActions_Content",
-						"text": "[h1]步行[/h1][img:codex_walk]\n[p]任何正在行动的角色都可以通过将光标移动到角色移动半径（蓝色）内的所需位置,然后单击鼠标左键来移动.\n[p][h1]冲锋 (特殊)[/h1][img:codex_sprint]\n[p]任何拥有轻甲的角色都可以执行冲锋特殊动作."
+						"text": "[h1]步行[/h1][img:codex_walk]\n[p]任何正在行动的角色都可以通过将光标移动到角色移动半径(蓝色)内的所需位置,然后单击鼠标左键来移动.\n[p][h1]冲锋 (特殊)[/h1][img:codex_sprint]\n[p]任何穿着轻甲的角色都可以执行冲锋特殊动作."
 					},
 					{
 						"id": "AttackActions",
@@ -857,7 +857,7 @@
 					},
 					{
 						"id": "AttackActions_Content",
-						"text": "[h1]远程攻击[/h1][img:codex_ranged]\n[p]任何装备了远程武器的角色都可以执行远程攻击标准动作.要执行此操作,请将光标放在角色的火力范围（红色）内的敌人上方,然后左键单击以发起进攻.射击范围由角色的武器射程和视野决定.工具提示会显示出目标的战斗值以及命中概率.\n[p][h1]双发 (特殊)[/h1][img:codex_doubleshot]\n[p]任何带手枪的角色都可以执行双发特殊动作,可以对两个不同的目标进行两次快速射击.要执行此操作,请选择两个敌人并左键单击它们以触发攻击.\n[p][h1]扫射 (特殊)[/h1][img:codex_rifleburst]\n[p]任何使用突击步枪的角色都可以执行扫射特殊动作,这可以让你直线攻击多个目标.您可以使用鼠标滚轮定义扫射方向,然后单击鼠标左键开火.\n[p][h1]埋伏 (特殊)[/h1][img:codex_ambush]\n[p]任何使用狙击步枪的角色都可以执行埋伏特殊行动,这会阻碍敌人在之前计划的行动.移动光标选择开火范围,然后左键单击确认该范围.然后,当敌军单位试图在选定的火力范围内移动或执行攻击时,会在随后的敌军回合期间触发伏击,但是只能埋伏经过的第一个敌人.\n[p][h1]喷射 (特殊)[/h1][img:codex_blast]\n[p]任何具有散弹枪的角色都可以执行散弹枪喷射特殊动作,在短程锥形火力范围内向所有单位开火.移动光标选定火力范围,然后左键单击发起进攻.\n[p][h1]腐蚀射线 (特殊)[/h1][img:codex_meltdown]\n[p]任何具有分裂者的角色都可以执行腐蚀射线特殊操作,该操作以直线方式发射光线射向任意数量的目标,直到它击中墙壁.移动光标选定射击方向,然后左键单击发起攻击.\n[p][h1]小刀攻击[/h1][img:codex_melee]\n[p]任何带刀的角色都可以在站在敌人单位旁边时执行小刀攻击标准动作.要执行此操作,请将光标放在角色的攻击区域（红色）内的敌人上方,然后左键单击发起攻击.\n[p][h1]流血攻击 (特殊)[/h1][img:codex_bleed]\n[p]任何使用刀的角色都可以执行流血攻击特殊行动,在随后的回合中对敌人造成额外伤害.要执行此操作,请将光标放在角色的攻击区域（红色）内的敌人上方,然后左键单击发起攻击.\n[p][h1]拳头攻击[/h1][img:codex_punch]\n[p]不带刀的角色可以在与敌军单位相邻的位置执行标准动作拳击.选择该动作后,将光标放在角色攻击区域（红色）内的敌人上方,然后左键单击以执行.拳击只会造成少量的伤害.\n[p][h1]掷手雷[/h1][img:codex_grenadethrow]\n[p]任何有手榴弹的角色都可以执行投掷手雷的标准动作.将光标定位在攻击区域（红色）,选择一个目标方格,然后左键单击发起攻击.爆炸范围会显示出来."
+						"text": "[h1]远程攻击[/h1][img:codex_ranged]\n[p]任何装备了远程武器的角色都可以执行远程攻击标准动作.要执行此操作,请将光标放在角色的火力范围(红色)内的敌人上方,然后左键单击以发起进攻.射击范围由角色的武器射程和视野决定.工具提示会显示出目标的战斗值以及命中概率.\n[p][h1]双发 (特殊)[/h1][img:codex_doubleshot]\n[p]任何带手枪的角色都可以执行双发特殊动作,可以对两个不同的目标进行两次快速射击.要执行此操作,请选择两个敌人并左键单击它们以触发攻击.\n[p][h1]扫射 (特殊)[/h1][img:codex_rifleburst]\n[p]任何使用突击步枪的角色都可以执行扫射特殊动作,这可以让你直线攻击多个目标.您可以使用鼠标滚轮定义扫射方向,然后单击鼠标左键开火.\n[p][h1]埋伏 (特殊)[/h1][img:codex_ambush]\n[p]任何使用狙击步枪的角色都可以执行埋伏特殊行动,这会阻碍敌人在之前计划的行动.移动光标选择开火范围,然后左键单击确认该范围.然后,当敌军单位试图在选定的火力范围内移动或执行攻击时,会在随后的敌军回合期间触发伏击,但是只能埋伏经过的第一个敌人.\n[p][h1]喷射 (特殊)[/h1][img:codex_blast]\n[p]任何具有散弹枪的角色都可以执行散弹枪喷射特殊动作,在短程锥形火力范围内向所有单位开火.移动光标选定火力范围,然后左键单击发起进攻.\n[p][h1]腐蚀射线 (特殊)[/h1][img:codex_meltdown]\n[p]任何具有分裂者的角色都可以执行腐蚀射线特殊操作,该操作以直线方式发射光线射向任意数量的目标,直到它击中墙壁.移动光标选定射击方向,然后左键单击发起攻击.\n[p][h1]近战攻击[/h1][img:codex_melee]\n[p]任何带刀的角色都可以在站在敌人单位旁边时执行近战攻击标准动作.要执行此操作,请将光标放在角色的攻击区域(红色)内的敌人上方,然后左键单击发起攻击.\n[p][h1]流血攻击 (特殊)[/h1][img:codex_bleed]\n[p]任何使用刀的角色都可以执行流血攻击特殊行动,在随后的回合中对敌人造成额外伤害.要执行此操作,请将光标放在角色的攻击区域(红色)内的敌人上方,然后左键单击发起攻击.\n[p][h1]拳头攻击[/h1][img:codex_punch]\n[p]不带刀的角色可以在与敌军单位相邻的位置执行标准动作拳头攻击.选择该动作后,将光标放在角色攻击区域(红色)内的敌人上方,然后左键单击以执行.拳头攻击只会造成少量的伤害.\n[p][h1]投掷手雷[/h1][img:codex_grenadethrow]\n[p]任何有手榴弹的角色都可以执行投掷手雷的标准动作.将光标定位在攻击区域(红色),选择一个目标方格,然后左键单击发起攻击.爆炸范围会显示出来."
 					},
 					{
 						"id": "NeutralActions",
@@ -865,7 +865,7 @@
 					},
 					{
 						"id": "NeutralActions_Content",
-						"text": "[h1]重新装填[/h1][img:codex_reload]\n[p]任何装备远程武器的角色都可以执行重新装填标准动作.只要你有足够的弹药,武器就可以全部重新装弹.\n[p][h1]使用医疗包[/h1][img:codex_healkit]\n[p]任何具有医疗包的角色都可以执行使用医疗包标准操作来治疗自己或其团队成员.左键单击效果域中的目标（绿色）开始治疗.这个动作可以用来救起重伤倒地的同伴.\n[p][h1]使用修理包[/h1][img:codex_repairkit]\n[p]任何有修理包的角色都可以执行修理特殊动作来修理他们的盔甲或同伴的盔甲.左键单击作用区域（绿色）中的目标开始修复.\n[p][h1]隐蔽 (特殊)[/h1][img:codex_lowprofile]\n[p]任何拥有中等护甲的角色都可以执行隐蔽的特殊动作,这个动作会在本回合和之后的回合提高他们的闪避几率.\n[p][h1]固守 (特殊)[/h1][img:codex_hunkerdown]\n[p]任何拥有重甲的角色都可以执行固守特殊动作,这个动作能够显著减免角色在当前回合和后续回合受到的所有伤害."
+						"text": "[h1]重新装填[/h1][img:codex_reload]\n[p]任何装备远程武器的角色都可以执行重新装填标准动作.只要你有足够的弹药,武器就可以全部重新装弹.\n[p][h1]使用医疗包[/h1][img:codex_healkit]\n[p]任何具有医疗包的角色都可以执行使用医疗包标准操作来治疗自己或其团队成员.左键单击效果域中的目标(绿色)开始治疗.这个动作可以用来救起重伤倒地的同伴.\n[p][h1]使用修理包[/h1][img:codex_repairkit]\n[p]任何有修理包的角色都可以执行修理特殊动作来修理他们的盔甲或同伴的盔甲.左键单击作用区域(绿色)中的目标开始修复.\n[p][h1]隐蔽 (特殊)[/h1][img:codex_lowprofile]\n[p]任何拥有中等护甲的角色都可以执行隐蔽的特殊动作,这个动作会在本回合和之后的回合提高他们的闪避几率.\n[p][h1]固守 (特殊)[/h1][img:codex_hunkerdown]\n[p]任何拥有重甲的角色都可以执行固守特殊动作,这个动作能够显著减免角色在当前回合和后续回合受到的所有伤害."
 					},
 					{
 						"id": "DamageClasses",
@@ -873,7 +873,7 @@
 					},
 					{
 						"id": "DamageClasses_Content",
-						"text": "除穿甲以外的所有类型的伤害计算是先将护甲值降低到零,然后扣除目标的血量.\n[p][h1]标准[/h1]标准伤害对血量 ([damage:Standard:0]%) 和装甲 ([damage:Standard:1]%)造成相同的伤害.\n[p][h1]溅射伤害[/h1]溅射伤害对未穿护甲的目标 ([damage:Splinter:0]%)是致命的,但是对穿着盔甲的敌人 ([damage:Splinter:1]%)会受到惩罚.散弹枪默认造成溅射伤害,其他类别的武器的特殊形态也是如此.\n[p][h1]腐蚀[/h1]腐蚀射线对穿着护甲的角色造成([damage:Corrosion:1]%)的高伤害,但对未穿装甲的角色会受到惩罚 ([damage:Corrosion:0]%).只有分裂者能造成腐蚀伤害.\n[p][h1]Armor Piercing[/h1]穿甲武器无视装甲 ([damage:ArmorPiercing:1]%) 并且直接扣除目标的血量 ([damage:ArmorPiercing:0]%).所有武器类别的特殊形态都能造成穿甲伤害."
+						"text": "除穿甲以外的所有类型的伤害计算是先将护甲值降低到零,然后扣除目标的血量.\n[p][h1]标准[/h1]标准伤害对血量 ([damage:Standard:0]%) 和装甲 ([damage:Standard:1]%)造成相同的伤害.\n[p][h1]溅射伤害[/h1]溅射伤害对未穿护甲的目标 ([damage:Splinter:0]%)是致命的,但是对穿着盔甲的敌人 ([damage:Splinter:1]%)会受到惩罚.散弹枪默认造成溅射伤害,其他类别的武器的特殊形态也是如此.\n[p][h1]腐蚀[/h1]腐蚀射线对穿着护甲的角色造成([damage:Corrosion:1]%)的高伤害,但对未穿装甲的角色会受到惩罚 ([damage:Corrosion:0]%).只有分裂者能造成腐蚀伤害.\n[p][h1]穿甲伤害[/h1]穿甲武器无视装甲 ([damage:ArmorPiercing:1]%) 并且直接扣除目标的血量 ([damage:ArmorPiercing:0]%).所有武器类别的特殊形态都能造成穿甲伤害."
 					},
 					{
 						"id": "WeaponTypeIntro",
@@ -881,7 +881,7 @@
 					},
 					{
 						"id": "WeaponTypeIntro_Content",
-						"text": "[h1]不同武器类别的优缺点[/h1]在Pathway,角色可以使用五种不同的远程武器和一种近战武器.还有一种武器（手榴弹）可以用来造成伤害.\n[p]每种武器都有一定的几率造成致命一击.暴击会产生额外伤害.暴击几率因武器等级而异,如下所述."
+						"text": "[h1]不同武器类别的优缺点[/h1]在Pathway,角色可以使用五种不同的远程武器和一种近战武器.还有一种武器(手榴弹)可以用来造成伤害.\n[p]每种武器都有一定的几率造成致命一击.暴击会产生额外伤害.暴击几率因武器等级而异,如下所述."
 					},
 					{
 						"id": "WeaponTypePistol",
@@ -897,7 +897,7 @@
 					},
 					{
 						"id": "WeaponTypeShotgun_Content",
-						"text": "[h1]散弹枪[/h1]散弹枪造成很高的溅射伤害,但在射程、准确度、暴击几率和弹匣大小方面非常有限.散弹枪的喷射的特殊能力对附近的团体和未穿装甲的对手是毁灭性的.\n[p][img:codex_shotgun]"
+						"text": "[h1]散弹枪[/h1]散弹枪造成很高的溅射伤害,但在射程,准确度,暴击几率和弹匣大小方面非常有限.散弹枪的喷射的特殊能力对附近的团体和未穿装甲的对手是毁灭性的.\n[p][img:codex_shotgun]"
 					},
 					{
 						"id": "WeaponTypeAssault",
@@ -905,7 +905,7 @@
 					},
 					{
 						"id": "WeaponTypeAssault_Content",
-						"text": "[h1]突击步枪[/h1]突击步枪在射程、准确度、暴击几率和弹匣尺寸上都是中程武器,它们造成平均标准伤害.其扫射特殊能力具有一定的灵活性,与中距离群体对抗时具有优势.\n[p][img:codex_rifle]"
+						"text": "[h1]突击步枪[/h1]突击步枪在射程,准确度,暴击几率和弹匣尺寸上都是中程武器,它们造成平均标准伤害.其扫射特殊能力具有一定的灵活性,与中距离群体对抗时具有优势.\n[p][img:codex_rifle]"
 					},
 					{
 						"id": "WeaponTypeSniper",
@@ -961,15 +961,15 @@
 					},
 					{
 						"id": "Dog_Content",
-						"text": "[h1]军犬[/h1]德国的军犬是可怕的野兽：一旦它们锁定了目标,它们便会穷追不舍,直到敌人毫无防备地躺在沙漠的沙地上流血.与它们的主人不同,它们没有战术和掩护的概念.\n[p][img:codex_dogs]"
+						"text": "[h1]军犬[/h1]德国的军犬是可怕的野兽:一旦它们锁定了目标,它们便会穷追不舍,直到敌人毫无防备地躺在沙漠的沙地上流血.与它们的主人不同,它们没有战术和掩护的概念.\n[p][img:codex_dogs]"
 					},
 					{
 						"id": "Shotgunner",
-						"text": "突击队"
+						"text": "重甲兵"
 					},
 					{
 						"id": "Shotgunner_Content",
-						"text": "[h1]突击队[/h1]突击队是德国最具攻击性的部队.机动性强,装甲精良,他们坚持不懈地前进,用散弹枪与敌人交战.突击队是无畏且致命的近距离战士.\n[p][img:codex_shocktroopers]"
+						"text": "[h1]重甲兵[/h1]重甲兵是德国最具攻击性的部队.机动性强,装甲精良,他们坚持不懈地前进,用散弹枪与敌人交战.重甲兵是无畏且致命的近距离战士.\n[p][img:codex_shocktroopers]"
 					},
 					{
 						"id": "Sniper",
@@ -1005,11 +1005,11 @@
 					},
 					{
 						"id": "Teslaborg",
-						"text": "Teslaborg"
+						"text": "重装步兵"
 					},
 					{
 						"id": "Teslaborg_Content",
-						"text": "[h1]Teslaborg[/h1]他们是德国远征军的突击队员,是恐怖分子中的精英!Teslaborg由于其巨大的装甲和毁灭性的火力,在战斗中是一场钢铁般的噩梦.\n[p][img:codex_teslaborgs]"
+						"text": "[h1]重装步兵[/h1]他们是德国远征军的突击队员,是恐怖分子中的精英!重装步兵由于其巨大的装甲和毁灭性的火力,在战斗中是一场钢铁般的噩梦.\n[p][img:codex_teslaborgs]"
 					},
 					{
 						"id": "TheBrotherhood",
@@ -1017,7 +1017,7 @@
 					},
 					{
 						"id": "TheBrotherhood_Content",
-						"text": "[h1]阴影中的威胁[/h1]Khonesh兄弟会的真正目标仍然笼罩在黑暗中,但黑暗中充满了令人厌恶的谣言....\nRumors that rob you of your sleep and gnaw at the edges of your souls!\n[p][img:codex_ring]"
+						"text": "[h1]阴影中的威胁[/h1]Khonesh兄弟会的真正目标仍然笼罩在黑暗中,但黑暗中充满了令人厌恶的谣言....\n它夺走你的睡眠,啃噬你的灵魂!\n[p][img:codex_ring]"
 					},
 					{
 						"id": "Cultist",
@@ -1033,7 +1033,7 @@
 					},
 					{
 						"id": "Zombie_Content",
-						"text": "[h1]僵尸[/h1]是什么赋予兄弟会对死者的邪恶力量?有一件事是肯定的：无论他们出现在哪里,僵尸部落就在不远处.他们饱受折磨,毫无思想,被不断的饥饿和对生活的憎恨所驱使.没有什么东西比受伤的僵尸更危险...\n[p][img:codex_zombies]"
+						"text": "[h1]僵尸[/h1]是什么赋予兄弟会对死者的邪恶力量?有一件事是肯定的:无论他们出现在哪里,僵尸部落就在不远处.他们饱受折磨,毫无思想,被不断的饥饿和对生活的憎恨所驱使.没有什么东西比受伤的僵尸更危险...\n[p][img:codex_zombies]"
 					},
 					{
 						"id": "Infected",
@@ -1065,7 +1065,7 @@
 					},
 					{
 						"id": "TravelSummary_Content",
-						"text": "[h1]目标[/h1]每次探险的目标都是到达地图的终点.在去那里的路上,队伍会一个位置到达另一个位置.\n[p][img:codex_encounter]\n[p][h1]事件[/h1]每个地点都有一个新的活动.事件可能是一个简短的情绪记录,没有任何游戏后果或是更重要的事件,如战利品,商人,休息地和具有挑战性的战斗.\n[p]有些事件很短,而且非常重要,而另一些事件提供了复杂的分支选项.像敢死队或生存专家这样的角色的特殊能力可以打开更多的选择和事件分支.\n[p][h1]燃料储备[/h1]旅程将慢慢耗尽燃油储备.一旦耗尽,你可以放弃或继续徒步探险,代价是牺牲队伍的健康.\n[p][h1]失败[/h1]当你的最后一个角色因恶劣的徒步旅行条件或因敌人之手而死亡时,探险就失败了."
+						"text": "[h1]目标[/h1]每次探险的目标都是到达地图的终点.在去那里的路上,队伍会从一个地方到达另一个地方.\n[p][img:codex_encounter]\n[p][h1]事件[/h1]每个地方都有一个新的活动.事件可能是一个简短的情绪记录,没有任何游戏后果或是更重要的事件,如战利品,商人,休息地和具有挑战性的战斗.\n[p]有些事件很短,而且非常重要,而另一些事件提供了复杂的分支选项.像敢死队或生存专家这样的角色的特殊能力可以打开更多的选择和事件分支.\n[p][h1]燃料储备[/h1]旅程将慢慢耗尽燃油储备.一旦耗尽,你可以放弃或继续徒步探险,代价是牺牲队伍的血量.\n[p][h1]失败[/h1]当你的最后一个角色因恶劣的徒步旅行条件或因敌人之手而死亡时,探险就失败了."
 					},
 					{
 						"id": "CombatSummary",
@@ -1073,11 +1073,11 @@
 					},
 					{
 						"id": "CombatSummary_Content",
-						"text": "[h1]回合制战斗[/h1]Pathway中的战斗是基于回合制的：玩家首先进入一个计划阶段,在这个阶段他们可以将角色放在一个标记区域（绿色）内.然后玩家和敌人依次轮流进行.当一支队伍失去了所有的单位时,战斗就结束了.\n[p][img:codex_battleimpression]\n[p]轮到玩家时,玩家可以按任意顺序移动角色.一旦完成,就轮到敌人就开始执行他们的行动.\n[p][h1]动作[/h1]每个单位每回合最多可以执行两个动作：攻击和移动限制为每回合一个.中立的行动,如重装或治疗一个盟军人物,可以每回合做最多两次.\n[p]每种武器和装甲类型都为其使用者提供了独特的特殊能力.他们还需要使用勇气点.勇气是通过各种行动,如成功的攻击和闪避而回复的.\n[p][h1]掩体[/h1]直接（不是对角）放置在掩体旁边的角色会受到一些远程武器的伤害减免.弱掩体和强掩体减少了敌人的牵制.墙打破了视线,因此也可以防止远程攻击.\n[p][h1]治疗、修理和复活[/h1]如果一个角色装备了医疗包,他们可以用它来治疗附近的盟友.此外,医疗包还可以用来唤醒倒地的角色.有修理包的单位可以在战斗中用来修理装甲."
+						"text": "[h1]回合制战斗[/h1]Pathway中的战斗是基于回合制的:玩家首先进入一个计划阶段,在这个阶段他们可以将角色放在一个标记区域(绿色)内.然后玩家和敌人依次轮流进行.当一支队伍的所有成员都被击倒时,战斗结束.\n[p][img:codex_battleimpression]\n[p]轮到玩家时,玩家可以按任意顺序移动角色.一旦完成,就轮到敌人开始执行他们的行动.\n[p][h1]动作[/h1]每个单位每回合最多可以执行两个动作: 攻击 和 移动 为每回合一次.中立的行动,如重新装填或治疗某个角色,每回合最多可以做两次.\n[p]每种武器和装甲类型都为其使用者提供了独特的特殊能力.但需要使用勇气点.勇气是通过各种行动,如成功的攻击和闪避而回复的.\n[p][h1]掩体[/h1]直接(不是对角)放置在掩体旁边的角色会受到一些远程武器的伤害减免.弱掩体和强掩体减少了敌人的牵制.墙阻碍了视线,因此也可以防止远程攻击.\n[p][h1]治疗 修理 复活[/h1]如果一个角色装备了医疗包,他可以用它来治疗附近的队友.此外,医疗包还可以用来救起倒地的角色.有修理包的单位可以在战斗中修理装甲."
 					},
 					{
 						"id": "Credits",
-						"text": "[h1]汉化人员名单：[/h1][br]\n[h2]constancy[/h2][h2]Karnie[/h2][h2]law4x[/h2][h2]xfnyl[/h2][h2]Zain[/h2][br]\n[br]\n[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]感谢游玩Pathway![/h2][br]\n[br]\n[br]"
+						"text": "[h1]汉化人员名单:[/h1][br]\n[h2]constancy[/h2][h2]Karnie[/h2][h2]law4x[/h2][h2]xfnyl[/h2][h2]Zain[/h2][br]\n[br]\n[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]感谢游玩Pathway![/h2][br]\n[br]\n[br]"
 					}
 				]
 			},
@@ -12919,7 +12919,7 @@
 					},
 					{
 						"id": "AdventureStats_AdventureStats",
-						"text": "显示状态"
+						"text": "结算信息"
 					},
 					{
 						"id": "Trashbag_Value",
@@ -12951,7 +12951,7 @@
 					},
 					{
 						"id": "EventEffect_UnitRevived",
-						"text": "  "
+						"text": "全员已恢复至最佳状态."
 					},
 					{
 						"id": "EventEffect_Fuel",
@@ -17146,39 +17146,39 @@
 					},
 					{
 						"id": "georgette_NeedReloading_0",
-						"text": "My rifle needs to be reloaded."
+						"text": "我的步枪需要重新装弹."
 					},
 					{
 						"id": "georgette_NeedHealing_0",
-						"text": "Medical assistance required."
+						"text": "需要医疗援助."
 					},
 					{
 						"id": "georgette_CriticalStrike_0",
-						"text": "Easy."
+						"text": "简单."
 					},
 					{
 						"id": "georgette_Killshot_0",
-						"text": "No need to worry about this one anymore."
+						"text": "不用担心这个了."
 					},
 					{
 						"id": "georgette_Evade_0",
-						"text": "Close one."
+						"text": "子弹离我很近."
 					},
 					{
 						"id": "georgette_Idle_0",
-						"text": "This is a waste of my time."
+						"text": "这是浪费我的时间."
 					},
 					{
 						"id": "georgette_Flanked_0",
-						"text": "Backup required."
+						"text": "需要增援."
 					},
 					{
 						"id": "georgette_NeedFuel_0",
-						"text": "Our fuel tank is almost empty."
+						"text": "我们的油箱快空了."
 					},
 					{
 						"id": "georgette_NeedAmmo_0",
-						"text": "Our ammo reserves are low."
+						"text": "我们的弹药储备不足."
 					},
 					{
 						"id": "georgette_ItemUpgrade_0",
@@ -17186,991 +17186,991 @@
 					},
 					{
 						"id": "georgette_ItemDowngrade_0",
-						"text": "This won't do."
+						"text": "这样做不行."
 					},
 					{
 						"id": "georgette_Recruited_0",
-						"text": "I will not disappoint."
+						"text": "我不会让你失望的."
 					},
 					{
 						"id": "georgette_LevelUp_0",
-						"text": "I am a fast learner."
+						"text": "我学得很快."
 					},
 					{
 						"id": "georgette_EnemySpotted_0",
-						"text": "There’s another one hiding up there!"
+						"text": "还有一个藏在那里!"
 					},
 					{
 						"id": "georgette_NeedReloading_1",
-						"text": "My weapon isn’t much good without ammo!"
+						"text": "我的武器没有弹药不太好!"
 					},
 					{
 						"id": "georgette_NeedHealing_1",
-						"text": "Some penicillin would be good right now."
+						"text": "现在就来点青霉素吧."
 					},
 					{
 						"id": "georgette_CriticalStrike_1",
-						"text": "Bull's eye!"
+						"text": "十环!"
 					},
 					{
 						"id": "georgette_Killshot_1",
-						"text": "Mission accomplished."
+						"text": "任务完成."
 					},
 					{
 						"id": "georgette_Evade_1",
-						"text": "Ooops!"
+						"text": "哎呀!"
 					},
 					{
 						"id": "georgette_Idle_1",
-						"text": "Sometimes I wonder what happened to that young reporter in the Congo..."
+						"text": "有时我想知道那个年轻的刚果记者怎么了..."
 					},
 					{
 						"id": "georgette_Flanked_1",
-						"text": "Don’t lose your nerve now."
+						"text": "现在别失去勇气."
 					},
 					{
 						"id": "georgette_NeedFuel_1",
-						"text": "Looks like we have a gasoline problem."
+						"text": "看这油量，我们有麻烦了."
 					},
 					{
 						"id": "georgette_NeedAmmo_1",
-						"text": "Does anyone know an ammo dealer around here?"
+						"text": "这附近有人认识弹药商吗?"
 					},
 					{
 						"id": "georgette_ItemUpgrade_1",
-						"text": "Top quality!"
+						"text": "顶级品质!"
 					},
 					{
 						"id": "georgette_ItemDowngrade_1",
-						"text": "Is that it?"
+						"text": "就这样吗?"
 					},
 					{
 						"id": "georgette_Recruited_1",
-						"text": "Just to keep you out of trouble!"
+						"text": "只是为了让你远离麻烦!"
 					},
 					{
 						"id": "georgette_LevelUp_1",
-						"text": "I just realized something..."
+						"text": "我刚刚领悟到了什么..."
 					},
 					{
 						"id": "georgette_EnemySpotted_1",
-						"text": "Did you think I couldn’t see you?"
+						"text": "你觉得我看不到你吗?"
 					},
 					{
 						"id": "professor_NeedReloading_0",
-						"text": "Short of ammo over here."
+						"text": "枪没有弹药了."
 					},
 					{
 						"id": "professor_NeedHealing_0",
-						"text": "Can someone end my bleeding?"
+						"text": "有人能帮我止血吗?"
 					},
 					{
 						"id": "professor_CriticalStrike_0",
-						"text": "That looked exceedingly painful."
+						"text": "看起来非常痛苦."
 					},
 					{
 						"id": "professor_Killshot_0",
-						"text": "Obliterated."
+						"text": "已消灭."
 					},
 					{
 						"id": "professor_Evade_0",
-						"text": "How exhilarating!"
+						"text": "多么令人兴奋啊!"
 					},
 					{
 						"id": "professor_Idle_0",
-						"text": "I'd prefer if we returned to our task at hand."
+						"text": "我希望我们能回到手头的任务上来."
 					},
 					{
 						"id": "professor_Flanked_0",
-						"text": "I'm surrounded by enemies."
+						"text": "我被敌人包围了."
 					},
 					{
 						"id": "professor_NeedFuel_0",
-						"text": "We are in need of more fuel."
+						"text": "我们需要更多的燃料."
 					},
 					{
 						"id": "professor_NeedAmmo_0",
-						"text": "We have minimal ammo reserves left."
+						"text": "我们只剩下极少的弹药储备."
 					},
 					{
 						"id": "professor_ItemUpgrade_0",
-						"text": "What a fascinating object!"
+						"text": "多迷人啊!"
 					},
 					{
 						"id": "professor_ItemDowngrade_0",
-						"text": "I believe this was given to me in error."
+						"text": "我觉得这是给错了."
 					},
 					{
 						"id": "professor_Recruited_0",
-						"text": "Give me a few minutes to gather my papers."
+						"text": "给我几分钟时间整理一下文件."
 					},
 					{
 						"id": "professor_LevelUp_0",
-						"text": "I am very pleased with my progress."
+						"text": "我对我的进步很满意."
 					},
 					{
 						"id": "professor_EnemySpotted_0",
-						"text": "I found another one!"
+						"text": "我又找到了一个!"
 					},
 					{
 						"id": "professor_NeedReloading_1",
-						"text": "Just a second... reloading."
+						"text": "等一下...重新装弹."
 					},
 					{
 						"id": "professor_NeedHealing_1",
-						"text": "I can’t feel my legs anymore!"
+						"text": "我感觉不到我的腿了!"
 					},
 					{
 						"id": "professor_CriticalStrike_1",
-						"text": "Another point for science."
+						"text": "科学的又一个观点."
 					},
 					{
 						"id": "professor_Killshot_1",
-						"text": "Death by technology!"
+						"text": "技术死亡!"
 					},
 					{
 						"id": "professor_Evade_1",
-						"text": "That was lucky!"
+						"text": "真是幸运!"
 					},
 					{
 						"id": "professor_Idle_1",
-						"text": "Without an ionizer the voltage is much too high, of course. You would have to interpose a Pittsburgh inductor..."
+						"text": "当然,如果没有电离器,电压就太高了.你得插入匹兹堡电感器..."
 					},
 					{
 						"id": "professor_Flanked_1",
-						"text": "Retreat!"
+						"text": "撤!"
 					},
 					{
 						"id": "professor_NeedFuel_1",
-						"text": "Is the fuel gauge broken? No? Then we have a problem..."
+						"text": "燃油表坏了吗?没?那我们就有麻烦了..."
 					},
 					{
 						"id": "professor_NeedAmmo_1",
-						"text": "Without ammunition, we have a problem..."
+						"text": "没有弹药,麻烦来了..."
 					},
 					{
 						"id": "professor_ItemUpgrade_1",
-						"text": "Wonderful..."
+						"text": "棒极了..."
 					},
 					{
 						"id": "professor_ItemDowngrade_1",
-						"text": "This belongs in the garbage, not in my hands!"
+						"text": "别给我这种垃圾!"
 					},
 					{
 						"id": "professor_Recruited_1",
-						"text": "Fascinating. Simply fascinating."
+						"text": "迷人,简直太迷人了."
 					},
 					{
 						"id": "professor_LevelUp_1",
-						"text": "Live and learn."
+						"text": "活到老学到老."
 					},
 					{
 						"id": "professor_EnemySpotted_1",
-						"text": "Over there!"
+						"text": "在那边!"
 					},
 					{
 						"id": "drChandra_NeedReloading_0",
-						"text": "Oh - it appears I'm out of ammo."
+						"text": "哦 - 看来我没有弹药了."
 					},
 					{
 						"id": "drChandra_NeedHealing_0",
-						"text": "I fear I'm badly wounded."
+						"text": "恐怕我伤得很重."
 					},
 					{
 						"id": "drChandra_CriticalStrike_0",
-						"text": "I do not enjoy inflicting pain."
+						"text": "我不喜欢让人痛苦."
 					},
 					{
 						"id": "drChandra_Killshot_0",
-						"text": "Was that me?"
+						"text": "是我打的吗?"
 					},
 					{
 						"id": "drChandra_Evade_0",
-						"text": "I live!"
+						"text": "我还活着!"
 					},
 					{
 						"id": "drChandra_Idle_0",
-						"text": "Are we ... Are we lost?"
+						"text": "我...我们迷路了吗?"
 					},
 					{
 						"id": "drChandra_Flanked_0",
-						"text": "Where are they all coming from?"
+						"text": "他们都是从哪里来的?"
 					},
 					{
 						"id": "drChandra_NeedFuel_0",
-						"text": "It seems that we are low on fuel."
+						"text": "看来我们的燃料不足."
 					},
 					{
 						"id": "drChandra_NeedAmmo_0",
-						"text": "Oh no! Our ammo is almost all gone."
+						"text": "哦不!我们的弹药几乎快没了."
 					},
 					{
 						"id": "drChandra_ItemUpgrade_0",
-						"text": "Yes, yes .. I can work with this."
+						"text": "好的,好的...我可以用这个."
 					},
 					{
 						"id": "drChandra_ItemDowngrade_0",
-						"text": "I don't intend to be rude, but are you sure?"
+						"text": "我不想骂人,不过你确定?"
 					},
 					{
 						"id": "drChandra_Recruited_0",
-						"text": "I have been waiting eagerly to join this expedition!"
+						"text": "我一直在等着加入这次冒险队!"
 					},
 					{
 						"id": "drChandra_LevelUp_0",
-						"text": "I find meaning in learning."
+						"text": "我在学习中找到了意义."
 					},
 					{
 						"id": "drChandra_EnemySpotted_0",
-						"text": "Enemy spotted!"
+						"text": "发现敌人!"
 					},
 					{
 						"id": "drChandra_NeedReloading_1",
-						"text": "That was probably my last shot."
+						"text": "那可能是我开的最后一枪了."
 					},
 					{
 						"id": "drChandra_NeedHealing_1",
-						"text": "I hate to be a nuisance, but does anyone have a bandage?"
+						"text": "我不想惹麻烦,但有人有绷带吗?"
 					},
 					{
 						"id": "drChandra_CriticalStrike_1",
-						"text": "Perhaps you should just surrender."
+						"text": "也许你应该投降."
 					},
 					{
 						"id": "drChandra_Killshot_1",
-						"text": "So pointless..."
+						"text": "毫无意义..."
 					},
 					{
 						"id": "drChandra_Evade_1",
-						"text": "What did I ever do to you?"
+						"text": "我曾对你做过什么?"
 					},
 					{
 						"id": "drChandra_Idle_1",
-						"text": "Sometimes I think I'm getting too old for this..."
+						"text": "有时候我觉得我太老了..."
 					},
 					{
 						"id": "drChandra_Flanked_1",
-						"text": "It looks like they’re trying to surround us."
+						"text": "看起来他们想包围我们."
 					},
 					{
 						"id": "drChandra_NeedFuel_1",
-						"text": "Is anyone keeping track of our gas reserves?"
+						"text": "有人记录我们的燃料储备吗?"
 					},
 					{
 						"id": "drChandra_NeedAmmo_1",
-						"text": "I'm afraid we'll have to make do with our knives..."
+						"text": "恐怕我们得用刀了..."
 					},
 					{
 						"id": "drChandra_ItemUpgrade_1",
-						"text": "Excellent quality, I do declare."
+						"text": "我敢打赌，它质量上乘."
 					},
 					{
 						"id": "drChandra_ItemDowngrade_1",
-						"text": "Is this really all we have?"
+						"text": "这真的是我们所有的吗?"
 					},
 					{
 						"id": "drChandra_Recruited_1",
-						"text": "Are you sure you have thought this through?"
+						"text": "你确定你已经考虑过了吗?"
 					},
 					{
 						"id": "drChandra_LevelUp_1",
-						"text": "Enlightenment comes to you, not the other way around."
+						"text": "启蒙降临到你身上,而不是相反."
 					},
 					{
 						"id": "drChandra_EnemySpotted_1",
-						"text": "There’s another one!"
+						"text": "还有一个!"
 					},
 					{
 						"id": "shaneeka_NeedReloading_0",
-						"text": "My weapon needs to be reloaded."
+						"text": "我的武器需要重新上膛."
 					},
 					{
 						"id": "shaneeka_NeedHealing_0",
-						"text": "This wound is bad."
+						"text": "这个伤口很严重."
 					},
 					{
 						"id": "shaneeka_CriticalStrike_0",
-						"text": "You will remember me now!"
+						"text": "你会铭记我的!"
 					},
 					{
 						"id": "shaneeka_Killshot_0",
-						"text": "I strike to kill."
+						"text": "我就是为了杀人."
 					},
 					{
 						"id": "shaneeka_Evade_0",
-						"text": "My instincts are excellent."
+						"text": "我的直觉很好."
 					},
 					{
 						"id": "shaneeka_Idle_0",
-						"text": "Where are we going to next?"
+						"text": "我们下一站去哪?"
 					},
 					{
 						"id": "shaneeka_Flanked_0",
-						"text": "The enemy is trying to outsmart me."
+						"text": "敌人想算计我."
 					},
 					{
 						"id": "shaneeka_NeedFuel_0",
-						"text": "Our fuel supplies need to be replenished."
+						"text": "我们的燃料需要补充."
 					},
 					{
 						"id": "shaneeka_NeedAmmo_0",
-						"text": "Ammo is low."
+						"text": "弹药量低."
 					},
 					{
 						"id": "shaneeka_ItemUpgrade_0",
-						"text": "I will enjoy this."
+						"text": "我会喜欢这个的."
 					},
 					{
 						"id": "shaneeka_ItemDowngrade_0",
-						"text": "This is not to my liking."
+						"text": "我不喜欢这个."
 					},
 					{
 						"id": "shaneeka_Recruited_0",
-						"text": "Our enemies will be struck with fear."
+						"text": "我们的敌人会充满恐惧."
 					},
 					{
 						"id": "shaneeka_LevelUp_0",
-						"text": "My blade sharpens."
+						"text": "我的刀刃变锋利了."
 					},
 					{
 						"id": "shaneeka_EnemySpotted_0",
-						"text": "I think I see another one!"
+						"text": "我想我又看到了一个!"
 					},
 					{
 						"id": "shaneeka_NeedReloading_1",
-						"text": "A true warrior continues to fight even with an empty weapon!"
+						"text": "一个真正的战士即使没有武器也会继续战斗!"
 					},
 					{
 						"id": "shaneeka_NeedHealing_1",
-						"text": "Do not worry about me, I'll be alright."
+						"text": "别担心我,我会没事的."
 					},
 					{
 						"id": "shaneeka_CriticalStrike_1",
-						"text": "Fear my wrath!"
+						"text": "惧怕我的愤怒吧!"
 					},
 					{
 						"id": "shaneeka_Killshot_1",
-						"text": "Greet the spirits of your ancestors from me."
+						"text": "替我向你祖宗问好."
 					},
 					{
 						"id": "shaneeka_Evade_1",
-						"text": "I'm starting to get very angry."
+						"text": "我要生气了."
 					},
 					{
 						"id": "shaneeka_Idle_1",
-						"text": "The patient huntress waits until the time is right."
+						"text": "女猎手耐心等待适当的时机."
 					},
 					{
 						"id": "shaneeka_Flanked_1",
-						"text": "Never corner a predator!"
+						"text": "绝不要把捕食者逼入绝境!"
 					},
 					{
 						"id": "shaneeka_NeedFuel_1",
-						"text": "The car sounds like a thirsty animal."
+						"text": "这辆车的声音听起来像个口渴的动物."
 					},
 					{
 						"id": "shaneeka_NeedAmmo_1",
-						"text": "Do you have any more cartridges?"
+						"text": "还有子弹吗?"
 					},
 					{
 						"id": "shaneeka_ItemUpgrade_1",
-						"text": "Joy fills my heart."
+						"text": "愉悦充满全身."
 					},
 					{
 						"id": "shaneeka_ItemDowngrade_1",
-						"text": "You insult my honor."
+						"text": "你玷污了我的名誉."
 					},
 					{
 						"id": "shaneeka_Recruited_1",
-						"text": "My blade and my honor are yours."
+						"text": "我的剑与荣耀于你."
 					},
 					{
 						"id": "shaneeka_LevelUp_1",
-						"text": "The great spirit enlightens me."
+						"text": "伟大的灵魂启发了我."
 					},
 					{
 						"id": "shaneeka_EnemySpotted_1",
-						"text": "Look out! Enemy ahead!"
+						"text": "留神!前方敌人!"
 					},
 					{
 						"id": "baron_NeedReloading_0",
-						"text": "It's reload time, my friends."
+						"text": "子弹重装时间到了,朋友们."
 					},
 					{
 						"id": "baron_NeedHealing_0",
-						"text": "I do not feel my best."
+						"text": "我感觉不太好."
 					},
 					{
 						"id": "baron_CriticalStrike_0",
-						"text": "Not luck, but skill."
+						"text": "不是运气,而是技巧."
 					},
 					{
 						"id": "baron_Killshot_0",
-						"text": "Auf Wiedersehen!"
+						"text": "再见!"
 					},
 					{
 						"id": "baron_Evade_0",
-						"text": "Easily evaded."
+						"text": "轻松闪避."
 					},
 					{
 						"id": "baron_Idle_0",
-						"text": "We are wasting valuable time."
+						"text": "我们在浪费宝贵的时间."
 					},
 					{
 						"id": "baron_Flanked_0",
-						"text": "I .. I need some help here."
+						"text": "我...我需要一些帮助."
 					},
 					{
 						"id": "baron_NeedFuel_0",
-						"text": "Let's organize more fuel, friends."
+						"text": "朋友们,让我们筹备更多的燃料."
 					},
 					{
 						"id": "baron_NeedAmmo_0",
-						"text": "We have little ammo left."
+						"text": "我们几乎没剩下多少弹药了."
 					},
 					{
 						"id": "baron_ItemUpgrade_0",
-						"text": "Ja."
+						"text": "是的."
 					},
 					{
 						"id": "baron_ItemDowngrade_0",
-						"text": "Nein."
+						"text": "别这样."
 					},
 					{
 						"id": "baron_Recruited_0",
-						"text": "Fantastisch... Fantastisch!"
+						"text": "妙啊!"
 					},
 					{
 						"id": "baron_LevelUp_0",
-						"text": "I have learned a few tricks."
+						"text": "我学会了一些新的技巧."
 					},
 					{
 						"id": "baron_EnemySpotted_0",
-						"text": "There’s another one hiding up there!"
+						"text": "有个人藏在前面!"
 					},
 					{
 						"id": "baron_NeedReloading_1",
-						"text": "I really need a bigger magazine."
+						"text": "我真的需要一个更大的弹匣."
 					},
 					{
 						"id": "baron_NeedHealing_1",
-						"text": "All this blood is ruining my suit!"
+						"text": "血迹都弄脏了我的西装!"
 					},
 					{
 						"id": "baron_CriticalStrike_1",
-						"text": "You did not expect that, did you?"
+						"text": "没想到吧?"
 					},
 					{
 						"id": "baron_Killshot_1",
-						"text": "Discreet and efficient."
+						"text": "谨慎而有效率."
 					},
 					{
 						"id": "baron_Evade_1",
-						"text": "Not very impressive."
+						"text": "不太令人印象深刻."
 					},
 					{
 						"id": "baron_Idle_1",
-						"text": "Then I said: Ms Sturmbannführer, this is not what it looks like!"
+						"text": "我说:Sturmbannführer夫人,它不是这样的!"
 					},
 					{
 						"id": "baron_Flanked_1",
-						"text": "Can we talk about this?"
+						"text": "我们可以谈谈这个吗?"
 					},
 					{
 						"id": "baron_NeedFuel_1",
-						"text": "Please tell me we still have some gas somewhere."
+						"text": "请告诉我某处还有汽油."
 					},
 					{
 						"id": "baron_NeedAmmo_1",
-						"text": "The bad news first: We’re almost out of ammunition."
+						"text": "先说个坏消息:我们的弹药快用完了."
 					},
 					{
 						"id": "baron_ItemUpgrade_1",
-						"text": "Yes, this should work..."
+						"text": "是的,这应该管用..."
 					},
 					{
 						"id": "baron_ItemDowngrade_1",
-						"text": "Ugh! I wouldn’t touch it with gloves!"
+						"text": "呸!我不会用手套碰它的!"
 					},
 					{
 						"id": "baron_Recruited_1",
-						"text": "What's in it for me?"
+						"text": "里面有什么给我的?"
 					},
 					{
 						"id": "baron_LevelUp_1",
-						"text": "Exzellent."
+						"text": "卓越."
 					},
 					{
 						"id": "baron_EnemySpotted_1",
-						"text": "Did you think I couldn’t see you?"
+						"text": "你以为我看不见你吗?"
 					},
 					{
 						"id": "Rose_NeedReloading_0",
-						"text": "An empty gun won't help anyone."
+						"text": "空枪对任何人都没有帮助."
 					},
 					{
 						"id": "Rose_NeedHealing_0",
-						"text": "This wound needs attention."
+						"text": "这个伤口需要注意下."
 					},
 					{
 						"id": "Rose_CriticalStrike_0",
-						"text": "Not bad, not bad at all!"
+						"text": "不错,非常不错!"
 					},
 					{
 						"id": "Rose_Killshot_0",
-						"text": "Next one, please."
+						"text": "下一位."
 					},
 					{
 						"id": "Rose_Evade_0",
-						"text": "Luck is on my side!"
+						"text": "运气在我这边!"
 					},
 					{
 						"id": "Rose_Idle_0",
-						"text": "Why are we not moving?"
+						"text": "我们为什么不动?"
 					},
 					{
 						"id": "Rose_Flanked_0",
-						"text": "Too many of them around here!"
+						"text": "这附近有太多敌人!"
 					},
 					{
 						"id": "Rose_NeedFuel_0",
-						"text": "If we don't find fuel soon, we're in trouble."
+						"text": "如果我们不尽快找到燃料,我们就有麻烦了."
 					},
 					{
 						"id": "Rose_NeedAmmo_0",
-						"text": "We can't afford to run out of ammo."
+						"text": "我们不能把弹药都用完."
 					},
 					{
 						"id": "Rose_ItemUpgrade_0",
-						"text": "I like this!"
+						"text": "我喜欢这个!"
 					},
 					{
 						"id": "Rose_ItemDowngrade_0",
-						"text": "No, this is bad."
+						"text": "不要,这是差的."
 					},
 					{
 						"id": "Rose_Recruited_0",
-						"text": "Ready to leave immediately!"
+						"text": "准备好立即离开!"
 					},
 					{
 						"id": "Rose_LevelUp_0",
-						"text": "A rewarding experience."
+						"text": "一次有益的经历."
 					},
 					{
 						"id": "Rose_EnemySpotted_0",
-						"text": "I found another one!"
+						"text": "我又找到了一个!"
 					},
 					{
 						"id": "Rose_NeedReloading_1",
-						"text": "It think my weapon’s empty again."
+						"text": "我的武器又空了."
 					},
 					{
 						"id": "Rose_NeedHealing_1",
-						"text": "I don’t feel too good."
+						"text": "我感觉不太好."
 					},
 					{
 						"id": "Rose_CriticalStrike_1",
-						"text": "Not bad, huh?"
+						"text": "不错,哈?"
 					},
 					{
 						"id": "Rose_Killshot_1",
-						"text": "Let’s call it self-defense."
+						"text": "这叫做自卫."
 					},
 					{
 						"id": "Rose_Evade_1",
-						"text": "How rude."
+						"text": "真粗鲁."
 					},
 					{
 						"id": "Rose_Idle_1",
-						"text": "Do you hear footsteps? No, it’s probably just my nerves."
+						"text": "你听到脚步声了吗?没?可能只是我的神经问题."
 					},
 					{
 						"id": "Rose_Flanked_1",
-						"text": "This is getting much too hectic for me."
+						"text": "这下我要忙不过来了."
 					},
 					{
 						"id": "Rose_NeedFuel_1",
-						"text": "What do you mean, no more gas?"
+						"text": "你什么意思,没油了?"
 					},
 					{
 						"id": "Rose_NeedAmmo_1",
-						"text": "We’re running out of ammo."
+						"text": "我们的弹药快用完了."
 					},
 					{
 						"id": "Rose_ItemUpgrade_1",
-						"text": "Just what I would have picked."
+						"text": "正合我意."
 					},
 					{
 						"id": "Rose_ItemDowngrade_1",
-						"text": "You want my opinion? It’s not great."
+						"text": "你想听我的意见? 不好."
 					},
 					{
 						"id": "Rose_Recruited_1",
-						"text": "I’ve been sitting with my nose in books for too long."
+						"text": "我坐在书堆里太久了."
 					},
 					{
 						"id": "Rose_LevelUp_1",
-						"text": "These are some interesting new insights..."
+						"text": "这些是一些有趣的新见解..."
 					},
 					{
 						"id": "Rose_EnemySpotted_1",
-						"text": "Over there!"
+						"text": "那边!"
 					},
 					{
 						"id": "caballero_NeedReloading_0",
-						"text": "I have no bullets left."
+						"text": "我没有子弹了."
 					},
 					{
 						"id": "caballero_NeedHealing_0",
-						"text": "I'm tough, but this wound is really bad."
+						"text": "我很坚强,但伤口很严重."
 					},
 					{
 						"id": "caballero_CriticalStrike_0",
-						"text": "Steady hands."
+						"text": "手很稳."
 					},
 					{
 						"id": "caballero_Killshot_0",
-						"text": "My training shows."
+						"text": "我的表演排练."
 					},
 					{
 						"id": "caballero_Evade_0",
-						"text": "They can't get me."
+						"text": "他们打不中我."
 					},
 					{
 						"id": "caballero_Idle_0",
-						"text": "If I were in charge we would not be wasting time."
+						"text": "是我带队的话,我们就不会浪费时间了."
 					},
 					{
 						"id": "caballero_Flanked_0",
-						"text": "Need backup."
+						"text": "需要支援."
 					},
 					{
 						"id": "caballero_NeedFuel_0",
-						"text": "Fuel is low."
+						"text": "油量低."
 					},
 					{
 						"id": "caballero_NeedAmmo_0",
-						"text": "We have guns, but little ammo."
+						"text": "我们有枪,但弹药很少."
 					},
 					{
 						"id": "caballero_ItemUpgrade_0",
-						"text": "Perfect."
+						"text": "完美."
 					},
 					{
 						"id": "caballero_ItemDowngrade_0",
-						"text": "A bad choice."
+						"text": "坏主意."
 					},
 					{
 						"id": "caballero_Recruited_0",
-						"text": "Caballero ready for deployment!"
+						"text": "Caballero准备部署!"
 					},
 					{
 						"id": "caballero_LevelUp_0",
-						"text": "My experience grows."
+						"text": "我的经验增长了."
 					},
 					{
 						"id": "caballero_EnemySpotted_0",
-						"text": "Enemy spotted!"
+						"text": "发现敌人!"
 					},
 					{
 						"id": "caballero_NeedReloading_1",
-						"text": "Maybe I should reload."
+						"text": "也许我应该重新装填."
 					},
 					{
 						"id": "caballero_NeedHealing_1",
-						"text": "Is all this my blood?"
+						"text": "这都是我的血吗?"
 					},
 					{
 						"id": "caballero_CriticalStrike_1",
-						"text": "All is fair in love and war."
+						"text": "爱情和战争都是公平的。."
 					},
 					{
 						"id": "caballero_Killshot_1",
-						"text": "No pasarán!"
+						"text": "他们过不了我这关!"
 					},
 					{
 						"id": "caballero_Evade_1",
-						"text": "I need some real opponents."
+						"text": "我需要一些真正的对手."
 					},
 					{
 						"id": "caballero_Idle_1",
-						"text": "This reminds me of my time with the International Brigades outside Guadalajara..."
+						"text": "这让我想起了在瓜达拉哈拉郊外参加国际旅的时光..."
 					},
 					{
 						"id": "caballero_Flanked_1",
-						"text": "They’re everywhere!"
+						"text": "他们到处都是!"
 					},
 					{
 						"id": "caballero_NeedFuel_1",
-						"text": "If we do not find some gasoline soon, that's it..."
+						"text": "如果我们不尽快找到汽油，就..."
 					},
 					{
 						"id": "caballero_NeedAmmo_1",
-						"text": "We should make every bullet count."
+						"text": "我们应该让每一颗子弹都有价值."
 					},
 					{
 						"id": "caballero_ItemUpgrade_1",
-						"text": "Very nice."
+						"text": "很好."
 					},
 					{
 						"id": "caballero_ItemDowngrade_1",
-						"text": "I suppose we should take what we can get."
+						"text": "我想我们应该尽我们所能."
 					},
 					{
 						"id": "caballero_Recruited_1",
-						"text": "How could I say no to such an undertaking?"
+						"text": "我怎么能拒绝这样的承诺呢?"
 					},
 					{
 						"id": "caballero_LevelUp_1",
-						"text": "What an interesting journey."
+						"text": "多有趣的旅行啊."
 					},
 					{
 						"id": "caballero_EnemySpotted_1",
-						"text": "There’s another one!"
+						"text": "还有一个!"
 					},
 					{
 						"id": "omar_NeedReloading_0",
-						"text": "Reload required."
+						"text": "需要重新装弹."
 					},
 					{
 						"id": "omar_NeedHealing_0",
-						"text": "This is very painful."
+						"text": "痛死我了."
 					},
 					{
 						"id": "omar_CriticalStrike_0",
-						"text": "Who's laughing now!"
+						"text": "看是谁笑到了最后!"
 					},
 					{
 						"id": "omar_Killshot_0",
-						"text": "You asked for it!"
+						"text": "你自找的!"
 					},
 					{
 						"id": "omar_Evade_0",
-						"text": "Ah yes, I got away."
+						"text": "噢,我躲开了."
 					},
 					{
 						"id": "omar_Idle_0",
-						"text": "No point in sitting around."
+						"text": "干坐着没卵用."
 					},
 					{
 						"id": "omar_Flanked_0",
-						"text": "They have me pinned down!"
+						"text": "他们把我夹击了!"
 					},
 					{
 						"id": "omar_NeedFuel_0",
-						"text": "We should look for fuel."
+						"text": "我们应该找点燃料."
 					},
 					{
 						"id": "omar_NeedAmmo_0",
-						"text": "Let's find some ammo."
+						"text": "我们找些弹药吧."
 					},
 					{
 						"id": "omar_ItemUpgrade_0",
-						"text": "A good choice."
+						"text": "不错的选择."
 					},
 					{
 						"id": "omar_ItemDowngrade_0",
-						"text": "Are you sure about this?"
+						"text": "你确定吗?"
 					},
 					{
 						"id": "omar_Recruited_0",
-						"text": "We will make a great team!"
+						"text": "我们会成为一个出色的团队!"
 					},
 					{
 						"id": "omar_LevelUp_0",
-						"text": "A hard learned lesson."
+						"text": "难以吸取的教训."
 					},
 					{
 						"id": "omar_EnemySpotted_0",
-						"text": "I think I see another one!"
+						"text": "我想我看到了另一个!"
 					},
 					{
 						"id": "omar_NeedReloading_1",
-						"text": "I should have some more cartridges somewhere..."
+						"text": "我应该在某个地方多拿些子弹..."
 					},
 					{
 						"id": "omar_NeedHealing_1",
-						"text": "Friends, I am not feeling well!"
+						"text": "朋友们,我感觉不舒服!"
 					},
 					{
 						"id": "omar_CriticalStrike_1",
-						"text": "I feel wonderful!"
+						"text": "我感觉很好!"
 					},
 					{
 						"id": "omar_Killshot_1",
-						"text": "Nobody can withstand Prince Omar!"
+						"text": "没有人能抵挡Omar王子!"
 					},
 					{
 						"id": "omar_Evade_1",
-						"text": "You son of a mangy dog!"
+						"text": "你这个白痴养的!"
 					},
 					{
 						"id": "omar_Idle_1",
-						"text": "My cousin is selling some antique pottery shards - are you interested?"
+						"text": "我表哥在卖古董陶片 - 你有兴趣吗?"
 					},
 					{
 						"id": "omar_Flanked_1",
-						"text": "An ambush? Two can play at that game!"
+						"text": "埋伏?那可不是只有你们会!"
 					},
 					{
 						"id": "omar_NeedFuel_1",
-						"text": "The engine sounds kind of empty."
+						"text": "发动机听起来有点空."
 					},
 					{
 						"id": "omar_NeedAmmo_1",
-						"text": "Does anyone have any ammunition?"
+						"text": "有人有弹药吗?"
 					},
 					{
 						"id": "omar_ItemUpgrade_1",
-						"text": "Very nice. My cousin will burst with envy."
+						"text": "非常好.我表哥会妒忌的."
 					},
 					{
 						"id": "omar_ItemDowngrade_1",
-						"text": "Even my cousin sells better junk."
+						"text": "我表哥卖的垃圾都比这个强."
 					},
 					{
 						"id": "omar_Recruited_1",
-						"text": "Omar will stand with you through thick and thin!"
+						"text": "Omar会和你一起度过难关!"
 					},
 					{
 						"id": "omar_LevelUp_1",
-						"text": "Fortune smiles on Omar!"
+						"text": "命运向Omar微笑!"
 					},
 					{
 						"id": "omar_EnemySpotted_1",
-						"text": "Look out! Enemy ahead!"
+						"text": "当心!前面有敌人!"
 					},
 					{
 						"id": "anabelle_NeedReloading_0",
-						"text": "Ammo, please."
+						"text": "请给我些子弹."
 					},
 					{
 						"id": "anabelle_NeedHealing_0",
-						"text": "I could use some help over here."
+						"text": "我这里需要一些帮助."
 					},
 					{
 						"id": "anabelle_CriticalStrike_0",
-						"text": "Get out of my way!"
+						"text": "别挡我的路!"
 					},
 					{
 						"id": "anabelle_Killshot_0",
-						"text": "Bye bye!"
+						"text": "拜拜!"
 					},
 					{
 						"id": "anabelle_Evade_0",
-						"text": "Ha!"
+						"text": "哈!"
 					},
 					{
 						"id": "anabelle_Idle_0",
-						"text": "This is taking too long. Let's go!"
+						"text": "这太花时间了.我们走!"
 					},
 					{
 						"id": "anabelle_Flanked_0",
-						"text": "A little help would be appreciated."
+						"text": "如果你能帮我一点忙,我将感激不尽."
 					},
 					{
 						"id": "anabelle_NeedFuel_0",
-						"text": "We have little fuel from what I can see."
+						"text": "我看我们没有多少燃料了."
 					},
 					{
 						"id": "anabelle_NeedAmmo_0",
-						"text": "Not enough ammo in our reserves."
+						"text": "我们没有储备足够的弹药."
 					},
 					{
 						"id": "anabelle_ItemUpgrade_0",
-						"text": "Oh yeah. Nice!"
+						"text": "哦,好.耐思!"
 					},
 					{
 						"id": "anabelle_ItemDowngrade_0",
-						"text": "No, absolutely not."
+						"text": "不,绝对不要."
 					},
 					{
 						"id": "anabelle_Recruited_0",
-						"text": "I will of course make this expedition a success."
+						"text": "我当然会让这次冒险取得成功的."
 					},
 					{
 						"id": "anabelle_LevelUp_0",
-						"text": "I am unstoppable!"
+						"text": "我无人能敌!"
 					},
 					{
 						"id": "anabelle_EnemySpotted_0",
-						"text": "There’s another one hiding up there!"
+						"text": "还有一个藏在那里!"
 					},
 					{
 						"id": "anabelle_NeedReloading_1",
-						"text": "Has anyone seen my ammo bag?"
+						"text": "有人见过我的弹药袋吗?"
 					},
 					{
 						"id": "anabelle_NeedHealing_1",
-						"text": "I hate to admit it - but I think I need help."
+						"text": "我不想承认 - 但我想我需要帮助."
 					},
 					{
 						"id": "anabelle_CriticalStrike_1",
-						"text": "That was my last warning."
+						"text": "那是我最后的警告."
 					},
 					{
 						"id": "anabelle_Killshot_1",
-						"text": "And you thought you were better than me?"
+						"text": "你以为你比我强?"
 					},
 					{
 						"id": "anabelle_Evade_1",
-						"text": "Nice try..."
+						"text": "得了吧..."
 					},
 					{
 						"id": "anabelle_Idle_1",
-						"text": "I should see to my plane someday."
+						"text": "总有一天我该去看我的飞机."
 					},
 					{
 						"id": "anabelle_Flanked_1",
-						"text": "Hey, that not fair!"
+						"text": "嘿,这不公平!"
 					},
 					{
 						"id": "anabelle_NeedFuel_1",
-						"text": "Was that all our gasoline?"
+						"text": "那就是我们所有的汽油了吗?"
 					},
 					{
 						"id": "anabelle_NeedAmmo_1",
-						"text": "Who used all the ammunition?!"
+						"text": "谁用了所有的弹药?!"
 					},
 					{
 						"id": "anabelle_ItemUpgrade_1",
-						"text": "Oh wow!"
+						"text": "哦...哇!"
 					},
 					{
 						"id": "anabelle_ItemDowngrade_1",
-						"text": "Is this a joke?"
+						"text": "这是个笑话吗?"
 					},
 					{
 						"id": "anabelle_Recruited_1",
-						"text": "But equal shares, got it?"
+						"text": "好处要平分,知道吗?"
 					},
 					{
 						"id": "anabelle_LevelUp_1",
-						"text": "I’m starting to enjoy this."
+						"text": "我开始喜欢这个了."
 					},
 					{
 						"id": "anabelle_EnemySpotted_1",
-						"text": "Did you think I couldn’t see you?"
+						"text": "你以为我看不见你吗?"
 					},
 					{
 						"id": "leFantome_NeedReloading_0",
-						"text": "Reload this, yes."
+						"text": "重新装弹，是的."
 					},
 					{
 						"id": "leFantome_NeedHealing_0",
-						"text": "I am very close to dying."
+						"text": "我快死了."
 					},
 					{
 						"id": "leFantome_CriticalStrike_0",
-						"text": "I'm not sorry for this."
+						"text": "对此我不感到抱歉."
 					},
 					{
 						"id": "leFantome_Killshot_0",
-						"text": "Au revoir, mon amour."
+						"text": "再见我的爱."
 					},
 					{
 						"id": "leFantome_Evade_0",
-						"text": "Now that was uncomfortably lucky."
+						"text": "这真是太幸运了."
 					},
 					{
 						"id": "leFantome_Idle_0",
@@ -18178,39 +18178,39 @@
 					},
 					{
 						"id": "leFantome_Flanked_0",
-						"text": "I count too many opponents."
+						"text": "敌人多到数不过来."
 					},
 					{
 						"id": "leFantome_NeedFuel_0",
-						"text": "A little fuel would be helpful."
+						"text": "多点燃料会很有帮助的."
 					},
 					{
 						"id": "leFantome_NeedAmmo_0",
-						"text": "Need me to find some ammo?"
+						"text": "需要我找一些弹药?"
 					},
 					{
 						"id": "leFantome_ItemUpgrade_0",
-						"text": "Ah, oui."
+						"text": "噢,好的."
 					},
 					{
 						"id": "leFantome_ItemDowngrade_0",
-						"text": "不, 不, 不."
+						"text": "不,不,不."
 					},
 					{
 						"id": "leFantome_Recruited_0",
-						"text": "I accept the offer. On y va!"
+						"text": "我接受邀请.我们走吧!"
 					},
 					{
 						"id": "leFantome_LevelUp_0",
-						"text": "I am clever, see?"
+						"text": "看见了吗?我很聪明的."
 					},
 					{
 						"id": "leFantome_EnemySpotted_0",
-						"text": "I found another one!"
+						"text": "我又发现一个!"
 					},
 					{
 						"id": "leFantome_NeedReloading_1",
-						"text": "Just a moment please, reloading!"
+						"text": "请稍等,重新装弹!"
 					},
 					{
 						"id": "leFantome_NeedHealing_1",
@@ -18218,51 +18218,51 @@
 					},
 					{
 						"id": "leFantome_CriticalStrike_1",
-						"text": "Don’t even try to escape me."
+						"text": "休想逃脱我的掌心."
 					},
 					{
 						"id": "leFantome_Killshot_1",
-						"text": "Strike when they least expect it."
+						"text": "在他们最意想不到的时候袭击."
 					},
 					{
 						"id": "leFantome_Evade_1",
-						"text": "You’ll have to do better than that!"
+						"text": "你还得加油啊!"
 					},
 					{
 						"id": "leFantome_Idle_1",
-						"text": "他们无法证明是我闯入德国驻巴黎大使馆."
+						"text": "没有证据表明是我闯入了德国驻巴黎大使馆。."
 					},
 					{
 						"id": "leFantome_Flanked_1",
-						"text": "你永远不会抓住我!"
+						"text": "你永远也抓不到我!"
 					},
 					{
 						"id": "leFantome_NeedFuel_1",
-						"text": "Is there any gas in the spare canister?"
+						"text": "备用罐里有汽油吗?"
 					},
 					{
 						"id": "leFantome_NeedAmmo_1",
-						"text": "No more ammunition? It wasn’t me!"
+						"text": "没有弹药了?不是我!"
 					},
 					{
 						"id": "leFantome_ItemUpgrade_1",
-						"text": "不错的选择."
+						"text": "出色的选择."
 					},
 					{
 						"id": "leFantome_ItemDowngrade_1",
-						"text": "认真的?"
+						"text": "事情很严重?"
 					},
 					{
 						"id": "leFantome_Recruited_1",
-						"text": "I will accompany you ... as long as it suits my own plans."
+						"text": "我会跟随你的...只要它符合我的计划."
 					},
 					{
 						"id": "leFantome_LevelUp_1",
-						"text": "我感觉很好!"
+						"text": "我感觉很棒!"
 					},
 					{
 						"id": "leFantome_EnemySpotted_1",
-						"text": "在那里!"
+						"text": "那边!"
 					},
 					{
 						"id": "fenris_NeedReloading_0",
@@ -18314,7 +18314,7 @@
 					},
 					{
 						"id": "fenris_LevelUp_0",
-						"text": "*气喘吁吁*"
+						"text": "*Heavy Panting*"
 					},
 					{
 						"id": "fenris_EnemySpotted_0",
@@ -18370,7 +18370,7 @@
 					},
 					{
 						"id": "fenris_LevelUp_1",
-						"text": "*气喘吁吁*"
+						"text": "*Heavy Panting*"
 					},
 					{
 						"id": "fenris_EnemySpotted_1",
@@ -18426,7 +18426,7 @@
 					},
 					{
 						"id": "snowWhite_LevelUp_0",
-						"text": "*气喘吁吁*"
+						"text": "*Heavy Panting*"
 					},
 					{
 						"id": "snowWhite_EnemySpotted_0",
@@ -18450,7 +18450,7 @@
 					},
 					{
 						"id": "snowWhite_Evade_1",
-						"text": "*呜咽*"
+						"text": "*Whimpers*"
 					},
 					{
 						"id": "snowWhite_Idle_1",
@@ -18482,7 +18482,7 @@
 					},
 					{
 						"id": "snowWhite_LevelUp_1",
-						"text": "*气喘吁吁*"
+						"text": "*Heavy Panting*"
 					},
 					{
 						"id": "snowWhite_EnemySpotted_1",
