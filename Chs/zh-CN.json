@@ -5466,11 +5466,11 @@
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage03",
-						"text": "Your exploration of the old mine ends in disappointment: You find nothing of interest. \n\nAt a slight sound, you spin round in alarm – a group of cultists have snuck up on you from behind! It’s an ambush!"
+						"text": "你探索完旧矿洞后很失望,因为没有发现任何价值的东西. \n\n一声轻响, 你警惕地转过身来 – 一群邪教徒正悄悄地从后面偷袭过来!这是埋伏!"
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage06",
-						"text": "You explore the main tunnel of the old mine and decide there is nothing of interest here. \n\nOr is there? \n\nYou realize your mistake when you hear the sneering laughter: A group of cultists have surrounded you!"
+						"text": "你探索了旧矿洞的主矿道觉得并没有什么有价值的东西. \n\n或许我这里有? \n\n当你听到了嘲笑声时,你便意识到中计了: 一群邪教徒围住了你!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral02",
@@ -5498,55 +5498,55 @@
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage02_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage03_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage04_Choice01",
-						"text": "Open fire!"
+						"text": "开火!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage05_Choice01",
-						"text": "Attack immediately"
+						"text": "立即攻击"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage06_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01_Choice02",
-						"text": "Leave this place"
+						"text": "快离开这里"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage02_Choice02",
-						"text": "Get out of here!"
+						"text": "快离开这里!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage03_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage04_Choice02",
-						"text": "Return to the jeep"
+						"text": "回到吉普车上"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage05_Choice02",
-						"text": "Return to the car"
+						"text": "回到车上"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage06_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage01",
-						"text": "Before you stretches an ancient necropolis where the priests of long forgotten gods once buried their dead. \n\nA ghostly silence hangs over the place, but as you begin exploring the mausoleums and burial vaults, you suddenly hear footsteps approaching from all sides! \n\nYou have fallen into an ambush..."
+						"text": "在你想深入一座早已被遗忘的神明的祭祀埋葬死人的古老大墓冢之前. \n\n这里鬼寂般的安静, 但当你开始探索陵墓和墓葬时, 你突然听到四面八方传来的脚步声! \n\n你陷入伏击了..."
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage03",
@@ -5582,51 +5582,51 @@
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage02_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage03_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage04_Choice01",
-						"text": "Ambush cultists"
+						"text": "埋伏的邪教徒"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage05_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage06_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage01_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage02_Choice02",
-						"text": "Go back"
+						"text": "退后"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage03_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage04_Choice02",
-						"text": "Return to the jeep"
+						"text": "回到吉普车上"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage05_Choice02",
-						"text": "Return to the jeep"
+						"text": "回到吉普车上"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage06_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage01",
@@ -5666,51 +5666,51 @@
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage02_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Choice01",
-						"text": "Open fire!"
+						"text": "开火!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage04_Choice01",
-						"text": "Attack!"
+						"text": "攻击!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage05_Choice01",
-						"text": "Ready your weapons"
+						"text": "拿起你们的武器"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage06_Choice01",
-						"text": "Wipe them out!"
+						"text": "干掉他们!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice02",
-						"text": "Get out of here!"
+						"text": "快离开这里!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage02_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Choice02",
-						"text": "Back to the bunker exit"
+						"text": "回到地堡出口"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage04_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage05_Choice02",
-						"text": "Return to the jeep"
+						"text": "回到吉普车上"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage06_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage02",
@@ -5730,11 +5730,11 @@
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice02",
-						"text": "Free the prisoner"
+						"text": "释放囚犯"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice03",
@@ -5742,7 +5742,7 @@
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice04",
-						"text": "Distract cultists"
+						"text": "分散邪教徒的注意力"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice05",
@@ -5798,23 +5798,23 @@
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice02",
-						"text": "Steal chest"
+						"text": "打开箱子"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice03",
-						"text": "Trick cultists"
+						"text": "戏弄一下邪教徒"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice04",
-						"text": "Attack the high priestess"
+						"text": "攻击高阶女祭司"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice05",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_BridgeInvocation01_RobW",
@@ -5890,11 +5890,11 @@
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice01",
-						"text": "Open fire!"
+						"text": "开火!"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice02",
-						"text": "Wait for the ritual to end"
+						"text": "等待仪式结束"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice03",
@@ -5902,7 +5902,7 @@
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice04",
-						"text": "Sneak away"
+						"text": "偷偷溜走"
 					},
 					{
 						"id": "BE_ClayIdolMine01_WaitNoFight",
@@ -5910,11 +5910,11 @@
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice05",
-						"text": "Steal objects"
+						"text": "偷东西"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice06",
-						"text": "Leave the mine"
+						"text": "离开矿井"
 					},
 					{
 						"id": "BE_ClayIdolMine01_WaitAFight",
@@ -5950,11 +5950,11 @@
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice01",
-						"text": "Surprise attack"
+						"text": "偷袭"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice02",
-						"text": "Distract cultists"
+						"text": "分散邪教徒注意力"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice03",
@@ -5962,7 +5962,7 @@
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice04",
-						"text": "Run away"
+						"text": "逃跑"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_DistractF",
@@ -6010,11 +6010,11 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice02",
-						"text": "Steal wooden chest"
+						"text": "打开木箱子"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice03",
@@ -6062,7 +6062,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice05",
-						"text": "Follow the map"
+						"text": "查看地图"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice06",
@@ -6074,7 +6074,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice07",
-						"text": "Explore the hall"
+						"text": "探索大厅"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice08",
@@ -6090,7 +6090,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Aftermath",
-						"text": "As you search the chest, you find a yellowed parchment!"
+						"text": "当你搜索箱子时, 你发现了一张泛黄的羊皮纸!"
 					},
 					{
 						"id": "BE_LostIdol01_Intro",
@@ -6098,11 +6098,11 @@
 					},
 					{
 						"id": "BE_LostIdol01_Choice01",
-						"text": "Charge into battle"
+						"text": "冲锋陷阵"
 					},
 					{
 						"id": "BE_LostIdol01_Choice02",
-						"text": "Sneak closer"
+						"text": "偷偷靠近"
 					},
 					{
 						"id": "BE_LostIdol01_PostFightWounded",
@@ -6126,11 +6126,11 @@
 					},
 					{
 						"id": "BE_LostIdol01_Choice03",
-						"text": "Check the wounded"
+						"text": "检查伤员"
 					},
 					{
 						"id": "BE_LostIdol01_Choice04",
-						"text": "Tend to his wounds"
+						"text": "处理他的伤口"
 					},
 					{
 						"id": "BE_LostIdol01_NoMedic",
@@ -6194,7 +6194,7 @@
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice01",
-						"text": "Seek the secret bunker"
+						"text": "寻找掩体隐蔽"
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice02",
@@ -6206,15 +6206,15 @@
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice03",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice04",
-						"text": "Blow them up"
+						"text": "炸掉它们"
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice05",
-						"text": "Sneak out quietly"
+						"text": "悄悄地潜行"
 					},
 					{
 						"id": "BE_MonsterAssault01_LeaveF",
@@ -7674,15 +7674,15 @@
 					},
 					{
 						"id": "BE_VillageBloodbath01_Choice01",
-						"text": "Look around the immediate vicinity"
+						"text": "环顾四周"
 					},
 					{
 						"id": "BE_VillageBloodbath01_Choice02",
-						"text": "Search the whole village"
+						"text": "搜索整个村庄"
 					},
 					{
 						"id": "BE_VillageBloodbath01_Choice03",
-						"text": "Continue your journey immediately"
+						"text": "马上继续你的旅程"
 					},
 					{
 						"id": "BE_VillageBloodbath01_CautiousW",
@@ -7706,11 +7706,11 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice01",
-						"text": "Attack cultists"
+						"text": "袭击邪教徒"
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice02",
-						"text": "Try to slip into the tent"
+						"text": "尝试溜进帐篷里"
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice03",
@@ -7722,7 +7722,7 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice04",
-						"text": "Steal chest"
+						"text": "打开箱子"
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice05",
@@ -7730,7 +7730,7 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice06",
-						"text": "Open fire on cultists"
+						"text": "向邪教徒开火"
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice07",
@@ -7770,15 +7770,15 @@
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice01",
-						"text": "Ambush cultists"
+						"text": "埋伏的邪教徒"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice02",
-						"text": "Distract the guards"
+						"text": "分散守卫的注意力"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice03",
-						"text": "Return to the surface"
+						"text": "回到地表去"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_DeceptionW",
@@ -7814,7 +7814,7 @@
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice05",
-						"text": "Return to the exit"
+						"text": "回到出口"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Title",
