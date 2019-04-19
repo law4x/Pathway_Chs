@@ -3126,87 +3126,87 @@
 					},
 					{
 						"id": "AE_CarFailure02_Intro",
-						"text": "With no warning, your jeep’s engine starts to sputter and then dies completely. It slowly rolls to a stop in the desert sands."
+						"text": "你吉普车的引擎毫无征兆地啪的一声彻底熄火了, 车子慢下来最后缓缓停在了沙地中."
 					},
 					{
 						"id": "AE_CarFailure02_Standard",
-						"text": "It takes you a while to work out what’s wrong with the jeep. The tank has sprung a leak and is losing gas! \n\nYou manage an improvised repair. After a short delay, you resume your journey."
+						"text": "你花了好长时间才弄明白吉普车哪儿出毛病了. 油箱泄漏正在往外漏油! \n\n你花了点工夫做了些临时的修补, 接着便重又踏上了旅程."
 					},
 					{
 						"id": "AE_CarFailure02_TechnicalW",
-						"text": "[char0] scratches his chin and examines the engine carefully, mumbling to himself. He soon finds and repairs the problem: The engine runs smoothly again as you continue your journey."
+						"text": "[char0]挠了挠下巴, 仔细检查了发动机, 并喃喃自语. 他很快便发现并修好了问题. 发动机又能正常运作了, 而你也重又踏上了旅程."
 					},
 					{
 						"id": "AE_CarFailure02_TechnicalW_female",
-						"text": "[char0] scratches her chin and examines the engine carefully, mumbling to herself. She soon finds and repairs the problem: The engine runs smoothly again as you continue your journey."
+						"text": "[char0]挠了挠下巴, 仔细检查了发动机, 并喃喃自语. 她很快便发现并修好了问题. 发动机又能正常运作了, 而你也重又踏上了旅程."
 					},
 					{
 						"id": "AE_CarFailure02_TechnicalF",
-						"text": "[char0] scratches his chin and examines the engine carefully, mumbling to himself. \n\nIt takes him some time to fix the problem. Time passes painfully slowly, but you are soon able to continue your journey."
+						"text": "[char0]挠了挠下巴, 仔细检查了发动机,并喃喃自语.\n\n他花了点工夫才把问题修理好. 时间过得有点煎熬, 但很快你又能够重新踏上旅途了."
 					},
 					{
 						"id": "AE_CarFailure02_TechnicalF_female",
-						"text": "[char0] scratches her chin and examines the engine carefully, mumbling to herself. \n\nIt takes her some time to fix the problem. Time passes painfully slowly, but you are soon able to continue your journey."
+						"text": "[char0]挠了挠下巴, 仔细检查了发动机,并喃喃自语.\n\n她花了点工夫才把问题修理好. 时间过得有点煎熬, 但很快你又能够重新踏上旅途了."
 					},
 					{
 						"id": "AE_CarFailure03_Intro",
-						"text": "The gravel road you have been following for the past few hours finally peters out. Slowly and laboriously you slog your way through the sand dunes. \n\nSuddenly, your jeep gets stuck in the sand – you gun the engine in vain, kicking up a fountain of sand. You’re stuck!"
+						"text": "开了好几个小时的碎石路终于到头了. 你正吃力地缓缓穿过一片沙丘. \n\n突然, 你的吉普车陷在了沙子里 –- 你试着加大油门, 但也只是徒劳地扬起一片沙尘. 你被死死困住了!"
 					},
 					{
 						"id": "AE_CarFailure03_Standard",
-						"text": "Drenched in sweat, you work tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, you manage to maneuver the jeep to more stable ground. The journey can finally continue.\n\nIt is not until much later that you notice that you lost one of your ammo crates in the sand!"
+						"text": "时间在流逝, 你汗流浃背不知疲倦地把车子从沙子中往外拽. \n\n终于, 你设法将车子拖到了更加平稳的地面上. 你又可以踏上行程了. \n\n然而过了很久你才注意到, 你有一箱弹药掉在了沙子里!"
 					},
 					{
 						"id": "AE_CarFailure03_RawStrengthW",
-						"text": "[char0] jumps out of the car and heaves it, huffing and puffing, out of the dune. You are soon on firmer ground. You can now continue your journey unimpeded."
+						"text": "[char0]跳下车, 气喘吁吁地把车子抬离沙丘. 你很快又回到了更加平稳的路面上. 现在你又能畅通无阻地继续你的行程了."
 					},
 					{
 						"id": "AE_CarFailure03_RawStrengthW_female",
-						"text": "[char0] jumps out of the car and heaves it, huffing and puffing, out of the dune. You are soon on firmer ground. You can now continue your journey unimpeded."
+						"text": "[char0]跳下车, 气喘吁吁地把车子抬离沙丘. 你很快又回到了更加平稳的路面上. 现在你又能畅通无阻地继续你的行程了."
 					},
 					{
 						"id": "AE_CarFailure03_RawStrengthF",
-						"text": "Drenched in sweat, [char0] works tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, he manages to maneuver the jeep to more stable ground. The journey can finally continue."
+						"text": "时间在流逝, [char0]汗流浃背不知疲倦地把车子从沙子中往外拽. \n\n终于, 他设法将车子拖到了更加平稳的地面上. 行程得以继续."
 					},
 					{
 						"id": "AE_CarFailure03_RawStrengthF_female",
-						"text": "Drenched in sweat, [char0] works tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, she manages to maneuver the jeep to more stable ground. The journey can finally continue."
+						"text": "时间在流逝, [char0]汗流浃背不知疲倦地把车子从沙子中往外拽. \n\n终于, 她设法将车子拖到了更加平稳的地面上. 行程得以继续."
 					},
 					{
 						"id": "AE_CarFailure04_Intro",
-						"text": "You are racing along the endless desert track, when suddenly a massive jet of steam and hot water shoots out of the front of your jeep and splashes against your windshield. \n\nYour radiator has boiled over! [CTP] \n\nYou step on the brakes and get out to investigate the damage: Fortunately, the engine is in good working order. You take a forced break and look for the radiator cap in the desert sand as you wait for the engine to cool down. \n\nWith new water in the cooler, you continue your journey."
+						"text": "你正在看不到尽头的沙漠道路上飞驰. 突然间, 一股巨大的蒸汽和热水从你的吉普车前面喷出, 飞溅在你的挡风玻璃上. \n\n你的水箱直接炸开了锅! [CTP] \n\n你一脚踩住刹车, 跳下来检查车子的受损情况: 很幸运, 发动机还在正常运转. 但你不得不停下来休息一会儿, 一边在沙地里找水箱盖, 一边等发动机冷却下来. \n\n往水箱中新加了一些水后, 你继续踏上了行程."
 					},
 					{
 						"id": "AE_CarFailure05_Intro",
-						"text": "You are racing along the gravel track at full speed and enjoying the cool wind on your face when a loud bang breaks the monotonous sound of the engine! \n\nAt first, you think it is a gunshot, but as your jeep starts to skid, you realize: you have a flat tire! [CTP]\n\nWith some difficulty, you bring the car to a halt so you can take a closer look at the damage. \n\nYou’re going to have to change the wheel. You take the opportunity to retighten all the screws on your wheels before restarting your journey."
+						"text": "你正在碎石路上全速飞驰, 享受着迎面吹拂的凉爽清风. 突然, 从发动机乏味的伴奏中你听到"嘭"的一声巨响! \n\n一开始, 你以为是枪声, 然而当车子开始打滑的时候, 你意识到: 是车子爆胎了! [CTP]\n\n你好不容易让车停了下来, 仔细检查车子的损坏部位. \n\n你不得不换掉了一只轮胎. 借这个机会, 你在重新出发前还把轮胎上所有的螺丝都拧紧了一遍."
 					},
 					{
 						"id": "AE_TimeLost01_Intro",
-						"text": "You see a huge cloud of dust slowly moving towards you. Confused, you come to a stop. You soon realize that a large convoy of trucks is heading your way. It must be the Germans! [CTP]\n\nYou hastily take cover in a nearby depression. Hopefully, the surrounding dunes will hide you from the soldiers! The noise of the engines gets louder. \n\nAfter what seems like an eternity, the engine noise slowly fades into the distance and you breathe a sigh of relief: The Germans didn’t spot you!"
+						"text": "你看到一大团扬起的尘土正缓缓地向你移动. 你不解地停了下来. 很快你意识到一大队卡车正朝你开过来. 一定是德国佬们来了! [CTP]\n\n你慌忙在附近的一片洼地躲了起来. 希望周围的沙丘能把你隐藏起来不被士兵们发现! 发动机的轰鸣声越来越大. \n\感觉像是过了几个世纪, 终于引擎的噪音缓缓消失在远方. 你也长舒了一口气: 德国人没用发现你!"
 					},
 					{
 						"id": "AE_TimeLost02_Intro",
-						"text": "Over the next dune, you stumble across a dried out riverbed that runs right across your path. Its rocky edges drop so abruptly that a crossing is out of the question. \n\nAnnoyed, you drive along the steep wadi until you finally find a flatter slope that allows you to cross."
+						"text": "翻过下一个沙丘, 不巧一条干枯的河床拦住了你的去路. 坚硬的河岸陡然下降使得你根本没办法直接穿过去. \n\n你愤愤地沿着这条陡峭的干河开了好久, 才终于找到一个缓坡让你通过."
 					},
 					{
 						"id": "AE_TimeLost03_Intro",
-						"text": "Before you lies an eerie moonscape: the banks of a salt lake. You step out carefully onto the salt crystals, but the ground creaks and crackles alarmingly under your boots. \n\nIt’s no use: you will have to drive around the salt lake!"
+						"text": "一个盐湖拦在了你面前, 湖岸边像怪异的月球表面一样坑坑洼洼. 你小心翼翼地踩在盐结晶上, 然而脚下发出的嘎吱嘎吱的声响以及地面上的裂缝无时不在向你发出警告: \n\n没用的, 你只能开车绕开这个盐湖!"
 					},
 					{
 						"id": "AE_TimeLost04_Intro",
-						"text": "You are making excellent progress and morale is high. A realization suddenly hits you: didn’t you drive past those palm trees a while back? \n\nYes! Those are your tire tracks! You’ve been driving in circles!"
+						"text": "你感觉一路通畅, 并且士气高涨. 然而现实突然给你当头一棒: 你之前不是有路过那片棕榈树吗? \n\n没错! 你还看到了你自己的轮胎印子! 你一直在转圈圈!"
 					},
 					{
 						"id": "AE_TimeLost05_Intro",
-						"text": "You have driven into rockier terrain. The stones around you are getting bigger and sharper. \n\nYou look for an alternative route, but eventually you have to admit that you won’t get any further in this scree. You have to turn back and find a way around the rocky landscape!"
+						"text": "你驶进了一片崎岖的地形. 路上的石子体积越来越大, 也越来越锋利. \n\n你想就近找一条替代路线, 但最终你不得不承认, 你在这堆碎石中找不到任何出路. 你只能原路返回再想办法绕过这片岩石景区!"
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Intro",
-						"text": "Not far away, you see vultures circling in the sky. In the desert, that could mean all kinds of things, so you decide to investigate. You climb to the top of a dune to get a good view: You see the remains of a German soldier. [CTP]\n\nYou search through what little the vultures have left behind. The man has been dead for some time. He probably died of thirst. You find a courier bag on his belt. \n\nWhen you open it, a folded map falls out onto the hot desert sand. You examine the map – somebody has marked a cross not far from your position. [CTP]\n\nYou bury the man’s remains to protect them from the vultures and move on."
+						"text": "不远处, 你看到秃鹰在天空中盘旋.  在沙漠中, 这可能意味着各种各样的事情, 于是你决定调查一番.  你爬到沙丘的顶部以获得一个好的视野: 你发现一具德国士兵的遗体. [CTP]\n\n你搜索了一下秃鹰遗留下来的东西. 这个男人已经死了有一段时间了. 他可能是被活活渴死的. 你发现他腰上挂了个手提包. \n\n当你打开包的时候, 一张折叠的地图掉到了滚烫的沙地上. 你检查了地图 – 有人在离你不远的位置标了个叉. [CTP]\n\n你把男人埋了, 以免他成为秃鹰的晚餐, 接着便又踏上了旅途."
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Choice01",
-						"text": "Drive to the spot"
+						"text": "开车到标记的地点"
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Choice02",
@@ -3214,119 +3214,119 @@
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Stash",
-						"text": "Hidden between some palms you find a German army crate. When you break it open, you’re not sure what to make of the contents: Hundreds of small white pills, neatly packaged in convenient, unlabeled cardboard boxes. [CTP]\n\nApparently, you've come across some Wehrmacht pharmaceutical supplies, but there's no sign of an instruction manual or anything that might give you a clue to its strange contents."
+						"text": "你在棕榈树间找到了一个隐藏的德国军队的箱子. 当你打开的时候, 你不确定该如何处置里面的物品: 数以百计的白色小药丸, 被人用干净轻便的纸箱打包在一起, 但是纸箱上没任何标签. [CTP]\n\n很明显, 你捡到了一些军用医药补给, 但是你找不到任何说明书, 也没发现任何能提示箱子里面装的奇怪物品是什么的线索."
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Choice03",
-						"text": "Try the pills"
+						"text": "试吃药丸"
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Question",
-						"text": "Who will try?"
+						"text": "谁来试吃?"
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Good",
-						"text": "It doesn’t take long for the effects to kick in. [char0] seems restless, his movements are jerky:\n\n[char0]: \"What are you waiting for? Come on, we have things to do!\""
+						"text": "很快药物就起作用了. [char0]似乎特别精神, 举止也变得有点亢奋:\n\n[char0]: \"你们还在等什么? 来呀, 我们有活儿要干了!\""
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Good_female",
-						"text": "It doesn’t take long for the effects to kick in. [char0] seems restless, her movements are jerky:\n\n[char0]: \"What are you waiting for? Come on, we have things to do!\""
+						"text": "很快药物就起作用了. [char0]似乎特别精神, 举止也变得有点亢奋:\n\n[char0]: \"你们还在等什么? 来呀, 我们有活儿要干了!\\""
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Bad",
-						"text": "A few minutes later, [char0] doubles over and groans in agony. Cold sweat stands out on his forehead and his hands are shaking.\n\n[char0]: \"That was a pretty stupid idea ...\""
+						"text": "几分钟后, [char0]弓着腰开始痛苦地呻吟. 他的额头不断冒冷汗, 手也止不住颤抖.\n\n[char0]: \"我TM信了你们的邪...\""
 					},
 					{
 						"id": "GE_DeadNaziCourier01_Bad_female",
-						"text": "A few minutes later, [char0] doubles over and groans in agony. Cold sweat stands out on her forehead and her hands are shaking.\n\n[char0]: \"That was a pretty stupid idea ...\""
+						"text": "几分钟后, [char0]弓着腰开始痛苦地呻吟. 她的额头不断冒冷汗, 手也止不住颤抖.\n\n[char0]: \"我TM信了你们的邪...\""
 					},
 					{
 						"id": "GE_OrientalTinkerer01_Intro",
-						"text": "The small village seems deserted, but then you hear muffled hammering. You follow the sound and come to a small workshop. Its owner, a tinker, is so absorbed in his work that he only notices you when you are standing in front of him. [CTP]\n\nYou enter into conversation and the man invites you to a simple meal. When his gaze falls on your worn clothes, he tuts reproachfully and insists on mending them. You enjoy your host’s date cakes and mint tea and swap travelers’ tales while the tinker fixes your clothes and equipment. [CTP]\n\nBy the time you take your leave, your clothes are as good as new. You thank him profusely, but the tinker gestures modestly."
+						"text": "这个小村庄看起来好像没人居住, 但过了一会儿你隐约听到了一阵锤子的敲击声. 你循着声音来到了一个小作坊. 作坊的主人是个修理匠, 他正醉心于他的工作, 你走到他跟前他才注意到你. [CTP]\n\n你和他聊了聊, 他简单地请你吃了顿饭. 当他的目光凝视到你穿旧的衣服上时, 他带点责备地咂了咂嘴并坚持要帮你修补. 他帮你修理衣服和装备的时候, 你一边享用他招待你的蛋糕和薄荷茶, 一边侃侃而谈旅途上的奇闻轶事.  [CTP]\n\n等到你要离开的时候, 你的衣服已经焕然一新. 你一再地感谢他, 而他只是谦虚地摆摆手."
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadv01_A_Intro",
-						"text": "You discover telltale footprints in the shadow of the temple. \n\nYou hear a noise and spin around to find half a dozen rifles pointed at you! You have fallen into an ambush!"
+						"text": "你在神庙的暗处发现了暴露敌人行踪的脚印. \n\n你听到一些声响, 回身发现五六个人拿枪指着你. 你中了敌人的圈套!"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadv01_B_Intro",
-						"text": "You come across the outer buildings of an ancient temple complex. The place seems deserted, but is it really?[CTP]\n\nAs if in response to your unspoken question, you hear a rustle behind you. You spin around to find a detachment of soldiers pointing their rifles at you! It’s an ambush!"
+						"text": "你无意间来到了一座神庙的外层建筑群. 这地方看上去没人. 但真的是这样吗?[CTP]\n\n就好像回应你内心的疑虑一般, 你听到身后有沙沙的响声. 回身看到一个小分队的士兵端枪指着你. 这是一个圈套!"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadv01_C_Intro",
-						"text": "The remote temple among the dunes seems deserted, but can you trust its apparent tranquility? [CTP]\n\nSoldiers appear from behind the walls with weapons drawn. It’s a German ambush!"
+						"text": "远处沙丘间的庙宇看上去空无一人, 但你能信得过它表面上的平静吗? [CTP]\n\n持枪的士兵从墙后面冒了出来. 这是德国人的圈套!"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadv01_D_Intro",
-						"text": "The desert wind whistles gently around the walls of an abandoned desert temple. But wait... what’s that? Rapid movement along the edge of the wall?[CTP]\n\nYou're still trying to work out what’s happening when you hear the sound of jackboots behind you. To your horror you realize - you have walked into a German ambush!"
+						"text": "一座废弃的沙漠神殿边上, 风儿围着墙壁在呼呼地打转. 但是等一下... 有什么正沿着墙壁边缘飞速移动. 那是个啥? [CTP]\n\n你还在想着到底发生了什么, 身后突然响起长统靴的脚步声. 你惊恐地意识到 - 你被德国人埋伏了!"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadv01_E_Intro",
-						"text": "From a distance, you spot the deserted temple complex among the dunes. In the sand, you notice numerous footprints, but not a human soul to be seen. Hoping to find more clues, you start to investigate the temple.[CTP]\n\nWhen soldiers appear around you with weapons drawn, you realize that you have been ambushed!"
+						"text": "远远地, 你发现沙丘间有一座废弃的庙宇群. 你在沙地里发现了数不清的脚印, 但却没看到一个人影. 你开始调查神庙, 希望能找到更多线索. [CTP]\n\n直到一群持枪士兵突然出现把你围住, 你才意识到你被埋伏了!"
 					},
 					{
 						"id": "BE_GenericNaziTempleDisadv01_F_Intro",
-						"text": "The silhouette of an abandoned temple appears between the dunes. Mighty pillars tower before you. What secrets are hidden here? [CTP]\n\nSuddenly, a shot shatters the silence! You dive for cover and peer around: You have walked into a German ambush!"
+						"text": "沙丘间显现出一座废弃神庙的剪影. 宏伟的石柱在你前方耸立. 这里面埋藏了什么样的秘密呢? [CTP]\n\n突然, 一声枪响打破了沉寂. 你低身寻找掩体并瞄向四周: 你被一群德国人埋伏了!"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_A_Intro",
-						"text": "The large detachment of soldiers in the ruins ahead of you are completely unaware of your approach – an attack is the last thing they expect!"
+						"text": "前方遗迹里的一队士兵完全没有注意到你的接近 – 他们根本没料到可能有人会攻击他们!"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_B_Intro",
-						"text": "Up ahead of you, a large group of soldiers are camping within the walls of an ancient temple. They have not seen you yet!"
+						"text": "一大群德国士兵驻扎在前方一座古老神庙的围墙内. 他们还没有看到你!"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_C_Intro",
-						"text": "You come across a large detachment of German soldiers resting at a temple – they have not seen you!"
+						"text": "你遇到一大队德国士兵在一座神庙里休息 – 他们还没有看到你!"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_D_Intro",
-						"text": "From afar, you hear orders echoing in the desert air. You cautiously sneak closer and discover a large detachment of soldiers searching a temple."
+						"text": "远远地, 你听到沙漠里回荡着发号施令的声音. 你谨慎地悄悄靠近, 发现一大队士兵在搜索一座神庙."
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_E_Intro",
-						"text": "The large detachment of soldiers in the temple have forgotten to set up sentries - what amateurs!"
+						"text": "神庙里的大队士兵居然忘了留个人放哨 - 都是新手啊!"
 					},
 					{
 						"id": "BE_GenericNaziTempleAdvant01_F_Intro",
-						"text": "As you cautiously sneak up on the temple, you spot a large group of soldiers relaxing in the temple grounds. They are completely unaware of you."
+						"text": "当你小心翼翼地偷偷摸进神庙的时候, 你看到有一大群士兵坐在神庙地板上休息. 他们完全没有注意到你. "
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_A_Intro",
-						"text": "As you walk around the walls of the temple complex, you are spotted by an enemy sentry who sounds the alarm! You have startled a unit of German soldiers who were resting here!"
+						"text": "当你在一座庙宇群的墙壁周围行走的时候. 一个敌方哨兵发现了你并拉响了警报. 你惊扰了在这里休息的一队德国士兵!"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_B_Intro",
-						"text": "Right ahead of you, a detachment of German soldiers are at work on a temple! They spot you immediately and dash for cover! Moments later, you must fight for your lives!"
+						"text": "就在你的正前方, 一队德国士兵正在一座神庙中作业! 他们立刻发现了你并冲向掩体! 片刻过后, 你不得不为你的生命而战!"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_C_Intro",
-						"text": "You hear a shout and see a group of soldiers who have been resting in the shadow of a temple. You rush for cover - and the battle begins!"
+						"text": "你听到一声大叫, 并且看到了一群在神庙阴凉处休息的士兵. 你冲向掩体 - 战斗开始了!"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_D_Intro",
-						"text": "You don’t see the soldiers resting by the temple until you are almost on top of them – they are as surprised as you are! They jump up in alarm and start shooting wildly in all directions!"
+						"text": "你根本没注意到有一群士兵在神庙边休息, 直到你几乎走到了他们的头顶上方 – 而他们也和你一样惊讶! 他们惊慌地跳了起来并且开始朝四面八方疯狂射击!"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_E_Intro",
-						"text": "You spot a group of soldiers by the temple ahead of you. They have not noticed you yet, so you throw yourselves to the ground.[CTP] \n\nYou suddenly hear a shrill whistle: The guards have spotted you! The soldiers grab their weapons as you scramble for cover!"
+						"text": "你发现前方神庙里有一群士兵. 他们不没有注意到你. 于是你跳到了地面上.[CTP] \n\n你突然听到一声刺耳的哨音: 守卫已经看到你了! 士兵们抓起了枪, 而你也连滚带爬地躲进了掩体!"
 					},
 					{
 						"id": "BE_GenericNaziTempleNeutral01_F_Intro",
-						"text": "As you approach the temple ahead of you, a lone sentry suddenly steps into sight from behind a wall. He spots you immediately and alerts his comrades! You rush for cover before opening fire."
+						"text": "当你接近前方一座神庙的时候, 一个独自巡逻的哨兵突然从一面墙后冒了出来. 他立马发现了你并向同伴发出了警报! 你在交火前冲进了掩体."
 					},
 					{
 						"id": "ME_GenericVillage01_Choice01",
-						"text": "Trade"
+						"text": "交易"
 					},
 					{
 						"id": "ME_GenericVillage01_Choice02",
@@ -3334,27 +3334,27 @@
 					},
 					{
 						"id": "ME_GenericVillage01_A_Intro",
-						"text": "The village ahead of you is inhabited. You hear the bleating of goats and children’s laughter as you approach. The village merchant beckons you over to his stall."
+						"text": "前方的村庄有人居住. 当你走近时你听到了山羊的咩咩声和孩子们的欢笑声. 村里的商贩向你招手, 你来到了他的摊位前."
 					},
 					{
 						"id": "ME_GenericVillage01_B_Intro",
-						"text": "In a desert village, you meet a merchant who beckons to you politely."
+						"text": "在一个沙漠村庄里, 你遇到一个商贩在礼貌地向你招手."
 					},
 					{
 						"id": "ME_GenericVillage01_C_Intro",
-						"text": "In the shade of some huts, you meet a traveling merchant who has set up a modest stall in this village."
+						"text": "在一些小屋的阴凉处, 你遇到了一位旅行商人. 他在这个村里摆了个不错的摊子."
 					},
 					{
 						"id": "ME_GenericVillage01_D_Intro",
-						"text": "The village is in a state of great excitement due to the arrival of a traveling merchant. The merchant waves you over and spreads his wares out in front of you."
+						"text": "村里因为来了个旅行商人全村上下都很激动. 商人挥手把你招到摊位前并摊开了他的货物."
 					},
 					{
 						"id": "ME_GenericVillage01_E_Intro",
-						"text": "The villagers welcome you as a rare and welcome diversion. They proudly lead you to the village chief, who also owns the only shop in the settlement."
+						"text": "村民们很高兴在日复一日的劳作之余能见到你这么一位稀罕的外乡客. 热烈欢迎之余, 他们很自豪地把你引荐到村长那里. 村长家也是这个小小村落中唯一商铺所在地."
 					},
 					{
 						"id": "RE_GenericRuins01_Choice01",
-						"text": "Rest up"
+						"text": "休息"
 					},
 					{
 						"id": "RE_GenericRuins01_Choice02",
@@ -3362,327 +3362,327 @@
 					},
 					{
 						"id": "RE_GenericRuins01_A_Intro",
-						"text": "The village ahead of you appears to be deserted. The wind blows quietly through the ruins. As you approach, you can see that the well has not dried up yet. You can rest up here."
+						"text": "你面前的村落看起来已经被废弃, 风在废墟间悄然吹过. 当你走到跟前时, 你看到水井还没有完全干枯. 你可以在这里休息."
 					},
 					{
 						"id": "RE_GenericRuins01_A_Rest",
-						"text": "You pitch an improvised camp and start fixing your equipment. After a short nap, you wake up reinvigorated. You gather up your few belongings and set off again."
+						"text": "你搭了个临时拼凑起来的营地并且开始修理你的装备. 小睡一会儿之后, 你再度感觉神清气爽. 收起为数不多的随身物品你又出发了."
 					},
 					{
 						"id": "RE_GenericRuins01_B_Intro",
-						"text": "In a deserted village, you find a watering post. A short break could do you good..."
+						"text": "在一个废弃的村庄里你发现了一个饮水池. 稍微休息下应该对你有好处..."
 					},
 					{
 						"id": "RE_GenericRuins01_B_Rest",
-						"text": "You set up camp in the shade, tend to your wounds and fix your equipment. \n\nYou soon have coffee simmering over the campfire and your spirits improve. With morale restored, you continue your journey."
+						"text": "你在阴凉处搭起一个帐篷, 包扎伤口, 修理装备. \n\n很快你用篝火炖好了咖啡, 精神也有所改善. 恢复士气后, 你继续踏上了旅程."
 					},
 					{
 						"id": "RE_GenericRuins01_C_Intro",
-						"text": "An old well stands in the shade of some ruins. You examine it and discover, to your astonishment, that it still holds water. Do you want to set up camp here?"
+						"text": "废墟的阴凉处有一口古老的水井. 你检查了一下. 震惊地发现井里还有水. 你想要在这里扎营吗?"
 					},
 					{
 						"id": "RE_GenericRuins01_C_Rest",
-						"text": "You use the break to stretch your legs and tend to your cuts and bruises. Then you take care of your equipment. Finally, you set off again reinvigorated."
+						"text": "你在休息时伸展了下四肢并料理了下伤口. 然后你保养了下你的装备. 最终, 你又充满活力地踏上了旅途."
 					},
 					{
 						"id": "RE_GenericRuins01_D_Intro",
-						"text": "The desert sands are gradually reclaiming this village. The herdsmen who lived here have long since departed. Only the village well defies the desert and refuses to dry out. What a stroke of luck! You could take a break here."
+						"text": "这个村庄已经快被沙子掩埋. 住在这里的牧民早已离开. 只有村里的水井还在与沙漠对抗, 拒绝干枯. 真是万幸! 你可以在这里休息一番."
 					},
 					{
 						"id": "RE_GenericRuins01_D_Rest",
-						"text": "You spend a long break treating your wounds, repairing your equipment and greasing your weapons. Rested and in good spirits, you pack your things to leave the oasis."
+						"text": "你花了很长时间处理伤口修理装备以及给你的武器上油. 一番休息之后你重打起精神. 收拾行装准备离开这片绿洲."
 					},
 					{
 						"id": "RE_GenericRuins01_E_Intro",
-						"text": "The village is ruined and long abandoned, but its well has not yet silted up. Some rest and refreshment might be good right now."
+						"text": "这个村落已沦为废墟并被人长久遗弃. 但水井还没有淤塞. 在这里休整一番应该是个不错的主意."
 					},
 					{
 						"id": "RE_GenericRuins01_E_Rest",
-						"text": "You use the break to care for your wounds and fix your equipment. A simple meal completes your stay. Your strength restored, you continue your journey."
+						"text": "你借着休息料理了下伤口并修理了下装备. 最后简单吃了点东西. 力量又充足后, 你又开始了你的旅程. "
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_A_Intro",
-						"text": "Between some palms you come across an abandoned nomad camp. You search the faded bundles for anything useful."
+						"text": "在几棵棕榈树之间你发现了一座废弃的游牧民营地. 你在褪色的帆布里搜寻有没有什么有用的东西. "
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_B_Intro",
-						"text": "In the shadow of some gnarled bushes you discover the remnants of an old campsite. The nomads who rested here moved on long ago. Why did they leave so suddenly? You scour the camp in search of answers."
+						"text": "在一些粗糙灌木的阴处您发现一座营地旧址.  在这里休息过的游牧民很久以前就离开了. 他们为什么走的这么突然? 你在营地四处寻找着答案."
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_C_Intro",
-						"text": "The herdsmen who camped in this wasteland moved on long ago. You search through the remains of their camp with few expectations."
+						"text": "曾在这片不毛之地扎营的游牧民很久前就搬走了. 虽然不抱什么期望, 你还是仔细搜索了他们营地的旧址."
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_D_Intro",
-						"text": "You stumble across a recently abandoned nomad camp. You search what little the wind, the sun and the desert animals have left behind."
+						"text": "你无意间发现了一座最近才被遗弃的游牧民营地. 你搜索了营地, 想看看这里在经受风吹日晒和被各种小动物们光顾后还有没有剩点什么."
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_E_Intro",
-						"text": "The camp among the palms was abandoned very recently. You take a look around, but you don’t see a single person. What happened here? Puzzled, you search the camp."
+						"text": "棕榈间的营地是最近才被遗弃的. 你四处打量但没有看到一个人影. 这里发生了什么? 带着疑惑, 你搜索了这座营地."
 					},
 					{
 						"id": "LE_GenericNaziCamp01_A_Intro",
-						"text": "Behind some brushwood, you discover an abandoned Wehrmacht camp. You look around carefully, but there is no trace of the garrison. Shrugging, you search the supplies the Germans left behind."
+						"text": "在一片草丛后面, 你发现了一座废弃的德军国防军营地. 你仔细检查四周, 但没有任何有人驻守的迹象. 你耸了耸肩, 开始搜索德国人有没有落下什么物资."
 					},
 					{
 						"id": "LE_GenericNaziCamp01_B_Intro",
-						"text": "Soldiers were camped here some time ago, but now a layer of desert sand lies over the abandoned camp. Were the soldiers surprised by a sandstorm? You search the crates for anything valuable."
+						"text": "不久前这儿曾有士兵驻扎过, 然而现在这些废弃的帐篷上已经盖上了一层沙土. 士兵们是否遭遇了一场意外的沙尘暴? 你翻箱倒柜搜索任何有价值的东西."
 					},
 					{
 						"id": "LE_GenericNaziCamp01_C_Intro",
-						"text": "You come across an abandoned German camp. It’s garrison must have left in a hurry, because everyday utensils are still lying around. You search it carefully."
+						"text": "你发现一座废弃的德军营地. 从生活用品还散落一地推断, 驻扎在这里的人一定是在匆忙中离开的. 你仔细搜索了番."
 					},
 					{
 						"id": "LE_GenericNaziCamp01_D_Intro",
-						"text": "You spot the abandoned camp from a distance. A few scouts rested here, but they must have moved on days ago. You search the place quickly to see if they left anything of value."
+						"text": "你远远看到一座废弃的营地. 几个侦查兵在这里休息过, 但几天前他们就离开了. 你快速搜索了这个地方, 看看他们有没有留下什么有价值的东西."
 					},
 					{
 						"id": "LE_GenericNaziCamp01_E_Intro",
-						"text": "The abandoned camp looks like a single German soldier rested here. What became of him? Shrugging, you search his crates."
+						"text": "这座废弃的营地看起来像是有个落单的德国兵呆过. 他后来怎么样了? 你耸了耸肩, 搜索他的箱子."
 					},
 					{
 						"id": "SE_Adventure01Clue02_Intro",
-						"text": "As you approach, a monotonous chanting rises from the inner courtyard of the temple ruin. As you peer cautiously around the walls, you come across an unreal scene: several half-naked men are gathered in a semicircle around a copper idol. [CTP]\n\nAs one of them approaches the idol with a serrated dagger in his hands, the other cultists are overcome by an ecstatic frenzy. At the feet of the statue, you see a veiled woman crouching in the desert sand. She is breathing heavily, as if in a trance."
+						"text": "当你靠近神庙废墟时, 你听到一阵诵经般的吟唱从内院升起. 当你小心翼翼地环顾墙内的时候, 你眼前出现一幅不太真实的光景: 几个半裸的男人在一座铜像边上围了个半圆. [CTP]\n\n当他们其中一个人拿着一把带锯齿的匕首走近铜像的时候, 其他邪教徒都进入了一种兴奋癫狂的状态. 在铜像脚边, 你看到一个蒙着脸的女人蜷缩在沙地上. 她呼吸沉重, 看起来神情恍惚."
 					},
 					{
 						"id": "SE_Adventure01Clue02_Choice01",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "SE_Adventure01Clue02_Choice02",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "SE_Adventure01Clue02_Choice03",
-						"text": "Disrupt ritual"
+						"text": "扰乱仪式"
 					},
 					{
 						"id": "SE_Adventure01Clue02_WithdrawF",
-						"text": "You sneak away as quietly as you arrived. In his excitement, [char0] bumps into some amphorae that crash to the ground. The cultists immediately stop their ritual and turn towards the source of the noise. You have been discovered!"
+						"text": "你准备轻轻地溜走, 正如你轻轻地来, 然而[char0]由于太激动碰倒了一个土罐, 罐子摔碎在地上. 邪教徒们立马停下仪式转向声音的源头. 你被发现了!"
 					},
 					{
 						"id": "SE_Adventure01Clue02_WithdrawF_female",
-						"text": "You sneak away as quietly as you arrived. In her excitement, [char0] bumps into some amphorae that crash to the ground. The cultists immediately stop their ritual and turn towards the source of the noise. You have been discovered!"
+						"text": "你准备轻轻地溜走, 正如你轻轻地来, 然而[char0]由于太激动碰倒了一个土罐, 罐子摔碎在地上. 邪教徒们立马停下仪式转向声音的源头. 你被发现了!"
 					},
 					{
 						"id": "SE_Adventure01Clue02_Attack",
-						"text": "As you attack, the cultist stabs the dagger into his hand. The moment his blood seeps into the desert sand, all hell breaks loose: Bizarre, incredible beings appear from nowhere and attack you immediately!"
+						"text": "当你发动攻击的时候, 邪教徒将他的匕首刺向自己的手臂. 当他的血渗入沙土的那一瞬间, 风云突变. 奇怪而不可思议的生物凭空出现并立马攻击了你!"
 					},
 					{
 						"id": "SE_Adventure01Clue02_MedicalF",
-						"text": "After defeating the cultists and their unholy allies, you take a look around. You look to the woman's lifeless body. Unfortunately, she is beyond help. \n\nIn the twisted hands of one of the cultists, you find a strange copper figurine [CTP]. \n\nThe grotesque likeness of a pharaoh with a face of pitch-black onyx gives off a strange and disturbing aura.\n\nYou cannot bring yourself to take the monstrosity with you, so you throw it as far as you can into the desert sand."
+						"text": "打败邪教徒和他们的邪恶盟友后, 你环顾四周. 你看向女人毫无生气的遗体. 很不幸她已经没救了. \n\n你发现一个邪教徒手中紧紧抓着一个铜塑像. [CTP] \n\n这个雕得像法老一样的怪异物件脸部由黑玛瑙制成, 散发着一种奇怪而令人不安的气息. \n\n你可不想带这么一个可怕的东西在身上, 于是你把它扔进了沙子里, 有多远丢多远. "
 					},
 					{
 						"id": "SE_Adventure01Clue02_MedicalW",
-						"text": "After defeating the cultists and their unholy allies, you take a look around. Your gaze falls on the woman lying on the ground. She beckons to you weakly. [char1] quickly fumbles in his pockets and finds a bottle of smelling salts, which quickly return the woman to full consciousness. [CTP]\n\n[char2]: \"Thank you for freeing me from the clutches of the Khonesh Brotherhood. Do not let them carry out their unholy plans!\""
+						"text": "打败邪教徒和他们的邪恶盟友后, 你环顾四周. 你的目光落到了躺在地上的女人身上. 她虚弱地向你招手. [char1]迅速从包里翻出一瓶嗅盐给女人闻了闻让她很快恢复了神志. [CTP]\n\n[char2]: \"感谢你们把我从Khonesh兄弟会的魔爪中救了出来. 你们一定要阻止他们邪恶的计划!\""
 					},
 					{
 						"id": "SE_Adventure01Clue02_MedicalW_female",
-						"text": "After defeating the cultists and their unholy allies, you take a look around. Your gaze falls on the woman lying on the ground. She beckons to you weakly. [char1] quickly fumbles in her pockets and finds a bottle of smelling salts, which quickly return the woman to full consciousness. [CTP]\n\n[char2]: \"Thank you for freeing me from the clutches of the Khonesh Brotherhood. Do not let them carry out their unholy plans!\""
+						"text": "打败邪教徒和他们的邪恶盟友后, 你环顾四周. 你的目光落到了躺在地上的女人身上. 她虚弱地向你招手. [char1]迅速从包里翻出一瓶嗅盐给女人闻了闻让她很快恢复了神志. [CTP]\n\n[char2]: \"感谢你们把我从Khonesh兄弟会的魔爪中救了出来. 你们一定要阻止他们邪恶的计划!\""
 					},
 					{
 						"id": "SE_Adventure01Clue02_MedicalW02",
-						"text": "With these words, the woman turns and disappears without a word into the endless desert, ignoring your confused questions. \n\nYou search the cultists. One of them holds a strange, copper figurine in his lifeless hands. [CTP]\n\nThe grotesque likeness of a pharaoh with a face of pitch-black onyx gives off a strange and disturbing aura.\n\nYou cannot bring yourself to take the monstrosity with you, so you throw it as far as you can into the desert sand."
+						"text": "留下这些话, 女人便无视你的种种疑问, 转身默默消失在了无尽的沙漠中. \n\n你检查了邪教徒, 其中一个死去的邪教徒手中抓着一个奇怪的铜塑像.[CTP]\n\n这个雕得像法老一样的怪异物件脸部由黑玛瑙制成, 散发着一种奇怪而令人不安的气息. \n\n你可不想带这么一个可怕的东西在身上, 于是你把它扔进了沙子里, 有多远丢多远. "
 					},
 					{
 						"id": "SE_Adventure01Clue02_OccultF",
-						"text": "With a loud shriek, [char3] jumps up and charges at the cultist. A desperate melee ensues, but the fanatic retains the upper hand. He hastily stabs his hand with the dagger. \n\nThe moment his blood seeps into the desert sand, all hell breaks loose: Bizarre, incredible beings appear from nowhere and attack you immediately!"
+						"text": "[char3]大叫一声, 跳起来攻向邪教徒. 一场混战随即爆发. 然而狂热的教徒把控了先机, 他赶忙将匕首刺向自己的手臂.\n\n当他的血渗入沙土的那一瞬间, 风云突变. 奇怪而不可思议的生物凭空出现并立马攻击了你!"
 					},
 					{
 						"id": "SE_Adventure01Clue02_OccultF_female",
-						"text": "With a loud shriek, [char3] jumps up and charges at the cultist. A desperate melee ensues, but the fanatic retains the upper hand. He hastily stabs his hand with the dagger. \n\nThe moment his blood seeps into the desert sand, all hell breaks loose: Bizarre, incredible beings appear from nowhere and attack you immediately!"
+						"text": "[char3]大叫一声, 跳起来攻向邪教徒. 一场混战即将爆发. 然而狂热的教徒把控了先机, 他赶忙将匕首刺向自己的手臂.\n\n当他的血渗入沙土的那一瞬间, 风云突变. 奇怪而不可思议的生物凭空出现并立马攻击了你!"
 					},
 					{
 						"id": "SE_Adventure01Clue02_OccultW",
-						"text": "With a loud shriek, [char3] jumps up and charges at the cultist. A desperate melee ensues and [char3] manages to wrest the dagger away from the surprised fanatic before anyone can react. Howling with rage, the cultists hurl themselves at you!"
+						"text": "[char3]大叫一声, 跳起来攻向邪教徒. 一场混战随即爆发. 没等任何人反应过来, [char3]从受惊的邪教徒手中一把夺下了匕首. 所有教徒们怒吼着朝你冲了过来!"
 					},
 					{
 						"id": "SE_Adventure01Clue02_OccultW_female",
-						"text": "With a loud shriek, [char3] jumps up and charges at the cultist. A desperate melee ensues and [char3] manages to wrest the dagger away from the surprised fanatic before anyone can react. Howling with rage, the cultists hurl themselves at you!"
+						"text": "[char3]大叫一声, 跳起来攻向邪教徒. 一场混战随即爆发. 没等任何人反应过来, [char3]从受惊的邪教徒手中一把夺下了匕首. 所有教徒们怒吼着朝你冲了过来!"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Intro",
-						"text": "The desert camp ahead of you is stacked with crates and fuel containers. You also see some trucks and jeeps nearby. There’s no doubt about it: you have found an important German army supply dump! [CTP]\n\nThere is minimal activity in the camp - it's quite possible that you could reach the supplies unseen."
+						"text": "前方的沙漠营地里堆满了箱子和燃料桶. 你还看到附近停着卡车和吉普. 毫无疑问: 你发现了一处重要的德军军用补给储存点! [CTP]\n\n帐篷里几乎看不到有人活动 - 很有可能你能够神不知鬼不觉地摸到补给边上."
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Choice03",
-						"text": "Sneak up to the fuel dump"
+						"text": "摸到燃料储存点边上"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Choice04",
-						"text": "Search enemy fuel dump"
+						"text": "搜刮敌人的燃料储存点"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_StealthW",
-						"text": "[char1] moves forward carefully, using whatever cover he can find. He soon reaches the supply dump – but as he is about to search it, he hears voices and footsteps approaching! \n\n[char1] grabs the nearest crate and dives for cover. He's lucky: the soldiers did not see him – he gets away with it!"
+						"text": "[char1]小心翼翼地前进, 用尽他能找到的一切作掩护. 他很快到达了补给储存点的位置 – 然而正当他准备搜刮的时候, 他听到了有谈话声和脚步声在接近! \n\n[char1]抓起离他最近的箱子躲进了掩体. 他很幸运: 士兵们没有看见他 – 他带着箱子溜了出来!"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_StealthW_female",
-						"text": "[char1] moves forward carefully, using whatever cover she can find. She soon reaches the supply dump – but as she is about to search it, she hears voices and footsteps approaching! \n\n[char1] grabs the nearest crate and dives for cover. She's lucky: the soldiers did not see her – she gets away with it!"
+						"text": "[char1]小心翼翼地前进, 用尽她能找到的一切作掩护. 她很快到达了补给储存点的位置 – 然而正当她准备搜刮的时候, 她听到了有谈话声和脚步声在接近! \n\n[char1]抓起离她最近的箱子躲进了掩体. 她很幸运: 士兵们没有看见她 – 她带着箱子溜了出来!"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_StealthF",
-						"text": "You move forward carefully, using whatever cover you can find. You soon reach the supply dump – but as you are about to search it, you hear somebody clear their throat behind you. \n\nYou turn around in dismay: You have been discovered by the camp garrison!"
+						"text": "你小心翼翼地前进, 用尽你能找到的一切作掩护. 你很快到达了补给储存点的位置 – 然而正当你准备搜刮的时候, 你听到有人在你身后清了清嗓子. \n\n你沮丧地回过身: 你被营地的守卫们发现了!"
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Daredevil",
-						"text": "Before anyone can react, [char0] plunges his hand into the supply crate next to him and pulls out a hand grenade. \n\n[char0]: \"I wonder what would happen to this fuel dump, if I got... careless...\" [CTP] \n\nThe soldiers flinch as [char0] casually tosses the grenade from one hand to the other."
+						"text": "没等任何人反应过来, [char0]把手伸进他身旁的一个补给箱并掏出了一颗手雷. \n\n[char0]: \"我想知道, 如果我...一个不小心...这个燃料补给点会发生什么...\" [CTP] \n\n说着[char0]随意地将手雷在两手间丢来丢去, 看得士兵们纷纷害怕地往后退."
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_Daredevil_female",
-						"text": "Before anyone can react, [char0] plunges her hand into the supply crate next to her and pulls out a hand grenade. \n\n[char0]: \"I wonder what would happen to this fuel dump, if I got... careless...\" [CTP] \n\nThe soldiers flinch as [char0] casually tosses the grenade from one hand to the other."
+						"text": "没等任何人反应过来, [char0]把手伸进她身旁的一个补给箱并掏出了一颗手雷. \n\n[char0]: \"我想知道, 如果我...一个不小心...这个燃料补给点会发生什么...\" [CTP] \n\n说着[char0]随意地将手雷在两手间丢来丢去, 看得士兵们纷纷害怕地往后退."
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_DaredevilW",
-						"text": "[char0]: \"Maybe you should all just take a step back? And lay down your weapons?\"\n\nThe soldiers instantly throw down their weapons and take cover. You grab the nearest supply crate and slowly withdraw, keeping your eyes on the enemy all the way. [CTP]\n\nAfter a few dozen steps, [char0] pulls the pin from the grenade and throws it into the fuel dump. You hear screams as the soldiers rush for safety – moments later, the camp and its vehicles are consumed by a huge fireball! [CTP]\n\n[char0]: \"Sorry, it was just too tempting!\"\n\nYou leap into the jeep and speed off. The Germans are too busy to stop you and you get away without any problems."
+						"text": "[char0]: \"也许你们应该都往后退一点, 然后放下你们的武器?\"\n\n士兵们立马扔下枪退到掩体后. 你抄起最近的补给箱, 慢慢后退, 一路盯着敌人的一举一动. [CTP]\n\n退了几十步后, [char0]拉开了手雷的拉环, 并将它丢进了燃料储存点. 你听到士兵们尖叫着四处逃命 – 片刻之后, 营地和里面的车辆被一个巨大的火球吞噬! [CTP]\n\n[char0]: \"抱歉, 这实在是太诱人了!\"\n\n你跳上吉普车迅速跑路. 德国佬们根本无暇阻拦你, 你非常顺利地逃之夭夭."
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_DaredevilW_female",
-						"text": "[char0]: \"Maybe you should all just take a step back? And lay down your weapons?\"\n\nThe soldiers instantly throw down their weapons and take cover. You grab the nearest supply crate and slowly withdraw, keeping your eyes on the enemy all the way. [CTP]\n\nAfter a few dozen steps, [char0] pulls the pin from the grenade and throws it into the fuel dump. You hear screams as the soldiers rush for safety – moments later, the camp and its vehicles are consumed by a huge fireball! [CTP]\n\n[char0]: \"Sorry, it was just too tempting!\"\n\nYou leap into the jeep and speed off. The Germans are too busy to stop you and you get away without any problems."
+						"text": "[char0]: \"也许你们应该都往后退一点, 然后放下你们的武器?\"\n\n士兵们立马扔下枪退到掩体后. 你抄起最近的补给箱, 慢慢后退, 一路盯着敌人的一举一动. [CTP]\n\n退了几十步后, [char0]拉开了手雷的拉环, 并将它丢进了燃料储存点. 你听到士兵们尖叫着四处逃命 – 片刻之后, 营地和里面的车辆被一个巨大的火球吞噬! [CTP]\n\n[char0]: \"抱歉, 这实在是太诱人了!\"\n\n你跳上吉普车迅速跑路. 德国佬们根本无暇阻拦你, 你非常顺利地逃之夭夭."
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_DaredevilF",
-						"text": "[char0] suddenly stumbles and the grenade falls from his hand and lands harmlessly in the desert sand. \n\n[char0]: \"Oops, well that’s embarrassing...\"\n\nYou dive for cover as the angry soldiers open fire."
+						"text": "[char0]突然被绊了一下, 手雷从他手中滑落掉到了沙地上, 但没有爆炸. \n\n[char0]: \"额, 这就有点尴尬了...\"\n\n士兵们愤怒地朝你们开火, 而你们也迅速躲进了掩体."
 					},
 					{
 						"id": "BE_NaziSupplyCamp01_DaredevilF_female",
-						"text": "[char0] suddenly stumbles and the grenade falls from her hand and lands harmlessly in the desert sand. \n\n[char0]: \"Oops, well that’s embarrassing...\"\n\nYou dive for cover as the angry soldiers open fire."
+						"text": "[char0]突然被绊了一下, 手雷从她手中滑落掉到了沙地上, 但没有爆炸. \n\n[char0]: \"额, 这就有点尴尬了...\"\n\n士兵们愤怒地朝你们开火, 而你们也迅速躲进了掩体."
 					},
 					{
 						"id": "BE_UnholyVault01_Intro",
-						"text": "You see a lot of tire tracks in the sand in front of the lonely desert temple, so you enter carefully and with weapons drawn. [CTP] Your prudence pays off: In a temple chamber, you take a lone sentry by surprise. You quickly disarm him."
+						"text": "你在一座孤立的沙漠神殿前的沙地里看到有许多轮胎印. 于是你拿上武器小心地进入到里面. [CTP] 你的谨慎是值得的: 在神殿的大厅你偷袭了一个落单的哨兵. 你很快解除了他的武装. "
 					},
 					{
 						"id": "BE_UnholyVault01_Choice01",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_UnholyVault01_Choice02",
-						"text": "Interrogate soldier"
+						"text": "审问士兵"
 					},
 					{
 						"id": "BE_UnholyVault01_Choice03",
-						"text": "Intimidate the man"
+						"text": "恐吓他"
 					},
 					{
 						"id": "BE_UnholyVault01_Choice04",
-						"text": "Search temple chamber"
+						"text": "搜刮神殿大厅"
 					},
 					{
 						"id": "BE_UnholyVault01_Choice05",
-						"text": "Descend into grave vault"
+						"text": "下到墓室"
 					},
 					{
 						"id": "BE_UnholyVault01_Leave01",
-						"text": "The tire tracks in front of the temple indicate a large convoy. You knock the soldier out with a sharp blow to the back of the head, then retreat before reinforcements arrive."
+						"text": "神殿前的一大片轮胎印表明这里有一大队人马. 你给士兵后脑勺猛的一击把他打晕了过去, 然后在增援到达之前撤出了神殿. "
 					},
 					{
 						"id": "BE_UnholyVault01_IntimidateF",
-						"text": "You question the soldier about his mission, but the man is not inclined to help you. \n\n[char0]: \"Just you wait – sooner or later my comrades will be back and then we can all talk together!\""
+						"text": "你审问士兵他们来这里干什么, 但是他嘴很硬, 一个字也不愿意告诉你. \n\n[char0]: \"你们等着 – 我的战友们迟早会回来, 到时候有你们好看的!\""
 					},
 					{
 						"id": "BE_UnholyVault01_Leave02",
-						"text": "Is the man bluffing or not? You decide it's not worth the risk. You leave the man tied up and continue on your journey."
+						"text": "这个人是在吓唬你么? 你决定不冒这个险. 你把他绑在那儿然后继续你的行程. "
 					},
 					{
 						"id": "BE_UnholyVault01_Search_Loot",
-						"text": "You bind and gag the soldier before searching the temple chamber. But the soldiers who were here before you were very thorough. You find nothing of value. You leave the temple, disappointed."
+						"text": "你把士兵嘴封住绑了起来, 然后搜查了神殿的大厅. 然而在你之前来这儿的士兵们把这儿搜刮的很彻底. 你什么有用的都没找到. 你大失所望, 离开了神殿."
 					},
 					{
 						"id": "BE_UnholyVault01_Search_Soldiers",
-						"text": "You bind and gag the soldier before searching the temple chamber. But the soldiers were here before you were very thorough and you don’t find anything. As you are about to leave, you hear the noise of engines – the Germans are returning! You quickly seek cover and lie in wait for them!"
+						"text": "你把士兵嘴封住绑了起来, 然后搜查了神殿的大厅. 然而在你之前来这儿的士兵们把这儿搜刮的很彻底. 你什么也没找到. 当你准备离开的时候, 你听到外面发动机的声响 – 德国佬们回来了! 你迅速找掩体趴下等待!"
 					},
 					{
 						"id": "BE_UnholyVault01_IntimidateW",
-						"text": "[char1] leans down menacingly, face to face with the soldier: \n\n[char1]: \"All alone out here, surrounded by your enemies – I would be worried if I were you...\"\n\nThe man caves in: [CTP]\n\n[char0]: \"We sent a squad into the burial chamber but something must have gone wrong! Spare me and I'll show you the secret entrance! \"\n\nWithout waiting for your answer, the soldier starts pawing at the altar. Suddenly, a hidden stone door opens in the wall. A steep staircase leads into the depths."
+						"text": "[char1]面露凶相, 弯下身和士兵面对面: \n\n[char1]: \"一个人被丢在这儿, 周围都是敌人 – 如果我是你, 我会很担心的哟...\"\n\n士兵崩溃了: [CTP]\n\n[char0]: \"我们派了一队人下到墓室里去了, 但一定是哪里出问题了! 饶了我我可以告诉你们秘密入口在哪儿! \"\n\n没等你回答, 士兵开始在祭坛上乱抓. 突然, 墙上一扇隐藏的石门打开了. 露出一段陡峭的台阶一直通向深处. "
 					},
 					{
 						"id": "BE_UnholyVault01_IntimidateW_female",
-						"text": "[char1] leans down menacingly, face to face with the soldier: \n\n[char1]: \"All alone out here, surrounded by your enemies – I would be worried if I were you...\"\n\nThe man caves in: [CTP]\n\n[char0]: \"We sent a squad into the burial chamber but something must have gone wrong! Spare me and I'll show you the secret entrance! \"\n\nWithout waiting for your answer, the soldier starts pawing at the altar. Suddenly, a hidden stone door opens in the wall. A steep staircase leads into the depths."
+						"text": "[char1]面露凶相, 弯下身和士兵面对面: \n\n[char1]: \"一个人被丢在这儿, 周围都是敌人 – 如果我是你, 我会很担心的哟...\"\n\n士兵崩溃了: [CTP]\n\n[char0]: \"我们派了五个人下到墓室里去了, 但一定是哪里出问题了! 饶了我我可以告诉你们秘密入口在哪儿! \"\n\n没等你回答, 士兵开始在祭坛上乱抓. 突然, 墙上一扇隐藏的石门打开了. 露出一段陡峭的台阶一直通向深处. "
 					},
 					{
 						"id": "BE_UnholyVault01_Leave03",
-						"text": "What happened down there? Not every question needs to be answered. You leave the man tied up and continue on your journey."
+						"text": "这里到底发生了什么? 并不是每个问题都需要被解答. 你把士兵绑在原地, 继续你的旅程."
 					},
 					{
 						"id": "BE_UnholyVault01_Vault",
-						"text": "You leave the man bound and gagged and start your descent. After a while, you reach the burial chamber where a gruesome scene awaits you: The corpses of a squad of German soldiers lie scattered around a sarcophagus. Their dislocated limbs are twisted into impossible positions."
+						"text": "你把士兵绑了并堵上嘴, 然后开始往下探索. 过了一会儿, 你来到了墓室, 眼前是一幅令人毛骨悚然的景象: 在一幅石棺的周围横着五具德国士兵的尸体. 他们四肢扭曲错位到了正常不可能到达的位置"
 					},
 					{
 						"id": "BE_UnholyVault01_OccultF",
-						"text": "While you're wondering what all this means, to your horror, the dead suddenly start to move. With dismal groans, they start to shuffle towards you like grisly puppets!"
+						"text": "当你还在思考到底发生了什么的时候, 恐怖的一幕发生了, 地上的尸体突然开始移动. 伴随着低沉的呻吟, 它们像被操纵的骇人傀儡一样慢慢向你走来!"
 					},
 					{
 						"id": "BE_UnholyVault01_Leave04",
-						"text": "Gripped with panic, you flee the unholy vault!"
+						"text": "你惊恐万分, 慌忙逃离了这不净的墓穴!"
 					},
 					{
 						"id": "BE_UnholyVault01_OccultW",
-						"text": "[char2] screams and jumps over to the sarcophagus. Like a man possessed, he smashes the clay figurines resting on it into a thousand pieces. In a frenzy, he turns to you: [CTP]\n\n[char2]: \"Get out! Flee, if you value your lives - and don’t look back!\"\n\nAs you storm out, you snatch up a small wooden chest from among the dead soldiers!"
+						"text": "[char2]尖叫着跳到石棺前, 着了魔一样把石棺上的陶像全都摔得粉碎. 狂乱之中, 他转向你大喊: [CTP]\n\n[char2]: \"跑啊! 要小命就快跑啊! 别回头看!\"\n\n往外冲的过程中, 你一把抓起士兵死尸间的一个不大的木质宝箱!"
 					},
 					{
 						"id": "BE_UnholyVault01_OccultW_female",
-						"text": "[char2] screams and jumps over to the sarcophagus. Like a woman possessed, she smashes the clay figurines resting on it into a thousand pieces. In a frenzy, she turns to you: [CTP]\n\n[char2]: \"Get out! Flee, if you value your lives - and don’t look back!\"\n\nAs you storm out, you snatch up a small wooden chest from among the dead soldiers!"
+						"text": "[char2]尖叫着跳到石棺前, 着了魔一样把石棺上的陶像全都摔得粉碎. 狂乱之中, 他转向你大喊: [CTP]\n\n[char2]: \"跑啊! 要小命就快跑啊! 别回头看!\"\n\n往外冲的过程中, 你一把抓起士兵死尸间的一个不大的木质宝箱!"
 					},
 					{
 						"id": "CR_AngryMob01_Revisit",
-						"text": "You return to the village where [Char1] is being held. The angry mob is still in front of the village chief's house:\n\n[char4]: \"Have you changed your mind?\" [CTP]\n\n[Char1] beckons to you:\n\n[char1]: \"I knew you wouldn’t let me down!\""
+						"text": "你回到了[Char1]被关的村庄. 那个生气的暴民还站在村长家前面:\n\n[char4]: \"你改变主意了?\" [CTP]\n\n[Char1]向你招了招手:\n\n[char1]: \"我就知道你不会让我失望!\""
 					},
 					{
 						"id": "CR_AngryMob01_Revisit_female",
-						"text": "You return to the village where [Char1] is being held. The angry mob is still in front of the village chief's house:\n\n[char4]: \"Have you changed your mind?\" [CTP]\n\n[Char1] beckons to you:\n\n[char1]: \"I knew you wouldn’t let me down!\""
+						"text": "你回到了[Char1]被关的村庄. 那个生气的暴民还站在村长家前面:\n\n[char4]: \"你改变主意了?\" [CTP]\n\n[Char1]向你招了招手:\n\n[char1]: \"我就知道你不会让我失望!\""
 					},
 					{
 						"id": "SE_Adventure01Clue03_Intro",
-						"text": "Vultures circle in the sky up ahead of you. You know what that means in the desert and decide to investigate. [CTP]\n\nAfter a few hundred yards, you come across the remains of a small squad of German soldiers between two dunes. The men have been dead for several days, seemingly dying of thirst – but as you start to search their bodies, to your astonishment one of them moans in agony!"
+						"text": "前方有秃鹫在空中盘旋. 你知道在沙漠里这意味着什么, 并决定前往调查一番[CTP]\n\n走了几百码后, 你在两座沙丘间发现了一小队德国士兵的遗体. 这些人已经死了好几天了, 好像是被渴死的 – 但当你开始调查他们的尸体的时候, 你震惊地发现有个人还在痛苦地呻吟!"
 					},
 					{
 						"id": "SE_Adventure01Clue03_DyingSoldier",
-						"text": "You lean over the soldier, and realize immediately that you are too late to help him: Without regaining consciousness, the man dies in your arms, burning with fever. \n\nWhat were the Germans doing here? You exchange questioning glances..."
+						"text": "你朝士兵弯下身子, 但立马你就意识到你帮不了他了: 士兵没有恢复意识, 死在了你的怀里, 全身滚烫. \n\n德国人在这里干什么呢? 你们互相交换了疑惑的眼神..."
 					},
 					{
 						"id": "SE_Adventure01Clue03_LookF",
-						"text": "... but all you see is the infinite emptiness of the desert. Shaking your heads, you continue your journey. The Germans have nothing of value on them. \n\nLost in your thoughts, you continue your journey."
+						"text": "...然而你所见的只有无尽空洞的沙漠. 摇了摇头, 你准备重新上路. 德国人们身上没有任何有价值的东西. \n\n你一边沉思一边重新踏上了旅程."
 					},
 					{
 						"id": "SE_Adventure01Clue03_LookW",
-						"text": "... your gaze lingers on a rock formation that rises from the monotonous desert landscape a few miles away. \n\nDid the Germans come from there? Do you want to investigate the rock formation or continue your journey?"
+						"text": "...你的目光游离在几英里远处一块从单调的沙漠景观中突起的岩石结构上. \n\n德国人是从那里来的吗? 你是想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_SurvivalW",
-						"text": "[char0]: \"... do you see those dots in the sky above the rocks over there?\" \n\n[char0] points to some tiny dots in the sky circling a rock formation that rises from the monotonous desert landscape a few miles away. [CTP]\n\n[char0]: \"There are more vultures circling over there. Maybe it’s a coincidence... but maybe not. What do you think?\"\n\nYou’re not so sure what to do: Do you want to investigate the rock formation or continue on your journey?"
+						"text": "[char0]: \"...你看到那边岩石上空的那些黑点了吗?\" \n\n[char0]指着在远处单调沙漠景观中突起的岩石结构上空盘旋的一些小黑点说. [CTP]\n\n[char0]: \"那边有更多的秃鹫. 可能只是个巧合...也可能不是. 你觉得呢?\"\n\n你不太确定该怎么做: 你想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_SurvivalW_female",
-						"text": "[char0]: \"... do you see those dots in the sky above the rocks over there?\" \n\n[char0] points to some tiny dots in the sky circling a rock formation that rises from the monotonous desert landscape a few miles away. [CTP]\n\n[char0]: \"There are more vultures circling over there. Maybe it’s a coincidence... but maybe not. What do you think?\"\n\nYou’re not so sure what to do: Do you want to investigate the rock formation or continue on your journey?"
+						"text": "[char0]: \"...你看到那边岩石上空的那些黑点了吗?\" \n\n[char0]指着在远处单调沙漠景观中突起的岩石结构上空盘旋的一些小黑点说. [CTP]\n\n[char0]: \"那边有更多的秃鹫. 可能只是个巧合...也可能不是. 你觉得呢?\"\n\n你不太确定该怎么做: 你想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_MedicalW",
-						"text": "[char1] quickly improvises some cold compresses for the man and gently gives him some water. The soldier soon regains consciousness:\n\n[char2]: \"Engine failure... the captain ordered us to stay... had to take our fate into our own hands... too late...!\" [CTP]\n\nWith these words, the man rears up one final time, then his labored breathing ends. The dead man’s finger points to a rock formation that rises from the monotonous desert landscape a few miles away. \n\nYou are confused: Do you want to investigate the rock formation or continue your journey?"
+						"text": "[char1]迅速给他做了点临时的冷敷并给他喂了点水. 德国兵很快恢复了点意识:\n\n[char2]: \"发动机坏了...长官令我们留下...自己的命运...要自己掌握...太迟了...!\" [CTP]\n\n说完这些话, 士兵腿一蹬, 咽下了最后一口气. 他的手指最后指向了几英里外一处从单调的沙漠景观中突起的岩石结构. \n\n你有些疑惑, 你想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_MedicalW_female",
-						"text": "[char1] quickly improvises some cold compresses for the man and gently gives him some water. The soldier soon regains consciousness:\n\n[char2]: \"Engine failure... the captain ordered us to stay... had to take our fate into our own hands... too late...!\" [CTP]\n\nWith these words, the man rears up one final time, then his labored breathing ends. The dead man’s finger points to a rock formation that rises from the monotonous desert landscape a few miles away. \n\nYou are confused: Do you want to investigate the rock formation or continue on your journey?"
+						"text": "[char1]迅速给他做了点临时的冷敷并给他喂了点水. 德国兵很快恢复了点意识:\n\n[char2]: \"发动机坏了...长官令我们留下...自己的命运...要自己掌握...太迟了...!\" [CTP]\n\n说完这些话, 士兵腿一蹬, 咽下了最后一口气. 他的手指最后指向了几英里外一处从单调的沙漠景观中突起的岩石结构. \n\n你有些疑惑, 你想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_DetectionW",
-						"text": "... [char3] tuts loudly: \n\n[char3]: \"Do you see this? Footprints – the soldiers came from over there!\" [CTP]\n\nYou can barely see the remnants of some footprints that the desert wind has already half blown away. \n\nYou follow [char3]’s pointed finger and see a rock formation that rises from the monotonous desert landscape a few miles away. Do you want to investigate the rock formation or continue on your journey?"
+						"text": "...[char3]大叫了声: \n\n[char3]: \"看, 是脚印! 士兵们是从那边过来的!\" [CTP]\n\n沙地上的脚印已经被风沙吹走了大半, 几乎无法辨别出来. \n\n你顺着[char3]手指的方向, 看到几英里外单调的沙漠景观中有一处突起的岩石结构. 你想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_DetectionW_female",
-						"text": "... [char3] tuts loudly: \n\n[char3]: \"Do you see this? Footprints – the soldiers came from over there!\" [CTP]\n\nYou can barely see the remnants of some footprints that the desert wind has already half blown away. \n\nYou follow [char3]’s pointed finger and see a rock formation that rises from the monotonous desert landscape a few miles away. Do you want to investigate the rock formation or continue on your journey?"
+						"text": "...[char3]大叫了声: \n\n[char3]: \"看, 是脚印! 士兵们是从那边过来的!\" [CTP]\n\n沙地上的脚印已经被风沙吹走了大半, 几乎无法辨别出来. \n\n你顺着[char3]手指的方向, 看到几英里外单调的沙漠景观中有一处突起的岩石结构. 你想调查岩石结构还是继续你的行程?"
 					},
 					{
 						"id": "SE_Adventure01Clue03_Choice01",
-						"text": "Examine the rock formation"
+						"text": "调查岩石结构"
 					},
 					{
 						"id": "SE_Adventure01Clue03_Choice02",
@@ -3690,151 +3690,151 @@
 					},
 					{
 						"id": "SE_Adventure01Clue03_AgentMonologue",
-						"text": "Among some rocks, you come across the lifeless body of a Wehrmacht officer. The man lies on his stomach, the sand around him is tinged brown.\n\n[char4]: \"Captain von Bördemarck left us no choice. I had to put him down like a mad dog.\" [CTP]\n\nYou turn to see a German soldier leaning against the rocks in the shadows. His uniform is covered in blood.\n\n[char4]: \"Unfortunately, Bördemarck did not go without a fight. Leg wound. I’m afraid it’s infected...\"\n\nThe man shrugs as if in apology. Then he continues – his face distorted with pain: [CTP]\n\n[char4]: \"I did not do it for myself – my journey ends here.  With a little luck, at least my comrades managed to escape. Do you have any water for me?\"\n\nHesitantly, you give the man some water. He continues in a broken voice, but this time his words are incoherent and delirious: [CTP]\n\n[char4]: \"North Africa... Secret Operation... Excavations in the desert, worldwide... Dr. Poliakowski said... Stalin's excavations... incredible artifacts in the Russian Arctic Ocean... Great deeds... Atlantis will rise again from the waves and we shall be Gods... Valkyrium - Valkyrium shall rule the world of tomorrow!\" [CTP]\n\nBreathing heavily, the man pauses. For a second, he appears to return to consciousness. Finally, he gives a tortured laugh – blood gushes from his nose: \n\n[char4]: \"Gods of a distant past... and here I die in the heat of the sun like Icarus, who plunged to his ruin through his arrogance! Tell Magda, I have always loved her...!\" [CTP]\n\nWith these final words, the man dies. You search him: his papers identify him as a young lieutenant in counterintelligence. What could his fevered rantings mean? You bury his body in a makeshift grave and leave with the dead man’s words ringing in your ears."
+						"text": "你在一堆岩石间发现了一具德国指挥官的尸体. 那个男人趴在地上, 他周围的沙子被染成了棕色.\n\n[char4]: \"von Bördemarck上尉让我们别无选择, 我们只能把他当成一只疯狗射杀.\" [CTP]\n\n你转身看到阴暗处有一个德国士兵斜靠在岩石上. 他的制服上沾满了血迹.\n\n[char4]: \"不幸的是, Bördemarck走的并不安详. 脚受伤. 恐怕是感染了...\"\n\n那个男人耸了耸肩, 仿佛是在道歉. 然后他继续说 – 他的脸因为痛苦而变得扭曲: [CTP]\n\n[char4]: \"我不是为了我自己才这么做的 – 我的路在这儿到头了, 但幸运的是, 至少我的战友们逃掉了. 你能给我点水么?\"\n\n你迟疑地给了他一点水. 喝完他又断断续续地开始说, 只是这回他的话语变得有些语无伦次精神错乱: [CTP]\n\n[char4]: \"北非... 秘密行动...在沙漠里挖掘, 全世界...Poliakowski博士说...挖掘斯大林的... 俄国北冰洋上难以置信的文物...伟大功绩...亚特兰蒂斯将从波涛中升起而我们将成为神...Valkyrium - Valkyrium将统治明天的世界!\" [CTP]\n\n他停顿了下来, 呼吸沉重. 有那么片刻他好像恢复了神志. 但最终他苦笑一声 – 血从他的鼻子涌出: \n\n[char4]: \"远古的神啊...在这里我像伊卡洛斯一样死在太阳的热浪中, 因为自己的傲慢而奔向毁灭! 告诉Magda, 我一直爱她...!\" [CTP]\n\n说完这些遗言, 那个人就死了. 你搜刮了他的身体: 他身上的材料表明他是一个年轻的反间谍中尉. 他的疯言疯语到底又意味着什么? 你把他的尸体埋在一个临时的坟墓里后便离开了, 但他的话语却一直在你耳边回响."
 					},
 					{
 						"id": "CR_Brandy01_Revisit",
-						"text": "You return to the village where [char0] is being held:\n\n[char0]: \"You took your time!\" \n\n\n[char2]: \"I hope you have enough cash this time.\""
+						"text": "你返回了[char0]被关的村庄:\n\n[char0]: \"你去了真久!\" \n\n\n[char2]: \"我希望这次你带了足够现金\""
 					},
 					{
 						"id": "CR_Brandy01_Revisit_female",
-						"text": "You return to the village where [char0] is being held:\n\n[char0]: \"You took your time!\" \n\n\n[char2]: \"I hope you have enough cash this time.\""
+						"text": "你返回了[char0]被关的村庄:\n\n[char0]: \"你去了真久!\" \n\n\n[char2]: \"我希望这次你带了足够现金\""
 					},
 					{
 						"id": "CR_Excavation01_Revisit",
-						"text": "You soon reach the old temple ruin where you left [char0]. You see him in the distance, waving you over: \n\n[char0]: \"Have you changed your mind?\""
+						"text": "你很快到达了[char0]所在的神庙遗迹. 你看到他在远处向你招手: \n\n[char0]: \"你回心转意了?\""
 					},
 					{
 						"id": "CR_Excavation01_Revisit_female",
-						"text": "You soon reach the old temple ruin where you left [char0]. You see her in the distance, waving you over: \n\n[char0]: \"Have you changed your mind?\""
+						"text": "你很快到达了[char0]所在的神庙遗迹. 你看到她在远处向你招手: \n\n[char0]: \"你回心转意了?\""
 					},
 					{
 						"id": "CR_Expenses01_Revisit",
-						"text": "You meet up again with [char1], who has made himself comfortable among the huts: \n\n[char1]: \"I would be pleased to join you - you know my price.\""
+						"text": "你又遇见了[char1], 他正舒服地躺在茅舍中: \n\n[char1]: \"我很乐意加入 - 你知道我价格公道.\""
 					},
 					{
 						"id": "CR_Expenses01_Revisit_female",
-						"text": "You meet up again with [char1], who has made herself comfortable among the huts: \n\n[char1]: \"I would be pleased to join you - you know my price.\""
+						"text": "你又遇见了[char1], 她正舒服地躺在茅舍中: \n\n[char1]: \"我很乐意加入 - 你知道我价格公道.\""
 					},
 					{
 						"id": "CR_Parachute01_Revisit",
-						"text": "When you return, you see that [char0] has converted his parachute into a tent: \n\n[char0]: \"It helps against the damned heat. Are you lost, or did you come back because you need my help? \""
+						"text": "当你返回时, 你看到[char0]已经把他的降落伞变成了一顶帐篷: \n\n[char0]: \"这样有助于抵御这该死的高温. 你迷路了么, 还是说你回来是因为需要我的帮助? \""
 					},
 					{
 						"id": "CR_Parachute01_Revisit_female",
-						"text": "When you return, you see that [char0] has converted her parachute into a tent: \n\n[char0]: \"It helps against the damned heat. Are you lost, or did you come back because you need my help? \""
+						"text": "当你返回时, 你看到[char0]已经把她的降落伞变成了一顶帐篷: \n\n[char0]: \"这样有助于抵御这该死的高温. 你迷路了么, 还是说你回来是因为需要我的帮助? \""
 					},
 					{
 						"id": "ME_GenericVillage01_A_Revisit",
-						"text": "When the village merchant sees you, his face lights up."
+						"text": "村里商人看到你的时候脸上开始放光."
 					},
 					{
 						"id": "ME_GenericVillage01_B_Revisit",
-						"text": "The dignified merchant nods as he recognizes you and places his wares on the carpet in front of him."
+						"text": "这位端庄的商人在看到你时礼貌地点了点头, 然后在他面前的地毯上摊开了他的货物."
 					},
 					{
 						"id": "ME_GenericVillage01_C_Revisit",
-						"text": "The traveling merchant is packing up his goods - but when you arrive, he pauses expectantly."
+						"text": "这位旅行商人正在打包他的货物 - 但你到达的时候, 他有所期待地停了下来."
 					},
 					{
 						"id": "ME_GenericVillage01_D_Revisit",
-						"text": "The traveling merchant has unpacked his goods and beckons you over cheerfully."
+						"text": "这位旅行商人已经卸下了他的货物并高兴地在向你招手."
 					},
 					{
 						"id": "ME_GenericVillage01_E_Revisit",
-						"text": "The village chief waves you joyfully into his shop."
+						"text": "村长高兴地把你迎进他的店铺."
 					},
 					{
 						"id": "ME_GenericOriental01_A_Revisit",
-						"text": "The trader is dozing at his camp, but he jumps up in joy when he sees you."
+						"text": "小贩正在帐篷里打瞌睡, 但当看到你的时候他高兴地一跃而起."
 					},
 					{
 						"id": "ME_GenericOriental01_B_Revisit",
-						"text": "The merchant sees you from afar and waves you over enthusiastically."
+						"text": "商人远远地就看到了你并热情地向你招手."
 					},
 					{
 						"id": "ME_GenericOriental01_C_Revisit",
-						"text": "When you return, the merchant has made himself comfortable among the palm trees."
+						"text": "当你返回这里的时候, 商人正在棕榈树间舒服地坐着."
 					},
 					{
 						"id": "ME_GenericOriental01_D_Revisit",
-						"text": "The merchant is still there and comes running forward when he sees you."
+						"text": "商人还在那儿, 看到你就跑了过来."
 					},
 					{
 						"id": "ME_GenericOriental01_E_Revisit",
-						"text": "The traveling merchant has been resting and welcomes you joyfully."
+						"text": "旅行商人正在休息, 并且高兴地欢迎你的再访."
 					},
 					{
 						"id": "ME_NaziDeserterMerchant01_Revisit",
-						"text": "The deserter is still camped by the palms.\n\n[char0]: \"I thought I might see you again.\""
+						"text": "那个逃兵还驻扎在棕榈树边上.\n\n[char0]: \"我就知道我还会看到你.\""
 					},
 					{
 						"id": "ME_OrientalTrader01_Revisit",
-						"text": "The traveling merchant leaps up from his camp when he sees you."
+						"text": "当看到你时, 旅行商人从他的帐篷里跳了起来u."
 					},
 					{
 						"id": "ME_ParkedBeduinCar01_Revisit",
-						"text": "When you return to the village, the jeep is still there, as is the ill-tempered man."
+						"text": "当你回到村子的时候, 那辆吉普车还停在那儿, 当然还有那个脾气暴躁的老哥."
 					},
 					{
 						"id": "RE_DateTreeGrove01_Revisit",
-						"text": "You follow the dried up river bed and make your way back to the waterhole with its inviting date palms."
+						"text": "你沿着干枯的河床一路回到了那长着诱人棕榈树的水潭边."
 					},
 					{
 						"id": "RE_PalmCopse01_Revisit",
-						"text": "After a short search, you find the waterhole and its scraggy palms again."
+						"text": "短暂搜寻过后, 你再次看到了那个水潭和它边上骨感的棕榈树."
 					},
 					{
 						"id": "RE_GenericOasis01_A_Revisit",
-						"text": "You return to the small waterhole in the shade of the palm trees."
+						"text": "你回到了这个棕榈树荫下的小水潭."
 					},
 					{
 						"id": "RE_GenericOasis01_B_Revisit",
-						"text": "You come across the small, palm-filled oasis once again."
+						"text": "你再次路过这个长满棕榈树的小绿洲."
 					},
 					{
 						"id": "RE_GenericOasis01_C_Revisit",
-						"text": "You find the waterhole just as you left it."
+						"text": "你找到了这个小水潭, 它和你离开时一样一点没变."
 					},
 					{
 						"id": "RE_GenericOasis01_D_Revisit",
-						"text": "Your journey takes you past the old oasis again."
+						"text": "旅途中你又经过了这个古老的绿洲."
 					},
 					{
 						"id": "RE_GenericOasis01_E_Revisit",
-						"text": "From a distance, you spot the sparse palm grove by a waterhole."
+						"text": "远远地你看到了那片长在小水潭边上的稀疏棕榈林."
 					},
 					{
 						"id": "RE_GenericRuins01_A_Revisit",
-						"text": "The abandoned village seems strangely familiar. When you see the old well at its center, you remember that you came through here before."
+						"text": "这个废弃的村庄看起来似曾相识. 当你看到中心那口古老水井的时候, 你想起来你之前在这里呆过."
 					},
 					{
 						"id": "RE_GenericRuins01_B_Revisit",
-						"text": "You return to the deserted village with its watering post."
+						"text": "你返回到了那个有饮水池的废弃村庄."
 					},
 					{
 						"id": "RE_GenericRuins01_C_Revisit",
-						"text": "The old well among the ruins still holds plenty of water."
+						"text": "废墟间的水井里依然盛有大量的水."
 					},
 					{
 						"id": "RE_GenericRuins01_D_Revisit",
-						"text": "After a short search, you find the half-buried village with its old well behind some dunes."
+						"text": "经过一番短暂搜寻, 你在某片沙丘后发现了那个一半被沙子掩埋的村庄, 还有那口古老的水井. "
 					},
 					{
 						"id": "RE_GenericRuins01_E_Revisit",
-						"text": "As before, a ghostly silence hangs over the ruined village and its well."
+						"text": "和之前一样, 死一样的寂静笼罩着这片废弃的村庄和它的水井之上."
 					},
 					{
 						"id": "LE_BooyTrap01_Intro",
-						"text": "You come upon an abandoned German military camp. Curiously, you search the camp – maybe the Germans left something valuable behind. You're in luck! You find a stack of Wehrmacht crates."
+						"text": "你偶然发现一座废弃的德军营地. 你好奇地搜刮了一番 – 也许德国人落下了什么有用的东西. 你很幸运! 你找到了一堆军用补给枪."
 					},
 					{
 						"id": "LE_BooyTrap01_Choice01",
-						"text": "Open the crates"
+						"text": "打开箱子"
 					},
 					{
 						"id": "LE_BooyTrap01_Choice02",
-						"text": "Inspect the crates"
+						"text": "检查箱子"
 					},
 					{
 						"id": "LE_BooyTrap01_Choice03",
@@ -3842,43 +3842,43 @@
 					},
 					{
 						"id": "LE_BooyTrap01_DetectW",
-						"text": "[char0] stops you just before you grab one of the crates. He points to an innocuous-looking wire, almost entirely concealed by the desert sand: The Germans have booby-trapped the crates! \n\n[char0] carefully disconnects the wire from the crate lid, then lifts it gently: He has deactivated the booby trap!"
+						"text": "就在你准备拿起其中一个箱子的时候, [char0]拦住了你. 他指向一根几乎被沙子完全掩盖的毫不起眼的线: 德国人在箱子上设了诡雷陷阱! \n\n[char0]小心翼翼地把线和箱盖分离, 然后轻轻举起: 他成功解除了陷阱!"
 					},
 					{
 						"id": "LE_BooyTrap01_DetectW_female",
-						"text": "[char0] stops you just before you grab one of the crates. She points to an innocuous-looking wire, almost entirely concealed by the desert sand: The Germans have booby-trapped the crates! \n\n[char0] carefully disconnects the wire from the crate lid, then lifts it gently: She has deactivated the booby trap!"
+						"text": "就在你准备拿起其中一个箱子的时候, [char0]拦住了你. 她指向一根几乎被沙子完全掩盖的毫不起眼的线: 德国人在箱子上设了诡雷陷阱! \n\n[char0]小心翼翼地把线和箱盖分离, 然后轻轻举起: 她成功解除了陷阱!"
 					},
 					{
 						"id": "LE_BooyTrap01_Explosion",
-						"text": "Enthusiastically, you tear off the lid of the first crate when you hear a soft, metallic click: You triggered a German booby trap! Immediately, you throw yourselves to the ground and put your arms out to shield your faces.\n\nAn instant later, the device explodes!"
+						"text": "你兴奋地扯下第一个木箱的盖板, 却听到一声轻轻的金属声: 你触动了德国人设下的诡雷! 你立马扑倒在地上并用手臂护住脸部. \n\n也几乎在同一瞬间, 诡雷被引爆了!"
 					},
 					{
 						"id": "LE_BooyTrap01_Loot",
-						"text": "Enthusiastically, you tear off the lid of the crate: The Germans really did leave some of their supplies behind! In the desert, \"finders keepers\" applies..."
+						"text": "你兴奋地扯下木箱的盖板: 德国人确实落下了一些补给!那么在沙漠里, 正所谓\"谁捡到归谁\"了..."
 					},
 					{
 						"id": "LE_BooyTrap01_Lucky",
-						"text": "You're in luck! The explosion sweeps over you but you escape unharmed as the main force of the blast is directed upwards. Older and wiser, but without any loot, you return to your car."
+						"text": "你很幸运! 爆炸从你身边擦过, 由于冲击主要是向上的, 你并没有怎么受伤. 毕竟姜还是老的辣呀. 不过你没有再继续搜刮, 直接回到了你的车上."
 					},
 					{
 						"id": "LE_BooyTrap01_Unlucky",
-						"text": "You are fortunate, as the main force of the blast goes over your heads. Once you get past the initial shock, you look around. [char1] is rolling around in the sand, clutching his calf, which has been ripped open by shrapnel. Fortunately, the wound is not too deep. You soon manage to staunch the bleeding and [char1] is able to hobble about."
+						"text": "你还算走运. 爆炸从你头顶呼啸而过. 冲击波过后, 你立马环顾四周. [char1]捂着小腿在沙地上打滚, 他腿上被破片划开了一道口子. 还好伤口不是很深. 你帮他止住了血. 很快[char1]就能够蹒跚行走了."
 					},
 					{
 						"id": "LE_BooyTrap01_Unlucky_female",
-						"text": "You are fortunate as the main force of the blast goes over your heads. Once you get past the initial shock, you look around. [char1] is rolling around in the sand, clutching her calf, which has been ripped open by shrapnel. Fortunately, the wound is not too deep. You soon manage to staunch the bleeding and [char1] is able to hobble about."
+						"text": "你还算走运. 爆炸从你头顶呼啸而过. 冲击波过后, 你立马环顾四周. [char1]捂着小腿在沙地上打滚, 她腿上被破片划开了一道口子. 还好伤口不是很深. 你帮她止住了血. 很快[char1]就能够蹒跚行走了."
 					},
 					{
 						"id": "BE_SupplyTransport01_Intro",
-						"text": "As you drive around the next dune, you meet a fully loaded Wehrmacht truck coming the other way. The truck makes a tight U-turn in a frantic attempt to escape!"
+						"text": "当你驾车绕过下一个沙丘的时候, 从另一边迎面开过来一辆载满货物的军用卡车. 卡车疯狂大转向企图逃走!"
 					},
 					{
 						"id": "BE_SupplyTransport01_Choice01",
-						"text": "Follow enemy vehicle"
+						"text": "尾随敌方车辆"
 					},
 					{
 						"id": "BE_SupplyTransport01_Choice02",
-						"text": "Take up the chase"
+						"text": "追上他"
 					},
 					{
 						"id": "BE_SupplyTransport01_Choice03",
