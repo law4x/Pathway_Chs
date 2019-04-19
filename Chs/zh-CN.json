@@ -7822,19 +7822,19 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Intro",
-						"text": "You spot the strange monolith from a distance as you enter the graveyard. As you approach, you notice a strange glow emanating from the black monolith. \n\nYou examine the mysterious structure and discover a hand-shaped depression at chest level next to a series of jagged characters. [CTP]\n\nThere is a faint humming in the air, but you cannot make out its source."
+						"text": "当你进入墓地的时候,你从远处看到一块奇怪的巨石.当你靠近时,你注意到一道奇怪的光芒从黑色的巨石中散发出来.\n\n你检查了这个神秘的结构,发现在一系列锯齿状的人物旁边有一个手形的凹陷,高到胸口.[CTP]\n\n空气中有微弱的嗡嗡声，但你找不出它的来源。"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice01",
-						"text": "Place hand in recess"
+						"text": "把手放在凹处"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice02",
-						"text": "Decipher inscription"
+						"text": "破译铭文"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice03",
-						"text": "Investigate the tombs"
+						"text": "调查坟墓"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice04",
@@ -7842,55 +7842,55 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Hand",
-						"text": "[char0] places his hand in the recess on the obsidian monolith. The humming swells for a moment and then stops. Nothing happens. \n\nJust as you are about to leave in disappointment, you hear a soft click behind you."
+						"text": "[char0] 把他的手放在黑曜石上的凹处.嗡嗡声响了一会儿,然后停止了,什么都没发生.\n\n就在你即将失望地离开的时候,你听到身后有轻轻的咔嗒声."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Hand_female",
-						"text": "[char0] places her hand in the recess on the obsidian monolith. The humming swells for a moment and then stops. Nothing happens. \n\nJust as you are about to leave in disappointment, you hear a soft click behind you."
+						"text": "[char0] 把她的手放在黑曜石上的凹处.嗡嗡声响了一会儿,然后停止了,什么都没发生.\n\n就在你即将失望地离开的时候,你听到身后有轻轻的咔嗒声."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Loot",
-						"text": "You look around to see that the doors to one of the mausoleums has opened. Inside, you discover a rich haul of burial objects!"
+						"text": "你环顾四周,发现其中一座陵墓的门已经打开.你在里面发现了大量的埋藏物!"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Fight",
-						"text": "You look around and shudder in horror: Several of the tombs have opened around you! \n\nAs if in some nightmare, misshapen creatures shuffle towards you..."
+						"text": "你环顾四周,吓得发抖:你周围有几座坟墓已经被打开了!\n\n就像在噩梦中,畸形的生物向你移动..."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesW",
-						"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"It’s a curse describing the ‘living dead’ and something about the treasure they guard. I can’t make out the rest of it...\""
+						"text": "[char1] 弯下腰来,咕哝着.\n\n[char1]: \"这是一个诅咒,描述了'活死人'以及他们守护的宝藏.我看不出剩下的了...\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesW_female",
-						"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"It’s a curse describing the ‘living dead’ and something about the treasure they guard. I can’t make out the rest of it...\""
+						"text": "[char1] 弯下腰来,咕哝着.\n\n[char1]: \"这是一个诅咒,描述了'活死人'以及他们守护的宝藏.我看不出剩下的了...\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesF",
-						"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"Interesting... I’ve never seen an inscription like this!\""
+						"text": "[char1] 弯下腰来,咕哝着.\n\n [char1]: \"有意思...我从没见过这样的铭文!\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesF_female",
-						"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"Interesting... I’ve never seen an inscription like this!\""
+						"text": "[char1] 弯下腰来,咕哝着.\n\n [char1]: \"有意思...我从没见过这样的铭文!\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Undecided",
-						"text": "You can’t decide – what do you want to do?"
+						"text": "你不能决定 - 你想做什么?"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_ExamineTombs",
-						"text": "You inspect some of the surrounding tombs and mausoleums but you find nothing of interest."
+						"text": "你检查了周围的一些坟墓和陵墓,但没有发现任何有趣的东西。."
 					},
 					{
 						"id": "LE_SlipperyWell01_Title",
-						"text": "一个沙漠村庄"
+						"text": "荒废的村庄"
 					},
 					{
 						"id": "LE_SlipperyWell01_Intro",
-						"text": "The old well shaft in the village ruins is completely dried up. All you see at the bottom of the well are a few moss-covered boulders surrounded by dry clay soil. \n\nBut wait! What’s that glittering between the stones? What secrets is the old well hiding? [CTP]\n\nUnfortunately, you can’t see anything clearly. The well shaft is made of rough, uneven stone blocks – with a little skill it should be possible to climb down."
+						"text": "村庄废墟中的旧井筒已经完全干涸,你在井底看到的只有几块覆盖着苔藓的巨石,周围是干粘土.\n\n等等!石头之间闪闪发光的是什么?古井藏着什么秘密?[CTP]\n\n很可惜,你看不清任何东西.井身是由粗糙不平的石块堆成的,只要稍微有点技巧,就可以爬下井身."
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice01",
-						"text": "Climb down the well shaft"
+						"text": "顺着井道往下爬"
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice02",
@@ -7898,67 +7898,67 @@
 					},
 					{
 						"id": "LE_SlipperyWell01_DescentLucky",
-						"text": "After a short climb, you reach the bottom of the well. You look around with interest..."
+						"text": "爬过一小段后,你到达了井底.你带着兴趣四处看..."
 					},
 					{
 						"id": "LE_SlipperyWell01_DescentFall",
-						"text": "You carefully climb down the inside of the well. You hear a loud curse: [char0] has slipped on a moss-covered stone and crashes down the shaft!"
+						"text": "你小心地爬下井里.听到一个响亮的诅咒: [char0] 滑倒在长满青苔的石头上,从竖井里摔了下来!"
 					},
 					{
 						"id": "LE_SlipperyWell01_Fall_female",
-						"text": "You carefully climb down the inside of the well. You hear a loud curse: [char0] has slipped on a moss-covered stone and crashes down the shaft!"
+						"text": "你小心地爬下井里.听到一个响亮的诅咒: [char0] 滑倒在长满青苔的石头上,从竖井里摔了下来!"
 					},
 					{
 						"id": "LE_SlipperyWell01_FallLucky",
-						"text": "With incredible good fortune, [char0] manages to lands on his feet unharmed! \n\nYou take a closer look at the rocky ground..."
+						"text": "带着难以置信的好运, [char0] 的脚未受伤成功着地! \n\n你仔细看看岩石地面..."
 					},
 					{
 						"id": "LE_SlipperyWell01_FallLucky_female",
-						"text": "With incredible good fortune, [char0] manages to lands on her feet unharmed! \n\nYou take a closer look at the rocky ground..."
+						"text": "带着难以置信的好运, [char0] 的脚未受伤成功着地! \n\n你仔细看看岩石地面..."
 					},
 					{
 						"id": "LE_SlipperyWell01_FallUnlucky",
-						"text": "[char0] groans in agony. He smashed his shoulder hard on the sharp rocks at the bottom of the dried-up well! The fall was painful, but fortunately he does not seem to have broken anything. \n\nYou look around with interest..."
+						"text": "[char0] 痛苦呻吟. 他在干涸的井底尖锐的岩石上使劲地捶着肩膀!摔得很痛,但幸运的是他似乎没有摔坏任何东西. \n\n你带着兴趣四处看..."
 					},
 					{
 						"id": "LE_SlipperyWell01_FallUnlucky_female",
-						"text": "[char0] groans in agony. She smashed her shoulder hard on the sharp rocks at the bottom of the dried-up well! The fall was painful, but fortunately she does not seem to have broken anything. \n\nYou look around with interest..."
+						"text": "[char0] 痛苦呻吟. 她在干涸的井底尖锐的岩石上使劲地捶着肩膀!摔得很痛,但幸运的是她似乎没有摔坏任何东西. \n\n你带着兴趣四处看..."
 					},
 					{
 						"id": "LE_SlipperyWell01_SearchUnlucky",
-						"text": "... unfortunately, you do not find anything of interest! Disappointed, you continue your journey."
+						"text": "... 不幸的是,你找不到任何感兴趣的东西! 你带着失望继续你的旅程."
 					},
 					{
 						"id": "LE_SlipperyWell01_SearchLucky",
-						"text": "... You discover a tarnished copper ring embedded in the well wall! \n\nWhen you pull on it, you hear a faint click – part of the masonry swings to the side and reveals a small, narrow passage!"
+						"text": "... 你发现井壁上嵌着一个失去光泽的铜环! \n\n当你拉动它时,你听到轻微的咔哒声 - 一部分砖石向旁边移动,开辟出一条狭窄的小通道!"
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice03",
-						"text": "Explore the mysterious passageway"
+						"text": "探索神秘的通道"
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice04",
-						"text": "Return to the surface"
+						"text": "回到地面"
 					},
 					{
 						"id": "LE_SlipperyWell01_AltarRoom",
-						"text": "You follow the passage and finally reach a small chamber. You see a small, malignant-looking altar surrounded by small piles of human bones! Blood has stained the ground brown. The room has an aura of evil. \n\nThen your gaze falls on the treasures placed on the altar..."
+						"text": "你沿着通道走,最后到达一个小房间.你看到一个小小的恶毒的祭坛,周围是一小堆人的骨头!血把地面染成了棕色.这个房间有一种邪恶的气氛.\n\n然后你的目光落在祭坛上的珍宝上..."
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice05",
-						"text": "Loot the altar"
+						"text": "掠夺祭坛"
 					},
 					{
 						"id": "LE_SlipperyWell01_Choice06",
-						"text": "Leave this space"
+						"text": "离开这个地方"
 					},
 					{
 						"id": "LE_SlipperyWell01_LootUnlucky",
-						"text": "Just as you are about to pick up the items, [char1] gasps and grabs his throat as if unable to breathe!\n\nHe tries desperately to forms words, but all you see is thick blood oozing slowly from the corners of his mouth! [CTP]\n\nGripped by sudden panic, you run from this unholy place as fast as you can! When you reach the well, [char1] collapses. Fortunately, he wakes up a short time later, breathing heavily."
+						"text": "就当你要拿东西时, [char1] 气喘吁吁地抓着他的喉咙,好像不能呼吸似的!\n\n他拼命想说出话来,但你所看到的只是从嘴角慢慢渗出的浓血! [CTP]\n\n你的心中产生了突如其来的恐慌,你尽可能快地从这个邪恶的地方跑出来!当你到达井边时, [char1] 晕倒了. 幸运的是,他很快就醒来,呼吸十分急促."
 					},
 					{
 						"id": "LE_SlipperyWell01_LootUnlucky_female",
-						"text": "Just as you are about to pick up the items, [char1] gasps and grabs her throat as if unable to breathe!\n\nShe tries desperately to forms words, but all you see is thick blood oozing slowly from the corners of her mouth! [CTP]\n\nGripped by sudden panic, you run from this unholy place as fast as you can! When you reach the well, [char1] collapses. Fortunately, she wakes up a short time later, breathing heavily."
+						"text": "就当你要拿东西时, [char1] 气喘吁吁地抓着她的喉咙,好像不能呼吸似的!\n\n她拼命想说出话来,但你所看到的只是从嘴角慢慢渗出的浓血! [CTP]\n\n你的心中产生了突如其来的恐慌,你尽可能快地从这个邪恶的地方跑出来!当你到达井边时, [char1] 晕倒了. 幸运的是,她很快就醒来,呼吸十分急促."
 					},
 					{
 						"id": "LE_MurderousIdol01_Title",
@@ -7966,11 +7966,11 @@
 					},
 					{
 						"id": "LE_MurderousIdol01_Intro",
-						"text": "It's like a scene from a bizarre fever dream: The twisted bodies of the dead cultists form a vast circle in the desert sands. At the center, you see an ugly stone idol!\n\nAs you approach the bodies, you see that their heads have been cracked like raw eggs. [CTP] \n\nWhat on earth happened here? A vague feeling of panic grips you..."
+						"text": "就像一个奇异的发烧梦中的场景: 邪教死者扭曲的身体在沙漠中形成一个巨大的圆圈.在中心,你看到一个丑陋的石头塑像!\n\n当你靠近尸体时,你看到他们的头像生鸡蛋一样裂了. [CTP] \n\n到底发生了什么?一种莫名的恐慌感袭来..."
 					},
 					{
 						"id": "LE_MurderousIdol01_Choice01",
-						"text": "Examine the stone idol"
+						"text": "检查石像"
 					},
 					{
 						"id": "LE_MurderousIdol01_Choice02",
@@ -7978,119 +7978,119 @@
 					},
 					{
 						"id": "LE_MurderousIdol01_ExamineIdol",
-						"text": "You fight back your fear and step over the corpses to approach the idol. The statue leers at you through tiny, empty eyes. \n\nYou hear a faint wailing slowly swelling - then you realize it's just the desert wind blowing past the grotesque statue, and you laugh nervously. [CTP]\n\nVarious objects are scattered around the idol in the desert sand."
+						"text": "你克服你的恐惧,跨过尸体接近石像.石像透过一双又小又空的眼睛斜视着你. \n\n你听到一声微弱的哀号声慢慢传来,然后你意识到这只是沙漠的风吹过了这座奇形怪状的雕像,你紧张地笑了起来. [CTP]\n\n各种各样的物品散布在沙漠石像的周围."
 					},
 					{
 						"id": "LE_MurderousIdol01_Choice03",
-						"text": "Take the offerings"
+						"text": "拿走物品"
 					},
 					{
 						"id": "LE_MurderousIdol01_Choice04",
-						"text": "Knock over the idol"
+						"text": "击倒石像"
 					},
 					{
 						"id": "LE_MurderousIdol01_Choice05",
-						"text": "Leave this place"
+						"text": "离开这个地方"
 					},
 					{
 						"id": "LE_MurderousIdol01_ToppleIdol",
-						"text": "Working together, you manage to topple the idol. Immediately, you feel as if you have woken up from a nightmare."
+						"text": "齐心协力,你成功地推翻了石像.你立刻感觉好像从噩梦中醒来."
 					},
 					{
 						"id": "LE_LavaBridge01_Title",
-						"text": "一个古代矿井"
+						"text": "古老的矿洞"
 					},
 					{
 						"id": "LE_LavaBridge01_Intro",
-						"text": "The old mine reverberates with the sound of pickaxes striking rock – the Brotherhood cultists appear to be looking for something here. As you cautiously sneak closer, the noise stops; you see the cultists step back and commence some kind of prayer service. [CTP]\n\nYou take advantage of this opportunity to sneak deeper into the deserted corridors. \n\nYou soon reach a large cavern with a swirling lake of glowing lava at its center! In the middle of the lava lake is a small island where you see a deformed statue, presumably an object of worship for the Brotherhood. [CTP]\n\nThe cultists have piled their offerings at the foot of the ghastly idol. A crumbling stone bridge leads over the boiling lava..."
+						"text": "旧矿洞里回响着镐敲击岩石的声音 - 兄弟会的邪教分子似乎在这里寻找什么.当你小心地靠近时,噪音停止了;你看到邪教分子后退,开始了某种祈祷仪式. [CTP]\n\n你利用这个机会潜入更深处的荒芜走廊.\n\n你很快就到达了一个巨大的洞穴,在它的中心有一个漩涡状的炽热熔岩湖!在熔岩湖的中央是一个小岛,在那里你可以看到一尊畸形的雕像,大概是一个为兄弟会而崇拜的对象. [CTP]\n\n邪教分子们把他们的供品堆在可怕的石像脚下.一座破碎的石桥穿过沸腾的熔岩..."
 					},
 					{
 						"id": "LE_LavaBridge01_Choice01",
-						"text": "Go to the statue"
+						"text": "前往雕像"
 					},
 					{
 						"id": "LE_LavaBridge01_Choice02",
-						"text": "Examine the bridge"
+						"text": "检查桥梁"
 					},
 					{
 						"id": "LE_LavaBridge01_Choice03",
-						"text": "Turn back"
+						"text": "返回"
 					},
 					{
 						"id": "LE_LavaBridge01_Technical",
-						"text": "[char0] scratches his chin nervously: \n\n[char0]: \"It's a miracle the bridge is still standing...\"\n\nYou are none the wiser – what do you want to do?"
+						"text": "[char0] 紧张地抓着他的下巴: \n\n[char0]: \"桥还立着真是个奇迹...\"\n\n你不是最聪明的人 – 你想怎么做?"
 					},
 					{
 						"id": "LE_LavaBridge01_Technical_female",
-						"text": "[char0] scratches her chin nervously: \n\n[char0]: \"It's a miracle the bridge is still standing...\"\n\nYou are none the wiser – what do you want to do?"
+						"text": "[char0] 紧张地抓着她的下巴: \n\n[char0]: \"桥还立着真是个奇迹...\"\n\n你不是最聪明的人 – 你想怎么做?"
 					},
 					{
 						"id": "LE_LavaBridge01_WalkLucky",
-						"text": "You reach the island without further incident. You look around carefully: You are all alone in the huge cavern. \n\nThen your greedy eyes fall on the offerings..."
+						"text": "您到达岛上没有任何事情发生. 你仔细地环顾四周: 你独自一人在这个巨大的洞穴里. \n\n你贪婪的目光落在祭品上..."
 					},
 					{
 						"id": "LE_LavaBridge01_Incident",
-						"text": "After a few steps, you hear a worrying creaking sound; the stone bridge sways alarmingly from side to side! \n\nParts of the bridge edge crumble away under your weight and disappear, hissing into the lava!"
+						"text": "走了几步, 你听到了令人担忧的吱吱声; 石桥从一边到另一边摇晃得很厉害! \n\n桥边的一部分在你的重压下坍塌，坠落在熔岩中嘶嘶作响，最后消失了!"
 					},
 					{
 						"id": "LE_LavaBridge01_Choice04",
-						"text": "Turn back immediately"
+						"text": "立即返回"
 					},
 					{
 						"id": "LE_LavaBridge01_Choice05",
-						"text": "Continue cautiously"
+						"text": "小心继续"
 					},
 					{
 						"id": "LE_LavaBridge01_Choice06",
-						"text": "Rush forward"
+						"text": "快冲"
 					},
 					{
 						"id": "LE_LavaBridge01_AfterIncident",
-						"text": "Sweating and breathing heavily, you reach the statue. You look around carefully: You are all alone in the huge cavern. \n\nThen your greedy eyes fall on the cultists‘ belongings..."
+						"text": "你大汗淋漓，气喘吁吁地到了雕像前。你仔细地环顾四周：你独自一人在这个巨大的洞穴里. \n\n你贪婪的目光落在邪教分子的财物上..."
 					},
 					{
 						"id": "LE_LavaBridge01_TurnBack",
-						"text": "You leave the dilapidated bridge as fast as you can. You’ve lost your appetite for further exploration for the time being! \n\nYou carefully make your way to the exit..."
+						"text": "你尽快离开这座破旧的桥。暂时对进一步探索失去了兴趣! \n\n你小心地走到出口..."
 					},
 					{
 						"id": "LE_LavaBridge01_Slowly",
-						"text": "Your hearts pound in your ears as you move gingerly forward step by step across the groaning bridge."
+						"text": "当你小心翼翼地一步一步地走过那座哀鸣的桥时，你感觉到你的心在怦怦直跳."
 					},
 					{
 						"id": "LE_LavaBridge01_SlowlyLucky",
-						"text": "After a few steps, you reach a more stable section of the bridge. You continue towards the island."
+						"text": "经过几步，你到达了一个更平稳的桥段。继续往岛上走."
 					},
 					{
 						"id": "LE_LavaBridge01_SlowlyUnlucky",
-						"text": "Suddenly, the side of the bridge falls away! \n\n[char1] screams as he tumbles into the deep! [CTP]\n\nAt the last moment, he manages to grab the edge of the bridge! You spring forward and pull him up. Groaning, [char1] limps on one foot. The boot leather on his bad foot is severely scorched..."
+						"text": "突然，桥的另一边塌掉了! \n\n[char1] 在他快跌入深渊时尖叫了出来! [CTP]\n\n在最后一刻，他抓住了桥的边缘！你快步上前把他拉了起来。[char1] 的一只脚跛了,在一旁痛苦呻吟。他脚上的靴子皮革被严重烧焦了..."
 					},
 					{
 						"id": "LE_LavaBridge01_SlowlyUnlucky_female",
-						"text": "Suddenly, the side of the bridge falls away! \n\n[char1] screams as she tumbles into the deep! [CTP]\n\nAt the last moment, she manages to grab the edge of the bridge! You spring forward and pull her up. Groaning, [char1] limps on one foot. The boot leather on her bad foot is severely scorched..."
+						"text": "突然，桥的另一边塌掉了! \n\n[char1] 在她快跌入深渊时尖叫了出来! [CTP]\n\n在最后一刻，她抓住了桥的边缘！你快步上前把她拉了起来。[char1] 的一只脚跛了,在一旁痛苦呻吟。她脚上的靴子皮革被严重烧焦了..."
 					},
 					{
 						"id": "LE_LavaBridge01_FastLucky",
-						"text": "With the strength of desperation, you leap forward! You land clumsily, but safely on the hard stone of the bridge. \n\nFortunately, this section appears to be more stable. You continue towards the island."
+						"text": "你带着绝望往前一跃! 笨拙地着了陆，不过还是安全地落在桥上的硬石上. \n\n很幸运, 这一块地面更稳. 你继续往岛上前进."
 					},
 					{
 						"id": "LE_LavaBridge01_FastUnlucky",
-						"text": "Instinctively you dive forward, but that was a bad mistake! As [char1] crashes onto the hard stone, the side of the bridge collapses! \n\n[char1] screams as he tumbles into the deep! [CTP]\n\nAt the last moment, he manages to grab the edge of the bridge! You spring forward and pull him up. Groaning, [char1] limps on one foot. The boot leather on his bad foot is severely scorched..."
+						"text": "你本能地向前跳跃，但那是个错误的决定! 当 [char1] 撞到坚硬的石头上时，桥的一侧坍塌了! \n\n[char1] 在他快跌入深渊时尖叫了出来! [CTP]\n\n在最后一刻，他抓住了桥的边缘！你快步上前把他拉了起来。[char1] 的一只脚跛了,在一旁痛苦呻吟。他脚上的靴子皮革被严重烧焦了..."
 					},
 					{
 						"id": "LE_LavaBridge01_FastUnlucky_female",
-						"text": "Instinctively you dive forward, but that was a bad mistake! As [char1] crashes onto the hard stone, the side of the bridge collapses! \n\n[char1] screams as she tumbles into the deep! [CTP]\n\nAt the last moment, she manages to grab the edge of the bridge! You spring forward and pull her up. Groaning, [char1] limps on one foot. The boot leather on her bad foot is severely scorched..."
+						"text": "你本能地向前跳跃，但那是个错误的决定! 当 [char1] 撞到坚硬的石头上时，桥的一侧坍塌了! \n\n[char1] 在她快跌入深渊时尖叫了出来! [CTP]\n\n在最后一刻，她抓住了桥的边缘！你快步上前把她拉了起来。[char1] 的一只脚跛了,在一旁痛苦呻吟。她脚上的靴子皮革被严重烧焦了..."
 					},
 					{
 						"id": "LE_FailedInvocation01_Title",
-						"text": "An old burial site"
+						"text": "古坟场"
 					},
 					{
 						"id": "LE_FailedInvocation01_Intro",
-						"text": "As you enter the graveyard, you hear panicked screams somewhere ahead of you! \n\nMoments later, you are almost overrun by a crowd of stampeding cultists! You draw your weapons, but the panicked cultists do not even notice you... [CTP] \n\nWhen the last cultist has disappeared, an oppressive silence hangs over the necropolis. You exchange nervous glances... \n\n... and decide to get to the bottom of this mystery! [CTP]\n\nA short time later, you find the place the cultists were fleeing: a small, blood-soaked altar surrounded by several smoldering braziers. \n\nYou look around carefully, but you do not find anything else."
+						"text": "当你进入古坟墓场时，你听到前面有人惊慌失措的尖叫声！\n\n不久后，你几乎被一群争先恐后的邪教教徒所压倒！你拔出武器，但惊慌失措的教徒居然没有注意到你... [CTP] \n\n当最后一个祭祀者消失后，墓地上空笼罩着压抑的寂静。你露出紧张的眼神... \n\n... 决定一探究竟! [CTP]\n\n很快，你就发现祭祀者逃离的地方：一个被鲜血浸透的小祭坛周围环绕着几个闷烧的火盆. \n\n你仔细查看四周，但没有发现其他任何东西."
 					},
 					{
 						"id": "LE_FailedInvocation01_Choice01",
-						"text": "Examine the altar"
+						"text": "检查祭坛"
 					},
 					{
 						"id": "LE_FailedInvocation01_Choice02",
@@ -8098,15 +8098,15 @@
 					},
 					{
 						"id": "LE_FailedInvocation01_Unlucky",
-						"text": "Just as you reach the braziers, the entire place reverberates with a deep and terrible sound – as if the Earth itself were groaning in pain! You feel a painful pressure in your ears. \n\nSuddenly, [char0] collapses to the ground, twitching! He writhes around in the sand as if in unbearable agony! [CTP]\n\nWith all your strength, you grab [char0] and drag him away from the altar. It takes a while for [char0] to regain consciousness. You anxiously question him about the seizure, but [char0] stubbornly refuses to talk about it..."
+						"text": "当你到达火盆时，整个地方回荡着一种深沉而可怕的声音-仿佛大地在痛苦中呻吟! 你感到耳朵里有种疼痛的压迫感. \n\n突然, [char0] 倒在地上抽搐！他在沙地上翻来覆去，好像痛得无法忍受! [CTP]\n\n你用尽全力抓住 [char0] 并把他从祭坛边拖走。需要一段时间 [char0] 才能恢复意识。你焦急地问他癫痫发作的事，但 [char0] 固执地拒绝谈论它..."
 					},
 					{
 						"id": "LE_FailedInvocation01_Unlucky_female",
-						"text": "Just as you reach the braziers, the entire place reverberates with a deep and terrible sound – as if the Earth itself were groaning in pain! You feel a painful pressure in your ears. \n\nSuddenly, [char0] collapses to the ground, twitching! She writhes around in the sand as if in unbearable agony! [CTP]\n\nWith all your strength, you grab [char0] and drag her away from the altar. It takes a while for [char0] to regain consciousness. You anxiously question her about the seizure, but [char0] stubbornly refuses to talk about it..."
+						"text": "当你到达火盆时，整个地方回荡着一种深沉而可怕的声音-仿佛大地在痛苦中呻吟! 你感到耳朵里有种疼痛的压迫感. \n\n突然, [char0] 倒在地上抽搐！她在沙地上翻来覆去，好像痛得无法忍受! [CTP]\n\n你用尽全力抓住 [char0] 并把她从祭坛边拖走。需要一段时间 [char0] 才能恢复意识。你焦急地问她癫痫发作的事，但 [char0] 固执地拒绝谈论它..."
 					},
 					{
 						"id": "LE_FailedInvocation01_Lucky",
-						"text": "Clouds of smoke fill the air, almost choking you. Among the pools of coagulated blood on the altar, you find some interesting-looking offerings. You grab them quickly and leave this strange place before the cultists return."
+						"text": "烟云弥漫，几乎让你窒息。在祭坛上凝固的血池中，你会发现一些有趣的供品。你迅速拿起它们，离开这个陌生的地方，然后邪教教徒就回来了。"
 					},
 					{
 						"id": "LE_FungusOfDeath01_Title",
@@ -8114,15 +8114,15 @@
 					},
 					{
 						"id": "LE_FungusOfDeath01_Intro",
-						"text": "Some palm trees breaking up the monotony of the sandy desert draw your attention. Where there are plants, there is usually water – have you found an oasis? [CTP]\n\nA short time later, you reach a small palm grove on the edge of a dried out waterhole. You discover some parched, emaciated corpses – the remains of some cultists who met their end here! A strange fungus appears to be growing on their bodies... \n\nThe men are lying around a chest in an irregular semicircle. [CTP]\n\nThey probably carried it until their strength ran out and they took their last rest at this oasis.\n\nAs you approach the chest, you notice that it is also covered by the strange mold..."
+						"text": "一些棕榈树打破了沙漠的单调，引起你的注意。那里有植物，那里通常有水 - 你找到绿洲了吗? [CTP]\n\n很快，你就到了一个干涸的水坑边上的小棕榈林。你会发现一些干枯、消瘦的尸体 - 一些在这里了结的邪教教徒的遗体！一种奇怪的真菌似乎正在它们的身体上生长... \n\n这些人围成一个不规则的半圆，中间是个箱子. [CTP]\n\n直到体力耗尽，他们可能都一直带着它，最后死在这片绿洲.\n\n当你靠近箱子时，你注意到它也被奇怪的霉菌覆盖着..."
 					},
 					{
 						"id": "LE_FungusOfDeath01_Choice01",
-						"text": "Open the chest"
+						"text": "打开箱子"
 					},
 					{
 						"id": "LE_FungusOfDeath01_Choice02",
-						"text": "Inspect the bodies"
+						"text": "检查尸体"
 					},
 					{
 						"id": "LE_FungusOfDeath01_Choice03",
@@ -8130,95 +8130,95 @@
 					},
 					{
 						"id": "LE_FungusOfDeath01_MedicalF",
-						"text": "[char0] ties a cloth over his face and cautiously leans over one of the corpses:\n\n[char0]: \"I’ve never seen a fungus like this... It looks like it’s growing out of their mouths! Maybe the spores got lodged in their respiratory tracts...\"\n\nYou feel none the wiser. What do you want to do?"
+						"text": "[char0] 在他的脸上系上一块布，小心地倾斜在一具尸体上:\n\n[char0]: \"我从来没有见过这样的真菌... 好像是从他们嘴里长出来的! 也许孢子卡在了它们的呼吸道中...\"\n\n你觉得没有比这更好的解释了。你想做什么?"
 					},
 					{
 						"id": "LE_FungusOfDeath01_MedicalF_female",
-						"text": "[char0] ties a cloth over her face and cautiously leans over one of the corpses:\n\n[char0]: \"I’ve never seen a fungus like this... It looks like it’s growing out of their mouths! Maybe the spores got lodged in their respiratory tracts...\"\n\nYou feel none the wiser. What do you want to do?"
+						"text": "[char0] 在她的脸上系上一块布，小心地倾斜在一具尸体上:\n\n[char0]: \"我从来没有见过这样的真菌... 好像是从他们嘴里长出来的! 也许孢子卡在了它们的呼吸道中...\"\n\n你觉得没有比这更好的解释了。你想做什么?"
 					},
 					{
 						"id": "LE_FungusOfDeath01_LootLucky",
-						"text": "When you open the chest, a small rust-red cloud rises into the air! Instinctively, you dive aside and wait until the the cloud has dissipated. \n\nJust to be safe, you tie cloths over your faces. Then you use the desert sand to clean your finds as much as possible."
+						"text": "当你打开箱子，一小片锈红色的云升到了空中！你本能地躲到一边，等待乌云消散. \n\n为了安全起见，你必须把衣服系在脸上。然后你用沙漠的沙子尽可能地清理你发现的东西."
 					},
 					{
 						"id": "LE_FungusOfDeath01_LootSpores",
-						"text": "When you open the chest, a small rust-red cloud rises into the air! Instinctively, you dive aside, but [char1] inhales the cloud and is seized with a violent coughing fit! \n\nJust to be safe, you tie cloths over your faces. Then you use the desert sand to clean your finds as much as possible."
+						"text": "当你打开箱子，一小片锈红色的云升到了空中！你本能地躲到一边，但是 [char1] 吸入了云，并且开始剧烈地咳嗽! \n\n为了安全起见，你必须把衣服系在脸上。然后你用沙漠的沙子尽可能地清理你发现的东西."
 					},
 					{
 						"id": "LE_FungusOfDeath01_LootSpores_female",
-						"text": "When you open the chest, a small rust-red cloud rises into the air! Instinctively, you dive aside, but [char1] inhales the cloud and is seized with a violent coughing fit! \n\nJust to be safe, you tie cloths over your faces. Then you use the desert sand to clean your finds as much as possible."
+						"text": "当你打开箱子，一小片锈红色的云升到了空中！你本能地躲到一边，但是 [char1] 吸入了云，并且开始剧烈地咳嗽! \n\n为了安全起见，你必须把衣服系在脸上。然后你用沙漠的沙子尽可能地清理你发现的东西."
 					},
 					{
 						"id": "LE_UnstableSewer01_Title",
-						"text": "老旧的贮水系统"
+						"text": "古老的水箱系统"
 					},
 					{
 						"id": "LE_UnstableSewer01_Intro",
-						"text": "You manage to follow the Brotherhood procession unnoticed as it progresses deeper and deeper through the labyrinth of ancient cisterns. The chest that four of the cultists are carrying on their shoulders sparks your interest - what might it contain? [CTP] \n\nThe cultists in the procession intone an incomprehensible ritual chant. Suddenly, one of the cultists screams – the ground under his feet is crumbling away! \n\nIn the next few moments everything seems to happen at once: wildly gesticulating cultists, a thunderous crash as parts of the corridor give way, and finally a cloud of dust that sweeps down the tunnel, obscuring your view! [CTP]\n\nAs the cloud subsides, you see a scene of devastation: Parts of the cistern have come crashing down and buried the cultists below! [CTP]\n\nBeyond a heap of rubble, you see the chest – dare you attempt to salvage it or will the crumbling walls bury you too?"
+						"text": "你设法跟随兄弟会的队伍，没注意到他们在古老的水池迷宫中走得越来越深。四个邪教信徒扛着的箱子激起了你的兴趣-它可能有什么? [CTP] \n\n游行队伍中的教徒唱着一首难以理解的仪式圣歌。突然，一个邪教者尖叫起来-他脚下的土地正在坍塌! \n\n在接下来的几分钟里，一切似乎都在同时发生：教徒疯狂的手势，走廊部分让路时雷鸣般的撞击声，最后，一团灰尘扫过隧道，挡住了你的视线! [CTP]\n\n随着灰尘的消退，你看到一片毁灭的景象：部分水池已经倒塌，下面的教徒被掩埋了! [CTP]\n\n在一堆碎石中，你看到了箱子 - 你敢试图抢走它，或许倒塌的墙也会把你埋起来?"
 					},
 					{
 						"id": "LE_UnstableSewer01_Choice01",
-						"text": "Salvage the chest"
+						"text": "抢走箱子"
 					},
 					{
 						"id": "LE_UnstableSewer01_Choice02",
-						"text": "Examine the site"
+						"text": "检查站点"
 					},
 					{
 						"id": "LE_UnstableSewer01_Choice03",
-						"text": "Return to the surface"
+						"text": "返回地面"
 					},
 					{
 						"id": "LE_UnstableSewer01_Choice04",
-						"text": "Use brute force to pull out the chest"
+						"text": "用洪荒之力拔出箱子"
 					},
 					{
 						"id": "LE_UnstableSewer01_Choice05",
-						"text": "Carefully dig out the chest"
+						"text": "小心地挖出箱子"
 					},
 					{
 						"id": "LE_UnstableSewer01_TechnicalF",
-						"text": "[char0] takes a critical look at the corridor:\n\n[char0]: \"This looks bad... I would need heavy equipment to support the tunnel... I can’t guarantee anything!\"\n\nThat was honest, but not particularly helpful. What do you decide to do?"
+						"text": "[char0] 对走廊进行了一次关键性的观察:\n\n[char0]: \"这看起来很糟糕.. 我需要重型设备来支撑隧道... 我不能保证不会出任何事!\"\n\n这是实话，但没有特别的帮助。你决定做什么?"
 					},
 					{
 						"id": "LE_UnstableSewer01_TechnicalF_female",
-						"text": "[char0] takes a critical look at the corridor:\n\n[char0]: \"This looks bad... I would need heavy equipment to support the tunnel... I can’t guarantee anything!\"\n\nThat was honest, but not particularly helpful. What do you decide to do?"
+						"text": "[char0] 对走廊进行了一次关键性的观察:\n\n[char0]: \"这看起来很糟糕.. 我需要重型设备来支撑隧道... 我不能保证不会出任何事!\"\n\n这是实话，但没有特别的帮助。你决定做什么?"
 					},
 					{
 						"id": "LE_UnstableSewer01_ApproachChest",
-						"text": "You carefully inch your way forward, intent on avoiding any sudden shocks. When you reach the chest, you see that it has tipped over beneath the rubble. [char1] assesses the site of the collapse:\n\n[char1]: \"We should spend as little time as possible here!\""
+						"text": "你小心地向前挪动一小寸，以避免任何突然的冲击。当你够到箱子的时候，你看到它已经掉到瓦砾下面了. [char1] 评估坍塌的位置:\n\n[char1]: \"我们应该尽可能在这里少花时间!\""
 					},
 					{
 						"id": "LE_UnstableSewer01_ApproachChest_female",
-						"text": "You carefully inch your way forward, intent on avoiding any sudden shocks. When you reach the chest, you see that it has tipped over beneath the rubble. [char1] assesses the site of the collapse:\n\n[char1]: \"We should spend as little time as possible here!\""
+						"text": "你小心地向前挪动一小寸，以避免任何突然的冲击。当你够到箱子的时候，你看到它已经掉到瓦砾下面了. [char1] 评估坍塌的位置:\n\n[char1]: \"我们应该尽可能在这里少花时间!\""
 					},
 					{
 						"id": "LE_UnstableSewer01_PullW",
-						"text": "Sometimes, the simplest solution is the best! With a bold heave you tear the chest out of the rubble. You hear an ominous creaking overhead, and sand trickles down all around you – but the walls hold! \n\nYou quickly leave the scene of the disaster to examine your haul in safer surroundings!"
+						"text": "有时候，最简单的方法就是最好的！你猛地一拉，就把箱子从瓦砾中扯了出来。你听到头顶上有不祥的吱吱声，沙子从你周围滑落下来 - 但墙还很牢固! \n\n你可以快速离开现场，在更安全的环境下检查你的赃物!"
 					},
 					{
 						"id": "LE_UnstableSewer01_PullF",
-						"text": "With a bold heave you try to pull the chest out of the rubble – but the only thing that moves is the soil over your heads! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on his forehead! \n\nYou look around and realize the chest is now completely buried..."
+						"text": "你试图用一个大胆的举动把箱子从瓦砾中拉出来 - 但箱子没动，你头上的泥土掉了下来! [CTP]\n\n你像闪电一般跳到一边！设法避开了最坏的情况 - 但当尘埃落定时，你看到 [char2] 额头上的伤口在流血! \n\n你环顾四周，发现箱子已经完全被埋住了..."
 					},
 					{
 						"id": "LE_UnstableSewer01_PullF_female",
-						"text": "With a bold heave you try to pull the chest out of the rubble – but the only thing that moves is the soil over your heads! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on her forehead! \n\nYou look around and realize the chest is now completely buried..."
+						"text": "你试图用一个大胆的举动把箱子从瓦砾中拉出来 - 但箱子没动，你头上的泥土掉了下来! [CTP]\n\n你像闪电一般跳到一边！设法避开了最坏的情况 - 但当尘埃落定时，你看到 [char2] 额头上的伤口在流血! \n\n你环顾四周，发现箱子已经完全被埋住了..."
 					},
 					{
 						"id": "LE_UnstableSewer01_Dig",
-						"text": "You pick out some bricks and broken beams and use them as improvised shovels to carefully remove the debris. It takes forever to uncover the chest. \n\nAs you work, sand trickles onto your backs, but fortunately you avoid a collapse."
+						"text": "你挑了一些砖和碎梁，用它们作为临时的铲子，小心地清除碎片。挖出箱子需要很长时间. \n\n挖掘时，沙子掉到了你的背上，但幸运的是你躲避了倒塌."
 					},
 					{
 						"id": "LE_UnstableSewer01_DigW",
-						"text": "You grab the chest and leave the scene to examine your haul in safer surroundings!"
+						"text": "你拿起箱子离开现场，在更安全的环境下检查你的赃物!"
 					},
 					{
 						"id": "LE_UnstableSewer01_DigF",
-						"text": "Just as you are about to grab the chest, [char2] lets out a huge sneeze! \n\nYou freeze as you hear a loud creaking overhead: the ceiling gives way! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on his forehead! \n\nYou look around and realize the chest is now completely buried..."
+						"text": "就在你快要拿到箱子的时候, [char2] 打了个喷嚏! \n\n你听到头顶发出刺耳的吱吱声僵住了: 天花板裂开了! [CTP]\n\n你想闪电一般迅速跳到一边! 你设法避开了最坏的情况 - 但当尘埃落定时，你看到 [char2] 额头上的伤口在流血! \n\n你环顾四周，发现箱子已经完全被埋住了..."
 					},
 					{
 						"id": "LE_UnstableSewer01_DigF_female",
-						"text": "Just as you are about to grab the chest, [char2] lets out a huge sneeze! \n\nYou freeze as you hear a loud creaking overhead: the ceiling gives way! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on her forehead! \n\nYou look around and realize the chest is now completely buried..."
+						"text": "就在你快要拿到箱子的时候, [char2] 打了个喷嚏! \n\n你听到头顶发出刺耳的吱吱声僵住了: 天花板裂开了! [CTP]\n\n你想闪电一般迅速跳到一边! 你设法避开了最坏的情况 - 但当尘埃落定时，你看到 [char2] 额头上的伤口在流血! \n\n你环顾四周，发现箱子已经完全被埋住了..."
 					},
 					{
 						"id": "SE_Adventure02Intro_Title",
@@ -8226,79 +8226,79 @@
 					},
 					{
 						"id": "SE_Adventure02Intro_Intro",
-						"text": "You gun your engine: You have no intention of losing the race for the Wrath of God!"
+						"text": "你朝天开了几枪: 你不想因为上帝的愤怒而输掉比赛!"
 					},
 					{
 						"id": "SE_Adventure03Intro_Title",
-						"text": "在尼罗河岸边"
+						"text": "尼罗河两岸"
 					},
 					{
 						"id": "SE_Adventure03Intro_Intro",
-						"text": "A journey full of hardship awaits you - but you are determined to thwart the insane machinations of the Brotherhood at any cost! \n\nThe Black Pharaoh must never walk the earth again!"
+						"text": "一段充满艰辛的旅程等待着你 - 但你决心不惜任何代价挫败兄弟会的疯狂阴谋! \n\n黑法老王决不能复活!"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_Title",
-						"text": "亚拉拉特山"
+						"text": "阿拉拉特山"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_Intro",
-						"text": "At the foot of the mighty mountain, you finally find the vehicles of the Nazi expedition parked by an old mine entrance – you have reached your destination!\n\nYou park your own vehicle behind a rock and cautiously sneak closer with your weapons drawn, but you do not encounter anybody."
+						"text": "在这座雄伟的山脚下, 你终于发现纳粹远征队的车辆停在一个老矿口旁 – 你已经到达目的地了!\n\n您将自己的车辆停在岩石后面，小心地靠近并拔出武器, 但没有遇到任何人."
 					},
 					{
 						"id": "SE_Adventure02FinalFight_TheHall",
-						"text": "After a long trek through the enormous mine you hear voices. You sneak closer and hide behind some boxes. \n\nThe hall is teeming with soldiers! \n\nYou hear a loud shout! \n\nA detachment of soldiers runs into an adjoining room. You crane your necks, but you cannot see what they are doing there... [CTP] \n\n... suddenly you feel the muzzles of several rifle being jammed into your backs! You have been discovered!"
+						"text": "经过漫长的跋涉，穿过巨大的矿井后，你听到了一些声音. 你偷偷靠近，躲在一些箱子后面. \n\n大厅里挤满了士兵! \n\n接着你听到一声巨响! \n\n一队士兵跑进了隔壁的房间。你竖起脖子，却看不见他们在那儿干什么... [CTP] \n\n... 突然你感觉到几支步枪的枪口卡在你的背上! 你被发现了!"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_TheInnerChamber",
-						"text": "The patrol escorts you into the stone chamber. The soldiers and a senior officer are standing there around a huge, sprawling device. \n\nThe officer’s face lights up when he sees you:\n\n[char0]: \"Delightful! I do love company! Please, come closer!\" [CTP]\n\n[char0]: \"You see, this is the problem with these old myths: You never know what to expect...\"\n\n[char0]: \"The Wrath of God! Presumably an artifact of untold power! Deadly power, if you understand me...\" [CTP]\n\nThe officer points casually towards the object: \n\n[char0]: \"I’m sure you can appreciate that I am reluctant to risk the lives of my men. Perhaps you might help me...?\"\n\nThe officer nods to you encouragingly. You look around to see several rifles pointed at you! \n\nYou have no choice..."
+						"text": "巡警护送你进入石室。士兵们和一名高级军官站在一个巨大的、杂乱无章的装置周围. \n\n当警官看到你时，他的眼神发亮:\n\n[char0]: \"很高兴！我真的很喜欢陪伴！拜托，靠近点!\" [CTP]\n\n[char0]: \"你看，这是这些古老的神话的问题: 你永远不知道会发生什么...\"\n\n[char0]: \"上帝的愤怒！大概是一件不可估量的艺术品吧！致命的力量，如果你理解我的话...\" [CTP]\n\n军官随意地指向目标: \n\n[char0]: \"我相信你会感激我不让我的人的有生命危险。也许你能帮我...?\"\n\n军官鼓舞人心地向你点头。你环顾四周，看到几把步枪指着你! \n\n你别无选择..."
 					},
 					{
 						"id": "SE_Adventure02FinalFight_WrathOfGod",
-						"text": "You approach the strange object. It is covered with arcane devices. In their midst you see a bizarre, yet fearsome-looking object!\n\nIs this the mythical Wrath of God? What will happen if you take it?\n\n[char1] shrugs and grabs the artifact. Then everything happens very quickly..."
+						"text": "你接近一个陌生的物体。它盖着神秘的装置。在它的中间，你看到了一个奇异但又骇人的物体!\n\n这是上帝神话中的愤怒吗？如果你拿了会怎么样?\n\n[char1] 耸耸肩并抓住神器。然后一切都会很快发生..."
 					},
 					{
 						"id": "SE_Adventure02FinalFight_WrathOfGod_female",
-						"text": "You approach the strange object. It is covered with arcane devices. In their midst you see a bizarre, yet fearsome-looking object!\n\nIs this the mythical Wrath of God? What will happen if you take it?\n\n[char1] shrugs and grabs the artifact. Then everything happens very quickly..."
+						"text": "你接近一个陌生的物体。它盖着神秘的装置。在它的中间，你看到了一个奇异但又骇人的物体!\n\n这是上帝神话中的愤怒吗？如果你拿了会怎么样?\n\n[char1] 耸耸肩并抓住神器。然后一切都会很快发生..."
 					},
 					{
 						"id": "SE_Adventure02FinalFight_StartFight",
-						"text": "Among the startled shouts of the surprised soldiers you also hear [char1]’s cries of pain! \n\nThe Wrath of God glows red in his hands! \n\nIn a swift motion, [char1] hurls the weapon aside!\n\nYou take cover, anticipating a German counterattack!"
+						"text": "在惊异士兵的惊叫声中，你也听到了 [char1]’s 痛苦的叫喊声! \n\n上帝的愤怒在他手中发出红光! \n\n [char1] 迅速把武器扔到一边!\n\n你躲了起来，等待德国的反击!"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_StartFight_female",
-						"text": "Among the startled shouts of the surprised soldiers you also hear [char1]’s cries of pain! \n\nThe Wrath of God glows red in her hands! \n\nIn a swift motion, [char1] hurls the weapon aside!\n\nYou take cover, anticipating a German counterattack!"
+						"text": "在惊异士兵的惊叫声中，你也听到了 [char1]’s 痛苦的叫喊声! \n\n上帝的愤怒在她手中发出红光! \n\n [char1] 迅速把武器扔到一边!\n\n你躲了起来，等待德国的反击!"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_Aftermath",
-						"text": "As the last soldier falls to the ground, you look at each other in disbelief: You actually did it! \n\nBut you don’t have much time! A loud creaking noise warns you of another impending danger – the monstrous construct did not survive the battle unscathed! [CTP]\n\nThe whole place could collapse at any moment! \n\nYou run as fast as you can to escape the collapsing masonry! [CTP] \n\nOnly when you have reached your jeep do you have time to catch your breath."
+						"text": "当最后一个士兵也倒在地上时，你们诧异地看着对方: 你们真的做到了! \n\n但是你们没有多少时间！巨大的吱吱声在预兆着迫在眉睫的危险的到来- – 可怕的建筑在战斗中几乎尽毁! [CTP]\n\n整个地方随时有可能倒塌! \n\n您在砖石倒塌下来之前飞快跑出来! [CTP] \n\当您到达吉普车时，您才喘了口气."
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Title",
-						"text": "图拉什拉神庙"
+						"text": "图拉什神庙"
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Intro",
-						"text": "Repellent and awe-inspiring, the Obsidian Pyramid towers over the inhospitable Nubian Stone Desert. This must be it – the legendary temple of Turash-Ra, the Black Pharaoh! \n\nWill you get there in time to prevent the unholy ritual?"
+						"text": "令人憎恶和敬畏的是，黑曜石金字塔耸立在荒凉的努比亚石漠之上。这一定是-图拉什的传奇神庙，黑法老王! \n\n你能及时赶到那里阻止不圣洁的仪式吗?"
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Observe",
-						"text": "A monotonous chanting lures you deeper and deeper into the temple. You scurry from cover to cover until the winding passages finally bring you to a spacious hall. \n\nHidden behind some stone blocks, you have an excellent vantage point – but your blood runs cold in your veins when you see the scene before you! [CTP]\n\nSeveral crevices run through the hall. Beyond the crevices, countless cultists crowd together, swaying as if in a trance! Their ecstatic singing fills the entire temple complex and echoes in your ears."
+						"text": "诵经般的咒语，引诱你深入寺庙。你从一个地方跑到另一个地方，直到蜿蜒的通道把你带到一个宽敞的大厅. \n\n在一些石块后面，你找到一个有利位置 – 但是当你看到前面的场景时，你的血管收缩，感觉背脊发凉! [CTP]\n\n大厅里到处都是裂缝. 在裂缝之外，无数的邪教教徒聚集在一起，摇曳着，仿佛在恍惚之中！他们欣喜若狂的咒语充满了整个寺庙，回响在你的耳朵里."
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Ritual",
-						"text": "Right in front of you, the high priestess of the Brotherhood stands in front of a gigantic stone sarcophagus. Her most loyal acolytes surround her. \n\nAt a gesture from her, a small procession begins: Seven cultists approach the sarcophagus, each of them bearing an ornate ceremonial jar! [CTP]\n\nYou gasp! Those jars must contain the embalmed organs of the Black Pharaoh! If they are reunited with the mummy of Turash-Ra, his resurrection will be inevitable! \n\nSome of the cultist leaders are already raising the stone lid of the sarcophagus..."
+						"text": "兄弟会的女祭司就在你面前，她站在一个巨大的石棺前。她最忠诚的助手们围绕着她. \n\n她做了一个手势，一小队人开始走动：七个邪教教徒走近石棺，每个人都拿着一个华丽的仪式罐子! [CTP]\n\n你喘了口气！这些罐子一定是装着黑法老王的防腐器官！如果它们与图拉什的木乃伊重聚，他的复活将不可避免! \n\n一些邪教领袖已经抬起石棺的石盖..."
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Action",
-						"text": "While you're still deciding what to do, [char0] jumps forward with a loud battle cry! \n\nHe charges one of the jar bearers and strikes him down! Before the other cultists can react, [char0] has already taken two other jar bearers by surprise – their jars bake and hiss in the glowing embers of an overturned brazier! [CTP]\n\nA low moan passes through the cultist crowd on the other side of the gorge! \n\nThe high priestess screams and raises her arms in supplication. The ground trembles as she invokes her infernal servants! \n\nThere is no turning back now! You draw your weapons..."
+						"text": "当你还在决定做什么的时候, [char0] 跳到前面，大声喊叫! \n\n他控制了其中一个抬罐者并击倒了他! 在其他的邪教分子反应过来之前, [char0] 已经惊动了两个抬罐者 – 他们的罐子在一个翻倒火盆的灼热余烬中烘烤，发出嘶嘶声! [CTP]\n\n一声低沉的呻吟穿过峡谷另一边的邪教群众! \n\n女祭司尖叫着举起双臂祈祷. 当她召唤她地狱般的仆人时，大地都在颤抖! \n\n现在已经没有回头路了! 你拔出武器..."
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Action_female",
-						"text": "While you're still deciding what to do, [char0] jumps forward with a loud battle cry! \n\nShe charges one of the jar bearers and strikes him down! Before the other cultists can react, [char0] has already taken two other jar bearers by surprise – their jars bake and hiss in the glowing embers of an overturned brazier! [CTP]\n\nA low moan passes through the cultist crowd on the other side of the gorge! \n\nThe high priestess screams and raises her arms in supplication. The ground trembles as she invokes her infernal servants! \n\nThere is no turning back now! You draw your weapons..."
+						"text": "当你还在决定做什么的时候, [char0] 跳到前面，大声喊叫! \n\n她控制了其中一个抬罐者并击倒了他! 在其他的邪教分子反应过来之前, [char0] 已经惊动了两个抬罐者 – 他们的罐子在一个翻倒火盆的灼热余烬中烘烤，发出嘶嘶声! [CTP]\n\n一声低沉的呻吟穿过峡谷另一边的邪教群众! \n\n女祭司尖叫着举起双臂祈祷. 当她召唤她地狱般的仆人时，大地都在颤抖! \n\n现在已经没有回头路了! 你拔出武器..."
 					},
 					{
 						"id": "SE_Adventure03FinalFight_Aftermath",
-						"text": "Breathing heavily, you stand over your defeated foes. \n\nAs if from afar, you hear the excited babble of voices and the echoes of countless feet on the stone floor. \n\nThe cultists! Now every second counts! [CTP]\n\nYou rush through the endless corridors of the temple!\n\nAs you throw yourselves into your jeep, the cultists pour out of the temple like a human flood!"
+						"text": "你站在被击败的敌人面前喘着粗气. \n\n你听到石板上传来远处的脚步声以及咕噜声. \n\n是邪教分子! 现在时间紧迫! [CTP]\n\n你匆匆穿过寺庙的无尽走廊!\n\n当你进入吉普车的时候，教徒们像洪水一样涌出神庙!"
 					},
 					{
 						"id": "SE_Adventure02Clue03_Title",
@@ -8306,43 +8306,43 @@
 					},
 					{
 						"id": "SE_Adventure02Clue03_Intro",
-						"text": "The cloud of dust is heading straight for you! You soon hear the loud engine – a Wehrmacht jeep races along the desert track at breakneck speed! Several military vehicles are hard on his heels! \n\nOne of them peels away in an attempt to cut the fugitive off: They’ll catch up with him soon!"
+						"text": "尘土向你飞奔而来! 你很快就听到了巨大的引擎声 – 一辆国防吉普车以惊人的速度在沙地上奔驰! 几辆军用车辆紧跟着它! \n\n其中一个想把逃犯拦下来: 他们很快就能赶上他!"
 					},
 					{
 						"id": "SE_Adventure02Clue03_Choice01",
-						"text": "Hide behind a dune"
+						"text": "躲在沙丘后面"
 					},
 					{
 						"id": "SE_Adventure02Clue03_Choice02",
-						"text": "Attack the pursuers"
+						"text": "攻击追击者"
 					},
 					{
 						"id": "SE_Adventure02Clue03_AvoidBattle",
-						"text": "You hear tires squeal and loud shouting! Then the sounds of a short firefight. A short time later, engines roar and finally disappear into the distance. \n\nYou wait a few minutes and then search the body of the lone soldier in the desert sand. \n\nYou find nothing of interest."
+						"text": "你听到轮胎的摩擦声和响亮的叫喊声! 然后是短暂交火的声音. 过了一会儿，发动机轰鸣，最后消失在远处. \n\n您等待几分钟，然后在沙漠中搜寻孤兵的尸体. \n\n您找不到任何感兴趣的东西."
 					},
 					{
 						"id": "SE_Adventure02Clue03_Aftermath",
-						"text": "The soldier waves his arms in the air excitedly as he runs over to you:\n\n[char0]: \"You saved my life! Colonel von Ortzen is an insane sadist! I couldn’t take the constant cruelty!\"\n\nYou ask the man what he knows about the Wrath of God: [CTP]\n\n[char0]: \"I only know the rumors - but apparently it is a weapon of terrible power. We are supposed to find it and take it back to Berlin.\"\n\n[char0]: \"A super weapon for the German army! It will make us invincible! Just think of the possibilities!\""
+						"text": "“当士兵向你跑过来时，他兴奋地挥动着他的手臂:\n\n[char0]: \"你救了我的命! 冯·奥尔森上校是个疯狂的虐待狂! 我忍受不了他的残忍!\"\n\n你问他知不知道上帝的愤怒: [CTP]\n\n[char0]: \"我只知道谣言 - 但显然它是一种威力巨大的武器. 我们应该找到它并把它带回柏林.\"\n\n[char0]: \"德国军队的超级武器! 它将使我们无敌! 想想可能性吧!\""
 					},
 					{
 						"id": "SE_Adventure02Clue03_Goodbye",
-						"text": "The man sees that his enthusiasm is less than infectious and clears his throat in embarrassment: \n\n[char0]: \"Well - thank you for your help.\"\n\nWith these words he gets into his vehicle and drives off."
+						"text": "他看到自己的热情没有那么大的感染力，尴尬地清了清嗓子: \n\n[char0]: \"好吧 - 谢谢你的帮助.\"\n\n听到这些话，他就上车开走了."
 					},
 					{
 						"id": "SE_Adventure02Clue01_Title",
-						"text": "一些小屋"
+						"text": "木屋"
 					},
 					{
 						"id": "SE_Adventure02Clue01_Intro",
-						"text": "As you reach the outer buildings of an abandoned village, a rifle shot comes out of nowhere! \n\nAs fast as lightning, you veer off the track and jump out of your vehicle, diving behind some low walls for cover! [CTP]\n\nSomewhere in the ruins, a voice shouts out:\n\n[char0]: \"Colonel von Ortzen was right: We were being followed!\"\n\n[char0]: \"I think we can handle this problem! Open fire!\""
+						"text": "你到达一个废弃村庄的外部建筑时，不知从何处开出一枪! \n\n你闪电一样调转方向，跳出车外，潜到一些低矮的墙后躲避! [CTP]\n\n在废墟中的某个地方，一个声音喊道:\n\n[char0]: \"冯·奥尔森上校是对的: 我们被跟踪了!\"\n\n[char0]: \我认为我们可以处理这个问题！开火!\""
 					},
 					{
 						"id": "SE_Adventure02Clue01_Aftermath",
-						"text": "In the officer's map case, you find some torn Bible pages. \n\nYou scan the pages and find a passage underlined in pencil: [CTP]\n\n\"And the LORD God said, Behold, Adam is become as one of Us, to know Good and Evil. So He drove out the Man; and He placed at the East of the Garden of Eden Cherubims, and a Flaming Sword which turned every way, to guard the Way of the Tree of Life with The Wrath of God.\"\n\nPerturbed, you shake your heads..."
+						"text": "在警官的地图箱里，你发现一些被撕破的圣经书页. \n\n你翻阅书页时，发现一段用笔画了线的文字: [CTP]\n\n\"主耶和华说，看哪，亚当已经成为我们中的一员，要知道善恶.他就把那人赶去基路伯伊甸园的东面，把一把四面都是火的刀放在那里，用神的愤怒看守生命树的道路.\"\n\nPerturbed, you shake your heads..."
 					},
 					{
 						"id": "SE_Adventure02Clue02_Title",
-						"text": "一个沙漠营地"
+						"text": "A camp in the desert"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Intro",
@@ -8402,7 +8402,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue02_Title",
-						"text": "一个沙漠营地"
+						"text": "A camp in the desert"
 					},
 					{
 						"id": "SE_Adventure03Clue02_Intro",
@@ -8422,7 +8422,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue03_Title",
-						"text": "水池边"
+						"text": "A waterhole"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Intro",
@@ -8478,7 +8478,7 @@
 					},
 					{
 						"id": "SE_Adventure03Clue01_Title",
-						"text": "一个古老的水潭"
+						"text": "An old waterhole"
 					},
 					{
 						"id": "SE_Adventure03Clue01_Intro",
@@ -8494,7 +8494,7 @@
 					},
 					{
 						"id": "SE_Adventure01Clue04_Title",
-						"text": "一座沙漠地堡"
+						"text": "A desert bunker"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Intro",
@@ -8526,7 +8526,7 @@
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Title",
-						"text": "阿特拉斯山脉"
+						"text": "The Atlas Mountains"
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Intro",
@@ -8570,7 +8570,7 @@
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Title",
-						"text": "叙利亚沙漠"
+						"text": "The Syrian Desert"
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Intro",
@@ -8582,7 +8582,7 @@
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Title",
-						"text": "亚美尼亚山脉"
+						"text": "The Armenian Mountains"
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Intro",
@@ -8590,7 +8590,7 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_anabelle_Title",
-						"text": "旧矿区"
+						"text": "An old mineshaft"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Intro",
@@ -8614,7 +8614,7 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_Title",
-						"text": "努比亚边境"
+						"text": "The Nubian border"
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_Intro",
@@ -8626,7 +8626,7 @@
 					},
 					{
 						"id": "SE_Adventure05Intro_Title",
-						"text": "吉达附近"
+						"text": "Near Jeddah"
 					},
 					{
 						"id": "SE_Adventure05Intro_Intro",
@@ -8666,7 +8666,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Title",
-						"text": "水池边"
+						"text": "A waterhole"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Intro",
@@ -8682,7 +8682,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Title",
-						"text": "水池边"
+						"text": "A waterhole"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Intro",
@@ -8734,7 +8734,7 @@
 					},
 					{
 						"id": "SE_Adventure05Clue02_Title",
-						"text": "一个古代矿井"
+						"text": "An ancient mine"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Intro",
@@ -8782,7 +8782,7 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Title",
-						"text": "无尽的沙漠"
+						"text": "The endless desert"
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Intro",
@@ -8802,7 +8802,7 @@
 					},
 					{
 						"id": "SE_Adventure05Clue03_Title",
-						"text": "绿洲定居点"
+						"text": "An oasis settlement"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Intro",
@@ -8882,7 +8882,7 @@
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Title",
-						"text": "Kharga Serabit古城"
+						"text": "Kharga Serabit"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Intro",
@@ -8922,7 +8922,7 @@
 					},
 					{
 						"id": "SE_Adventure06Intro_Title",
-						"text": "吉布提附近"
+						"text": "Near Djibouti"
 					},
 					{
 						"id": "SE_Adventure06Intro_Intro",
@@ -8930,7 +8930,7 @@
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Title",
-						"text": "古代墓穴"
+						"text": "An ancient tomb"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Intro",
@@ -8978,39 +8978,39 @@
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_anabelle_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_annabelle_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_chandra_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_georgette_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_jackson_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_leonora_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_natalya_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_rose_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_veduti_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_Intro",
@@ -9034,7 +9034,7 @@
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Title",
-						"text": "阿姆哈拉高地"
+						"text": "The Amhara Highlands"
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Intro",
@@ -9094,7 +9094,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue01_Title",
-						"text": "在古代阿克苏姆"
+						"text": "In ancient Aksum"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Intro",
@@ -9166,7 +9166,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue02_Title",
-						"text": "山中小村"
+						"text": "A mountain village"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Intro",
@@ -9234,7 +9234,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue03_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06Clue03_Intro",
@@ -9294,7 +9294,7 @@
 					},
 					{
 						"id": "SE_Adventure06Clue04_Title",
-						"text": "在山里"
+						"text": "群山之间"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Intro",
@@ -9358,15 +9358,15 @@
 					},
 					{
 						"id": "FE_Nothing01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingUndeadBlack01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingUndeadWhite01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_Nothing01_Intro",
@@ -9374,31 +9374,31 @@
 					},
 					{
 						"id": "FE_NothingAmmoLoot01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingAmmoLootUndeadBlack01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingAmmoLootUndeadWhite01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingFuelLoot01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingFuelLoot01UndeadBlack_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_NothingFuelLootUndeadWhite01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "CU_Fenrir01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "CU_Fenrir01_Intro",
@@ -9410,7 +9410,7 @@
 					},
 					{
 						"id": "CU_SnowWhite01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "CU_SnowWhite01_Intro",
@@ -9422,7 +9422,7 @@
 					},
 					{
 						"id": "FA_FenrirDied01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_FenrirDied01_Intro",
@@ -9434,7 +9434,7 @@
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Intro",
@@ -9446,7 +9446,7 @@
 					},
 					{
 						"id": "FA_AloneRescue01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_AloneRescue01_Intro",
@@ -9570,15 +9570,15 @@
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Trailer_title",
-						"text": "亚美尼亚山脉"
+						"text": "The Armenian Mountains"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Trailer_title",
-						"text": "沙漠定居点"
+						"text": "An oasis settlement"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Trailer_title",
-						"text": "在古代阿克苏姆"
+						"text": "In ancient Aksum"
 					},
 					{
 						"id": "FE_CavedInTemple01_Intro",
@@ -9846,55 +9846,55 @@
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaAdvantage01_Title",
-						"text": "一座古代神庙"
+						"text": "古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaAdvantage02_Title",
-						"text": "一座大型神庙"
+						"text": "寺庙建筑群"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaAdvantage03_Title",
-						"text": "一座荒废神庙"
+						"text": "神庙废墟"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaDisadvantage01_Title",
-						"text": "一座古代神庙"
+						"text": "古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaDisadvantage02_Title",
-						"text": "一座大型神庙"
+						"text": "寺庙建筑群"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaDisadvantage03_Title",
-						"text": "一座荒废神庙"
+						"text": "神庙废墟"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaNeutral01_Title",
-						"text": "一座古代神庙"
+						"text": "古代神庙"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaNeutral02_Title",
-						"text": "一座大型神庙"
+						"text": "寺庙建筑群"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonLavaNeutral03_Title",
-						"text": "一座荒废神庙"
+						"text": "神庙废墟"
 					},
 					{
 						"id": "CU_FenrirNoJeep01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "CU_SnowWhiteNoJeep01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_AloneRescueNoJeep01_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep01_Title",
-						"text": "一些草丛"
+						"text": "矮灌木丛"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep02_Title",
@@ -9902,39 +9902,39 @@
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep03_Title",
-						"text": "几棵矮小的灌木"
+						"text": "蓬乱的灌木丛"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep04_Title",
-						"text": "一些矮小的草丛"
+						"text": "粗糙的草丛"
 					},
 					{
 						"id": "FE_GenericBrushwoodNoJeep05_Title",
-						"text": "几颗干枯的树"
+						"text": "几棵晒焦的树"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep01_Title",
-						"text": "一些断壁残垣"
+						"text": "断壁残垣"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep02_Title",
-						"text": "一个古老的沙漠村庄"
+						"text": "古老的沙漠村庄"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep03_Title",
-						"text": "一座废墟"
+						"text": "荒地"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep04_Title",
-						"text": "一些村庄遗迹"
+						"text": "村庄遗址"
 					},
 					{
 						"id": "FE_GenericDesertRuinsNoJeep05_Title",
-						"text": "一些小屋"
+						"text": "木屋"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep01_Title",
-						"text": "几头孤独的山羊"
+						"text": "几只落单的山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep02_Title",
@@ -9942,7 +9942,7 @@
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep03_Title",
-						"text":"几头口渴的山羊"
+						"text": "一群饥渴山羊"
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep04_Title",
@@ -9950,7 +9950,7 @@
 					},
 					{
 						"id": "FE_GenericLonelyGoatsNoJeep05_Title",
-						"text": "几头骨瘦如柴的山羊"
+						"text": "一群骨瘦如柴的山羊"
 					},
 					{
 						"id": "FE_AbandonedJeepNoJeep01_Title",
@@ -10078,7 +10078,7 @@
 					},
 					{
 						"id": "RE_GenericOasisNoJeep01_Title",
-						"text": "水池边"
+						"text": "A waterhole"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep02_Title",
@@ -10086,7 +10086,7 @@
 					},
 					{
 						"id": "RE_GenericOasisNoJeep03_Title",
-						"text": "一口小水井"
+						"text": "A small well"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep04_Title",
@@ -10094,75 +10094,75 @@
 					},
 					{
 						"id": "RE_GenericOasisNoJeep05_Title",
-						"text": "一个小绿洲"
+						"text": "小绿洲"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep01_Title",
-						"text": "一些断壁残垣"
+						"text": "断壁残垣"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep02_Title",
-						"text": "一些村庄遗迹"
+						"text": "村庄遗址"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep03_Title",
-						"text": "一些古老小屋"
+						"text": "旧木屋"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep04_Title",
-						"text": "一个沙漠村庄"
+						"text": "一个荒凉的村庄"
 					},
 					{
 						"id": "RE_GenericRuinsNoJeep05_Title",
-						"text": "村庄废墟"
+						"text": "村庄遗址"
 					},
 					{
 						"id": "FA_TeamDied01_Fenrir_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied01_SnowWhite_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied02_Fenrir_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied02_SnowWhite_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied03_Fenrir_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied03_SnowWhite_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied04_Fenrir_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied04_SnowWhite_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied05_Fenrir_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied05_SnowWhite_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied06_Fenrir_Title",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					},
 					{
 						"id": "FA_TeamDied06_SnowWhite",
-						"text": "在荒无人烟的地方"
+						"text": "在寸草不生之地"
 					}
 				]
 			},
