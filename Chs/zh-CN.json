@@ -5482,11 +5482,11 @@
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral05",
-						"text": "The desert wind whistles dismally over the old burial ground. \n\nHow long has it been since humans last set foot in this godforsaken place? \n\nYour question is answered faster than you expected: You have disturbed a group of cultists from their grisly ritual. They attack immediately!"
+						"text": "沙漠坟墓风声啸啸响起. \n\n这被人类遗忘的地方到底有多久没有人踏足过? \n\n想不到你问题的答案这么快就有了: 一群可怕的异教徒走了出来. 马上就发起了进攻!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01",
-						"text": "You hear the strange chanting before you see the graveyard beyond the dunes. \n\nYou sneak up cautiously and see a group of cultists assembled around a mausoleum."
+						"text": "在看到沙丘外部的坟墓之前. \n\n你小心潜行发现了一群聚集在坟墓周围的异教徒."
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage04",
@@ -5494,7 +5494,7 @@
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage05",
-						"text": "In the center of the ancient burial ground, you spot a large group of cultists clustered around a grave slab. \n\nThey begin to chant. You do not understand the words but the hackles on your neck stand on end! \n\nWhat is happening here?"
+						"text": "在古代坟墓中心,你发现了一群邪教徒聚集在墓地周围. \n\n他们开始念诵一下你听不明白的话!but the hackles on your neck stand on end! \n\n这里发生了什么?"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01_Choice01",
