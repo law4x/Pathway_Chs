@@ -3690,7 +3690,7 @@
 					},
 					{
 						"id": "SE_Adventure01Clue03_AgentMonologue",
-						"text": "你在一堆岩石间发现了一具德国指挥官的尸体. 那个男人趴在地上, 他周围的沙子被染成了棕色.\n\n[char4]: \"von Bördemarck上尉让我们别无选择, 我们只能把他当成一只疯狗射杀.\" [CTP]\n\n你转身看到阴暗处有一个德国士兵斜靠在岩石上. 他的制服上沾满了血迹.\n\n[char4]: \"不幸的是, Bördemarck走的并不安详. 脚受伤. 恐怕是感染了...\"\n\n那个男人耸了耸肩, 仿佛是在道歉. 然后他继续说 – 他的脸因为痛苦而变得扭曲: [CTP]\n\n[char4]: \"我不是为了我自己才这么做的 – 我的路在这儿到头了, 但幸运的是, 至少我的战友们逃掉了. 你能给我点水么?\"\n\n你迟疑地给了他一点水. 喝完他又断断续续地开始说, 只是这回他的话语变得有些语无伦次精神错乱: [CTP]\n\n[char4]: \"北非... 秘密行动...在沙漠里挖掘, 全世界...Poliakowski博士说...挖掘斯大林的... 俄国北冰洋上难以置信的文物...伟大功绩...亚特兰蒂斯将从波涛中升起而我们将成为神...Valkyrium - Valkyrium将统治明天的世界!\" [CTP]\n\n他停顿了下来, 呼吸沉重. 有那么片刻他好像恢复了神志. 但最终他苦笑一声 – 血从他的鼻子涌出: \n\n[char4]: \"远古的神啊...在这里我像伊卡洛斯一样死在太阳的热浪中, 因为自己的傲慢而奔向毁灭! 告诉Magda, 我一直爱她...!\" [CTP]\n\n说完这些遗言, 那个人就死了. 你搜刮了他的身体: 他身上的材料表明他是一个年轻的反间谍中尉. 他的疯言疯语到底又意味着什么? 你把他的尸体埋在一个临时的坟墓里后便离开了, 但他的话语却一直在你耳边回响."
+						"text": "你在一堆岩石间发现了一具德国指挥官的尸体. 那个男人趴在地上, 他周围的沙子被染成了棕色.\n\n[char4]: \"von Bördemarck上尉让我们别无选择, 我们只能把他当成一只疯狗射杀.\" [CTP]\n\n你转身看到阴暗处有一个德国士兵斜靠在岩石上. 他的制服上沾满了血迹.\n\n[char4]: \"不幸的是, Bördemarck走的并不安详. 脚受伤. 恐怕是感染了...\"\n\n那个男人耸了耸肩, 仿佛是在道歉. 然后他继续说 – 他的脸因为痛苦而变得扭曲: [CTP]\n\n[char4]: \"我不是为了我自己才这么做的 – 我的路在这儿到头了, 但幸运的是, 至少我的战友们逃掉了. 你能给我点水么?\"\n\n你迟疑地给了他一点水. 喝完他又断断续续地开始说, 只是这回他的话语变得有些语无伦次精神错乱: [CTP]\n\n[char4]: \"北非... 秘密行动...在沙漠里挖掘, 全世界...Poliakowski博士说...挖掘斯大林的... 俄国北冰洋上难以置信的文物...伟大功绩...亚特兰蒂斯将从波涛中升起而我们将成为神...Valkyrium - Valkyrium将统治明天的世界!\" [CTP]\n\n他停顿了下来, 呼吸沉重. 有那么片刻他好像恢复了神志. 但最终他苦笑一声 – 血从他的鼻子涌出: \n\n[char4]: \"远古的神啊...在这里我像伊卡洛斯一样死在太阳的热浪中, 因为自己的傲慢而终奔向毁灭! 告诉Magda, 我一直爱她...!\" [CTP]\n\n说完这些遗言, 那个人就死了. 你搜刮了他的身体: 他身上的证件表明他是一个年轻的反间谍中尉. 他的疯言疯语到底又意味着什么? 你把他的尸体埋在一个临时的坟墓里后便离开了, 但他的话语却一直在你耳边回响."
 					},
 					{
 						"id": "CR_Brandy01_Revisit",
@@ -3886,95 +3886,97 @@
 					},
 					{
 						"id": "BE_SupplyTransport01_ChaseW",
-						"text": "You gun the engine and take up the pursuit. After a frantic chase you finally catch up with the Germans at some ruins! The soldiers hastily take cover as you move in to attack."
+						"text": "你加大油门追了上去. 经过一番疯狂的追逐后你一处遗迹追上了德军! 在你准备进攻的时候士兵们也纷纷躲进掩体."
 					},
 					{
 						"id": "BE_SupplyTransport01_ChaseF",
-						"text": "You take up the pursuit, but after a short while you realize there is no way you will catch up with the enemy truck. The Germans disappear in a cloud of dust. You continue your journey, but as a precaution you choose a side track to avoid any reinforcements that might be coming your way."
+						"text": "你追了上去, 但没过多久你就意识到你根本没办法追上敌人的卡车. 德国佬们消失在一片尘土之中. 你继续你的旅程, 但为了以防万一你选择了走一条小路以防止敌人有增援部队顺着车印尾随找到你."
 					},
 					{
 						"id": "BE_SupplyTransport01_Daredevil",
-						"text": "You put your foot down and race after the escaping soldiers. You continue to close the distance until you are finally neck to neck with the Germans! \n\nWithout a second thought, [char0] leaps from your speeding jeep into the enemy vehicle, grabbing the driver’s wheel!"
+						"text": "你踩下油门开始追赶逃跑的士兵. 你不断地缩短距离直到两辆车最终并排行驶在一起.! \n\n[char0]二话不说从飞驰的吉普车上跳到了敌人的驾驶室, 抢夺驾驶员的方向盘!"
 					},
 					{
 						"id": "BE_SupplyTransport01_Daredevil_female",
-						"text": "You put your foot down and race after the escaping soldiers. You continue to close the distance until you are finally neck to neck with the Germans!\n\nWithout a second thought, [char0] leaps from your speeding jeep into the enemy vehicle, grabbing the driver’s wheel!"
+						"text": "你踩下油门开始追赶逃跑的士兵. 你不断地缩短距离直到两辆车最终并排行驶在一起.! \n\n[char0]二话不说从飞驰的吉普车上跳到了敌人的驾驶室, 抢夺驾驶员的方向盘!"
 					},
 					{
 						"id": "BE_SupplyTransport01_DaredevilW",
-						"text": "After a short but desperate struggle, the Wehrmacht truck trundles to a stop. The Germans jump out and take cover in some ruins!"
+						"text": "经过短暂激烈的争斗, 军用卡车慢慢停了下来, 德国人跳下车躲进了附近一处遗迹的掩体之中!"
 					},
 					{
 						"id": "BE_SupplyTransport01_DaredevilF",
-						"text": "A desperate struggle ensues, and a few moments later [char0] is thrown head-first into the desert sands! \n\nYou hit the brakes to check on [char0]! [CTP]\n\nAs the Germans escape, you see [char0] stagger to his feet. Bruised and battered but otherwise unharmed, he limps over to you with a rueful grin: \n\n[char0]: \"Probably not one of my better ideas...\""
+						"text": "紧接着是一阵殊死的搏斗. 过了一会儿[char0]被扔下了车, 一头栽进了沙地里! \n\n你急踩刹车查看[char0]的状况! [CTP]\n\n德国佬们跑了, 而你看见[char0]摇摇晃晃地站了起来, 虽然鼻青脸肿但没什么大碍. 他一拐一拐向你走来, 脸上毛挂着惨淡的微笑: \n\n[char0]: \"也许那并不是个好主意...\""
 					},
 					{
 						"id": "BE_SupplyTransport01_DaredevilF_female",
-						"text": "A desperate struggle ensues, and a few moments later [char0] is thrown head-first into the desert sands! \n\nYou hit the brakes to check on [char0]! [CTP]\n\nAs the Germans escape, you see [char0] stagger to her feet. Bruised and battered but otherwise unharmed, she limps over to you with a rueful grin: \n\n[char0]: \"Probably not one of my better ideas...\""
+						"text": "紧接着是一阵殊死的搏斗. 过了一会儿[char0]被扔下了车, 一头栽进了沙地里! \n\n你急踩刹车查看[char0]的状况! [CTP]\n\n德国佬们跑了, 而你看见[char0]摇摇晃晃地站了起来, 虽然鼻青脸肿但没什么大碍. 她一拐一拐向你走来, 脸上毛挂着惨淡的微笑: \n\n[char0]: \"也许那并不是个好主意...\""
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_Intro",
-						"text": "The village looks run-down and deserted. You see a small plume of smoke rising from the courtyard of a caravansary. \n\nYou decide to investigate – and run straight into a unit of German soldiers who have set up camp here!"
+						"text": "这破败的村庄看上去已经被人遗弃. 你看到一缕轻烟从给商队呆的庭院里飘出来.\n\n你决定调查一番 – 然后正好和在这里露营的一队德国士兵打了个照面!"
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_TrickNPC",
-						"text": "For a moment, you stare at each other dumbfounded, when [char0] suddenly takes a step forward: \n\n[char0]: \"I’m glad I’ve found you here! Lieutenant Müller of the Casablanca office, reporting a covert prisoner transport!\" [CTP]\n\nA weather-beaten sergeant rises behind his field table and looks [char0] up and down suspiciously: \n\n[char1]: \"Lieutenant Müller, hmm...?\""
+						"text": "有好一会儿, 你们各自惊呆地瞪着对方. 突然[char0]向前一步: \n\n[char0]: \"很高兴能在这儿找到你们! 我是卡萨布兰卡办事处的Müller中尉, 上级要求我来察看汇报一个囚犯的秘密运输情况!\" [CTP]\n\n一名老练的军士从桌后站起身来怀疑地上下打量了[char0]一番: \n\n[char1]: \"Müller中尉, 嗯...?\""
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_TrickNPC_female",
-						"text": "For a moment, you stare at each other dumbfounded, when [char0] suddenly takes a step forward: \n\n[char0]: \"I’m glad I’ve found you here! Lieutenant Müller of the Casablanca office, reporting a covert prisoner transport!\" [CTP]\n\nA weather-beaten sergeant rises from behind his field table and looks [char0] up and down suspiciously: \n\n[char1]: \"Lieutenant Müller, hmm...?\""
+						"text": "有好一会儿, 你们各自惊呆地瞪着对方. 突然[char0]向前一步: \n\n[char0]: \"很高兴能在这儿找到你们! 我是卡萨布兰卡办事处的Müller中尉, 上级要求我来察看汇报一个囚犯的秘密运输情况!\" [CTP]\n\n一名老练的军士从桌后站起身来怀疑地上下打量了[char0]一番: \n\n[char1]: \"Müller中尉, 嗯...?\""
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_TrickNPCW",
-						"text": "[char0]: \"Stand to attention when you address a German officer!\"\n\nThe soldiers jump to attention in alarm. [char0] clears his throat vigorously: [CTP]\n\n[char0]: \"As I was saying: I’m glad I’ve found you. Tell me, how well supplied with fuel is your unit?\"\n\nThe sergeant struggles for words as [char0] slaps him jovially on the shoulder:\n\n[char0]: \"Splendid! I will have high praise indeed for you in my report!\""
+						"text": "[char0]: \"和长官讲话时请立正!\"\n\n士兵们惊慌地赶紧立正. [char0]神气地清了清嗓子: [CTP]\n\n[char0]: \"正如我刚才说的: 很高兴我找到你们了. 告诉我, 你们小队的燃料供应情况如何?\"\n\n那个军士正支支吾吾说不出话来, [char0]友好地拍了拍他的肩:\n\n[char0]: \"好极了! 我会在汇报中给予你们很高的评价!\""
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_TrickNPCW_female",
-						"text": "[char0]: \"Stand to attention when you address a German officer!\"\n\nThe soldiers jump to attention in alarm. [char0] clears her throat vigorously: [CTP]\n\n[char0]: \"As I was saying: I’m glad I’ve found you. Tell me, how well supplied with fuel is your unit?\"\n\nThe sergeant struggles for words as [char0] slaps him jovially on the shoulder:\n\n[char0]: \"Splendid! I will have high praise indeed for you in my report!\""
+						"text": "[char0]: \"和长官讲话时请立正!\"\n\n士兵们惊慌地赶紧立正. [char0]神气地清了清嗓子: [CTP]\n\n[char0]: \"正如我刚才说的: 很高兴我找到你们了. 告诉我, 你们小队的燃料供应情况如何?\"\n\n那个军士正支支吾吾说不出话来, [char0]友好地拍了拍他的肩:\n\n[char0]: \"好极了! 我会在汇报中给予你们很高的评价!\""
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_TrickNPCF",
-						"text": "[char1]: \"Papers please!\"\n\n[char0] looks around nervously, then shrugs in resignation. The next instant, he flips over the Germans’ field table! \n\nYou take advantage of the sudden confusion to take cover while the startled soldiers rush about!"
+						"text": "[char1]: \"请出示证件!\"\n\n[char0]尴尬地环顾四周, 最后无奈地耸了耸肩. 下一秒他迅速翻跃过了德国人的桌子! \n\n你们趁德国兵还没反应过来迅速躲进掩体, 
+						而受惊的士兵们也开始四处逃窜隐蔽!"
 					},
 					{
 						"id": "BE_SurprisedSoldiers01_TrickNPCF_female",
-						"text": "[char1]: \"Papers please!\"\n\n[char0] looks around nervously, then shrugs in resignation. The next instant, she flips over the Germans’ field table! \n\nYou take advantage of the sudden confusion to take cover while the startled soldiers rush about!"
+						"text": "[char1]: \"请出示证件!\"\n\n[char0]尴尬地环顾四周, 最后无奈地耸了耸肩. 下一秒她迅速翻跃过了德国人的桌子! \n\n你们趁德国兵还没反应过来迅速躲进掩体, 
+						而受惊的士兵们也开始四处逃窜隐蔽!"
 					},
 					{
 						"id": "LE_CobraCache01_Intro",
-						"text": "What looked like a large boulder from a distance turns out to be a Wehrmacht jeep with a lone soldier tinkering at its engine. [CTP]\n\nYou see him jump at the sound of your engine, but then he relaxes when he sees you: \n\n[char0]: \"You wouldn’t hurt a harmless deserter, would you? I’ll be gone as soon as I fix this engine!\""
+						"text": "远处看起来像块大石头的东西结果是一辆德军的吉普车, 一个落单的士兵下在修理它的引擎. [CTP]\n\n你看到当他听到你车子声响时吓了一跳, 但接下来当他看到你时他放松下来: \n\n[char0]: \"你不会伤害一个手无寸铁的逃兵, 对吧? 我修好引擎就走!\""
 					},
 					{
 						"id": "LE_CobraCache01_Leave",
-						"text": "The man offers you a cigarette and you exchange a few words. Then you continue your journey."
+						"text": "他递给你一支香烟, 你们聊了会儿. 然后你继续你的旅程."
 					},
 					{
 						"id": "LE_CobraCache01_IntimidateW",
-						"text": "Full of menace, [char1] leans down until he is face to face with the man: \n\n[char1]: \"If we let him go, he will tell the next Wehrmacht patrol all about us!\"\n\nThe soldier blinks in fear and holds his hands up in supplication: [CTP]\n\n[char0]: \"How about I sweeten the deal? You let me go, and I tell you about a secret supply camp not far from here!\"\n\nCurious, you agree. You follow his directions and soon reach a rocky outcrop."
+						"text": "[char1]一脸凶相地俯下身子, 直到他和士兵面对面: \n\n[char1]: \"如果我们放他走了, 他会告诉其他德国兵我们的所有情况!\"\n\n士兵惊恐地眨巴眨巴眼, 举起双手祈祷: [CTP]\n\n[char0]: \"我告诉你们一些情报如何? 你们放我走, 我带你们去一个离这儿不远的秘密补给储存点!\"\n\n你好奇地同意了. 你顺着他的指引很快来到了个有块露出地面的岩石的地方."
 					},
 					{
 						"id": "LE_CobraCache01_IntimidateW_female",
-						"text": "Full of menace, [char1] leans down until she is face to face with the man: \n\n[char1]: \"If we let him go, he will tell the next Wehrmacht patrol all about us!”\n\nThe soldier blinks in fear and holds his hands up in supplication: [CTP]\n\n[char0]: \"How about I sweeten the deal? You let me go, and I tell you about a secret supply camp not far from here!\"\n\nCurious, you agree. You follow his directions and soon reach a rocky outcrop."
+						"text": "[char1]一脸凶相地俯下身子, 直到她和士兵面对面: \n\n[char1]: \"如果我们放他走了, 他会告诉其他德国兵我们的所有情况!\"\n\n士兵惊恐地眨巴眨巴眼, 举起双手祈祷: [CTP]\n\n[char0]: \"我告诉你们一些情报如何? 你们放我走, 我带你们去一个离这儿不远的秘密补给储存点!\"\n\n你好奇地同意了. 你顺着他的指引很快来到了个有块露出地面的岩石的地方."
 					},
 					{
 						"id": "LE_CobraCache01_TechnicalW",
-						"text": "[char2] bends over the hood: \n\n[char2]: \"The spark plugs have come loose!\"\n\nThe man thanks you profusely. Before setting off, he tells you about a secret Wehrmacht supply camp not far from here. You follow his instructions and soon reach some rocks."
+						"text": "[char2]弯腰瞄了眼引擎盖里面: \n\n[char2]: \"火花塞松了!\"\n\n士兵非常地感谢你. 临行前, 他告诉你离这儿不远处有个秘密的军用补给储存点. 你顺着他的指引很快到达了一堆岩石附近."
 					},
 					{
 						"id": "LE_CobraCache01_TechnicalW_female",
-						"text": "[char2] bends over the hood: \n\n[char2]: \"The spark plugs have come loose!\"\n\nThe man thanks you profusely. Before setting off, he tells you about a secret Wehrmacht supply camp not far from here. You follow his instructions and soon reach some rocks."
+						"text": "[char2]弯腰瞄了眼引擎盖里面: \n\n[char2]: \"火花塞松了!\"\n\n士兵非常地感谢你. 临行前, 他告诉你离这儿不远处有个秘密的军用补给储存点. 你顺着他的指引很快到达了一堆岩石附近."
 					},
 					{
 						"id": "LE_CobraCache01_CobraCache",
-						"text": "You soon find the crevice in the rocks that the deserter described: The supply crates are there – but unfortunately several cobras have also made their nest here!"
+						"text": "你很快在岩石间找到了逃兵所说的一条裂缝: 补给箱就放在那儿 – 但不幸的是有几条眼镜蛇也把它们的巢穴筑在了那里!"
 					},
 					{
 						"id": "LE_CobraCache01_Choice01",
-						"text": "Drive off the snakes"
+						"text": "赶走蛇"
 					},
 					{
 						"id": "LE_CobraCache01_Choice02",
-						"text": "Assess the area"
+						"text": "分析该区域"
 					},
 					{
 						"id": "LE_CobraCache01_Choice03",
@@ -3982,43 +3984,43 @@
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasW",
-						"text": "[char3] grabs a dry stick and brandishes it wildly at the ill-tempered snakes. \n\nThe animals slither away reluctantly – you can now get to the crates!"
+						"text": "[char3]拿起一根干木棍对着脾气暴躁的蛇一顿挥舞. \n\n几条蛇不情愿地游走了 – 你现在可以拿到箱子了!"
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasW_female",
-						"text": "[char3] grabs a dry stick and brandishes it wildly at the ill-tempered snakes. \n\nThe animals slither away reluctantly – you can now get to the crates!"
+						"text": "[char3]拿起一根干木棍对着脾气暴躁的蛇一顿挥舞. \n\n几条蛇不情愿地游走了 – 你现在可以拿到箱子了!"
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasF1",
-						"text": "[char3] grabs a dry stick and brandishes it wildly at the ill-tempered snakes. \n\nOne of the snakes rears up and strikes out at [char3]. It misses him by a hair's breadth, but you take flight as the other snakes begin to slither towards you!"
+						"text": "[char3]拿起一根干木棍对着脾气暴躁的蛇一顿挥舞. \n\n其中一条蛇立了起来并向[char3]发动了攻击. 它差一丁点儿就咬到了他. 而其他蛇也向你们游了过来, 你们赶紧逃之夭夭!"
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasF1_female",
-						"text": "[char3] grabs a dry stick and brandishes it wildly at the ill-tempered snakes. \n\nOne of the snakes rears up and strikes out at [char3]. It misses her by a hair's breadth, but you take flight as the other snakes begin to slither towards you!"
+						"text": "[char3]拿起一根干木棍对着脾气暴躁的蛇一顿挥舞. \n\n其中一条蛇立了起来并向[char3]发动了攻击. 它差一丁点儿就咬到了她. 而其他蛇也向你们游了过来, 你们赶紧逃之夭夭!"
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasF2",
-						"text": "[char3] grabs a dry stick and brandishes it wildly at the ill-tempered snakes. \n\nOne of the snakes rears up menacingly. As fast as lightning, it strikes out and bites [char3] on the wrist! [char3] shakes it off and you take flight before the situation gets even worse!"
+						"text": "[char3]拿起一根干木棍对着脾气暴躁的蛇一顿挥舞. \n\n其中一条蛇充满威胁地立了起来. 它闪电一般地发动攻击并咬在了[char3]的手腕上! [char3]把蛇从身上抖下来. 你们在情况变得更糟之前赶紧逃之夭夭!"
 					},
 					{
 						"id": "LE_CobraCache01_ExpelCobrasF2_female",
-						"text": "[char3] grabs a dry stick and brandishes it wildly at the ill-tempered snakes. \n\nOne of the snakes rears up menacingly. As fast as lightning, it strikes out and bites [char3] on the wrist! [char3] shakes it off and you take flight before the situation gets even worse!"
+						"text": "[char3]拿起一根干木棍对着脾气暴躁的蛇一顿挥舞. \n\n其中一条蛇充满威胁地立了起来. 它闪电一般地发动攻击并咬在了[char3]的手腕上! [char3]把蛇从身上抖下来. 你们在情况变得更糟之前赶紧逃之夭夭!"
 					},
 					{
 						"id": "LE_CobraCache01_SurvivalW",
-						"text": "[char4] makes an improvised torch out of a nearby stick and a handful of dry grass, before carefully approaching the snake's nest. \n\nThe animals slither away reluctantly – you can now get to the crates!"
+						"text": "[char4]用附近的树枝和干草做了个临时火把, 然后才小心翼翼地靠近蛇的巢穴. \n\n几条蛇不情愿地游走了 – 你现在可以拿到箱子了!"
 					},
 					{
 						"id": "LE_CobraCache01_SurvivalW_female",
-						"text": "[char4] makes an improvised torch out of a nearby stick and a handful of dry grass, before she carefully approaches the snake's nest. \n\nThe animals slither away reluctantly – you can now get to the crates!"
+						"text": "[char4]用附近的树枝和干草做了个临时火把, 然后才小心翼翼地靠近蛇的巢穴. \n\n几条蛇不情愿地游走了 – 你现在可以拿到箱子了!"
 					},
 					{
 						"id": "LE_CobraCache01_SurvivalF",
-						"text": "[char4] makes an improvised torch out of a nearby stick and a handful of dry grass, before carefully approaching the snake's nest. [CTP]\n\nOne of the snakes rears up and strikes out at [char4]! \n\nIt misses him by a hair's breadth, but you take flight as the other snakes begin to slither towards you!"
+						"text": "[char4]用附近的树枝和干草做了个临时火把, 然后才小心翼翼地靠近蛇的巢穴. [CTP]\n\n其中一条蛇立了起来并向[char4]发动了攻击! \n\n它差一丁点儿就咬到了他. 而其他蛇也向你们游了过来, 你们赶紧逃之夭夭!"
 					},
 					{
 						"id": "LE_CobraCache01_SurvivalF_female",
-						"text": "[char4] makes an improvised torch out of a nearby stick and a handful of dry grass, before she carefully approaches the snake's nest. [CTP]\n\nOne of the snakes rears up and strikes out at [char4]! \n\nIt misses her by a hair's breadth, but you take flight as the other snakes begin to slither towards you!"
+						"text": "[char4]用附近的树枝和干草做了个临时火把, 然后才小心翼翼地靠近蛇的巢穴. [CTP]\n\n其中一条蛇立了起来并向[char4]发动了攻击! \n\n它差一丁点儿就咬到了她. 而其他蛇也向你们游了过来, 你们赶紧逃之夭夭!"
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Intro",
