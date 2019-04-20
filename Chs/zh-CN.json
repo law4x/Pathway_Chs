@@ -3182,7 +3182,7 @@
 					},
 					{
 						"id": "AE_TimeLost01_Intro",
-						"text": "你看到一大团扬起的尘土正缓缓地向你移动. 你不解地停了下来. 很快你意识到一大队卡车正朝你开过来. 一定是德国佬们来了! [CTP]\n\n你慌忙在附近的一片洼地躲了起来. 希望周围的沙丘能把你隐藏起来不被士兵们发现! 发动机的轰鸣声越来越大. \n\n感觉像是过了几个世纪, 终于引擎的噪音缓缓消失在远方. 你也长舒了一口气: 德国人没用发现你!"
+						"text": "你看到一大团扬起的尘土正缓缓地向你移动. 你不解地停了下来. 很快你意识到一大队卡车正朝你开过来. 一定是德国佬们来了! [CTP]\n\n你慌忙在附近的一片洼地躲了起来. 希望周围的沙丘能把你隐藏起来不被士兵们发现! 发动机的轰鸣声越来越大. \n\感觉像是过了几个世纪, 终于引擎的噪音缓缓消失在远方. 你也长舒了一口气: 德国人没用发现你!"
 					},
 					{
 						"id": "AE_TimeLost02_Intro",
@@ -4022,23 +4022,23 @@
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Intro",
-						"text": "The footprints that led you to the interior of the deserted temple end suddenly. In front of you, the lifeless bodies of several soldiers lie in pools of their own blood on the paving stones in front of a massive altar! The corpses are strangely contorted, as if saying a final prayer to a nameless deity.\n\nSuspiciously, you look around. You soon discover small holes in the stone slabs – the soldiers triggered an ancient trap! [CTP]\n\n[char0] climbs up onto a stone sarcophagus and cranes his neck:\n\n[char0]: \"That indentation on the altar – I can’t tell exactly what, but there’s something in there!\""
+						"text": "你顺着脚印进入了一座废弃神殿内部, 然而脚印却戛然而止. 在你面前是一个巨大的祭坛, 祭坛前的台阶上几具士兵的尸体横在血泊之中! 尸体的姿势奇怪而扭曲, 仿佛在向一位无名的神作最后的祈祷.\n\n你疑心重重地环顾四周. 很快你便发现石板上有些小孔 – 这些士兵们触发了一个古代的机关! [CTP]\n\n[char0]爬上石棺伸长了脖子看:\n\n[char0]: \"那个祭坛上的凹痕 – 我说不清具体是什么, 但是有东西在那儿!\""
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Intro_female",
-						"text": "The footprints that led you to the interior of the deserted temple end suddenly. In front of you, the lifeless bodies of several soldiers lie in pools of their own blood on the paving stones in front of a massive altar! The corpses are strangely contorted, as if transfixed in a final prayer to a nameless deity.\n\nSuspiciously, you look around. You soon discover small holes in the stone slabs – the soldiers triggered an ancient trap! [CTP]\n\n[char0] climbs up onto a stone sarcophagus and cranes her neck:\n\n[char0]: \"That indentation on the altar – I can’t tell exactly what, but there’s something in there!\""
+						"text": "你顺着脚印进入了一座废弃神殿内部, 然而脚印却戛然而止. 在你面前是一个巨大的祭坛, 祭坛前的台阶上几具士兵的尸体横在血泊之中! 尸体的姿势奇怪而扭曲, 仿佛在向一位无名的神作最后的祈祷.\n\n你疑心重重地环顾四周. 很快你便发现石板上有些小孔 – 这些士兵们触发了一个古代的机关! [CTP]\n\n[char0]爬上石棺伸长了脖子看:\n\n[char0]: \"那个祭坛上的凹痕 – 我说不清具体是什么, 但是有东西在那儿!\""
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Choice01",
-						"text": "Try to avoid triggering the trap"
+						"text": "尝试避免触发机关"
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Choice02",
-						"text": "Tiptoe past the trap"
+						"text": "踮着脚穿过陷阱"
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Choice03",
-						"text": "Improvise!"
+						"text": "即兴发挥!"
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Choice04",
@@ -4046,87 +4046,87 @@
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrap",
-						"text": "[char1] carefully feels his way forward. Step by step, he moves over the bodies, always careful not to step on a loose flagstone."
+						"text": "[char1]小心地摸索着前进. 他一步一步跨过尸体, 尽量不去碰任何一块松动的石板."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrap_female",
-						"text": "[char1] carefully feels her way forward. Step by step, she moves over the bodies, always careful not to step on a loose flagstone."
+						"text": "[char1]小心地摸索着前进. 她一步一步跨过尸体, 尽量不去碰任何一块松动的石板."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrapW",
-						"text": "After what seems like an eternity, [char1] reaches the altar. He cheers triumphantly as he gathers up his spoils. \n\n[char1] takes the same route back to you."
+						"text": "经过了相当漫长的时间[char1]终于来到祭坛边上. 他一边发出胜利的欢呼一边收集他的战利品. \n\n[char1]之后他又按原路返回到了你们身边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrapW_female",
-						"text": "After what seems like an eternity, [char1] reaches the altar. She cheers triumphantly as she gathers up her spoils. \n\n[char1] takes the same route back to you."
+						"text": "经过了相当漫长的时间[char1]终于来到祭坛边上. 她一边发出胜利的欢呼一边收集她的战利品. \n\n[char1]之后她又按原路返回到了你们身边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrapF",
-						"text": "After a few steps, you hear a faint click – [char1] triggered the trap! Immediately, a spear shoots out of the hole directly under him! \n\n[char1] is badly injured but manages to roll away from the trapped flagstones! You treat [char1]’s wound as best you can, but you are no longer eager to discover the secrets of the mysterious altar."
+						"text": "走了几步, 你听到一声轻微的响动 – [char1]触动了机关! 顿时, 一支长矛从他正下方的洞里射了出来! \n\n[char1]受了重伤但成功从机关石板上滚到了一边! 你尽可能地帮[char1]处理好伤口, 但是你们对发掘这个神秘祭坛的秘密再也提不起兴趣了."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_TryTrapF_female",
-						"text": "After a few steps, you hear a faint click – [char1] triggered the trap! Immediately, a spear shoots out of the hole directly under her! \n\n[char1] is badly injured but manages to roll away from the trapped flagstones! You treat [char1]’s wound as best you can, but you are no longer eager to discover the secrets of the mysterious altar."
+						"text": "走了几步, 你听到一声轻微的响动 – [char1]触动了机关! 顿时, 一支长矛从她正下方的洞里射了出来! \n\n[char1]受了重伤但成功从机关石板上滚到了一边! 你尽可能地帮[char1]处理好伤口, 但是你们对发掘这个神秘祭坛的秘密再也提不起兴趣了."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Stealth",
-						"text": "With catlike grace, [char2] glides over the flagstones on tiptoe."
+						"text": "[char2]像猫一样灵巧地踮步穿过石板."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Stealth_female",
-						"text": "With catlike grace, [char2] glides over the flagstones on tiptoe."
+						"text": "[char2]像猫一样灵巧地踮步穿过石板."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_StealthW",
-						"text": "He soon reaches the altar!\n\nHe grabs the treasures that lie in the depression and returns to you in the same manner."
+						"text": "他很快到达了祭坛!\n\n他拿上了祭坛凹陷处的宝物, 然后以同样的姿态返回到了你们身边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_StealthW_female",
-						"text": "She soon reaches the altar!\n\nShe grabs the treasures that lie in the depression and returns to you in the same manner."
+						"text": "她很快到达了祭坛!\n\n他拿上了祭坛凹陷处的宝物, 然后以同样的姿态返回到了你们身边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_StealthF",
-						"text": "After a few steps, you hear a faint click – [char2] triggered the trap! Immediately, a spear shoots out of the hole directly under him! \n\nWith lightning-fast reflexes, [char2] throws himself backwards and rolls to safety. The spear misses him by a hand's breadth! You have lost your appetite for treasure hunting and decide to move on."
+						"text": "走了几步, 你听到一声轻微的响动 – [char2]触动了机关! 顿时, 一支长矛从他正下方的洞里射了出来! \n\n[char2]像闪电一般瞬间反应过来, 并向后翻滚到了安全位置. 长矛在离他一手掌宽的距离戳了个空! 这下你们对寻宝彻底失去了兴趣, 决定继续前进."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_StealthF_female",
-						"text": "After a few steps, you hear a faint click – [char2] triggered the trap! Immediately, a spear shoots out of the hole directly under her! \n\nWith lightning-fast reflexes, [char2] throws herself backwards and rolls to safety. The spear misses her by a hand's breadth! You have lost your appetite for treasure hunting and decide to move on."
+						"text": "走了几步, 你听到一声轻微的响动 – [char2]触动了机关! 顿时, 一支长矛从他正下方的洞里射了出来! \n\n[char2]像闪电一般瞬间反应过来, 并向后翻滚到了安全位置. 长矛在离他一手掌宽的距离戳了个空! 这下你们对寻宝彻底失去了兴趣, 决定继续前进."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Daredevil",
-						"text": "[char3] ties a rope into a lasso and throws it around a crossbeam that juts out from the ceiling above the altar. Then he climbs onto the stone sarcophagus and swings off."
+						"text": "[char3]用绳子绑了个套索, 把它扔到祭坛上方天花板的横梁上. 然后他爬上石棺抓住绳子荡了过去."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_Daredevil_female",
-						"text": "[char3] ties a rope into a lasso and throws it around a crossbeam that juts out from the ceiling above the altar. Then she climbs onto the stone sarcophagus and swings off."
+						"text": "[char3]用绳子绑了个套索, 把它扔到祭坛上方天花板的横梁上. 然后她爬上石棺抓住绳子荡了过去."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_DaredevilW",
-						"text": "[char3] lands on the stone edge of the altar. For a moment, he struggles to keep his balance, but then he recovers and starts to examine the altar. \n\nHe cheers triumphantly as he gathers up his spoils. Then [char3] swings back over to you."
+						"text": "[char3]落在了祭坛的石质边缘. 他稍作平衡, 然后开始检查祭坛. \n\n他一边发出胜利的欢呼一边收集他的战利品, 之后又荡回到了你们这边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_DaredevilW_female",
-						"text": "[char3] lands on the stone edge of the altar. For a moment, she struggles to keep her balance, but then she recovers and starts to examine the altar. \n\nShe cheers triumphantly as she gathers up her spoils. Then [char3] swings back over to you."
+						"text": "[char3]落在了祭坛的石质边缘. 她稍作平衡, 然后开始检查祭坛. \n\n她一边发出胜利的欢呼一边收集她的战利品, 之后又荡回到了你们这边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_DaredevilF",
-						"text": "[char3] underestimates the length of the rope and the soles of his shoes brush the flagstones as he swings over to the altar! A spear shoots out from between the stone slabs and grazes his shoulder blades! \n\n[char3] yelps in pain, and for a second you fear that he will let go of the rope! [CTP] \n\nBut the next moment he lands on the stone edge of the altar! He cheers triumphantly as he gathers up his spoils. Then [char3] swings back over to you."
+						"text": "[char3]低估了绳子的长度, 当他荡向祭坛的时候他的鞋底擦了下石板! 一支长矛从石阶里射出刮到了他的肩胛骨! \n\n[char3]痛得大叫一声, 你一度担心他手会松开绳子! [CTP] \n\n然而下一秒他落在了祭坛的石质边缘! 他一边发出胜利的欢呼一边收集他的战利品, 之后又荡回到了你们这边."
 					},
 					{
 						"id": "LE_SpearTrapAltar01_DaredevilF_female",
-						"text": "[char3] underestimates the length of the rope and the soles of her shoes brush the flagstones as she swings over to the altar! A spear shoots out from between the stone slabs and grazes her shoulder blades! \n\n[char3] yelps in pain, and for a second you fear that she will let go of the rope! [CTP] \n\nBut the next moment she lands on the stone edge of the altar! She cheers triumphantly as she gathers up her spoils. Then [char3] swings back over to you."
+						"text": "[char3]低估了绳子的长度, 当她荡向祭坛的时候他的鞋底擦了下石板! 一支长矛从石阶里射出刮到了她的肩胛骨! \n\n[char3]痛得大叫一声, 你一度担心她手会松开绳子! [CTP] \n\n然而下一秒她落在了祭坛的石质边缘! 她一边发出胜利的欢呼一边收集她的战利品, 之后又荡回到了你们这边."
 					},
 					{
 						"id": "LE_TarantulaCorpse01_Intro",
-						"text": "At the edge of a dried-up waterhole, you find the remains of a soldier clutching a bulky bundle. [CTP]\n\nAs you approach, you notice strange movement under the soldier's uniform – several hairy, fist-sized spiders crawl out slowly! Horrified, you step back..."
+						"text": "你在一个干枯的水潭边发现了一具士兵的尸体. 他手里抓着一个大包. [CTP]\n\n当你靠近的时候, 你注意到他制服下有奇怪的东西在移动 – 几只拳头大小的蜘蛛慢慢地爬了出来! 你吓得后退了几步..."
 					},
 					{
 						"id": "LE_TarantulaCorpse01_Choice01",
-						"text": "Search the bundle"
+						"text": "搜刮大包"
 					},
 					{
 						"id": "LE_TarantulaCorpse01_Choice02",
-						"text": "Stop and think"
+						"text": "停下来思考"
 					},
 					{
 						"id": "LE_TarantulaCorpse01_Choice03",
@@ -4134,39 +4134,39 @@
 					},
 					{
 						"id": "LE_TarantulaCorpse01_SearchW",
-						"text": "You gently turn the body over to get at the bundle. The spiders become agitated, but you manage to pull the bundle away without provoking an attack!"
+						"text": "你轻轻地把尸体翻过来去拿那个包. 蜘蛛们变得焦躁不安起来, 但你设法在不引发它们攻击的情况下把包拽了过来!"
 					},
 					{
 						"id": "LE_TarantulaCorpse01_SearchF",
-						"text": "You gently turn the body over to get at the bundle. The agitated spiders scurry around furiously. The creatures are faster than you expected! \n\nSuddenly, [char0] screams and shakes a spider out of his pant leg. His ankle is already starting to swell alarmingly where the creature bit him."
+						"text": "你轻轻地把尸体翻过来去拿那个包. 蜘蛛们疯狂地四处乱窜. 它们比你预想的快很多! \n\n突然, [char0]惨叫一声并把一只蜘蛛甩下他的裤腿. 蜘蛛咬到了他的脚踝, 那里迅速肿了起来."
 					},
 					{
 						"id": "LE_TarantulaCorpse01_SearchF_female",
-						"text": "You gently turn the body over to get at the bundle. The agitated spiders scurry around furiously. The creatures are faster than you expected! \n\nSuddenly, [char0] screams and shakes a spider out of her pant leg. Her ankle is already starting to swell alarmingly where the creature bit her."
+						"text": "你轻轻地把尸体翻过来去拿那个包. 蜘蛛们疯狂地四处乱窜. 它们比你预想的快很多! \n\n突然, [char0]惨叫一声并把一只蜘蛛甩下她的裤腿. 蜘蛛咬到了她的脚踝, 那里迅速肿了起来."
 					},
 					{
 						"id": "LE_TarantulaCorpse01_WildernessW",
-						"text": "[char1] thinks for a moment. Then he starts to dig under one of the palm trees. Eventually, he pulls out a strange root, which he rubs all over his hands and forearms. An acrid smell fills your nostrils. When [char1] returns to the corpse, the spiders recoil and scuttle away. \n\n[char1]: \"Tarantulas hate this smell!\""
+						"text": "[char1]思考了一会儿. 然后他在一棵棕榈树下开始挖洞. 最终他拔出一段奇怪的树根, 用根里渗出的汁液涂满了他的手和前臂. 一股刺鼻的味道钻进了你鼻孔. 当[char1]回到尸体边上时, 蜘蛛们纷纷避开跑到一边儿去了. \n\n[char1]: \"狼蛛讨厌这种味道!\""
 					},
 					{
 						"id": "LE_TarantulaCorpse01_WildernessW_female",
-						"text": "[char1] thinks for a moment. Then she starts to dig under one of the palm trees. Eventually, she pulls out a strange root, which she rubs all over her hands and forearms. An acrid smell fills your nostrils. When [char1] returns to the corpse, the spiders recoil and scuttle away. \n\n[char1]: \"Tarantulas hate this smell!\""
+						"text": "[char1]思考了一会儿. 然后她在一棵棕榈树下开始挖洞. 最终她拔出一段奇怪的树根, 用根里渗出的汁液涂满了她的手和前臂. 一股刺鼻的味道钻进了你鼻孔. 当[char1]回到尸体边上时, 蜘蛛们纷纷避开跑到一边儿去了. \n\n[char1]: \"狼蛛讨厌这种味道!\""
 					},
 					{
 						"id": "LE_GuardedCanisters01_Intro",
-						"text": "Not far ahead, you see several stacks of jerrycans in the shade of some palm trees. Next to them is a Wehrmacht jeep containing a napping soldier. \n\nAs you approach, he jumps up and ducks down behind the jerrycans: [CTP]\n\n[char0]: \"I’m holding a grenade! Not a step closer, or I blow the whole place up!\""
+						"text": "你看到前方不远处的棕榈树荫下有一堆油罐. 油罐边上有辆纳粹的吉普车, 车上有个德国士兵在打盹. \n\n当你靠近的时候, 他跳了起来躲到了油罐后面: [CTP]\n\n[char0]: \"我身上有手榴弹, 别过来! 不然我把这儿炸翻天!\""
 					},
 					{
 						"id": "LE_GuardedCanisters01_Choice01",
-						"text": "Talk to the soldier"
+						"text": "和士兵谈谈"
 					},
 					{
 						"id": "LE_GuardedCanisters01_Choice02",
-						"text": "Convince the man"
+						"text": "说服士兵"
 					},
 					{
 						"id": "LE_GuardedCanisters01_Choice03",
-						"text": "Intimidate soldier"
+						"text": "恐吓士兵"
 					},
 					{
 						"id": "LE_GuardedCanisters01_Choice04",
@@ -4174,151 +4174,151 @@
 					},
 					{
 						"id": "LE_GuardedCanisters01_Talk",
-						"text": "[char1]: \"Umm, can we come to some sort of arrangement?\""
+						"text": "[char1]: \"额, 我们可不可以坐下来谈谈?\""
 					},
 					{
 						"id": "LE_GuardedCanisters01_TrickNPC",
-						"text": "[char2]: \"Just think about it, kid... are those few canisters really worth it? How about we split them, fifty-fifty?\""
+						"text": "[char2]: \"想想吧, 孩子...为那几桶油真的值得么? 不如我们把它们分了, 五五开?\""
 					},
 					{
 						"id": "LE_GuardedCanisters01_Intimidate",
-						"text": "[char3]: \"Listen you! Our sniper has you in his sights. All I have to do is count to three and that will be the end of you! One, two...\""
+						"text": "[char3]: \"听着! 我们的狙击手正瞄着你脑袋呢. 我数到三你不出来就等死吧! 一, 二...\""
 					},
 					{
 						"id": "LE_GuardedCanisters01_NegotiationW",
-						"text": "The soldier waves a white handkerchief and calls out in a quavering voice: \n\n[char0]: \"I will pack as many canisters as fit in the car, and you promise me safe passage! You can have the rest!\" [CTP] \n\nA few minutes later, the Wehrmacht jeep races away from the fuel dump at full speed. You wait until the man is out of sight, and then examine the supplies."
+						"text": "士兵挥舞着一块白色手帕, 用颤抖的声音喊道: \n\n[char0]: \"等下我尽可能多地装一车东西走, 你们要说话算话! 剩下东西都是你们的了!\" [CTP] \n\n几分钟后, 纳粹的吉普车全速逃离了这个燃料储存点. 你一直等到他从视野里消失, 然后开始检查剩下的补给."
 					},
 					{
 						"id": "LE_GuardedCanisters01_NegotiationF",
-						"text": "The soldier ducks down out of your field of vision and shouts: \n\n[char0]: \"This is too risky for me! I think I will wait for reinforcements – then we can talk again!\" [CTP]\n\nIt’s hard to tell whether the man is bluffing - but if he really does have a hand grenade, then the slightest mistake will roast you all alive.  It isn’t worth the risk! You sigh, and prepare to continue your journey."
+						"text": "士兵躲到了你视野之外, 喊道: \n\n[char0]: \"这对我来说太冒险了! 我觉得我最好等到我的援军回来 – 然后我们再好好谈!\" [CTP]\n\n你很难辨别他说的是真是假 - 但如果他真的握着颗手雷, 那你可能会因为一丁点风险而烤了全队. 不值得冒这个险! 你叹了口气, 准备继续你的行程."
 					},
 					{
 						"id": "BE_GorgeAmbush01_Intro",
-						"text": "As you drive along the track at the edge of the gorge, you encounter a lone nomad. \n\nThe worried looking man is bent over his camel, which is lying on the ground and breathing with heavy, uneven gasps."
+						"text": "在你沿着峡谷边缘的小道行驶的过程中, 你遇到了一个孤零零的游牧民. \n\n他正一脸愁容地伏在他的骆驼边上, 他的骆驼趴在地上, 不均匀地喘着粗气."
 					},
 					{
 						"id": "BE_GorgeAmbush01_Talk",
-						"text": "You exchange a few words with the man and learn that his camel is sick. \n\nUnfortunately, you cannot help the man and bid him farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+						"text": "你和他交谈了几句, 知道他的骆驼病了. \n\n不幸的是, 你们帮不了这个人只能和他道别. 他撅着胡子嘟哝了几句, 一脸怨恨地目送你离开."
 					},
 					{
 						"id": "BE_GorgeAmbush01_MedicalW",
-						"text": "[char0] bends over the sick animal and peers into its mouth: \n\nThen he digs some tablets out of his first-aid kit and stuffs them into the gasping animal’s mouth. [CTP]\n\nNot long after, the camel’s condition improves noticeably and eventually it manages to stagger to its feet. The man is beside himself with joy, then he beckons you closer with a warning look:\n\n[char1]: \"Take care: Evil men are waiting in the ruined village at the end of the gorge!\""
+						"text": "[char0]弯腰检查了骆驼的口腔: \n\n然后他从他的急救包里掏出一些药片塞到喘着气的骆驼嘴里. [CTP]\n\n不久骆驼的情况明显好转, 最终摇摇晃晃地站了起来. 男人欣喜若狂, 但接着他向你招手并投来警告的眼神:\n\n[char1]: \"小心: 前面峡谷尽头的废弃村子里有埋伏!\""
 					},
 					{
 						"id": "BE_GorgeAmbush01_MedicalW_female",
-						"text": "[char0] bends over the sick animal and peers into its mouth: \n\nThen she digs some tablets out of her first-aid kit and stuffs them into the gasping animal’s mouth. [CTP]\n\nNot long after, the camel’s condition improves noticeably and eventually it manages to stagger to its feet. The man is beside himself with joy, then he beckons you closer with a warning look:\n\n[char1]: \"Take care: Evil men are waiting in the ruined village at the end of the gorge!\""
+						"text": "[char0]弯腰检查了骆驼的口腔: \n\n然后她从她的急救包里掏出一些药片塞到喘着气的骆驼嘴里. [CTP]\n\n不久骆驼的情况明显好转, 最终摇摇晃晃地站了起来. 男人欣喜若狂, 但接着他向你招手并投来警告的眼神:\n\n[char1]: \"小心: 前面峡谷尽头的废弃村子里有埋伏!\""
 					},
 					{
 						"id": "BE_GorgeAmbush01_MedicalF",
-						"text": "[char0] bends over the sick animal and looks in its mouth before shaking his head:\n\n[char0]: \"I think it’s done for. Out here in the wild, there’s not much I can do, anyway.\" [CTP] \n\nUnable to help, you bid the man farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+						"text": "[char0]弯腰检查了骆驼的口腔, 但最终他摇了摇头:\n\n[char0]: \"我觉得它没救了. 毕竟是在野外, 我能做的也就这么多了.\" [CTP] \n\n由于帮不了什么忙, 你们只能与这个男人道别. 他撅着胡子嘟哝了几句, 一脸怨恨地目送你离开."
 					},
 					{
 						"id": "BE_GorgeAmbush01_MedicalF_female",
-						"text": "[char0] bends over the sick animal and looks in its mouth before shaking her head:\n\n[char0]: \"I think it’s done for. Out here in the wild, there’s not much I can do, anyway.\" [CTP] \n\nUnable to help, you bid the man farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+						"text": "[char0]弯腰检查了骆驼的口腔, 但最终她摇了摇头:\n\n[char0]: \"我觉得它没救了. 毕竟是在野外, 我能做的也就这么多了.\" [CTP] \n\n由于帮不了什么忙, 你们只能与这个男人道别. 他撅着胡子嘟哝了几句, 一脸怨恨地目送你离开."
 					},
 					{
 						"id": "BE_GorgeAmbush01_AmbushUnprepared",
-						"text": "After a short drive, the cliffs around you open up and you arrive at the ruined foundations of an abandoned settlement. \n\nSuddenly, a shot tears through the silence! \n\nYou dive for safety: You have walked right into a German ambush!"
+						"text": "又开了一小段路, 你边上的悬崖峭壁豁然开朗. 你来到了一座废弃基地的废墟之上. \n\n突然, 一声枪响打破了寂静! \n\n你忙压低身子隐蔽: 你中了德军的埋伏!"
 					},
 					{
 						"id": "BE_GorgeAmbush01_AmbushPrepared",
-						"text": "You thank the man and carefully continue on your journey. When you reach the end of the ravine, you climb the cliffs and survey the ruined village that lies some distance ahead of you. \n\nYou spot a small unit of German soldiers entrenched there!"
+						"text": "你谢过那个人, 之后小心地向前行驶. 当你开到峡谷的尽头的时候, 你爬上悬崖远远地观察前方的村庄废墟. \n\n你看到有一队德国士兵驻扎在那里!"
 					},
 					{
 						"id": "BE_GorgeAmbush01_Choice01",
-						"text": "Ambush the Germans"
+						"text": "伏击德国佬"
 					},
 					{
 						"id": "BE_GorgeAmbush01_Choice02",
-						"text": "Drive around village"
+						"text": "开车绕过村子"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched01_A_Intro",
-						"text": "The featureless burial chamber ends in a small, claustrophobic room with a sealed sarcophagus in the center!"
+						"text": "看上去一成不变的墓室尽头是一个幽闭的小房间, 房间中央摆着一口密封的石棺!"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched01_B_Intro",
-						"text": "As you break the wooden planks on the ruined temple wall and use your torches to illuminate the adjoining room, you almost cry out with joy: an untouched burial chamber that the raiders overlooked!"
+						"text": "当你凿开神庙遗迹里一面墙上的木板并拿火把照向里面相邻的房间时, 你高兴得几乎要哭出来了: 一个未被盗墓者发现的墓室!"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched01_C_Intro",
-						"text": "As you stretch your legs during a short break, you literally stumble across a shaft hidden in the jumble of rocks. \n\nYou descend on ropes - and discover a hidden burial chamber! A sealed sarcophagus rests in its midst, untouched for millennia... what secrets might it hold?"
+						"text": "你在休息时伸了伸腿, 却意外被一个隐藏在乱石中的天井绊到. \n\n你用绳子下到下面 - 然后发现了一间隐藏的墓室! 一具密封的石棺躺在墓室中央, 几千年来一直没被人触碰过... 里面会隐藏着什么样的秘密呢?"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched01_D_Intro",
-						"text": "The flickering glow of your torches casts unsettling shadows on the scene before you, you hold your breath with excitement: You have found an old, unopened sarcophagus in the dusty burial chamber!"
+						"text": "火把摇曳的亮光在你周围投下令人不安的影子, 但紧接着你激动地摒住了呼息: 在这间落满灰尘的墓室里你发现了一口古老的未被开启过的石棺!"
 					},
 					{
 						"id": "LE_GenericSarcophagusUntouched01_E_Intro",
-						"text": "You discover a subterranean temple hidden in the desert wilderness. Its eastern wall sounds hollow. \n\nYou quickly smash the porous clay bricks and thrust your torches into the space behind the wall: your eyes fall on a large, granite sarcophagus that has survived the millennia in this tiny chamber!"
+						"text": "你发现了一座藏在沙漠荒野中的地下神庙. 它的东墙敲上去像是空的. \n\n你快速挖开多孔的黏土墙壁, 迫不及待地用火把照亮墙后的空间: 你的目光落到了一口巨大的花岗岩石棺上, 几千年来它就躺在这间狭小的墓室里未被人拜访过!"
 					},
 					{
 						"id": "LE_GenericTempleAltar01_A_Intro",
-						"text": "An inconspicuous gap in the rocks leads to a flight of stairs and then to a long-forgotten temple. \n\nIn its central space, you find a massive stone altar surrounded by various ancient offerings!"
+						"text": "岩石间一道不起眼的小缝把你引到一段长长的阶梯, 顺着阶梯你走进了一座长期与世隔绝的神殿!\n\n在神殿中央, 你发现一个被各式古代供品包围的巨石祭坛!"
 					},
 					{
 						"id": "LE_GenericTempleAltar01_B_Intro",
-						"text": "Only a few corner blocks of the ancient temple complex jut out from the desert sands. \n\nYou squeeze through a narrow side shaft that eventually leads to a small altar room. You search it carefully for treasure."
+						"text": "这堆古老的神庙群在沙漠中只露了一些角和几块砖. \n\n你从一个狭窄的侧门通道挤了进去, 最终抵达了一间小小的祭坛室. 你仔细搜刮了里面的宝物."
 					},
 					{
 						"id": "LE_GenericTempleAltar01_C_Intro",
-						"text": "The steps of the ancient stone temple that you find among the rocks lead you deeper and deeper underground. \n\nYour subterranean journey ends in a dusty vault. You see an altar at its center!"
+						"text": "你在岩石间发现的古代神庙的石头阶梯将你引向地下越来越深处\n\n你的地下之旅的终点是一间落满灰尘的墓室. 你看到墓室中央有一座祭坛!"
 					},
 					{
 						"id": "LE_GenericTempleAltar01_D_Intro",
-						"text": "Hidden among the shifting dunes, you discover an inconspicuous temple entrance exposed by the wind. \n\nCarefully, you descend the stone steps. The temple consists of a single room dominated by an awe-inspiring altar!"
+						"text": "在移动的沙丘间, 你发现有个不起眼的神庙入口暴露在风中. \n\n你小心地沿石阶而下. 神庙由一个小房间组成. 房间的主体是一个令人叹为观止的祭坛!"
 					},
 					{
 						"id": "LE_GenericTempleAltar01_E_Intro",
-						"text": "Inside a lonely desert temple, a series of labyrinthine corridors finally lead you to a larger chamber where you find an ancient altar with some dusty offerings!"
+						"text": "在一座孤零零的神庙中，穿过一系列迷宫般错综复杂的走廊后你终于来到一间大一点的墓室. 你在墓室中找到了一个古代祭坛和一些落满灰尘的供品!"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed01_A_Intro",
-						"text": "From the signs of forced entry on the stone slab at the entrance, you can tell that you are not the first to set foot in this burial chamber. \n\nNevertheless, you cannot help feeling vaguely disappointed when you see the broken stone lid next to the sarcophagus..."
+						"text": "你在墓室入口看到了强行闯入的痕迹, 看来你不是第一个踏足这里的人. \n\n虽然有些心理准备, 但当你看到石棺边破碎的石板盖的时候还是不禁感到有些失落..."
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed01_B_Intro",
-						"text": "The trail of papyrus shreds and torn linen bandages leads you straight to the ransacked burial chamber. \n\nInside, you find a smashed stone sarcophagus. Dejectedly, you examine what the grave robbers left behind."
+						"text": "你沿着纸莎草纸碎屑和扯坏的亚麻绷带的痕迹径直来到一间被洗劫过的墓室. \n\n你在里面发现了一口被打碎的石棺. 你丧气地检查之前的盗墓贼们有没有落下什么."
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed01_C_Intro",
-						"text": "The item in the surprised desert fox’s mouth looks suspiciously like a mummified hand! You follow the fleeing animal to its hole in the ground.\n\nAfter digging out its entranceway, you lower yourselves into a forgotten burial chamber. Wild animals have ransacked the open stone sarcophagus and scattered its contents everywhere!"
+						"text": "那只受惊的沙漠狐狸嘴里叼了个疑似木乃伊的手的东西! 你跟踪逃跑的狐狸来到了它的地面巢穴.\n\n挖开入口之后, 你下到了一间长久与世隔绝的墓室之中. 动物们已经洗劫了开口的石棺并把里面的东西散的到处都是!"
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed01_D_Intro",
-						"text": "As you come around the next corner, the glow of your torches falls on a massive stone sarcophagus. \n\nYour initial euphoria fades as you realize that grave robbers have beaten you to it..."
+						"text": "当你经过下一个拐角的时候, 你火把的亮光照到了一口巨大的石棺之上. \n\n当你意识到盗墓贼们已经抢在了你前面的时候, 早先的兴奋荡然无存..."
 					},
 					{
 						"id": "LE_GenericSarcophagusRobbed01_E_Intro",
-						"text": "You make your way ever deeper into the old burial chamber until you finally stand in front of an ancient sarcophagus. \n\nIts contents are scattered around the chamber - grave robbers!"
+						"text": "你沿着墓穴下到了前所未有的深处, 直到你站在了一口古老的石棺前. \n\n石棺里的东西散落一地 - 可恶的盗墓贼!"
 					},
 					{
 						"id": "LE_GenericOutdoorAltar01_A_Intro",
-						"text": "Hidden among some rocks, you find a lone desert shrine."
+						"text": "你在一堆岩石之间发现了一座孤零零的沙漠神龛."
 					},
 					{
 						"id": "LE_GenericOutdoorAltar01_B_Intro",
-						"text": "The weathered shrine among the rocks looks like it's been here since the beginning of time."
+						"text": "岩石间这座饱经风霜的神龛看上去像是从创世之初就已经立在这里了."
 					},
 					{
 						"id": "LE_GenericOutdoorAltar01_C_Intro",
-						"text": "You find the remains of a nondescript desert shrine. Sun, sand and weather have etched deep lines into the stone."
+						"text": "你发现了一座无人记载的沙漠神龛遗址. 阳光, 风沙和气候在石头上刻下深深的印迹."
 					},
 					{
 						"id": "LE_GenericOutdoorAltar01_D_Intro",
-						"text": "The desert wind whistles dolefully over the ruins of an ancient altar. \n\nPriests of a long-forgotten cult once worshiped their long-forgotten god in this place."
+						"text": "沙漠里风在这座古老祭坛遗址上空寂寞地呜咽. \n\n某个早已被人遗忘的教派的牧师们曾在这里膜拜过他们如今早已被人遗忘的神."
 					},
 					{
 						"id": "LE_GenericOutdoorAltar01_E_Intro",
-						"text": "As you walk past some jagged rocks, you startle a peregrine falcon that was perched on a deserted stone altar. \n\nThe majestic bird shoots into the air with a few strokes of its powerful wings and fills the sky above you with a hoarse screech of alarm."
+						"text": "当你经过一片参差不齐的岩石的时候, 你惊动了一只栖息在废弃石坛上的游隼. \n\n这只庄严的大鸟扇动了几下强有力的翅膀冲向天空向同伴发出警报, 它嘶哑尖利的嗓音久久回荡在空气中."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Intro",
-						"text": "You cannot miss the Wehrmacht vehicles at the edge of the ruined village, so you approach with care. \n\nIn the village square, you see a goatherd surrounded by a handful of German soldiers. You cannot make out what’s going on, but the mood is tense."
+						"text": "你不可能没有看见纳粹停在村庄废墟边缘的车辆, 于是你小心地接近. \n\n你看到在村子的广场上几个德国人围着一个牧羊人. 你不清楚那边是什么状况, 但情况看起来很紧急."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Choice02",
@@ -4326,23 +4326,23 @@
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Choice03",
-						"text": "Seek the holy place"
+						"text": "寻找圣地"
 					},
 					{
 						"id": "BE_HolyMountainSpring01_BeduinThank",
-						"text": "After the sound of battle subsides, the nomad reappears from behind the rocks where he was taking cover. He thanks you effusively."
+						"text": "当最后一声枪响落下之后, 牧民再次从他躲避的岩石后面冒了出来. 他激动地向你道谢."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_LanguagesF",
-						"text": "Unfortunately, the man speaks a dialect that is unknown to you, so you do not understand a word he says. You politely bid farewell and continue your journey."
+						"text": "不幸的是, 他讲的方言你们一个字也听不懂. 你礼貌地向他道别后便继续上路了."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_LanguagesW",
-						"text": "You do not understand a word of the nomad dialect the man speaks. \n\n[char0] utters a few guttural words, and the man’s face lights up. They engage in an animated conversation, punctuated with signs and gestures. [CTP]\n\n[char0]: \"I'm not sure I understood him correctly – but I think he's telling us about a sacred site not far from here...\""
+						"text": "牧民讲的方言你一个字也听不懂. \n\n这时候[char0]试着咿呀了几声, 牧民顿时脸上放光. 两人接下来热烈地交谈了一番, 不时用手势符号比划着. [CTP]\n\n[char0]: \"我不确定我是否正确理解了他的意思 – 但我想他是在告诉我们这附近有个神圣的地方...\""
 					},
 					{
 						"id": "BE_HolyMountainSpring01_LanguagesW_female",
-						"text": "You do not understand a word of the nomad dialect the man speaks. \n\n[char0] utters a few guttural words, and the man’s face lights up. They engage in an animated conversation, punctuated with signs and gestures. [CTP]\n\n[char0]: \"I'm not sure I understood him correctly – but I think he's telling us about a sacred site not far from here...\""
+						"text": "牧民讲的方言你一个字也听不懂. \n\n这时候[char0]试着咿呀了几声, 牧民顿时脸上放光. 两人接下来热烈地交谈了一番, 不时用手势符号比划着. [CTP]\n\n[char0]: \"我不确定我是否正确理解了他的意思 – 但我想他是在告诉我们这附近有个神圣的地方...\""
 					},
 					{
 						"id": "BE_HolyMountainSpring01_HolySite",
