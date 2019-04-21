@@ -8086,7 +8086,7 @@
 					},
 					{
 						"id": "LE_FailedInvocation01_Intro",
-						"text": "当你进入古坟墓场时,你听到前面有人惊慌失措的尖叫声!\n\n不久后,你几乎被一群争先恐后的邪教教徒所压倒!你拔出武器,但惊慌失措的教徒居然没有注意到你... [CTP] \n\n当最后一个祭祀者消失后,墓地上空笼罩着压抑的寂静.你露出紧张的眼神... \n\n... 决定一探究竟! [CTP]\n\n很快,你就发现祭祀者逃离的地方:一个被鲜血浸透的小祭坛周围环绕着几个闷烧的火盆. \n\n你仔细查看四周,但没有发现其他任何东西."
+						"text": "当你进入古墓地时,你听到前面有人惊慌失措的尖叫声!\n\n不久后,你差点被一群争先恐后的邪教教徒撞倒!你拔出武器,但这些教徒居然没有注意到你... [CTP] \n\n当最后一个邪教徒消失后,墓地上空笼罩着压抑的寂静.你露出紧张的神色... \n\n... 决定一探究竟! [CTP]\n\n很快,你就发现邪教徒逃离的地方:一个被鲜血浸透的小祭坛周围环绕着几个闷烧的火盆. \n\n你仔细查看四周,但没有发现其他任何东西."
 					},
 					{
 						"id": "LE_FailedInvocation01_Choice01",
@@ -8106,7 +8106,7 @@
 					},
 					{
 						"id": "LE_FailedInvocation01_Lucky",
-						"text": "烟云弥漫,几乎让你窒息.在祭坛上凝固的血池中,你会发现一些有趣的供品.你迅速拿起它们,离开这个陌生的地方,然后邪教教徒就回来了."
+						"text": "烟雾弥漫,几乎让你窒息.在祭坛上凝固的血池中,你会发现一些有趣的供品.你迅速拿起它们,离开这个陌生的地方,然后邪教教徒就回来了."
 					},
 					{
 						"id": "LE_FungusOfDeath01_Title",
@@ -8114,7 +8114,7 @@
 					},
 					{
 						"id": "LE_FungusOfDeath01_Intro",
-						"text": "一些棕榈树打破了沙漠的单调,引起你的注意.那里有植物,那里通常有水 - 你找到绿洲了吗? [CTP]\n\n很快,你就到了一个干涸的水坑边上的小棕榈林.你会发现一些干枯,消瘦的尸体 - 一些在这里了结的邪教教徒的遗体!一种奇怪的真菌似乎正在它们的身体上生长... \n\n这些人围成一个不规则的半圆,中间是个箱子. [CTP]\n\n直到体力耗尽,他们可能都一直带着它,最后死在这片绿洲.\n\n当你靠近箱子时,你注意到它也被奇怪的霉菌覆盖着..."
+						"text": "一些棕榈树打破了沙漠的单调,引起你的注意.那里有植物,那里通常有水 - 你找到绿洲了吗? [CTP]\n\n很快,你就到了一个干涸的水坑边上的小棕榈林.你会发现一些干枯、消瘦的尸体 - 一些在这里了结的邪教教徒的遗体!一种奇怪的真菌似乎正在它们的身体上生长... \n\n这些人围成一个不规则的半圆,中间是个箱子. [CTP]\n\n直到体力耗尽,他们可能都一直带着它,最后死在这片绿洲.\n\n当你靠近箱子时,你注意到它也被奇怪的霉菌覆盖着..."
 					},
 					{
 						"id": "LE_FungusOfDeath01_Choice01",
@@ -8138,15 +8138,15 @@
 					},
 					{
 						"id": "LE_FungusOfDeath01_LootLucky",
-						"text": "当你打开箱子,一小片锈红色的云升到了空中!你本能地躲到一边,等待乌云消散. \n\n为了安全起见,你必须把衣服系在脸上.然后你用沙漠的沙子尽可能地清理你发现的东西."
+						"text": "当你打开箱子,一小片锈红色的雾升到了空中!你本能地躲到一边,等待乌云消散. \n\n为了安全起见,你必须把衣服系在脸上.然后你用沙漠的沙子尽可能地清理你发现的东西."
 					},
 					{
 						"id": "LE_FungusOfDeath01_LootSpores",
-						"text": "当你打开箱子,一小片锈红色的云升到了空中!你本能地躲到一边,但是 [char1] 吸入了云,并且开始剧烈地咳嗽! \n\n为了安全起见,你必须把衣服系在脸上.然后你用沙漠的沙子尽可能地清理你发现的东西."
+						"text": "当你打开箱子,一小片锈红色的雾升到了空中!你本能地躲到一边,但是 [char1] 吸入了雾,并且开始剧烈地咳嗽! \n\n为了安全起见,你必须把衣服系在脸上.然后你用沙漠的沙子尽可能地清理你发现的东西."
 					},
 					{
 						"id": "LE_FungusOfDeath01_LootSpores_female",
-						"text": "当你打开箱子,一小片锈红色的云升到了空中!你本能地躲到一边,但是 [char1] 吸入了云,并且开始剧烈地咳嗽! \n\n为了安全起见,你必须把衣服系在脸上.然后你用沙漠的沙子尽可能地清理你发现的东西."
+						"text": "当你打开箱子,一小片锈红色的雾升到了空中!你本能地躲到一边,但是 [char1] 吸入了雾,并且开始剧烈地咳嗽! \n\n为了安全起见,你必须把衣服系在脸上.然后你用沙漠的沙子尽可能地清理你发现的东西."
 					},
 					{
 						"id": "LE_UnstableSewer01_Title",
@@ -8226,7 +8226,7 @@
 					},
 					{
 						"id": "SE_Adventure02Intro_Intro",
-						"text": "你朝天开了几枪: 你不想因为上帝的愤怒而输掉比赛!"
+						"text": "你朝天开了几枪: 你不想因为神之愤怒而输掉比赛!"
 					},
 					{
 						"id": "SE_Adventure03Intro_Title",
@@ -8250,7 +8250,7 @@
 					},
 					{
 						"id": "SE_Adventure02FinalFight_TheInnerChamber",
-						"text": "巡警护送你进入石室.士兵们和一名高级军官站在一个巨大的,杂乱无章的装置周围. \n\n当警官看到你时,他的眼神发亮:\n\n[char0]: \"很高兴!我真的很喜欢陪伴!拜托,靠近点!\" [CTP]\n\n[char0]: \"你看,这是这些古老的神话的问题: 你永远不知道会发生什么...\"\n\n[char0]: \"上帝的愤怒!大概是一件不可估量的艺术品吧!致命的力量,如果你理解我的话...\" [CTP]\n\n军官随意地指向目标: \n\n[char0]: \"我相信你会感激我不让我的人的有生命危险.也许你能帮我...?\"\n\n军官鼓舞人心地向你点头.你环顾四周,看到几把步枪指着你! \n\n你别无选择..."
+						"text": "巡警护送你进入石室.士兵们和一名高级军官站在一个巨大的、杂乱无章的装置周围. \n\n当警官看到你时,他的眼神发亮:\n\n[char0]: \"很高兴!我真的很喜欢陪伴!拜托,靠近点!\" [CTP]\n\n[char0]: \"你看,这是这些古老的神话的问题: 你永远不知道会发生什么...\"\n\n[char0]: \"神之愤怒!大概是一件不可估量的艺术品吧!致命的力量,如果你理解我的话...\" [CTP]\n\n军官随意地指向目标: \n\n[char0]: \"我相信你会感激我不让我的人的有生命危险.也许你能帮我...?\"\n\n军官鼓舞人心地向你点头.你环顾四周,看到几把步枪指着你! \n\n你别无选择..."
 					},
 					{
 						"id": "SE_Adventure02FinalFight_WrathOfGod",
@@ -8262,11 +8262,11 @@
 					},
 					{
 						"id": "SE_Adventure02FinalFight_StartFight",
-						"text": "在惊异士兵的惊叫声中,你也听到了 [char1]’s 痛苦的叫喊声! \n\n上帝的愤怒在他手中发出红光! \n\n [char1] 迅速把武器扔到一边!\n\n你躲了起来,等待德国的反击!"
+						"text": "在惊异士兵的惊叫声中,你也听到了 [char1]’s 痛苦的叫喊声! \n\n神之愤怒在他手中发出红光! \n\n [char1] 迅速把武器扔到一边!\n\n你躲了起来,等待德国的反击!"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_StartFight_female",
-						"text": "在惊异士兵的惊叫声中,你也听到了 [char1]’s 痛苦的叫喊声! \n\n上帝的愤怒在她手中发出红光! \n\n [char1] 迅速把武器扔到一边!\n\n你躲了起来,等待德国的反击!"
+						"text": "在惊异士兵的惊叫声中,你也听到了 [char1]’s 痛苦的叫喊声! \n\n神之愤怒在她手中发出红光! \n\n [char1] 迅速把武器扔到一边!\n\n你躲了起来,等待德国的反击!"
 					},
 					{
 						"id": "SE_Adventure02FinalFight_Aftermath",
@@ -8322,7 +8322,7 @@
 					},
 					{
 						"id": "SE_Adventure02Clue03_Aftermath",
-						"text": "“当士兵向你跑过来时,他兴奋地挥动着他的手臂:\n\n[char0]: \"你救了我的命! 冯·奥尔森上校是个疯狂的虐待狂! 我忍受不了他的残忍!\"\n\n你问他知不知道上帝的愤怒: [CTP]\n\n[char0]: \"我只知道谣言 - 但显然它是一种威力巨大的武器. 我们应该找到它并把它带回柏林.\"\n\n[char0]: \"德国军队的超级武器! 它将使我们无敌! 想想可能性吧!\""
+						"text": "“当士兵向你跑过来时,他兴奋地挥动着他的手臂:\n\n[char0]: \"你救了我的命! 冯·奥尔森上校是个疯狂的虐待狂! 我忍受不了他的残忍!\"\n\n你问他知不知道神之愤怒: [CTP]\n\n[char0]: \"我只知道谣言 - 但显然它是一种威力巨大的武器. 我们应该找到它并把它带回柏林.\"\n\n[char0]: \"德国军队的超级武器! 它将使我们无敌! 想想可能性吧!\""
 					},
 					{
 						"id": "SE_Adventure02Clue03_Goodbye",
@@ -8334,7 +8334,7 @@
 					},
 					{
 						"id": "SE_Adventure02Clue01_Intro",
-						"text": "你到达一个废弃村庄的外部建筑时,不知从何处开出一枪! \n\n你闪电一样调转方向,跳出车外,潜到一些低矮的墙后躲避! [CTP]\n\n在废墟中的某个地方,一个声音喊道:\n\n[char0]: \"冯·奥尔森上校是对的: 我们被跟踪了!\"\n\n[char0]: \"我认为我们可以处理这个问题!开火!\""
+						"text": "你到达一个废弃村庄的外部建筑时,不知从何处开出一枪! \n\n你闪电一样调转方向,跳出车外,潜到一些低矮的墙后躲避! [CTP]\n\n在废墟中的某个地方,一个声音喊道:\n\n[char0]: \"冯·奥尔森上校是对的: 我们被跟踪了!\"\n\n[char0]: \我认为我们可以处理这个问题!开火!\""
 					},
 					{
 						"id": "SE_Adventure02Clue01_Aftermath",
@@ -8342,167 +8342,167 @@
 					},
 					{
 						"id": "SE_Adventure02Clue02_Title",
-						"text": "A camp in the desert"
+						"text": "沙漠中的营地"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Intro",
-						"text": "On a rise ahead of you, you spot a lone soldier with his back to you! You sneak forward quickly and easily overpower him! \n\nNow you crouch behind the Wehrmacht jeep and survey the site below: An improvised German camp! [CTP]\n\nIts size suggests it must be a base of some importance!\n\nA soft groan tells you that the soldier has regained consciousness."
+						"text": "你往前面一靠近,就看见一个背对着你的士兵! 你快速溜过去,轻易地将他制服! \n\n接着你蹲在德国国防吉普车后面,调查这个地点: 一个简易的德国营地! [CTP]\n\n从它的大小来看它一定是个重要的基地!\n\n士兵恢复了知觉并发出了轻微的呻吟声."
 					},
 					{
 						"id": "SE_Adventure02Clue02_Choice01",
-						"text": "Attack the base"
+						"text": "进攻基地"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Choice02",
-						"text": "Interrogate the man"
+						"text": "询问士兵"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Choice03",
-						"text": "Intimidate the soldier"
+						"text": "恐吓士兵"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Choice04",
-						"text": "Take a wide detour around the camp"
+						"text": "绕开营地"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Question",
-						"text": "[char0]: \"We were ordered to set up a radio station here. Please don’t hurt me, I'm just the radio operator! I was just looking for a better place to set up the antenna...\"\n\nThat’s all you're going to get out of him. You gag and tie the man, then think about what to do."
+						"text": "[char0]: \"我们接到命令要在这里设置一个无线电台. 请不要伤害我,我只是个无线电接线员! 我只是在找一个更好的地方来安装天线...\"\n\n这就是你能从他身上知道到的一切. 你堵住他的嘴并把他绑起来,想一想接下来该怎么办."
 					},
 					{
 						"id": "SE_Adventure02Clue02_Intimidate",
-						"text": "[char0]: \"We were ordered to set up a radio station here. Please don’t hurt me, I'm just the radio operator! I was just looking for a better place to set up the antenna...\"\n\n[char1]: \"Radio operator, huh? Listen, you're going to drive us into the camp in your car, understand?\""
+						"text": "[char0]: \"我们接到命令要在这里设置一个无线电台. 请不要伤害我,我只是个无线电接线员! 我只是在找一个更好的地方来安装天线...\"\n\n[char1]: \"无线电接线员,哈?听着,你要开车送我们进营地,明白吗?\""
 					},
 					{
 						"id": "SE_Adventure02Clue02_Intimidate_female",
-						"text": "[char0]: \"We were ordered to set up a radio station here. Please don’t hurt me, I'm just the radio operator! I was just looking for a better place to set up the antenna...\"\n\n[char1]: \"Radio operator, huh? Listen, you're going to drive us into the camp in your car, understand?\""
+						"text": "[char0]: \"我们接到命令要在这里设置一个无线电台. 请不要伤害我,我只是个无线电接线员! 我只是在找一个更好的地方来安装天线...\"\n\n[char1]: \"无线电接线员,哈?听着,你要开车送我们进营地,明白吗?\""
 					},
 					{
 						"id": "SE_Adventure02Clue02_IntimidateF",
-						"text": "The young man looks at you angrily:\n\n[char0]: \"I may not be a hero, but I'm no traitor!\"\n\nIt’s pointless trying to convince him. You gag and tie the man, then think about what to do."
+						"text": "年轻人愤怒地看着你:\n\n[char0]: \"我就算不是英雄,但我也不是叛徒!\"\n\n试图说服他是毫无意义的. 你堵住他的嘴并把他绑起来,想一想接下来该怎么办."
 					},
 					{
 						"id": "SE_Adventure02Clue02_IntimidateW",
-						"text": "[char1] sees the defiance on the soldier's face:\n\n[char1]: \"I can be very unpleasant when I don’t get my way...!\"\n\nThe man caves in:\n\n[char0]: \"Fine... what do I have to do?\""
+						"text": "[char1] 看到了士兵脸上的蔑视:\n\n[char1]: \"要是不按照我说的做我可会发飙...!\"\n\n这个人屈服了:\n\n[char0]: \"好吧... 我该怎么做?\""
 					},
 					{
 						"id": "SE_Adventure02Clue02_IntimidateW_female",
-						"text": "[char1] sees the defiance on the soldier's face:\n\n[char1]: \"I can be very unpleasant when I don’t get my way...!\"\n\nThe man caves in:\n\n[char0]: \"Fine... what do I have to do?\""
+						"text": "[char1] 看到了士兵脸上的蔑视:\n\n[char1]: \"要是不按照我说的做我可会发飙...!\"\n\n这个人屈服了:\n\n[char0]: \"好吧... 我该怎么做?\""
 					},
 					{
 						"id": "SE_Adventure02Clue02_EnterCamp",
-						"text": "A few minutes later, your vehicle enters the camp without incident. Behind the wheel sits a nervous German radio operator with a gun pointed at the back of his neck from under some blankets!\n\nThe soldier stops right next to his radio tent. You knock him out with a sharp blow to the back of the head, then you slip into the empty tent."
+						"text": "几分钟后, 你的吉普车安全进入了营地. 吉普后座的德国无线电接线员后颈被从下面的枪顶着,面色紧张!\n\n士兵停在他的无线电帐篷旁边. 你猛击他的后脑勺,把他打倒,然后溜进空帐篷里去了."
 					},
 					{
 						"id": "SE_Adventure02Clue02_SearchTent",
-						"text": "You search the tent in frantic haste. Apart from a small field radio you do not find anything of interest. Then your eyes fall on a wastepaper basket next to the field table, full to the brim with radio transcripts... [CTP]\n\n\"Interim Report on the Ararat Expedition\"\n\n\"To the Research Battalion Near East: We are gratified to announce that we have also encountered outposts of the target culture in the Armenian Highlands.\" [CTP]\n\n\"The Valkyrium network is therefore considerably larger than previously believed. It should extend at least from the African Atlantic coast to the Caucasus. In the north, as is known, to the Russian White Sea. We will keep you informed about any further findings.\n\nHeil Hitler! Colonel von Ortzen, Expedition Leader\" [CTP]\n\nYou climb back into the Wehrmacht jeep and leave the camp at an inconspicuous pace through a gap in the perimeter by the latrines. Once you have passed the next sand dune, you slam your foot down on the accelerator!"
+						"text": "你疯狂又匆忙地搜索帐篷. 除了一个小型的野外无线电,你什么也找不到.然后你的眼睛落在场边桌子旁边的废纸篓上,满满都是无线电抄本... [CTP]\n\n\"阿勒山远征报告\"\n\n\"致近东研究营: 我们很高兴地宣布我们还在亚美尼亚高地遇到了目标文化的前哨站.\" [CTP]\n\n\"因此,Valkyrium网络比之前认为的要大得多. 它至少应该从非洲大西洋海岸延伸到高加索地区. 如人们所知,往北方一直到苏联白海. 我们会随时通知你任何进一步的发现.\n\n希特勒万岁! von Ortzen上校, 探险队队长\" [CTP]\n\n你爬回吉普车,以不起眼的速度穿过厕所周围的一个缺口离开营地. 一旦经过下一个沙丘, 你便加紧油门离去!"
 					},
 					{
 						"id": "SE_Adventure02Clue02_Aftermath",
-						"text": "You search the radio tent. Apart from a small field radio you do not find anything of interest. Then your eyes fall on a wastepaper basket next to the field table, full to the brim with radio transcripts... [CTP]\n\n\"Interim Report on the Ararat Expedition\"\n\n\"To the Research Battalion Near East: We are gratified to announce that we have also encountered outposts of the target culture in the Armenian Highlands.\" [CTP]\n\n\"The Valkyrium network is therefore considerably larger than previously believed. It should extend at least from the African Atlantic coast to the Caucasus. In the north, as is known, to the Russian White Sea. We will keep you informed about any further findings.\n\nHeil Hitler! Colonel von Ortzen, Expedition Leader\""
+						"text": "你搜索了无线电员的帐篷. 除了一个小型的野外无线电,你什么也找不到. 然后你的眼睛落在场边桌子旁边的废纸篓上,满满都是无线电抄本... [CTP]\n\n\"阿勒山远征报告\"\n\n\"致近东研究营: 我们很高兴地宣布我们还在亚美尼亚高地遇到了目标文化的前哨站.\" [CTP]\n\n\"因此,Valkyrium网络比之前认为的要大得多. 它至少应该从非洲大西洋海岸延伸到高加索地区. 如人们所知,往北方一直到苏联白海. 我们会随时通知你任何进一步的发现.\n\n希特勒万岁! von Ortzen上校, 探险队队长\""
 					},
 					{
 						"id": "SE_Adventure03Clue02_Title",
-						"text": "A camp in the desert"
+						"text": "沙漠中的营地"
 					},
 					{
 						"id": "SE_Adventure03Clue02_Intro",
-						"text": "Several desert paths and tracks intersect here. Behind a raw-timbered picket fence you see a sprawling jumble of colorful tents. \n\nIt looks like you have came across a large group of cultists here. [CTP]\n\nThe billowing tents and wooden palisades obscure your vision, but you hear ghostly voices echoing across the camp. Why are the cultists flocking to this place? \n\nThere is only one way to find out..."
+						"text": "这里有几条沙漠小路和铁轨相交. 在一个未加工的木栅栏后面,你看到一大堆五颜六色的帐篷. \n\n看起来你在这里遇到了一大群邪教教徒. [CTP]\n\n大量的帐篷和木栅栏遮住了你的视线,但是你听到了幽灵般的声音在营地里回响.为什么邪教教徒成群结队来到这个地方? \n\n只有一种方法可以找到原因..."
 					},
 					{
 						"id": "SE_Adventure03Clue02_Choice01",
-						"text": "Attack the cultist camp"
+						"text": "进攻邪教营地"
 					},
 					{
 						"id": "SE_Adventure03Clue02_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "SE_Adventure03Clue02_Wailing",
-						"text": "One tent at the center of the camp is bigger than the rest. Skull-topped stakes are rammed into the sand around the entrance. \n\nYou search the inside of the tent and find an old tome, stained with blood. [CTP]\n\n\"The Death Lament of Turash-Ra, the Black Pharaoh:\n\nFor 863 years, Turash-Ra ruled over the Children of the Nile, and the People wept under His Reign.\" [CTP]\n\n\"And when He felt his Powers leave Him, He called out: 'Father, forgive My Disobedience! Take Me up in Your Divine Chariot, that I may find Peace with You!' \n\nBut his Father slept in the Firmament, and remained Silent. And Turash-Ra lamented.\""
+						"text": "营地中央的一个帐篷比其他帐篷大一些. 入口周围的沙地里打上了顶部插上头骨的木桩. \n\n你在帐篷里找一本沾满鲜血的旧书. [CTP]\n\n\"黑色法老图拉什·拉的死之哀歌:\n\n图拉什·拉统治了尼罗河流域的孩子863年,人民在他的统治下哭泣.\" [CTP]\n\n\"当他意识到自己的权利, 他喊道: '父亲, 请原谅我违背了你的旨意! 请带我到你的神圣战车中与你一同感受宁静!' \n\n但是他的父亲在天上保持了沉默. 图拉什·拉哀悼着.\""
 					},
 					{
 						"id": "SE_Adventure03Clue03_Title",
-						"text": "A waterhole"
+						"text": "水坑"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Intro",
-						"text": "The palm-fringed waterhole seems perfect for a short rest! \n\nIn buoyant mood, you get out of your car and start unloading your supply crates. You spin round when you hear a soft noise behind you! [CTP]\n\nYou see a small group of cultists crouched behind a rock, staring at you with a mixture of fear and hostility. They clearly were not expecting you and seem undecided."
+						"text": "棕榈树下的水坑似乎是暂时歇息的最佳之选! \n\n你心情愉快,下车开始卸货. 听到身后有柔和的声音时你转头看了看! [CTP]\n\n你看见一小群邪教徒蹲在一块石头后面, 用恐惧和敌意的目光看着你. 他们显然没有预料到你的出现,似乎还没有决定接下来做什么."
 					},
 					{
 						"id": "SE_Adventure03Clue03_Choice01",
-						"text": "Negotiate"
+						"text": "协商"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Choice02",
-						"text": "Threaten"
+						"text": "威胁"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Choice03",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Negotiate",
-						"text": "[char0]: \"This does not have to end in violence! If you want to drink some water, go ahead! We will be on our way...\""
+						"text": "[char0]: \"没必要用武力解决! 如果你想喝点水,那就去吧! 我们一会儿就走...\""
 					},
 					{
 						"id": "SE_Adventure03Clue03_NegotiateF",
-						"text": "The cultists mistake your willingness to negotiate as a sign of weakness and rush at you in rage! \n\nTwo of them stay back and start a strange chanting, accompanied by bizarre, contorted motions. \n\nThe earth opens up and spews forth nameless horrors!"
+						"text": "邪教分子把你谈判的意愿误认为是软弱的表现,狂暴地冲向你! \n\n其中两人退后,开始奇怪的吟唱,伴随着奇怪的扭曲动作. \n\n大地裂开,发出莫名的恐怖!"
 					},
 					{
 						"id": "SE_Adventure03Clue03_NegotiateW",
-						"text": "The cultists continue to skulk behind their rock, peering out suspiciously as you hurry to your car and drive off."
+						"text": "邪教分子继续躲在他们的岩石后面,当你匆匆赶往你的车并离开时还在怀疑地向外张望."
 					},
 					{
 						"id": "SE_Adventure03Clue03_Intimidate",
-						"text": "[char1]: \"Well this is awkward: There are more of you, but we are better armed. The question is, how much do you value your lives...\""
+						"text": "[char1]: \"好吧,这很尴尬: 你们有更多的人,但我们的武装更好. 问题是,你们对自己的命有多重视...\""
 					},
 					{
 						"id": "SE_Adventure03Clue03_IntimidateF",
-						"text": "The cultists do not respond to the threat! Instead, they rush at you, howling with rage. \n\nTwo of them stay back and start a strange chanting, accompanied by bizarre, contorted motions. \n\nThe earth opens up and spews forth nameless horrors!"
+						"text": "面对威胁,邪教分子没有做出反应! 相反,他们冲着你怒吼. \n\n其中两人退后,开始奇怪的吟唱,伴随着奇怪的扭曲动作. \n\n大地裂开,发出莫名的恐怖!"
 					},
 					{
 						"id": "SE_Adventure03Clue03_IntimidateW",
-						"text": "Apparently, the cultists are not eager to take the risk. They skulk behind their rock and do not emerge. \n\nSpurred on by his success, [char1] rushes towards them, shouting loudly with weapons drawn! The cultists take flight!"
+						"text": "显然,邪教分子并不急于冒险.他们躲在岩石后面不出来. \n\n看见恐吓起了作用, [char1] 冲向他们, 一边喊一边掏出武器! 邪教分子逃走了!"
 					},
 					{
 						"id": "SE_Adventure03Clue03_IntimidateW_female",
-						"text": "Apparently, the cultists are not eager to take the risk. They skulk behind their rock and do not emerge. \n\nSpurred on by her success, [char1] rushes towards them, shouting loudly with weapons drawn! The cultists take flight!"
+						"text": "显然,邪教分子并不急于冒险.他们躲在岩石后面不出来. \n\n看见恐吓起了作用, [char1] 冲向他们, 一边喊一边掏出武器! 邪教分子逃走了!"
 					},
 					{
 						"id": "SE_Adventure03Clue03_Papyrus",
-						"text": "One of the dead cultists wears particularly ornate robes. In his pockets, you find a bundle of papers tied together with string. \n\nIt is a transcript of the lost papyrus fragments of Anophu-Khe. In it, the Faceless Priest mentions a disconcerting planetary configuration that occurs once every 2876 years.\n\nExcited, you read on: [CTP]\n\n\"And Turash-Ra, the Black Pharaoh shall rise, and He shall wade through a Sea of Blood. Cruel will be His Reign over the Realms of the Living.\n\nAnd His Dominion will be followed by the Return of Him whose Name may not be uttered. \n\nAnd Great shall be the Lamentations of the People.\""
+						"text": "一个死去的教徒穿着特别华丽的长袍.在他的口袋里,你发现一捆用绳子捆在一起的文件. \n\n这是Anophu-Khe丢失的纸莎草片段的转录本. 在书中,无脸的神父提到了一个令人不安的行星形态,每2876年出现一次.\n\n你兴奋地读到: [CTP]\n\n\"还有图拉什,黑色法老将崛起,他将涉过血海.他将残酷地统治活人的领域.\n\n他的统治权将伴随着他的回归而来,他的名字将不能被说出口. \n\n人民的哀歌将是伟大的.\""
 					},
 					{
 						"id": "SE_Adventure03Clue03_Papyrus_Intimidation",
-						"text": "In the sand, you see a bundle of papers tied up with string that the fleeing cultists must have dropped! \n\nIt is a transcript of the lost papyrus fragments of Anophu-Khe. In it, the Faceless Priest mentions a disconcerting planetary configuration that occurs once every 2876 years.\n\nExcited, you read on [CTP]\n\n\"And Turash-Ra, the Black Pharaoh shall rise, and He shall wade through a Sea of Blood. Cruel will be His Reign over the Realms of the Living.\n\nAnd His Dominion will be followed by the return of Him whose Name may not be uttered. \n\nAnd Great shall be the Lamentations of the People.\""
+						"text": "在沙地上,你看到一捆用绳子捆起来的纸,那些逃亡的邪教教徒一定是掉了! \n\n这是Anophu-Khe丢失的纸莎草片段的转录本. 在书中,无脸的神父提到了一个令人不安的行星形态,每2876年出现一次.\n\n你兴奋地读到: [CTP]\n\n\"还有图拉什,黑色法老将崛起,他将涉过血海.他将残酷地统治活人的领域.\n\n他的统治权将伴随着他的回归而来,他的名字将不能被说出口. \n\n人民的哀歌将是伟大的.\""
 					},
 					{
 						"id": "SE_Adventure03Clue01_Title",
-						"text": "An old waterhole"
+						"text": "旧水坑"
 					},
 					{
 						"id": "SE_Adventure03Clue01_Intro",
-						"text": "Vultures circle the rocks – that's never a good sign in this inhospitable wilderness! \n\nWith weapons drawn, you carefully approach a dried-up waterhole that you spotted among the rocks from afar. [CTP]\n\nThe startled vultures take flight, croaking their displeasure and exposing the scene at the rudimentary camp. \n\nYou see various signs of an uneven fight: battered wooden crates, a slashed backpack – and the mortal remains of a man in a tropical suit! His body is perforated with multiple stab wounds."
+						"text": "秃鹫在岩石上盘旋——在这片荒凉的荒野里,这从来不是一个好兆头! \n\n你从远处的岩石中发现了这个水坑,你拔出武器小心地靠近这个干涸的水坑. [CTP]\n\n受惊的秃鹫开始逃跑,发出不快的叫声,暴露出低级营地的场景. \n\n你看到各种不平衡战斗的迹象:被打过的木箱、被砍过的背包——以及一个穿着热带套装的男人的遗体!他的身体被多处刺伤穿孔."
 					},
 					{
 						"id": "SE_Adventure03Clue01_Article",
-						"text": "In the dead man's chest pocket, you find a folded newspaper article entitled 'Shocking Blood Rites in the Egyptian Desert', written by a certain Percy Ashton:\n\n\"Murder by poison, kidnapping and blackmail – the Khonesh Brotherhood's atrocities have terrorized our beautiful metropolis over the last few weeks!\" [CTP]\n\n\"Who are the sinister powers behind this secret society? Rumors point to men of influence and prestige – but we do not wish to trouble our readers with speculation.\n\nThe only thing that is certain, is that the Khonesh Brotherhood are increasingly moving their activities to the Middle East now that our police authorities are on their heels.”"
+						"text": "在死者的衣袋里,你可以看到一篇折叠的报纸文章,标题是 '埃及沙漠中令人震惊的血祭', 作者是某位珀西·阿什顿:\n\n\"被毒杀、绑架和敲诈——霍尼什兄弟会的暴行在过去几周里恐吓了我们美丽的大都会!\" [CTP]\n\n\"这个秘密社会背后的邪恶势力是谁? 传言指向有影响力和威望的人,但我们不想用猜测来困扰读者.\n\n唯一可以肯定的是,霍尼什兄弟会越来越多地将其活动转移到中东,我们的警察当局会紧跟其后.”"
 					},
 					{
 						"id": "SE_Adventure03Clue01_Grave",
-						"text": "You search the dead man's belongings and find a British passport – the murdered man was Percy Ashton himself! \n\nThe reporter was probably following a hot lead when the Brotherhood got to him! \n\nYou bury the man and swear to make those fanatics pay for his murder..."
+						"text": "你搜了死者的财物,找到了一本英国护照——被谋杀的人是珀西·阿什顿本人! \n\n当兄弟会找到他时,记者可能是在跟踪一个热门线索! \n\n你埋葬了那个人,发誓要让那些狂热分子为他的谋杀付出代价..."
 					},
 					{
 						"id": "SE_Adventure01Clue04_Title",
-						"text": "A desert bunker"
+						"text": "沙漠地堡"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Intro",
-						"text": "The German scout you captured while he was sleeping told you about a bunker in the desert. \n\nHe also mentioned an American spy being held in one of the bunker cells – it can only be your friend Morten! [CTP]\n\nWarily, you sneak closer. Sentries guard the bunker entrance. \n\nThere’s no way through!"
+						"text": "你俘获的一个正在睡觉的德国侦察兵告诉你沙漠中的一个地堡. \n\n他还提到一名美国间谍被关押在地堡的一间牢房里,他一定是你的朋友莫顿! [CTP]\n\n你小心翼翼地靠近.哨兵守卫着地堡入口. \n\n没有别的办法了!"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Choice01",
-						"text": "Explore the area"
+						"text": "探索该区域"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Choice02",
@@ -8510,95 +8510,95 @@
 					},
 					{
 						"id": "SE_Adventure01Clue04_Infiltrate",
-						"text": "You circle the complex and eventually find a ventilation shaft that you can pass through unseen. You sneak through the passageways. \n\nAs you make your way through their living quarters, you come across a group of German soldiers! You take advantage of the element of surprise and open fire!"
+						"text": "你绕着大楼转,最终找到一个通风井,你可以通过它到达看不见的地方.你偷偷穿过通道. \n\n当你穿过他们的住所时,你遇到一群德国士兵! 你利用突袭的优势朝他们开火!"
 					},
 					{
 						"id": "SE_Adventure01Clue04_Protocol_pt01",
-						"text": "To your great disappointment, both bunker cells are empty! Hoping for further intelligence, you search the staff room. You are in luck!\n\n\"Interrogation Protocol, Morten Lambert:\n\nPursuant to our interrogation, we are now able to determine the precise position of the biblical Mount Ararat beyond any doubt.\""
+						"text": "令你大失所望的是,两个地堡都是空的! 你搜查了员工室,希望得到进一步的情报. 真走运!\n\n\"审问协议,莫顿·兰伯特:\n\n鉴于我们的审问,我们现在可以毫无疑问地确定圣经中阿拉拉特山的确切位置.\""
 					},
 					{
 						"id": "SE_Adventure01Clue04_Protocol_pt02",
-						"text": "\"We will pass on our findings to the Armenia Expedition. There is no need to delay their departure any further.\n\nWe will hand over the spy Lambert to Excavation Regiment Southwest for final processing.\""
+						"text": "\"我们将把我们的发现发给亚美尼亚探险队.不必再耽误他们的出发时间了.\n\n我们将把间谍兰伯特交给西南挖掘团进行最后处理.\""
 					},
 					{
 						"id": "SE_Adventure01Clue04_Rest",
-						"text": "You quickly search the map table: There it is! Excavation Regiment Southwest operates out of a fortified base in the heart of the Moroccan Sahara! That’s where you will find Morten!\n\nYou use the supplies you find in the bunker to prepare a hearty meal. With treated wounds and freshly oiled weapons, you set off deeper into the desert..."
+						"text": "你快速搜索地图表: 在那儿! 西南挖掘团在摩洛哥撒哈拉沙漠中心的一个防御基地外运作! 那就是你能找到莫顿的地方!\n\n你使用你在地堡中找到的补给来准备丰盛的晚餐. 带着治疗过的伤口和刚上油的武器,你开始深入沙漠..."
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Title",
-						"text": "The Atlas Mountains"
+						"text": "阿特拉斯山"
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Intro",
-						"text": "Ahead of you lie the foothills of the mighty Atlas mountain range. Between a cork oak plantation and some Aleppo pines you see a small estate. You hear the bleating of the goats, and the air is rich with the gentle scent of juniper and thyme. \n\nThe property belongs to a wealthy merchant who welcomes you as guests to his home."
+						"text": "前方是阿特拉斯山脉的山麓.在一个软木橡树种植园和一些阿勒颇松树之间,你看到一个小庄园.你听到山羊的叫声,空气中弥漫着刺柏和百里香的清香. \n\n该房产属于一位富有的商人,他欢迎你作为客人入住."
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_AfterTrade",
-						"text": "The merchant waves his hands in alarm when he sees that you want to leave: \n\n[char0]: \"Why the hurry? At least honor my household by staying for a modest meal!\"\n\nThis would be the perfect place for a break – do you want to stay a while?"
+						"text": "商人看到你要离开时惊慌失措地挥手说: \n\n[char0]: \"为什么这么急?至少在家里吃顿便饭是为了向家人表示敬意!\"\n\n这将是休息的好地方 – 你想待一会儿吗?"
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Choice01",
-						"text": "Rest up"
+						"text": "休息"
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Choice02",
-						"text": "Bid farewell"
+						"text": "告别"
 					},
 					{
 						"id": "SE_Adventure01MapArrival01_Rest",
-						"text": "The man dishes up mountains of couscous with chickpeas and mutton. You are also offered fragrant mint tea, while his servants repair your equipment.\n\nHours later, you bid farewell to the man and his family, and continue with full stomachs towards the mountains."
+						"text": "这个男人用鹰嘴豆和羊肉烹制蒸粗麦粉山. 当他的仆人修理你的设备时,你喝到了香喷喷的薄荷茶.\n\n过了一会儿,你挺着吃饱的肚子告别了这家人,继续向山上前进."
 					},
 					{
 						"id": "SE_Adventure01MapArrival02_Intro",
-						"text": "After a few hours traveling the bumpy mountain roads, you finally leave the foothills of the Atlas Mountains behind. \n\nAhead of you lies the endless furnace of the Sahara! The air over the desert sand flickers as if baking... [CTP]\n\nThe mysterious Nazi Excavation Regiment is out there somewhere in this lifeless ocean of dunes! \n\nWill you find them in time to save your friend?"
+						"text": "在崎岖的山路上走了几个小时,你终于离开了阿特拉斯山的山麓. \n\n你的前方是撒哈拉无尽的熔炉! 沙漠上空的空气摇曳着,仿佛在烘烤... [CTP]\n\n神秘的纳粹挖掘团就在这片毫无生气的沙丘海洋的某处! \n\n你会及时找到他们救出你的朋友吗?"
 					},
 					{
 						"id": "FA_OutOfFuel_Intro",
-						"text": "When you’ve used up the last drop of gas, your jeep finally gives up the ghost and sputters to a halt. \n\nYou exchange looks of consternation.\n\nWill you continue your journey on foot or give up?"
+						"text": "当你用完最后一滴汽油后, 你的吉普车砰的一声停止了运转. \n\n你露出惊愕的表情.\n\n你要步行继续你的旅程还是放弃?"
 					},
 					{
 						"id": "FA_OutOfFuel_Choice01",
-						"text": "Continue on foot"
+						"text": "继续步行"
 					},
 					{
 						"id": "FA_OutOfFuel_Choice02",
-						"text": "Give up"
+						"text": "放弃"
 					},
 					{
 						"id": "FA_TeamDied_Intro",
-						"text": "You did your best, but in the end, the enemy won! \n\nSomebody else will have to save Morten from his fate..."
+						"text": "你尽了最大的努力,但最终,敌人赢了! \n\n其他人必须把莫顿从他的命运中拯救出来..."
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Title",
-						"text": "The Syrian Desert"
+						"text": "叙利亚沙漠"
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Intro",
-						"text": "The rocky mountain track provides an excellent view of the arid Syrian desert stretching out below you. You carefully follow the narrow hairpin bends on your way down.\n\nSuddenly, [char0] steps on the brakes and points excitedly to the scree slope below you: A wrecked Wehrmacht jeep! [CTP]\n\nYou get out to investigate. Three dead soldiers lie around the car. They appear to have died as a result of the accident, but you can’t be certain. \n\nYou quickly search the car. You’re in luck: In the trunk, you find a half-full jerrycan and a small supply crate!"
+						"text": "从落基山脉的小道可以看到延伸到你脚下的干旱的叙利亚沙漠. 你小心翼翼地沿着狭窄的U型弯下去.\n\n不经意间, [char0] 踩下刹车,兴奋地指向你下面的石壁斜坡: 一辆破车! [CTP]\n\n你下车去调查. 三个死去的士兵躺在车的周围.他们似乎是死于事故,但你不能肯定. \n\n你快速搜索汽车.你走运了:在后备箱里,你发现了一个半满的油罐和一个小货箱!"
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Intro_female",
-						"text": "The rocky mountain track provides an excellent view of the arid Syrian desert stretching out below you. You carefully follow the narrow hairpin bends on your way down.\n\nSuddenly, [char0] steps on the brakes and points excitedly to the scree slope below you: A wrecked Wehrmacht jeep! [CTP]\n\nYou get out to investigate. Three dead soldiers lie around the car. They appear to have died as a result of the accident, but you can’t be certain. \n\nYou quickly search the car. You’re in luck: In the trunk, you find a half-full jerrycan and a small supply crate!"
+						"text": "从落基山脉的小道可以看到延伸到你脚下的干旱的叙利亚沙漠. 你小心翼翼地沿着狭窄的U型弯下去.\n\n不经意间, [char0] 踩下刹车,兴奋地指向你下面的石壁斜坡: 一辆破车! [CTP]\n\n你下车去调查. 三个死去的士兵躺在车的周围.他们似乎是死于事故,但你不能肯定. \n\n你快速搜索汽车.你走运了:在后备箱里,你发现了一个半满的油罐和一个小货箱!"
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Title",
-						"text": "The Armenian Mountains"
+						"text": "亚美尼亚山"
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Intro",
-						"text": "You breathe a sigh of relief as you finally leave the merciless heat of the Syrian Desert behind you. The awe-inspiring mountains of the Armenian Highlands rise before you!\n\nLegend has it that Noah landed somewhere here with his ark as the waters of the Great Flood receded. But what is the connection with the Wrath of God? [CTP]\n\nInstinctively, you look up, but the mountain peaks around you do not reveal their secrets...\n\nYou take another long break before you set off on the last leg of your journey."
+						"text": "当你把叙利亚沙漠无情的酷热抛在身后时,你终于松了一口气. 亚美尼亚高原令人敬畏的群山耸立在你面前!\n\n当洪水退去,诺亚带着他的方舟停靠在这里.但是它与神之愤怒有什么联系呢?[CTP]\n\n你不停地向上看,但是你周围的山峰并没有透露它们的秘密...\n\n在你踏上最后一段旅程之前,你又休息了很长时间."
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_anabelle_Title",
-						"text": "An old mineshaft"
+						"text": "旧矿井"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Intro",
-						"text": "An explosion tears through the silence – you hear loud, angry cries! A few moments later, gunshots echo between the rocks!\n\nYou follow the noise and see a handful of cultists clustered around a cave entrance. Off to one side is the burning wreck of a car. [CTP]\n\nAnother shot rings out – someone has barricaded themselves in the cave and is desperately trying to keep the attackers at bay!"
+						"text": "爆炸声穿过寂静——你听到了响亮、愤怒的哭声! 几分钟后,岩石间回响着枪声!\n\n你跟着噪音,看到少数邪教教徒聚集在一个洞穴入口周围.一边是燃烧着的汽车残骸. [CTP]\n\n又响了一枪 – 有人在山洞里设了路障,拼命想阻止袭击者!"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Choice01",
-						"text": "Attack the cultists from behind"
+						"text": "从背后进攻邪教分子"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Choice02",
@@ -8606,31 +8606,31 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Aftermath",
-						"text": "As the last cultist falls to the ground, a figure springs over the improvised barricade: [char0]!\n\n[char0]: \"I heard you were on a mission and came as quickly as I could!\"\n\n[char0]: \"I did not expect to be ambushed on the way...\"\n\n[char0]: \"So what do you think? Could you do with some help?\""
+						"text": "当最后一个教徒倒下时,一个人突然出现在临时搭建的路障边上: [char0]!\n\n[char0]: \"我听说你在执行任务,我尽快赶来了!\"\n\n[char0]: \"我没想到在路上会被伏击...\"\n\n[char0]: \"那你怎么想?你能帮忙吗?\""
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Aftermath_female",
-						"text": "As the last cultist falls to the ground, a figure springs over the improvised barricade: [char0]!\n\n[char0]: \"I heard you were on a mission and came as quickly as I could!\"\n\n[char0]: \"I did not expect to be ambushed on the way...\"\n\n[char0]: \"So what do you think? Could you do with some help?\""
+						"text": "当最后一个教徒倒下时,一个人突然出现在临时搭建的路障边上: [char0]!\n\n[char0]: \"我听说你在执行任务,我尽快赶来了!\"\n\n[char0]: \"我没想到在路上会被伏击...\"\n\n[char0]: \"那你怎么想?你能帮忙吗?\""
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_Title",
-						"text": "The Nubian border"
+						"text": "努比亚边界"
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_Intro",
-						"text": "After your exhausting journey through the endless Egyptian desert, you finally cross the border into Sudan: ancient Nubia! This place in the deepest south, the highlands of Meroe, was once the ancestral seat of the lost kings of Kush. [CTP]\n\nAt the remote, dusty customs post, a scene of horror awaits you: Somebody, or... something attacked the officials, leaving nothing but death and devastation! \n\nYou search the squalid mud hut, but find no survivors..."
+						"text": "经过漫长的埃及沙漠,你筋疲力尽的旅程,终于越过边界进入苏丹:古老的努比亚! 位于最南端的梅洛高地,曾经是迷失国王库什的祖先的领地. [CTP]\n\n在遥远、尘土飞扬的海关哨所, 出现了一幅恐怖的场景: 有人,或者... 有什么东西袭击了军官,只留下了死亡和毁灭的痕迹! \n\n你搜索肮脏的泥屋,却找不到幸存者..."
 					},
 					{
 						"id": "SE_Adventure03MapArrival02_oldCar",
-						"text": "In the courtyard, you see the rusted wreck of a car – the tank still appears to have a little gasoline! \n\nYou search the customs post and take what little you can find. [CTP]\n\nThen you continue your journey: You are all the more determined that the godless disciples of Turash-Ra pay for their crimes once and for all!"
+						"text": "在院子里,你看到一辆生锈的汽车残骸 – 油箱里似乎还有一点汽油! \n\n你搜索海关邮件获取了少量情报. [CTP]\n\n然后你继续你的旅程: 你更加坚定地认为图拉什的那些不敬神的教徒会为他们的罪行付出一次又一次的代价!"
 					},
 					{
 						"id": "SE_Adventure05Intro_Title",
-						"text": "Near Jeddah"
+						"text": "吉达附近"
 					},
 					{
 						"id": "SE_Adventure05Intro_Intro",
-						"text": "The cries of the gulls ring in your ears like a final farewell, as you continue your trek into the Arabian interior. \n\nThe search for Kharga Serabit has begun!"
+						"text": "当你继续跋涉进入阿拉伯内陆时,海鸥的叫声在你耳边回响,像是最后的告别. \n\n搜索Kharga Serabit已经开始!"
 					},
 					{
 						"id": "SE_Adventure05Clue01b_Title",
@@ -8642,59 +8642,59 @@
 					},
 					{
 						"id": "SE_Adventure05Clue01_Intro01",
-						"text": "Beneath the glaring desert sun, you spy a handful of palm trees swaying in the wind – you have found an oasis! \n\nFull of anticipation, you approach the grove."
+						"text": "在耀眼的沙漠阳光下,你看到一撮棕榈树在风中摇曳 – 你找到了一片绿洲! \n\n充满期待,你走近小树林."
 					},
 					{
 						"id": "SE_Adventure05Clue01_Intro02",
-						"text": "Desperate to quench your thirst after your arduous journey, you head directly to the well, only to discover that it holds not water but sand! Someone has filled in the well!\n\n[char0]: \"Sorry, the well is closed right now.\""
+						"text": "经过艰辛的旅途后,你不顾一切径直走向井边解渴,却发现井中不是水,而是沙! 有人把井灌满了!\n\n[char0]: \"抱歉,井现在已经关闭了.\""
 					},
 					{
 						"id": "SE_Adventure05Clue01_Intro03",
-						"text": "You spin around to see a squad of German soldiers! Their leader sneers at you: \n\n[char0]: \"It appears we share a common interest: Kharga Serabit and its thousand towers of blue and red porphyry buried beneath the desert sands.\""
+						"text": "你转过头去看到一队德国士兵! 他们的领导人嘲笑你: \n\n[char0]: \"看来我们有共同的兴趣:埋在沙漠中的 Kharga Serabit 和它的数千座蓝色和红色斑岩塔.\""
 					},
 					{
 						"id": "SE_Adventure05Clue01_Intro04",
-						"text": "[char0]: \"Don’t try to deny it. Your activities in Jeddah were hardly discrete.\"\n\n[char0]: \"Captain Rueckert left us here with orders to spare you any further trouble: Your journey ends here!\"\n\nWithout warning, the Germans open fire!"
+						"text": "[char0]: \"别想否认. 你在吉达的活动是持续的麻烦.\"\n\n[char0]: \"鲁克特上尉命令我们留在这里解决你们: 你的旅程到此结束!\"\n\n没有警告,德国人开火了!"
 					},
 					{
 						"id": "SE_Adventure05Clue01_Aftermath",
-						"text": "Your enemies lie defeated in the desert sand. As you search them, you notice that one of the soldiers is still fighting for his life. It is their young leader: \n\n[char0]: \"You will never reach Kharga Serabit! The Water of Life will belong to the German people alone!\"\n\nThe young soldier takes one last, shallow breath, then dies."
+						"text": "你的敌人在沙漠中战败. 当你搜索他们的尸体时,你注意到其中一个士兵仍在为他的生命而战. 这是他们的年轻领袖: \n\n[char0]: \"你永远不会到达 Kharga Serabit! 生命之水只属于德国人民!\"\n\n年轻的军官吸了最后一口浅呼吸,然后就死了."
 					},
 					{
 						"id": "SE_Adventure05Clue01_End",
-						"text": "You stare at each other in confusion: The Germans again! And what did he mean by the Water of Life? \n\nAccording to legend, Kharga Serabit was surrounded by magnificent irrigated gardens – could there be some kind of connection that has previously eluded you?"
+						"text": "你困惑地盯着对方看: 德国人又来了! 他所说的生命之水是什么意思? \n\n根据传说, Kharga Serabit 被宏伟的灌溉花园包围着 – 你以前有没有听说过过这样的传言?"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Title",
-						"text": "A waterhole"
+						"text": "水坑"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_Intro",
-						"text": "Behind you rise the majestic peaks of the Sarawat Mountains that shield the populated coastal regions of the Hejaz from the empty Arabian desert. [CTP]\n\nYou come across a group of pilgrims on their way to Mecca, resting in the shade of a palm grove at a waterhole."
+						"text": "你身后高耸的沙捞越山脉雄伟的高峰,使人口稠密的沿海地区希贾兹免受空旷的阿拉伯沙漠的侵袭. [CTP]\n\n你在前往麦加的途中遇到一群朝圣者,他们在一个水坑边的棕榈林中休息."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_LanguagesF",
-						"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun his overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+						"text": "[char0] 走近朝圣者,希望与他们交谈,但他们避开了他.\n\n当 [char0] 回到你身边时,人们开始彼此低语,朝你的方向投去不赞成的目光. [CTP]\n\n[char0]: \"我们不应该在这里呆太久.\"\n\n为了避免麻烦,你在向朝圣者们点头告别之前,赶紧收拾好装备."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01b_LanguagesF_female",
-						"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun her overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+						"text": "[char0] 走近朝圣者,希望与他们交谈,但他们避开了她.\n\n当 [char0] 回到你身边时,人们开始彼此低语,朝你的方向投去不赞成的目光. [CTP]\n\n[char0]: \"我们不应该在这里呆太久.\"\n\n为了避免麻烦,你在向朝圣者们点头告别之前,赶紧收拾好装备."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Title",
-						"text": "A waterhole"
+						"text": "水坑"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Intro",
-						"text": "In the distance, you see the silhouette of the sacred city of Mecca. Infidels are forbidden from entering the city on pain of death and you maintain a respectful distance. [CTP]\n\nYou come across a group of pilgrims resting in the shade of a palm grove at a waterhole."
+						"text": "在远处,你可以看到圣城麦加的轮廓. 异教徒因死亡之痛禁止进入这座城市,而你要保持一个尊重的距离. [CTP]\n\n你遇到一群朝圣者,他们在一个水坑边的棕榈树林里休息."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Choice01",
-						"text": "Rest"
+						"text": "休息"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Choice02",
-						"text": "Speak with the pilgrims"
+						"text": "和朝圣者交谈"
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Choice03",
@@ -8702,47 +8702,47 @@
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Leave",
-						"text": "You unpack your blankets but the men begin to whisper among themselves and cast disapproving looks in your direction. \n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+						"text": "你打开毯子,但是人们开始彼此低语,朝你的方向投去不赞成的目光. \n\n为了避免麻烦,你在向朝圣者们点头告别之前,赶紧收拾好装备."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_LanguagesW",
-						"text": "[char0] approaches the pilgrims and quickly strikes up a conversation with them. Smiling in welcome, the men beckon to you to join them."
+						"text": "[char0] 走近朝圣者,迅速与他们交谈.他们微笑着欢迎你,欢迎你加入他们."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_LanguagesW_female",
-						"text": "[char0] approaches the pilgrims and quickly strikes up a conversation with them. Smiling in welcome, the men beckon to you to join them."
+						"text": "[char0] 走近朝圣者,迅速与他们交谈.他们微笑着欢迎你,欢迎你加入他们."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_LanguagesF",
-						"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun his overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+						"text": "[char0] 走近朝圣者,希望与他们交谈,但他们避开了他.\n\n当 [char0] 回到你身边时,人们开始彼此低语,朝你的方向投去不赞成的目光. [CTP]\n\n[char0]: \"我们不应该在这里呆太久.\"\n\n为了避免麻烦,你在向朝圣者们点头告别之前,赶紧收拾好装备."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_LanguagesF_female",
-						"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun her overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+						"text": "[char0] 走近朝圣者,希望与他们交谈,但他们避开了她.\n\n当 [char0] 回到你身边时,人们开始彼此低语,朝你的方向投去不赞成的目光. [CTP]\n\n[char0]: \"我们不应该在这里呆太久.\"\n\n为了避免麻烦,你在向朝圣者们点头告别之前,赶紧收拾好装备."
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Eat",
-						"text": "They offer you some dried dates and freshly brewed Turkish coffee. In turn, you share several tins of canned food from your store of provisions. \n\nAs you eat, [char0] explains:\n\n[char0]: \"People come from all over the world to take part in the pilgrimage to Mecca. Malayans, Bengalis, and many others are all gathered here. That group seated over there hails from Abyssinia.\""
+						"text": "他们提供给你一些干枣子和新鲜煮的土耳其咖啡.作为回报,你从你的食品储备里分了几罐罐头食品. \n\n当你吃东西的时候, [char0] 解释道:\n\n[char0]: \"世界各地的人都会来参加麦加朝圣.马来人、孟加拉人和许多其他人都聚集在这里.坐在那边的那群人来自阿比西尼亚.\""
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Eat_female",
-						"text": "They offer you some dried dates and freshly brewed Turkish coffee. In turn, you share several tins of canned food from your provisions. \n\nAs you eat, [char0] explains:\n\n[char0]: \"People come from all over the world to take part in the pilgrimage to Mecca. Malayans, Bengalis, and many others are all gathered here. That group seated over there hails from Abyssinia.\""
+						"text": "他们提供给你一些干枣子和新鲜煮的土耳其咖啡.作为回报,你从你的食品储备里分了几罐罐头食品. \n\n当你吃东西的时候, [char0] 解释道:\n\n[char0]: \"世界各地的人都会来参加麦加朝圣.马来人、孟加拉人和许多其他人都聚集在这里.坐在那边的那群人来自阿比西尼亚.\""
 					},
 					{
 						"id": "SE_Adventure05MapArrival01_Rest",
-						"text": "[char0]: \"Fortunately for us, all travelers enjoy the right to hospitality during the pilgrimage season.\"\n\nAfter your meal, you clean your weapons and mend your remaining equipment before bidding your hosts farewell and continuing your journey."
+						"text": "[char0]: \"幸运的是,在朝圣期间,所有的旅行者都享有接受盛情款待的权利.\"\n\n在用餐后,在向主人告别继续旅行之前,你先清洗了武器并修理了其他装备."
 					},
 					{
 						"id": "SE_Adventure05Clue02_Title",
-						"text": "An ancient mine"
+						"text": "古矿山"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Intro",
-						"text": "The isolated massif looms over the endless wasteland of the surrounding desert like a fist poised to strike. [CTP]\n\nYou consult your maps, but it appears that this part of the Arabian Desert is as yet almost entirely unexplored and they prove to be of little use.\n\nThe mountains loom ever larger before you as your vehicle grinds its way slowly across the sandy wasteland. [CTP]\n\nAs you approach, you spy a military transport truck parked close by the cliff. The Germans are here too! \n\nWill you pay them a visit or try to avoid them?"
+						"text": "孤立的山丘隐约出现在周围沙漠无边无际的荒地上,就像一只拳头正准备攻击. [CTP]\n\n你查阅地图,但似乎阿拉伯沙漠的这一部分还几乎完全没有勘探过,而且几乎没有什么用处.\n\n当你的车辆缓慢地在沙地上行驶时,山在你面前显得越来越大. [CTP]\n\n当你接近时,你发现一辆军用运输卡车停在悬崖边.德国人也来了! \n\n你会去拜访他们吗?还是尽量避开他们?"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Choice01",
-						"text": "Journey to the rocks"
+						"text": "向着岩石摸进"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Choice02",
@@ -8750,99 +8750,99 @@
 					},
 					{
 						"id": "SE_Adventure05Clue02_Enter",
-						"text": "After concealing your jeep in a small depression, you approach the rocks on foot. The truck stands abandoned at the entrance to an ancient mine. You decide to follow the trail of bootprints leading into its depths. [CTP]\n\nThe vivid colors of the rocks around you range from purple to violet. [char0] crouches down to examine the stone: \n\n[char0]: \"Porphyry... this must be an ancient quarry.\""
+						"text": "你把吉普车藏在一个小洼地后,步行接近岩石.卡车停在一个古矿的入口处. 你打算跟着脚印深入矿洞. [CTP]\n\n周围岩石的鲜艳颜色从紫色到紫罗兰不等. [char0] 蹲下来检查石头: \n\n[char0]: \"斑岩...这一定是个古老的采石场.\""
 					},
 					{
 						"id": "SE_Adventure05Clue02_Enter_female",
-						"text": "After concealing your jeep in a small depression, you approach the rocks on foot. The truck stands abandoned at the entrance to an ancient mine. You decide to follow the trail of bootprints leading into its depths. [CTP]\n\nThe vivid colors of the rocks around you range from purple to violet. [char0] crouches down to examine the stone: \n\n[char0]: \"Porphyry... this must be an ancient quarry.\""
+						"text": "你把吉普车藏在一个小洼地后,步行接近岩石.卡车停在一个古矿的入口处. 你打算跟着脚印深入矿洞. [CTP]\n\n周围岩石的鲜艳颜色从紫色到紫罗兰不等. [char0] 蹲下来检查石头: \n\n[char0]: \"斑岩...这一定是个古老的采石场.\""
 					},
 					{
 						"id": "SE_Adventure05Clue02_Porphyr",
-						"text": "You exchange glances – according to legend, the towers and palaces of Kharga Serabit were built from massive blocks of blue and red porphyry. \n\nArchaeologists have long debated their origins and it seems that you have finally solved the mystery! The discovery buoys your spirits: you must be on the right track! Kharga Serabit can’t be far away now!"
+						"text": "你交换了眼神 – 根据传说, Kharga Serabit 的塔楼和宫殿是由大量蓝色和红色斑岩建造的. \n\n考古学家们一直在争论他们的起源,看来你终于解开了这个谜! 这个发现鼓舞了你: 你必须走上正确的道路! Kharga Serabit 现在不远了!"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Soldiers",
-						"text": "Suddenly, you hear the dread sound of jackboots approaching from the depths below – the Germans are returning! You rush to hide behind some blocks of porphyry. Moments later, a squad of soldiers files past your position."
+						"text": "突然,你听到从下面深处传来的长筒靴的可怕声音 – 德国人回来了! 你急着躲在斑岩后面.过了一会儿,一队士兵从你面前上走过."
 					},
 					{
 						"id": "SE_Adventure05Clue02_Choice03",
-						"text": "Hide"
+						"text": "隐藏"
 					},
 					{
 						"id": "SE_Adventure05Clue02_Choice04",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "SE_Adventure05Clue02_AvoidFight",
-						"text": "The soldiers march past, seemingly unaware of your presence. You pause briefly before descending further into the mine. Unfortunately, you find nothing of value. Whatever the Germans were doing here will remain a mystery forever..."
+						"text": "士兵们走过去了,似乎不知道你的存在.在深入矿井之前,你停顿了一下.不幸的是,你找不到有价值的东西.无论德国人在这里做什么,都将永远是一个谜..."
 					},
 					{
 						"id": "SE_Adventure05Clue02_Aftermath",
-						"text": "You search the bodies of your slain opponents. A young lieutenant has a small document pouch on his belt: \n\nA well-thumbed book inside bears the title \"Lost Myths of the Arabian Peninsula\". \n\nOne passage has been highlighted: [CTP]\n\n\"... and thus spoke the Divine King of Kharga Serabit: Verily, this tower built by our father is a shameful sin. I stand with my brothers: we must rise up against him! Truly, the splendor of Kharga Serabit shall shine for all eternity.\"\n\n\"But the Builder was full of wrath at this and visited his plagues upon Kharga Serabit.\""
+						"text": "你搜索被杀对手的尸体.一名年轻的中尉腰带上有一个小文件袋: \n\n一本被翻烂的书上的标题叫做 \"阿拉伯半岛的迷失神话\". \n\n有一段作了重点标记: [CTP]\n\n\"... Kharga Serabit的神圣国王这样说道: 事实上,我们父亲建造的这座塔是一种可耻的罪恶.我和我的兄弟们站在一起: 我们必须起来反对他!诚然,Kharga Serabit 的辉煌将永远照耀下去.\"\n\n\"但是建造者对此充满了愤怒,并给Kharga Serabit带来了灾难.\""
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Title",
-						"text": "The endless desert"
+						"text": "无尽沙漠"
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Intro",
-						"text": "You fear that you will lose your minds in the searing heat of the desert. Fine sand drifts on the air and fills your lungs and eyes – everywhere you look, there is nothing but sand around you... \n\nIt is little wonder that explorers christened this region The Empty Quarter; it seems inconceivable that anything might survive, let alone flourish, in this hostile wasteland."
+						"text": "你怕在沙漠的灼热中失去理智. 细沙漂浮在空气中,充满了你的肺和眼睛 – 无论你看到什么地方,周围只有沙子... \n\n探险家们将这个地区命名为空旷之地也不足为奇; 在这片充满敌意的荒地里,任何东西都不可能生存下来,更不用说繁荣昌盛了."
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_CarWreck",
-						"text": "Suddenly, out of the corner of one eye, you spy a flock of birds circling in the skies above. Perhaps an oasis lies ahead?\n\nWhen you reach the site beneath the circling birds, you make a grisly discovery: The mangled remains of a German army jeep."
+						"text": "突然,从一只眼睛的余光中,你看到一群鸟在天空盘旋. 也许前方有绿洲?\n\n当你到达盘旋的鸟儿下面的地点时,你发现一个可怕的场面: 一辆德国军用吉普车残缺不全的残骸."
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_DeadSoldiers",
-						"text": "You examine the vehicle and soon discover that its front axle is broken. Even the simplest of mechanical faults can have fatal consequences in the desert.\n\nYou are not surprised to discover the bloated, discolored remains of the vehicle’s two drivers in a nearby tent."
+						"text": "你检查了车辆,很快发现它的前轴损坏了. 即使是最简单的机械故障也会在沙漠中造成致命的后果.\n\n你发现车辆的两名驾驶员在附近的帐篷中的膨胀褪色残骸一点也不惊讶."
 					},
 					{
 						"id": "SE_Adventure05MapArrival02_Leave",
-						"text": "The men must have died of dehydration in the last couple of days!\n\nYou leave the hapless Germans to their fate and search their vehicle for anything useful."
+						"text": "这几个人一定是脱水死的!\n\n你把不幸的德国人留给他们的命运,然后在他们的车里寻找任何有用的东西."
 					},
 					{
 						"id": "SE_Adventure05Clue03_Title",
-						"text": "An oasis settlement"
+						"text": "绿洲定居点"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Intro",
-						"text": "You sigh with relief when you spot a small oasis settlement nestled among a grove of palm trees. Exhausted from your journey through the relentless heat, you long to bathe in the cool oasis waters.\n\nBut an eerie sensation causes you to pause – something doesn’t feel right! A deathly silence hangs over the settlement, where not a soul is to be seen. [CTP]\n\nSensing danger, you skirt around the settlement and approach it cautiously from the rear.\n\nYour intuition has served you well: You see a large group of German soldiers lurking behind the huts and an army transport truck concealed among the palm trees nearby! [CTP]\n\nHidden behind a mud hut on the outskirts of the oasis, you quietly debate your next move."
+						"text": "当你看到一个小绿洲定居地坐落在一片棕榈树林中时,你松了一口气. 在酷热的旅途中筋疲力尽时,你渴望沐浴在凉爽的绿洲水中.\n\n但是一种怪异的感觉会让你停下来 – 有些事情感觉不对劲! 一片死寂笼罩在定居地上,一个人影也看不到. [CTP]\n\n意识到危险后,你绕过定居点,小心地从后面接近它.\n\n你的直觉很准: 你看到一大群德国士兵潜伏在小屋后面,一辆军用运输卡车隐藏在附近的棕榈树中! [CTP]\n\n在绿洲郊外的一间泥屋后面,你们悄悄地讨论下一步行动."
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice01",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice02",
-						"text": "Attack the soldiers from behind"
+						"text": "从背部攻击士兵"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice03",
-						"text": "Smash a hole in the wall of the hut"
+						"text": "在小屋墙上扣一个洞"
 					},
 					{
 						"id": "SE_Adventure05Clue03_RawStrengthW",
-						"text": "Before you can protest, [char0] hurls himself against the mud wall, smashing a hole as if it were made of straw!\n\nYou hold your breath as the debris rains down on the hard earthen floor. But you’re lucky: The rustling of the palm trees must have drowned out the sound and the German soldiers remain oblivious to your presence!"
+						"text": "在你提出抗议之前, [char0] 撞到了泥墙上,砸了一个洞,仿佛它是用稻草做的一样!\n\n当碎片落在坚硬的泥土地板上时,你屏住了呼吸. 但是你很幸运: 棕榈树的沙沙声一定把声音淹没了,德国士兵对你的存在视而不见!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_RawStrengthW_female",
-						"text": "Before you can protest, [char0] hurls herself against the mud wall, smashing a hole as if it were made of straw!\n\nYou hold your breath as the debris rains down on the hard earthen floor. But you’re lucky: The rustling of the palm trees must have drowned out the sound and the German soldiers remain oblivious to your presence!"
+						"text": "在你提出抗议之前, [char0] 撞到了泥墙上,砸了一个洞,仿佛它是用稻草做的一样!\n\n当碎片落在坚硬的泥土地板上时,你屏住了呼吸. 但是你很幸运: 棕榈树的沙沙声一定把声音淹没了,德国士兵对你的存在视而不见!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_RawStrengthF",
-						"text": "With a grunt, [char0] shoulder charges the mud wall, with no effect whatsoever.\n\n[char0]: \"It was worth a try.\"\n\nWhat do you want to do?"
+						"text": "[char0] 咕哝一声,用肩膀撞向泥墙, 但没有任何效果.\n\n[char0]: \"值得一试.\"\n\n你想怎么做?"
 					},
 					{
 						"id": "SE_Adventure05Clue03_RawStrengthF_female",
-						"text": "With a grunt, [char0] shoulder charges the mud wall, with no effect whatsoever.\n\n[char0]: \"It was worth a try.\"\n\nWhat do you want to do?"
+						"text": "[char0] 咕哝一声,用肩膀撞向泥墙, 但没有任何效果.\n\n[char0]: \"值得一试.\"\n\n你想怎么做?"
 					},
 					{
 						"id": "SE_Adventure05Clue03_InsideHut",
-						"text": "You clamber through the hole into the hut and scan the room: it is packed with wooden crates branded with Nazi insignia – you’ve stumbled upon a German supply depot!"
+						"text": "你从洞里爬进小屋,扫视房间: 里面装着印有纳粹标志的木箱 – 你偶然发现了一个德国补给站!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_CaptureSoldier",
-						"text": "As you examine the crates, you suddenly hear footsteps approaching the room. You scurry for cover. [CTP]\n\nA soldier enters the room alone – within seconds you overwhelm and pin him to the ground!\n\nYou question the man and learn that the soldiers were left behind to ambush you. \n\n[char2]: \"That’s all I know... You’ll find our orders in the truck if you want to know more.\" [CTP]\n\nYou bind and gag the soldier before weighing your options."
+						"text": "当你检查板条箱时,突然听到有脚步声接近房间. 你匆匆找掩护. [CTP]\n\n一名士兵独自进入房间 – 几秒钟之内,你就制服了他,把他按倒在地上!\n\n你询问那个人,知道士兵们被留下来伏击你. \n\n[char2]: \"我只知道... 如果你想了解更多情报,你可以在卡车上找到我们的命令.\" [CTP]\n\n在权衡你的选择之前,你堵住士兵的嘴并把他绑了起来."
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice04",
@@ -8850,35 +8850,35 @@
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice05",
-						"text": "Open fire!"
+						"text": "开火!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Choice06",
-						"text": "Sneak to the truck"
+						"text": "潜入卡车"
 					},
 					{
 						"id": "SE_Adventure05Clue03_StealthW",
-						"text": "Moving stealthily, [char1] darts from bush to bush until he eventually reaches the truck. A short while later, he returns with a stack of documents tucked under his arm!"
+						"text": "[char1] 悄悄的在灌木丛之间穿梭,最后到达吉普车. 过了一会儿,他回来时胳膊下夹着一堆文件!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_StealthW_female",
-						"text": "Moving stealthily, [char1] darts from bush to bush until she eventually reaches the truck. A short while later, she returns with a stack of documents tucked under her arm!"
+						"text": "[char1] 悄悄的在灌木丛之间穿梭,最后到达吉普车. 过了一会儿,她回来时胳膊下夹着一堆文件!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_StealthF",
-						"text": "Moving stealthily, [char1] darts from bush to bush – but as he approaches the truck, he runs straight into a squad of German soldiers, who quickly raise the alarm!"
+						"text": "[char1] 悄悄的在灌木丛之间穿梭,最后到达吉普车. 过了一会儿,他回来时胳膊下夹着一堆文件!"
 					},
 					{
 						"id": "SE_Adventure05Clue03StealthF_female",
-						"text": "Moving stealthily, [char1] darts from bush to bush – but as she approaches the truck, she runs straight into a squad of German soldiers who quickly raise the alarm!"
+						"text": "[char1] 悄悄的在灌木丛之间穿梭,最后到达吉普车. 过了一会儿,她回来时胳膊下夹着一堆文件!"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Aftermath",
-						"text": "As the dust begins to settle, you swiftly search the huts. \n\nThere is no trace of their occupants, but you find several documents in the German military trucks, which you take a moment to examine."
+						"text": "当尘埃开始沉淀时, 你迅速搜索小屋. \n\n没有居住者的踪迹,但你在德国军用卡车上发现了几份文件,你需要花一点时间检查这些文件."
 					},
 					{
 						"id": "SE_Adventure05Clue03_TopSecret",
-						"text": "In addition to standing orders for desert operations, you come across a sealed envelope with a special Nazi command group stamp \"Top Secret Special Orders\". You rip it open at once: [CTP] \n\n\"Project Valhalla has already surpassed our wildest expectations: It is evident that the objects retrieved during our expedition to Iceland share the same origin as those discovered in the course of operations in Ceylon.” [CTP]\n\n\"These are clearly the remnants of a highly advanced prehistoric civilization with settlements across Northern Europe and much of the Asian continent! \n\nThere is absolutely no doubt that this civilization was established by the Aryan master race.\""
+						"text": "除了沙漠行动的常规命令外,你还看到一个密封的信封,上面有纳粹特别命令组的印章 \"绝密特别命令\". 你立刻打开它: [CTP] \n\n\"瓦哈拉项目已经超出了我们最远大的期望: 很明显,在我们前往冰岛的探险过程中发现的物体与在锡兰的行动过程中发现的物体有着相同的起源.” [CTP]\n\n\"这些显然是高度发达的史前文明的残余物.它的定居点遍布北欧和亚洲大陆的大部分地区! \n\n毫无疑问,这个文明是由雅利安人的高级种族建立的.\""
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Title",
@@ -8886,95 +8886,95 @@
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Intro",
-						"text": "You look about in disappointment – are these collapsed foundations really all that remains of Kharga Serabit? \n\nWhere are the fountains, the pleasure gardens and the sumptuous palaces that the Bedouin people speak of on long nights when the moon hangs low in the heavens above the vast desert? [CTP]\n\nIs Kharga Serabit nothing more than a near-forgotten dream?\n\nYou are about to turn your backs on the city’s somber ruins when a strange rock formation attracts your attention... [CTP]\n\nAs you approach it, you spy three German military trucks parked close to a half-buried tunnel entrance. \n\nIt seems that Captain Rueckert and his men made it to Kharga Serabit!"
+						"text": "你失望地看看这些倒塌的地基,这真的是 Kharga Serabit的全部遗物吗? \n\n当月亮低垂在广阔的沙漠上空的天空中时,贝都因人在长夜谈论的喷泉、游乐场和豪华宫殿是什么? [CTP]\n\nKharga Serabit只是一个几乎被遗忘的梦吗?\n\n你背对城市阴暗的废墟 注意到一个奇怪的岩石结构... [CTP]\n\n当你靠近它时,你发现三辆德国军用卡车停在半埋式隧道入口附近. \n\n看来鲁克特上尉和他的手下去了Kharga Serabit!"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Cisterns",
-						"text": "With your weapons at the ready, you sneak past the abandoned truck and enter an ancient network of subterranean water tunnels.\n\nThe cisterns of Kharga Serabit form a sprawling tunnel system. You explore the passages until the sound of gruff voices alerts you to the nearby presence of German soldiers."
+						"text": "准备好武器后,你从废弃的卡车旁溜走,进入一个古老的地下水道网络.\n\nKharga Serabit的蓄水池形成了一个庞大的隧道系统. 你不停探索这些通道,直到粗哑的声音提醒你附近有德国士兵."
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Pool",
-						"text": "Concealed behind a low wall, you quickly take stock of the situation: A strange basin filled to the brim with a shimmering black liquid dominates the center of the gigantic chamber. [CTP]\n\nSeveral lead pipes lead from the basin to a throne-like object located at its head. \n\nFrom your position, you can see what appears to be a strangely misshapen statue seated on this basalt throne, but you are unable to make out any details from this distance. [CTP]\n\nSeveral of the soldiers set to work on the lead pipes, while others begin to clean the ancient throne of the thick layer of dust that has settled upon it over thousands of years."
+						"text": "你隐藏在低矮的墙壁后面,很快就了解到情况: 一个奇怪的盆,装满了闪闪发光的黑色液体,占据着巨大的房间的中心. [CTP]\n\n几个铅管从盆底通向位于其头部的宝座状物体. \n\n从你的位置,你可以看到坐在这个玄武岩王座上的一个奇怪的畸形雕像,但你无法从这个距离了解任何细节. [CTP]\n\n几个士兵们开始在铅管上工作,而其他人则开始清理数千年来堆积在古代王座上的厚厚灰尘."
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Officer",
-						"text": "An officer crouches down to read the strange cuneiform inscription that adorns the dais:\n\n[char0]: \"Let’s see what we have here: ... source of life... resurrected to new life... ascended into the heavens... Hmm... the rest is illegible.\" [CTP]\n\nWith a triumphant flourish, the officer wheels about to face his companions:\n\n[char0]: \"This is it, men: We have located the Fountain of Life! Achtung! Take up your positions! I am about to make history!\""
+						"text": "一名官员蹲下来阅读装饰在台子上的奇怪的楔形文字:\n\n[char0]: \"让我们看看这里有什么: ... 生命之源... 重获新生... 升入天堂... 嗯... 其余的难以辨认.\" [CTP]\n\n军官洋溢着胜利的喜悦面朝同伴道:\n\n[char0]: \"伙计们: 我们找到了生命之泉!注意了!站稳了!我即将要创造历史!\""
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Bath",
-						"text": "With these words, Captain Rueckert slowly descends the stone steps, taking each step carefully until the water reaches his chin. \n\nSomething moves in the water – Rueckert suddenly vanishes beneath its surface with a rapidly interrupted scream!"
+						"text": "说完这些话,鲁克特队长慢慢地走下石阶,每走一步都很小心,直到水漫过他的下巴. \n\n有什么东西在水里游动 – 鲁克特突然消失在水面下并发出了一声尖叫!"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Energy",
-						"text": "Seconds later, the lead pipes gurgle noisily as the liquid is sucked out of the basin. \n\nThe turmoil that engulfs the soldiers comes to an abrupt halt when suddenly, the stone statue moves and starts to lurch up from its throne with abrupt, jerking motions!"
+						"text": "几秒钟后,当液体被吸出水池时,铅管发出咕噜声. \n\n吞噬士兵的混乱突然停止了, 石头雕像开始以突然的猛烈动作从宝座上蹒跚而行!"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Alien",
-						"text": "[char1]: \"I... live!\"\n\nThe creature glances around in confusion: \n\n[char1]: \"Father, your voice... so quiet – all alone?\"\n\n[char1]: \"Aargh... not enough... essence!\"\n\nThe creature rears up before suddenly freezing as if paralyzed. Seconds later, it crumbles to dust!"
+						"text": "[char1]: \"我... 还活着!\"\n\n这个生物困惑地环顾四周: \n\n[char1]: \"父亲, 你的声音... 如此安静 – 一直是一个人吗?\"\n\n[char1]: \"啊... 还不够... 本质!\"\n\n在突然冻僵之前,这个生物站起来,好像瘫痪了一样.几秒钟后,它就碎成灰了!"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Fight",
-						"text": "As if in a bad dream you stare at the empty throne, trying to comprehend what just happened. \n\nSuddenly you hear a loud shout – you have been discovered!"
+						"text": "你凝视着空荡荡的王座,仿佛置身在一个恶梦中.你试图领悟刚刚发生的一切. \n\n突然你听到一声巨响 – 你被发现了!"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Aftermath",
-						"text": "The floor of the mysterious throne room is littered with the bodies of slain soldiers. \n\nIn a daze, you glance about the room, when suddenly a noise issues from the lead pipe: seconds later, the mysterious liquid fills the basin once again. [CTP]\n\nA shudder passes down your spine as you study the basin. Seldom have you felt such a strong urge to take a cool, clean bath."
+						"text": "神秘王座的地板上散落着被杀士兵的尸体. \n\n你了一会发呆,环顾房间,突然从铅管里发出一声噪音:几秒钟后,神秘的液体再次充满了水池. [CTP]\n\n当你打量水池时,你的脊柱发凉颤抖.你很少有过如此强烈的欲望去洗个清凉干净的澡."
 					},
 					{
 						"id": "SE_Adventure06Intro_Title",
-						"text": "Near Djibouti"
+						"text": "吉布提附近"
 					},
 					{
 						"id": "SE_Adventure06Intro_Intro",
-						"text": "The captain of the windblown dhow, an old Yemeni with a face like badly tanned leather, points to the mountain peaks on the horizon: Abyssinia...\n\nWhat fate awaits you there? Will you find the mythical Divine Chariot in time?"
+						"text": "被风吹得东倒西歪的也门老队长, 一张晒得黝黑的皮革似的脸,指着地平线上的山峰: 阿比西尼亚...\n\n你在那里等着什么命运? 你会及时找到神话中的战车吗?"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Title",
-						"text": "An ancient tomb"
+						"text": "古坟冢"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Intro",
-						"text": "You have finally reached your destination – the temple tomb of the Queen of Sheba rises menacingly before you! \n\nConfused, you survey the strange structure, then you realize: The tomb was carved into the solid lava basalt in the distant past."
+						"text": "你终于到达目的地了 – 谢巴女王的庙墓在你面前耸立! \n\n在观察了奇怪的结构后你感觉困惑,接着你意识到: 坟墓在遥远的过去是用坚实的熔岩玄武岩雕刻成的."
 					},
 					{
 						"id": "SE_Adventure06FinalFight_TempleObservation",
-						"text": "The tomb is teeming with cultists! \n\nSome of them are clearing rocks and gravel out of the temple forecourt, while others patrol in groups. There is no way you can get past unseen! [CTP]\n\nThere's nothing you can do but observe the cultists from a safe distance.\n\nYou crouch behind some rocks and try not to contemplate what will happen if you are discovered..."
+						"text": "墓中到处都是邪教分子! \n\n其中一些人正在清理寺庙前院外的岩石和砾石,而其他人则成群结队地巡逻. 你什么都看不见! [CTP]\n\n除了在安全的距离观察邪教分子,你什么都做不了.\n\n你蹲在一些岩石后面,尽量不去想如果你被发现会发生什么..."
 					},
 					{
 						"id": "SE_Adventure06FinalFight_MerkabaAppears",
-						"text": "A call goes through the crowd! \n\nA bulky structure appears at the tomb entrance: Several dozen cultists have attached ropes to the massive object and are slowly pulling it into the forecourt."
+						"text": "一声呼唤穿过人群! \n\n墓穴入口处出现了一个巨大的结构: 几十名教徒将绳子系在巨大的物体上,并缓慢地将其拉入前院."
 					},
 					{
 						"id": "SE_Adventure06FinalFight_EnterPriestesses",
-						"text": "You are in no doubt: This must be Merkabah, the legendary Divine Chariot of King Solomon! \n\nThe crowd parts and you can now see a procession of priestesses approaching the strange structure. [CTP]\n\nFrantically, you rack your brains to think of something you can do, but the enemy numbers are overwhelming! Any attempt to interfere would be suicide!"
+						"text": "你毫无疑问: 这一定是 Merkabah, 传说中所罗门王的神圣战车! \n\n人群散开,现在你可以看到一队女祭司正在接近这个奇怪的建筑. [CTP]\n\n大体上,你绞尽了脑汁想你能做些什么,但是敌人的数量太多了! 任何干涉的企图都无异于自杀!"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_FirstPreparations",
-						"text": "Four priestesses stand at each of the four corners of the structure, while another, ornately-garbed priestess mounts the Merkabah to sit on its throne-like seat. \n\nThe priestess calls out to her followers in words that you do not understand, and they kneel and begin to chant in supplication."
+						"text": "四位女祭司分别站在建筑的四角, 另一位身着华丽服饰的女祭司登上 Merkabah,坐在它的王座般的座位上. \n\n女祭司用你不明白的话向她的追随者喊着,他们跪下来,开始在祈祷中吟唱."
 					},
 					{
 						"id": "SE_Adventure06FinalFight_FinalPreparations",
-						"text": "At a signal from the priestess, her acolytes move to the corners of the Chariot. Something flashes in their hands – those must be Valkyrium crystals! \n\nA loud hum emanates from the structure, then suddenly the ground trembles under your feet!"
+						"text": "女祭司一发信号,她的随从们就走到车辂处. 他们手中的某种东西在闪光 – 那些一定是 Valkyrium 水晶! \n\n一声响亮的嗡嗡声从结构中发出,然后地面突然在你的脚下颤动!"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_ByeByeMerkaba",
-						"text": "Bright white, all-consuming flames shoot from the Divine Chariot! A moment later, the Merkabah disappears into the clouds! \n\nThen a clap of thunder shatters the silence – a gigantic explosion fills the sky as the ancient object shatters into a thousand pieces!"
+						"text": "神圣战车射出耀眼的白色火焰! 片刻之后, Merkabah 消失在烟雾中! \n\n一声雷鸣打破了寂静 – 一个巨大的爆炸充满了天空,古老的物体破碎成了千万块!"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Fight",
-						"text": "You wait until the wall of smoke has cleared, and then approach the scorched spot where the mysterious Divine Chariot stood. \n\nSuddenly, you hear an angry snarl! You spin around: The flames did not consume all the cultists of the Khonesh Brotherhood!"
+						"text": "你等到烟雾散尽,然后接近那辆神秘战车所处的烧焦的地方. \n\n突然, 你听到一声愤怒的咆哮! 你环顾四周: 火焰并没有吞噬霍尼什兄弟会的所有信徒!"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Aftermath",
-						"text": "That was the last of your opponents! Finally, you have time to look around. \n\nThere is no trace of the Divine Chariot, but it seems as if its remains must be spread over half the globe. \n\nWhat kind of culture could have held the key to such incomprehensible powers in the earliest days of humanity?"
+						"text": "那是你最后一个对手! 最后,你终于有时间四处看看. \n\n没有神圣战车的踪迹,但它的残骸似乎散布到半个地球上. \n\n在人类最早的时代,什么样的文化能够掌握这种难以理解的力量的关键?"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_DestroyedTomb",
-						"text": "Your gaze falls on the basalt grave of the Queen of Sheba – for thousands of years, it withstood the ravages of time, but it was no match for the power of the Divine Chariot: \n\nWhere there was an entrance just a few minutes ago, you now see nothing but a smoking heap of rubble!"
+						"text": "你的目光落在谢巴女王的玄武岩墓上 – 数千年来,它经受住了时间的蹂躏,但它无法与神圣战车的力量相媲美: \n\n在几分钟前本是入口的地方,你只能看到一堆冒烟的瓦砾!"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_End",
-						"text": "If the legendary jewels of King Solomon really did exist, they are now buried under tons of rock."
+						"text": "如果所罗门王的传说中的宝石真的存在,那么它们现在就埋在成吨的石头下面."
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_anabelle_Title",
@@ -9014,23 +9014,23 @@
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_Intro",
-						"text": "The parched and rocky landscape of the volcanic highlands of Abyssinia extend far into the horizon. The air here is noticeably thinner than in the country’s coastal lowlands. [CTP]\n\nYou are grateful when you spot the tents of some goatherds at the edge of the bumpy track. \n\nA short break would do you all good..."
+						"text": "阿比西尼亚火山高地的干燥和岩石景观一直延伸到地平线. 这里的空气明显比该国沿海地区稀薄. [CTP]\n\n你在崎岖的小路边发现一些牧羊人的帐篷时感到很欣慰. \n\n短暂的休息会对你们所有人都有好处..."
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_Surprise",
-						"text": "You reach the herd of goats and some children run excitedly into the tents. A few moments later, an all too familiar figure emerges – it is [char0]!\n\n[char0]: \"I bet you weren’t expecting to see me!\""
+						"text": "你到了山羊群,一些孩子兴奋地跑进帐篷里. 几分钟后,一个非常熟悉的人出现了 – 是 [char0]!\n\n[char0]: \"我打赌你没想到会见到我!\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_Surprise_female",
-						"text": "You reach the herd of goats and some children run excitedly into the tents. A few moments later, an all too familiar figure emerges – it is [char0]!\n\n[char0]: \"I bet you weren’t expecting to see me!\""
+						"text": "你到了山羊群,一些孩子兴奋地跑进帐篷里. 几分钟后,一个非常熟悉的人出现了 – 是 [char0]!\n\n[char0]: \"我打赌你没想到会见到我!\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_RecruitFriend",
-						"text": "[char0]: \"When I heard you were tangling with the Khoneshites, I set off immediately.\" \n\n[char0]: \"So if you need any help – my things are packed.\""
+						"text": "[char0]: \"当我听说你在和Khoneshites打交道时,我马上就出发了.\" \n\n[char0]: \"所以如果你需要帮助 – 我的东西已经装好了.\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival01_RecruitFriend_female",
-						"text": "[char0]: \"When I heard you were tangling with the Khoneshites, I set off immediately.\" \n\n[char0]: \"So if you need any help – my things are packed.\""
+						"text": "[char0]: \"当我听说你在和Khoneshites打交道时,我马上就出发了.\" \n\n[char0]: \"所以如果你需要帮助 – 我的东西已经装好了.\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Title",
@@ -10078,7 +10078,7 @@
 					},
 					{
 						"id": "RE_GenericOasisNoJeep01_Title",
-						"text": "A waterhole"
+						"text": "水坑"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep02_Title",
@@ -10086,7 +10086,7 @@
 					},
 					{
 						"id": "RE_GenericOasisNoJeep03_Title",
-						"text": "A small well"
+						"text": "小水井"
 					},
 					{
 						"id": "RE_GenericOasisNoJeep04_Title",
@@ -13012,7 +13012,7 @@
 					},
 					{
 						"id": "knife_0_a_name",
-						"text": "破旧的小刀"
+						"text": "小刀(破损)"
 					},
 					{
 						"id": "knife_0_b_description",
@@ -13020,7 +13020,7 @@
 					},
 					{
 						"id": "knife_0_b_name",
-						"text": "优秀的小刀"
+						"text": "小刀(崭新)"
 					},
 					{
 						"id": "knife_0_description",
@@ -13036,7 +13036,7 @@
 					},
 					{
 						"id": "knife_1_a_name",
-						"text": "破旧的匕首"
+						"text": "匕首(破损)"
 					},
 					{
 						"id": "knife_1_b_description",
@@ -13044,7 +13044,7 @@
 					},
 					{
 						"id": "knife_1_b_name",
-						"text": "优秀的匕首"
+						"text": "匕首(崭新)"
 					},
 					{
 						"id": "knife_1_description",
@@ -13060,7 +13060,7 @@
 					},
 					{
 						"id": "knife_2_a_name",
-						"text": "破旧的单刃猎刀"
+						"text": "单刃猎刀(破损)"
 					},
 					{
 						"id": "knife_2_b_description",
@@ -13068,7 +13068,7 @@
 					},
 					{
 						"id": "knife_2_b_name",
-						"text": "优秀的单刃猎刀"
+						"text": "单刃猎刀(崭新)"
 					},
 					{
 						"id": "knife_2_description",
@@ -13084,7 +13084,7 @@
 					},
 					{
 						"id": "knife_3_a_name",
-						"text": "破旧的大砍刀"
+						"text": "大砍刀(破损)"
 					},
 					{
 						"id": "knife_3_b_description",
@@ -13092,7 +13092,7 @@
 					},
 					{
 						"id": "knife_3_b_name",
-						"text": "优秀的大砍刀"
+						"text": "大砍刀(崭新)"
 					},
 					{
 						"id": "knife_3_description",
@@ -13108,7 +13108,7 @@
 					},
 					{
 						"id": "knife_4_a_name",
-						"text": "破旧的菜刀"
+						"text": "菜刀(破损)"
 					},
 					{
 						"id": "knife_4_b_description",
@@ -13116,7 +13116,7 @@
 					},
 					{
 						"id": "knife_4_b_name",
-						"text": "优秀的菜刀"
+						"text": "菜刀(崭新)"
 					},
 					{
 						"id": "knife_4_description",
@@ -13132,7 +13132,7 @@
 					},
 					{
 						"id": "knife_5_a_name",
-						"text": "破旧的尼泊尔弯刀"
+						"text": "尼泊尔弯刀(破损)"
 					},
 					{
 						"id": "knife_5_b_description",
@@ -13140,7 +13140,7 @@
 					},
 					{
 						"id": "knife_5_b_name",
-						"text": "优秀的尼泊尔弯刀"
+						"text": "尼泊尔弯刀(崭新)"
 					},
 					{
 						"id": "knife_5_description",
@@ -13156,7 +13156,7 @@
 					},
 					{
 						"id": "disintegrator_0_a_name",
-						"text": "破旧的Frobisher & Boyd墙壁切割机"
+						"text": "Frobisher & Boyd墙壁切割机(破损)"
 					},
 					{
 						"id": "disintegrator_0_b_description",
@@ -13164,7 +13164,7 @@
 					},
 					{
 						"id": "disintegrator_0_b_name",
-						"text": "优秀的Frobisher & Boyd墙壁切割机"
+						"text": "Frobisher & Boyd墙壁切割机(崭新)"
 					},
 					{
 						"id": "disintegrator_0_description",
@@ -13180,7 +13180,7 @@
 					},
 					{
 						"id": "disintegrator_1_a_name",
-						"text": "破旧的Adler & Stahlknecht原型机枪"
+						"text": "Adler & Stahlknecht原型机枪(破损)"
 					},
 					{
 						"id": "disintegrator_1_b_description",
@@ -13188,7 +13188,7 @@
 					},
 					{
 						"id": "disintegrator_1_b_name",
-						"text": "优秀的Adler & Stahlknecht原型机枪"
+						"text": "Adler & Stahlknecht原型机枪(崭新)"
 					},
 					{
 						"id": "disintegrator_1_description",
@@ -13204,7 +13204,7 @@
 					},
 					{
 						"id": "disintegrator_2_a_name",
-						"text": "破旧的Oakfield Gernsback枪"
+						"text": "Oakfield Gernsback枪(破损)"
 					},
 					{
 						"id": "disintegrator_2_b_description",
@@ -13212,7 +13212,7 @@
 					},
 					{
 						"id": "disintegrator_2_b_name",
-						"text": "优秀的Oakfield Gernsback枪"
+						"text": "Oakfield Gernsback枪(崭新)"
 					},
 					{
 						"id": "disintegrator_2_description",
@@ -13228,7 +13228,7 @@
 					},
 					{
 						"id": "disintegrator_3_a_name",
-						"text": "破旧的Litvak-Vertov Vril喷火器"
+						"text": "Litvak-Vertov Vril喷火器(破损)"
 					},
 					{
 						"id": "disintegrator_3_b_description",
@@ -13236,7 +13236,7 @@
 					},
 					{
 						"id": "disintegrator_3_b_name",
-						"text": "优秀的Litvak-Vertov Vril喷火器"
+						"text": "Litvak-Vertov Vril喷火器(崭新)"
 					},
 					{
 						"id": "disintegrator_3_description",
@@ -13252,7 +13252,7 @@
 					},
 					{
 						"id": "disintegrator_4_a_name",
-						"text": "破旧的Rheingold粒子步枪"
+						"text": "Rheingold粒子步枪(破损)"
 					},
 					{
 						"id": "disintegrator_4_b_description",
@@ -13260,7 +13260,7 @@
 					},
 					{
 						"id": "disintegrator_4_b_name",
-						"text": "优秀的Rheingold粒子步枪"
+						"text": "Rheingold粒子步枪(崭新)"
 					},
 					{
 						"id": "disintegrator_4_description",
@@ -13276,7 +13276,7 @@
 					},
 					{
 						"id": "disintegrator_5_a_name",
-						"text": "破旧的Ritterwerck Planckstrahler"
+						"text": "Ritterwerck Planckstrahler(破损)"
 					},
 					{
 						"id": "disintegrator_5_b_description",
@@ -13284,7 +13284,7 @@
 					},
 					{
 						"id": "disintegrator_5_b_name",
-						"text": "优秀的Ritterwerck Planckstrahler"
+						"text": "Ritterwerck Planckstrahler(崭新)"
 					},
 					{
 						"id": "disintegrator_5_description",
@@ -13300,7 +13300,7 @@
 					},
 					{
 						"id": "pistol_0_a_name",
-						"text": "破旧的黑斯廷斯服务手枪"
+						"text": "黑斯廷斯服务手枪(破损)"
 					},
 					{
 						"id": "pistol_0_b_description",
@@ -13308,7 +13308,7 @@
 					},
 					{
 						"id": "pistol_0_b_name",
-						"text": "优秀的黑斯廷斯服务手枪"
+						"text": "黑斯廷斯服务手枪(崭新)"
 					},
 					{
 						"id": "pistol_0_description",
@@ -13324,7 +13324,7 @@
 					},
 					{
 						"id": "pistol_1_a_name",
-						"text": "破旧的Preussisch-Moser M1907"
+						"text": "Preussisch-Moser M1907(破损)"
 					},
 					{
 						"id": "pistol_1_b_description",
@@ -13332,7 +13332,7 @@
 					},
 					{
 						"id": "pistol_1_b_name",
-						"text": "优秀的Preussisch-Moser M1907"
+						"text": "Preussisch-Moser M1907(崭新)"
 					},
 					{
 						"id": "pistol_1_description",
@@ -13348,7 +13348,7 @@
 					},
 					{
 						"id": "pistol_2_a_name",
-						"text": "破旧的Steiner Pistole 34"
+						"text": "Steiner Pistole 34(破损)"
 					},
 					{
 						"id": "pistol_2_b_description",
@@ -13356,7 +13356,7 @@
 					},
 					{
 						"id": "pistol_2_b_name",
-						"text": "优秀的Steiner Pistole 34"
+						"text": "Steiner Pistole 34(崭新)"
 					},
 					{
 						"id": "pistol_2_description",
@@ -13372,7 +13372,7 @@
 					},
 					{
 						"id": "pistol_3_a_name",
-						"text": "破旧的Neuvelle 9mm"
+						"text": "Neuvelle 9mm(破损)"
 					},
 					{
 						"id": "pistol_3_b_description",
@@ -13380,7 +13380,7 @@
 					},
 					{
 						"id": "pistol_3_b_name",
-						"text": "优秀的Neuvelle 9mm"
+						"text": "Neuvelle 9mm(崭新)"
 					},
 					{
 						"id": "pistol_3_description",
@@ -13396,7 +13396,7 @@
 					},
 					{
 						"id": "pistol_4_a_name",
-						"text": "破旧的Dominic .425 Parabellum"
+						"text": "Dominic .425 Parabellum(破损)"
 					},
 					{
 						"id": "pistol_4_b_description",
@@ -13404,7 +13404,7 @@
 					},
 					{
 						"id": "pistol_4_b_name",
-						"text": "优秀的Dominic .425 Parabellum"
+						"text": "Dominic .425 Parabellum(崭新)"
 					},
 					{
 						"id": "pistol_4_description",
@@ -13420,7 +13420,7 @@
 					},
 					{
 						"id": "pistol_5_a_name",
-						"text": "破旧的Morley-Burke Magnum"
+						"text": "Morley-Burke Magnum(破损)"
 					},
 					{
 						"id": "pistol_5_b_description",
@@ -13428,7 +13428,7 @@
 					},
 					{
 						"id": "pistol_5_b_name",
-						"text": "优秀的Morley-Burke Magnum"
+						"text": "Morley-Burke Magnum(崭新)"
 					},
 					{
 						"id": "pistol_5_description",
@@ -13444,7 +13444,7 @@
 					},
 					{
 						"id": "rifle_0_a_name",
-						"text": "破旧的Venner自动步枪"
+						"text": "Venner自动步枪(破损)"
 					},
 					{
 						"id": "rifle_0_b_description",
@@ -13452,7 +13452,7 @@
 					},
 					{
 						"id": "rifle_0_b_name",
-						"text": "优秀的Venner自动步枪"
+						"text": "Venner自动步枪(崭新)"
 					},
 					{
 						"id": "rifle_0_description",
@@ -13468,7 +13468,7 @@
 					},
 					{
 						"id": "rifle_1_a_name",
-						"text": "破旧的Adler & Stahlknecht StG-34"
+						"text": "Adler & Stahlknecht StG-34(破损)"
 					},
 					{
 						"id": "rifle_1_b_description",
@@ -13476,7 +13476,7 @@
 					},
 					{
 						"id": "rifle_1_b_name",
-						"text": "优秀的Adler & Stahlknecht StG-34"
+						"text": "Adler & Stahlknecht StG-34(崭新)"
 					},
 					{
 						"id": "rifle_1_description",
@@ -13492,7 +13492,7 @@
 					},
 					{
 						"id": "rifle_2_a_name",
-						"text": "破旧的Zeisig Sturmkarabiner M18"
+						"text": "Zeisig Sturmkarabiner M18(破损)"
 					},
 					{
 						"id": "rifle_2_b_description",
@@ -13500,7 +13500,7 @@
 					},
 					{
 						"id": "rifle_2_b_name",
-						"text": "优秀的Zeisig Sturmkarabiner M18"
+						"text": "Zeisig Sturmkarabiner M18(崭新)"
 					},
 					{
 						"id": "rifle_2_description",
@@ -13516,7 +13516,7 @@
 					},
 					{
 						"id": "rifle_3_a_name",
-						"text": "破旧的布莱克半自动步枪"
+						"text": "布莱克半自动步枪(破损)"
 					},
 					{
 						"id": "rifle_3_b_description",
@@ -13524,7 +13524,7 @@
 					},
 					{
 						"id": "rifle_3_b_name",
-						"text": "优秀的布莱克半自动步枪"
+						"text": "布莱克半自动步枪(崭新)"
 					},
 					{
 						"id": "rifle_3_description",
@@ -13540,7 +13540,7 @@
 					},
 					{
 						"id": "rifle_4_a_name",
-						"text": "破旧的查尔斯顿M1步枪"
+						"text": "查尔斯顿M1步枪(破损)"
 					},
 					{
 						"id": "rifle_4_b_description",
@@ -13548,7 +13548,7 @@
 					},
 					{
 						"id": "rifle_4_b_name",
-						"text": "优秀的查尔斯顿M1步枪"
+						"text": "查尔斯顿M1步枪(崭新)"
 					},
 					{
 						"id": "rifle_4_description",
@@ -13564,7 +13564,7 @@
 					},
 					{
 						"id": "rifle_5_a_name",
-						"text": "破旧的普雷斯顿M1917-CA"
+						"text": "普雷斯顿M1917-CA(破损)"
 					},
 					{
 						"id": "rifle_5_b_description",
@@ -13572,7 +13572,7 @@
 					},
 					{
 						"id": "rifle_5_b_name",
-						"text": "优秀的普雷斯顿M1917-CA"
+						"text": "普雷斯顿M1917-CA(崭新)"
 					},
 					{
 						"id": "rifle_5_description",
@@ -13588,7 +13588,7 @@
 					},
 					{
 						"id": "shotgun_0_a_name",
-						"text": "破旧的查尔斯顿无膛线枪"
+						"text": "查尔斯顿无膛线枪(破损)"
 					},
 					{
 						"id": "shotgun_0_b_description",
@@ -13596,7 +13596,7 @@
 					},
 					{
 						"id": "shotgun_0_b_name",
-						"text": "优秀的查尔斯顿无膛线枪"
+						"text": "查尔斯顿无膛线枪(崭新)"
 					},
 					{
 						"id": "shotgun_0_description",
@@ -13612,7 +13612,7 @@
 					},
 					{
 						"id": "shotgun_1_a_name",
-						"text": "破旧的Morley-Burke Break Action"
+						"text": "Morley-Burke Break Action(破损)"
 					},
 					{
 						"id": "shotgun_1_b_description",
@@ -13620,7 +13620,7 @@
 					},
 					{
 						"id": "shotgun_1_b_name",
-						"text": "优秀的Morley-Burke Break Action"
+						"text": "Morley-Burke Break Action(崭新)"
 					},
 					{
 						"id": "shotgun_1_description",
@@ -13636,7 +13636,7 @@
 					},
 					{
 						"id": "shotgun_2_a_name",
-						"text": "破旧的Venner Buckshot"
+						"text": "Venner Buckshot(破损)"
 					},
 					{
 						"id": "shotgun_2_b_description",
@@ -13644,7 +13644,7 @@
 					},
 					{
 						"id": "shotgun_2_b_name",
-						"text": "优秀的Venner Buckshot"
+						"text": "Venner Buckshot(崭新)"
 					},
 					{
 						"id": "shotgun_2_description",
@@ -13660,7 +13660,7 @@
 					},
 					{
 						"id": "shotgun_3_a_name",
-						"text": "破旧的黑斯廷斯战壕枪"
+						"text": "黑斯廷斯战壕枪(破损)"
 					},
 					{
 						"id": "shotgun_3_b_description",
@@ -13668,7 +13668,7 @@
 					},
 					{
 						"id": "shotgun_3_b_name",
-						"text": "优秀的黑斯廷斯战壕枪"
+						"text": "黑斯廷斯战壕枪(崭新)"
 					},
 					{
 						"id": "shotgun_3_description",
@@ -13684,7 +13684,7 @@
 					},
 					{
 						"id": "shotgun_4_a_name",
-						"text": "破旧的Klugenstein Hartschrot"
+						"text": "Klugenstein Hartschrot(破损)"
 					},
 					{
 						"id": "shotgun_4_b_description",
@@ -13692,7 +13692,7 @@
 					},
 					{
 						"id": "shotgun_4_b_name",
-						"text": "优秀的Klugenstein Hartschrot"
+						"text": "Klugenstein Hartschrot(崭新)"
 					},
 					{
 						"id": "shotgun_4_description",
@@ -13708,7 +13708,7 @@
 					},
 					{
 						"id": "shotgun_5_a_name",
-						"text": "破旧的Willoughby 10-bore"
+						"text": "Willoughby 10-bore(破损)"
 					},
 					{
 						"id": "shotgun_5_b_description",
@@ -13716,7 +13716,7 @@
 					},
 					{
 						"id": "shotgun_5_b_name",
-						"text": "优秀的Willoughby 10-bore"
+						"text": "Willoughby 10-bore(崭新)"
 					},
 					{
 						"id": "shotgun_5_description",
@@ -13732,7 +13732,7 @@
 					},
 					{
 						"id": "sniper_0_a_name",
-						"text": "破旧的Adler & Stahlknecht 8x56"
+						"text": "Adler & Stahlknecht 8x56(破损)"
 					},
 					{
 						"id": "sniper_0_b_description",
@@ -13740,7 +13740,7 @@
 					},
 					{
 						"id": "sniper_0_b_name",
-						"text": "优秀的Adler & Stahlknecht 8x56"
+						"text": "Adler & Stahlknecht 8x56(崭新)"
 					},
 					{
 						"id": "sniper_0_description",
@@ -13756,7 +13756,7 @@
 					},
 					{
 						"id": "sniper_1_a_name",
-						"text": "破旧的Morley-Burke Sniper M08"
+						"text": "Morley-Burke Sniper M08(破损)"
 					},
 					{
 						"id": "sniper_1_b_description",
@@ -13764,7 +13764,7 @@
 					},
 					{
 						"id": "sniper_1_b_name",
-						"text": "优秀的Morley-Burke Sniper M08"
+						"text": "Morley-Burke Sniper M08(崭新)"
 					},
 					{
 						"id": "sniper_1_description",
@@ -13780,7 +13780,7 @@
 					},
 					{
 						"id": "sniper_2_a_name",
-						"text": "破旧的Willoughby .303 Ghillie"
+						"text": "Willoughby .303 Ghillie(破损)"
 					},
 					{
 						"id": "sniper_2_b_description",
@@ -13788,7 +13788,7 @@
 					},
 					{
 						"id": "sniper_2_b_name",
-						"text": "优秀的Willoughby .303 Ghillie"
+						"text": "Willoughby .303 Ghillie(崭新)"
 					},
 					{
 						"id": "sniper_2_description",
@@ -13804,7 +13804,7 @@
 					},
 					{
 						"id": "sniper_3_a_name",
-						"text": "破旧的Hastings 6x32 Type 1924"
+						"text": "Hastings 6x32 Type 1924(破损)"
 					},
 					{
 						"id": "sniper_3_b_description",
@@ -13812,7 +13812,7 @@
 					},
 					{
 						"id": "sniper_3_b_name",
-						"text": "优秀的Hastings 6x32 Type 1924"
+						"text": "Hastings 6x32 Type 1924(崭新)"
 					},
 					{
 						"id": "sniper_3_description",
@@ -13828,7 +13828,7 @@
 					},
 					{
 						"id": "sniper_4_a_name",
-						"text": "破旧的Clark-Richfield Long Range"
+						"text": "Clark-Richfield Long Range(破损)"
 					},
 					{
 						"id": "sniper_4_b_description",
@@ -13836,7 +13836,7 @@
 					},
 					{
 						"id": "sniper_4_b_name",
-						"text": "优秀的Clark-Richfield Long Range"
+						"text": "Clark-Richfield Long Range(崭新)"
 					},
 					{
 						"id": "sniper_4_description",
@@ -13852,7 +13852,7 @@
 					},
 					{
 						"id": "sniper_5_a_name",
-						"text": "破旧的Steiner 10x50 Optik"
+						"text": "Steiner 10x50 Optik(破损)"
 					},
 					{
 						"id": "sniper_5_b_description",
@@ -13860,7 +13860,7 @@
 					},
 					{
 						"id": "sniper_5_b_name",
-						"text": "优秀的Steiner 10x50 Optik"
+						"text": "Steiner 10x50 Optik(崭新)"
 					},
 					{
 						"id": "sniper_5_description",
@@ -14556,7 +14556,7 @@
 					},
 					{
 						"id": "lightArmor_0_a_name",
-						"text": "穿旧的猎人套装"
+						"text": "猎人套装(破旧)"
 					},
 					{
 						"id": "lightArmor_0_b_description",
@@ -14564,7 +14564,7 @@
 					},
 					{
 						"id": "lightArmor_0_b_name",
-						"text": "优秀的猎人套装"
+						"text": "猎人套装(精致)"
 					},
 					{
 						"id": "lightArmor_1_description",
@@ -14580,7 +14580,7 @@
 					},
 					{
 						"id": "lightArmor_1_a_name",
-						"text": "穿旧的助手外套"
+						"text": "助手外套(破旧)"
 					},
 					{
 						"id": "lightArmor_1_b_description",
@@ -14588,7 +14588,7 @@
 					},
 					{
 						"id": "lightArmor_1_b_name",
-						"text": "崭新的助手外套"
+						"text": "助手外套(崭新)"
 					},
 					{
 						"id": "lightArmor_2_description",
@@ -14604,7 +14604,7 @@
 					},
 					{
 						"id": "lightArmor_2_a_name",
-						"text": "穿旧的野外制服"
+						"text": "野外制服(破旧)"
 					},
 					{
 						"id": "lightArmor_2_b_description",
@@ -14612,7 +14612,7 @@
 					},
 					{
 						"id": "lightArmor_2_b_name",
-						"text": "崭新的野外制服"
+						"text": "野外制服(崭新)"
 					},
 					{
 						"id": "lightArmor_3_description",
@@ -14628,7 +14628,7 @@
 					},
 					{
 						"id": "lightArmor_3_a_name",
-						"text": "穿旧的花呢套装"
+						"text": "花呢套装(破旧)"
 					},
 					{
 						"id": "lightArmor_3_b_description",
@@ -14636,7 +14636,7 @@
 					},
 					{
 						"id": "lightArmor_3_b_name",
-						"text": "崭新的花呢套装"
+						"text": "花呢套装(崭新)"
 					},
 					{
 						"id": "lightArmor_4_description",
@@ -14652,7 +14652,7 @@
 					},
 					{
 						"id": "lightArmor_4_a_name",
-						"text": "穿旧的风衣"
+						"text": "风衣(破旧)"
 					},
 					{
 						"id": "lightArmor_4_b_description",
@@ -14660,7 +14660,7 @@
 					},
 					{
 						"id": "lightArmor_4_b_name",
-						"text": "崭新的风衣"
+						"text": "风衣(崭新)"
 					},
 					{
 						"id": "lightArmor_5_description",
@@ -14676,7 +14676,7 @@
 					},
 					{
 						"id": "lightArmor_5_a_name",
-						"text": "穿旧的丛林装束"
+						"text": "丛林装束(破旧)"
 					},
 					{
 						"id": "lightArmor_5_b_description",
@@ -14684,7 +14684,7 @@
 					},
 					{
 						"id": "lightArmor_5_b_name",
-						"text": "崭新的丛林装束"
+						"text": "丛林装束(崭新)"
 					},
 					{
 						"id": "mediumArmor_0_description",
@@ -14700,7 +14700,7 @@
 					},
 					{
 						"id": "mediumArmor_0_a_name",
-						"text": "穿旧的海军外套"
+						"text": "海军外套(破旧)"
 					},
 					{
 						"id": "mediumArmor_0_b_description",
@@ -14708,7 +14708,7 @@
 					},
 					{
 						"id": "mediumArmor_0_b_name",
-						"text": "崭新的海军外套"
+						"text": "海军外套(崭新)"
 					},
 					{
 						"id": "mediumArmor_1_description",
@@ -14724,7 +14724,7 @@
 					},
 					{
 						"id": "mediumArmor_1_a_name",
-						"text": "穿旧的皮夹克"
+						"text": "皮夹克(破旧)"
 					},
 					{
 						"id": "mediumArmor_1_b_description",
@@ -14732,7 +14732,7 @@
 					},
 					{
 						"id": "mediumArmor_1_b_name",
-						"text": "崭新的皮夹克"
+						"text": "皮夹克(崭新)"
 					},
 					{
 						"id": "mediumArmor_2_description",
@@ -14748,7 +14748,7 @@
 					},
 					{
 						"id": "mediumArmor_2_a_name",
-						"text": "穿旧的羊皮背心"
+						"text": "羊皮背心(破旧)"
 					},
 					{
 						"id": "mediumArmor_2_b_description",
@@ -14756,7 +14756,7 @@
 					},
 					{
 						"id": "mediumArmor_2_b_name",
-						"text": "崭新的羊皮背心"
+						"text": "羊皮背心(崭新)"
 					},
 					{
 						"id": "mediumArmor_3_description",
@@ -14772,7 +14772,7 @@
 					},
 					{
 						"id": "mediumArmor_3_a_name",
-						"text": "穿旧的棉布工装裤"
+						"text": "棉布工装裤(破旧)"
 					},
 					{
 						"id": "mediumArmor_3_b_description",
@@ -14780,7 +14780,7 @@
 					},
 					{
 						"id": "mediumArmor_3_b_name",
-						"text": "崭新的棉布工装裤"
+						"text": "棉布工装裤(崭新)"
 					},
 					{
 						"id": "mediumArmor_4_description",
@@ -14796,7 +14796,7 @@
 					},
 					{
 						"id": "mediumArmor_4_a_name",
-						"text": "穿旧的飞行夹克"
+						"text": "飞行夹克(破旧)"
 					},
 					{
 						"id": "mediumArmor_4_b_description",
@@ -14804,7 +14804,7 @@
 					},
 					{
 						"id": "mediumArmor_4_b_name",
-						"text": "崭新的飞行夹克"
+						"text": "飞行夹克(崭新)"
 					},
 					{
 						"id": "mediumArmor_5_description",
@@ -14820,7 +14820,7 @@
 					},
 					{
 						"id": "mediumArmor_5_a_name",
-						"text": "穿旧的沙漠长袍"
+						"text": "沙漠长袍(破旧)"
 					},
 					{
 						"id": "mediumArmor_5_b_description",
@@ -14828,7 +14828,7 @@
 					},
 					{
 						"id": "mediumArmor_5_b_name",
-						"text": "优秀的沙漠长袍"
+						"text": "沙漠长袍(精致)"
 					},
 					{
 						"id": "heavyArmor_0_description",
@@ -14844,7 +14844,7 @@
 					},
 					{
 						"id": "heavyArmor_0_a_name",
-						"text": "穿旧的战斗背心"
+						"text": "战斗背心(破旧)"
 					},
 					{
 						"id": "heavyArmor_0_b_description",
@@ -14852,7 +14852,7 @@
 					},
 					{
 						"id": "heavyArmor_0_b_name",
-						"text": "优秀的战斗背心"
+						"text": "战斗背心(崭新)"
 					},
 					{
 						"id": "heavyArmor_1_description",
@@ -14868,7 +14868,7 @@
 					},
 					{
 						"id": "heavyArmor_1_a_name",
-						"text": "穿旧的防弹背心"
+						"text": "防弹背心(破旧)"
 					},
 					{
 						"id": "heavyArmor_1_b_description",
@@ -14876,7 +14876,7 @@
 					},
 					{
 						"id": "heavyArmor_1_b_name",
-						"text": "优秀的防弹背心"
+						"text": "防弹背心(崭新)"
 					},
 					{
 						"id": "heavyArmor_2_description",
@@ -14892,7 +14892,7 @@
 					},
 					{
 						"id": "heavyArmor_2_a_name",
-						"text": "穿旧的作战服装"
+						"text": "作战服装(破旧)"
 					},
 					{
 						"id": "heavyArmor_2_b_description",
@@ -14900,7 +14900,7 @@
 					},
 					{
 						"id": "heavyArmor_2_b_name",
-						"text": "优秀的作战服装"
+						"text": "作战服装(崭新)"
 					},
 					{
 						"id": "heavyArmor_3_description",
@@ -14916,7 +14916,7 @@
 					},
 					{
 						"id": "heavyArmor_3_a_name",
-						"text": "穿旧的战术装甲"
+						"text": "战术装甲(破旧)"
 					},
 					{
 						"id": "heavyArmor_3_b_description",
@@ -14924,7 +14924,7 @@
 					},
 					{
 						"id": "heavyArmor_3_b_name",
-						"text": "优秀的战术装甲"
+						"text": "战术装甲(崭新)"
 					},
 					{
 						"id": "heavyArmor_4_description",
@@ -14940,7 +14940,7 @@
 					},
 					{
 						"id": "heavyArmor_4_a_name",
-						"text": "穿旧的液压装甲"
+						"text": "液压装甲(破旧)"
 					},
 					{
 						"id": "heavyArmor_4_b_description",
@@ -14948,7 +14948,7 @@
 					},
 					{
 						"id": "heavyArmor_4_b_name",
-						"text": "优秀的液压装甲"
+						"text": "液压装甲(崭新)"
 					},
 					{
 						"id": "heavyArmor_5_description",
@@ -14964,7 +14964,7 @@
 					},
 					{
 						"id": "heavyArmor_5_a_name",
-						"text": "穿旧的特斯拉博格装甲"
+						"text": "特斯拉博格装甲(破旧)"
 					},
 					{
 						"id": "heavyArmor_5_b_description",
@@ -14972,7 +14972,7 @@
 					},
 					{
 						"id": "heavyArmor_5_b_name",
-						"text": "优秀的特斯拉博格装甲"
+						"text": "特斯拉博格装甲(崭新)"
 					},
 					{
 						"id": "money_description",
@@ -16518,7 +16518,7 @@
 					},
 					{
 						"id": "natalya_Recruited_0",
-						"text": "我已经迫不及待进行下一次冒险了."
+						"text": "我已经迫不及待要进行下一次冒险了."
 					},
 					{
 						"id": "natalya_LevelUp_0",
@@ -17466,7 +17466,7 @@
 					},
 					{
 						"id": "drChandra_ItemDowngrade_1",
-						"text": "这真的是我们所有的吗?"
+						"text": "我们就只有这种破烂了吗?"
 					},
 					{
 						"id": "drChandra_Recruited_1",
@@ -17494,7 +17494,7 @@
 					},
 					{
 						"id": "shaneeka_Killshot_0",
-						"text": "我就是为了杀人."
+						"text": "我是天生的杀手."
 					},
 					{
 						"id": "shaneeka_Evade_0",
@@ -17694,7 +17694,7 @@
 					},
 					{
 						"id": "baron_Recruited_1",
-						"text": "里面有什么给我的?"
+						"text": "有什么要给我的么?"
 					},
 					{
 						"id": "baron_LevelUp_1",
@@ -17722,7 +17722,7 @@
 					},
 					{
 						"id": "Rose_Evade_0",
-						"text": "运气在我这边!"
+						"text": "运气真棒!"
 					},
 					{
 						"id": "Rose_Idle_0",
@@ -17746,7 +17746,7 @@
 					},
 					{
 						"id": "Rose_ItemDowngrade_0",
-						"text": "不要,这是差的."
+						"text": "不要,这个太差."
 					},
 					{
 						"id": "Rose_Recruited_0",
@@ -17822,7 +17822,7 @@
 					},
 					{
 						"id": "caballero_NeedHealing_0",
-						"text": "我很坚强,但伤口很严重."
+						"text": "我很坚强的,但伤口很严重."
 					},
 					{
 						"id": "caballero_CriticalStrike_0",
@@ -17830,7 +17830,7 @@
 					},
 					{
 						"id": "caballero_Killshot_0",
-						"text": "我的表演排练."
+						"text": "表演时间."
 					},
 					{
 						"id": "caballero_Evade_0",
@@ -17862,11 +17862,11 @@
 					},
 					{
 						"id": "caballero_Recruited_0",
-						"text": "Caballero准备部署!"
+						"text": "Caballero准备就绪!"
 					},
 					{
 						"id": "caballero_LevelUp_0",
-						"text": "我的经验增长了."
+						"text": "我的经验涨了."
 					},
 					{
 						"id": "caballero_EnemySpotted_0",
@@ -17878,7 +17878,7 @@
 					},
 					{
 						"id": "caballero_NeedHealing_1",
-						"text": "这都是我的血吗?"
+						"text": "这都是我流的血吗?"
 					},
 					{
 						"id": "caballero_CriticalStrike_1",
@@ -17946,7 +17946,7 @@
 					},
 					{
 						"id": "omar_Evade_0",
-						"text": "噢,我躲开了."
+						"text": "噢,我躲开啦."
 					},
 					{
 						"id": "omar_Idle_0",
@@ -18126,7 +18126,7 @@
 					},
 					{
 						"id": "anabelle_NeedFuel_1",
-						"text": "那就是我们所有的汽油了吗?"
+						"text": "我们只剩这点汽油了吗?"
 					},
 					{
 						"id": "anabelle_NeedAmmo_1",
