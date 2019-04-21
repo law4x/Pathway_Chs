@@ -11075,7 +11075,7 @@
 					},
 					{
 						"id": "WeaponSkillDescription_SniperRifle",
-						"text": "可以装备狙击步枪. 狙击步枪可以埋伏敌人. 下回合任何在范围内路过或开火的敌人都会受到伏击."
+						"text": "可以装备狙击步枪. 狙击步枪可以埋伏敌人. 下回合经过或在范围内开火的第一个敌人将会受到伏击."
 					},
 					{
 						"id": "WeaponSkillDescription_Shotgun",
