@@ -11383,7 +11383,7 @@
 					},
 					{
 						"id": "Bio_Natalya_Positive",
-						"text": "合格的奶妈, 多样的升级路线"
+						"text": "合格的奶妈, \n 多样的升级路线"
 					},
 					{
 						"id": "Bio_Natalya_Negative",
@@ -11395,7 +11395,7 @@
 					},
 					{
 						"id": "Bio_Leonora_Positive",
-						"text": "后勤多面手, \n  可以使用突击步枪"
+						"text": "后勤多面手, \n 可以使用突击步枪"
 					},
 					{
 						"id": "Bio_Leonora_Negative",
@@ -11407,7 +11407,7 @@
 					},
 					{
 						"id": "Bio_Veduti_Positive",
-						"text": "优秀奶妈, 擅长对付不死生物"
+						"text": "优秀奶妈, \n 擅长对付不死生物"
 					},
 					{
 						"id": "Bio_Veduti_Negative",
@@ -11443,7 +11443,7 @@
 					},
 					{
 						"id": "Bio_Jackson_Positive",
-						"text": "突击步枪专家, \n  擅长射击, 耐力高"
+						"text": "突击步枪专家, \n 擅长射击, 耐力高"
 					},
 					{
 						"id": "Bio_Jackson_Negative",
@@ -11455,7 +11455,7 @@
 					},
 					{
 						"id": "Bio_Georgette_Positive",
-						"text": "一流狙击手, 能找到更多弹药"
+						"text": "一流狙击手, \n 能找到更多弹药"
 					},
 					{
 						"id": "Bio_Georgette_Negative",
@@ -11467,7 +11467,7 @@
 					},
 					{
 						"id": "Bio_Professor_Positive",
-						"text": "分裂者专家, 能找到更多燃料"
+						"text": "分裂者专家, \n 能找到更多燃料"
 					},
 					{
 						"id": "Bio_Professor_Negative",
@@ -11491,7 +11491,7 @@
 					},
 					{
 						"id": "Bio_Shaneeka_Positive",
-						"text": "致命的近战打手, \n  擅长对付不死生物"
+						"text": "致命的近战打手, \n 擅长对付不死生物"
 					},
 					{
 						"id": "Bio_Shaneeka_Negative",
@@ -11503,7 +11503,7 @@
 					},
 					{
 						"id": "Bio_Baron_Positive",
-						"text": "合格的狙击手, 能找到更多钱"
+						"text": "合格的狙击手, \n 能找到更多钱"
 					},
 					{
 						"id": "Bio_Baron_Negative",
@@ -11515,7 +11515,7 @@
 					},
 					{
 						"id": "Bio_Rose_Positive",
-						"text": "会用多种武器, \n  有后勤技能可以学"
+						"text": "会用多种武器, \n 还有后勤技能可以学"
 					},
 					{
 						"id": "Bio_Rose_Negative",
@@ -11563,7 +11563,7 @@
 					},
 					{
 						"id": "Bio_LeFantome_Positive",
-						"text": "敏捷的近战打手, \n  多样的升级路线"
+						"text": "敏捷的近战打手, \n 多样的升级路线"
 					},
 					{
 						"id": "Bio_LeFantome_Negative",
@@ -11607,7 +11607,7 @@
 					},
 					{
 						"id": "Adv_adventure03_Desc",
-						"text": "开罗, 埃及:\n几周来当地术士间疯传的流言让你得出了一个可怕结论:\nKhonesh兄弟会的邪教成员们打算复活黑法老Turash-Ra! \n你正前往梅罗伊的石漠荒地阻止他们! "
+						"text": "开罗, 埃及:\n几周来当地术士间疯传的流言让你得出了一个可怕结论:\nKhonesh兄弟会的邪教成员们打算复活黑法老Turash-Ra! 你正前往梅罗伊的石漠荒地阻止他们! "
 					},
 					{
 						"id": "Adv_adventure03_Intro",
