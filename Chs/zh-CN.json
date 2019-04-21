@@ -3770,7 +3770,7 @@
 					},
 					{
 						"id": "ME_OrientalTrader01_Revisit",
-						"text": "当看到你时, 旅行商人从他的帐篷里跳了起来u."
+						"text": "当看到你时, 旅行商人从他的帐篷里跳了起来."
 					},
 					{
 						"id": "ME_ParkedBeduinCar01_Revisit",
@@ -4346,35 +4346,35 @@
 					},
 					{
 						"id": "BE_HolyMountainSpring01_HolySite",
-						"text": "You bid the grateful nomad farewell and follow his directions. Some time later you reach a rock formation. \n\nAt its summit, a small spring flows from a small nook in the rock. Simple offerings indicate that travelers stop here occasionally."
+						"text": "你向感激你的牧民道了别, 并顺着他的指引继续往前走. 过了一会儿你来到了一处岩层边\n\n岩层的顶部凹槽有一小股泉水涌出. 从边上摆着些简单的供品来看, 偶尔会有旅行者在这里驻足停留."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_OccultF",
-						"text": "You take a look around the summit but do not find anything of importance. The offerings are wilted flowers and crude, worthless clay statuettes. \n\nYou drink from the spring and then continue your journey refreshed and in unusually good spirits."
+						"text": "你绕着顶部看了一圈, 没有看到什么特别重要的东西. 供品就是些早已枯萎的花和几尊毫无价值的粗制泥塑. \n\n你喝了点泉水就继续上路了, 一路上觉得精神倍爽, 心情也异乎寻常地舒畅."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_OccultW",
-						"text": "Suddenly, a shudder passes through [char1]’s body: \n\n[char1]: \"I feel a strange presence in this place... not directly threatening or hostile... but powerful and as old as time itself...!\"\n\n[char1] throws back his head, stretches out his arms with fingers spread and murmurs as if in a trance: [CTP]\n\n[char1]: \"I am the eternal Master of this peaceful place, now and forever more! Whatsoever you have done for my simple servant, that shall be repaid unto you – who shall receive my gift?\""
+						"text": "突然, [char1]全身一阵颤栗: \n\n[char1]: \"我感受到这里有个奇怪的存在...虽然不是直接的敌对或对我们有威胁...但我能感觉到它非常的强大, 而且古老, 就像时间一样...!\"\n\n[char1]仰起头, 展开他的双臂, 十指分开, 失神般喃喃道: [CTP]\n\n[char1]: \"我乃这片和平之地的主人, 现在是将来也是! 你们帮助了我小小的仆人, 我也将回报以祝福 – 你们谁要接受我的祝福?\""
 					},
 					{
 						"id": "BE_HolyMountainSpring01_OccultW_female",
-						"text": "Suddenly, a shudder passes through [char1]’s body: \n\n[char1]: \"I feel a strange presence in this place... not directly threatening or hostile... but powerful and as old as time itself...!\"\n\n[Char1] throws back her head, stretches out her arms with fingers spread and murmurs as if in a trance: [CTP]\n\n[char1]: \"I am the eternal Master of this peaceful place, now and forever more! Whatsoever you have done for my simple servant, that shall be repaid unto you – who shall receive my gift?\""
+						"text": "突然, [char1]全身一阵颤栗: \n\n[char1]: \"我感受到这里有个奇怪的存在...虽然不是直接的敌对或对我们有威胁...但我能感觉到它非常的强大, 而且古老, 就像时间一样...!\"\n\n[char1]仰起头, 展开她的双臂, 十指分开, 失神般喃喃道: [CTP]\n\n[char1]: \"我乃这片和平之地的主人, 现在是将来也是! 你们帮助了我小小的仆人, 我也将回报以祝福 – 你们谁要接受我的祝福?\""
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Blessed",
-						"text": "[char2] takes a deep breath. He has a strange glint in his eyes."
+						"text": "[char2]深吸了一口气, 他的眼里闪动着奇异的光."
 					},
 					{
 						"id": "BE_HolyMountainSpring01_Blessed_female",
-						"text": "[char2] takes a deep breath. She has a strange glint in her eyes."
+						"text": "[char2]深吸了一口气, 她的眼里闪动着奇异的光."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Intro",
-						"text": "Using the surrounding rocks as cover, you make your way up to the enemy camp; a large unit of German soldiers have begun excavations here. They are uncovering a buried temple entrance. \n\nYou debate whether to risk an attack."
+						"text": "利用周围岩石作掩护, 你一路摸到了敌人营地边上; 一大队德军士兵在这里挖掘着什么. 他们正挖开一座地下神庙的入口.\n\n你们讨论了下是否要冒险发动攻击."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Choice02",
@@ -4382,79 +4382,79 @@
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Choice03",
-						"text": "Perform ritual"
+						"text": "举行仪式"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_SearchTemple",
-						"text": "After defeating your enemies, you explore the temple - what were the Germans looking for here? \n\nYou soon find a deep shaft that leads into the interior of the ancient building. You lower yourselves on ropes. [CTP]\n\nAfter a brief underground exploration, you reach a chamber decorated with hieroglyphs and wall drawings. \n\nThe Germans have smashed various stone chests and have begun setting up their metal crates. However, they have not yet managed to transport their find!"
+						"text": "打败敌人后, 你探索了神庙 - 德国人在这里找什么呢? \n\n你很快发现了一个通往这座古老建筑内部的深井通道. 你用绳子把自己放了下去. [CTP]\n\n经过一番简单的地下探索过后, 你来到一个墙上满是象形文字和壁画装饰的房间. \n\n德国人先前已经打碎了很多石头箱子并开始装运他们的战利品. 但他们已经再也运不出去这些宝物了!"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_DetectionF",
-						"text": "You take a look around the vault but you cannot find anything of importance so you continue your journey."
+						"text": "你环顾墓室一圈但找不到任何重要的物品, 于是你继续上路了."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_DetectionW",
-						"text": "As you're about to leave the vault, [char0] stops suddenly:\n\n[char0]: \"That breeze... do you feel it too?\"[CTP]\n\n[char0] grabs a torch and moves it up and down the walls. He stands triumphantly in front of a crumbling brick wall, the flickering torch in his hand!\n\nA few minutes later, you are clambering through the rubble of of the demolished wall. At the center of the chamber beyond, you see a stone tablet covered with ancient hieroglyphs."
+						"text": "当你们准备离开墓室的时候, [char0]突然停了下来:\n\n[char0]: \"有风...你有没有感觉到?\"[CTP]\n\n[char0]抓起一根火把用它在墙边来回试探. 最后他站到了一面快塌的砖墙前, 一副胜利者的姿态, 他手上的火把在跳动!\n\n几分钟后, 你们跨过被拆成了一堆碎石的墙壁, 在前面房间的中央, 你们看到一座刻满古老象形文字的石碑."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_DetectionW_female",
-						"text": "As you're about to leave the vault, [char0] stops suddenly:\n\n[char0]: \"That breeze... do you feel it too?\"[CTP]\n\n[char0] grabs a torch and moves it up and down the walls. She stands triumphantly in front of a crumbling brick wall, the flickering torch in her hand!\n\nA few minutes later, you are clambering through the rubble of of the demolished wall. At the center of the chamber beyond, you see a stone tablet covered with ancient hieroglyphs."
+						"text": "当你们准备离开墓室的时候, [char0]突然停了下来:\n\n[char0]: \"有风...你有没有感觉到?\"[CTP]\n\n[char0]抓起一根火把用它在墙边来回试探. 最后她站到了一面快塌的砖墙前, 一副胜利者的姿态, 她手上的火把在跳动!\n\n几分钟后, 你们跨过被拆成了一堆碎石的墙壁, 在前面房间的中央, 你们看到一座刻满古老象形文字的石碑."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Illegible",
-						"text": "You try to decipher their meaning, but your attempts are in vain. Disappointed, you continue on your journey."
+						"text": "你尝试破译出它们的意思, 但终究只是徒劳. 你失望地离开, 继续你的旅程."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_LanguagesF",
-						"text": "[char1] scans the stone tablet excitedly, but eventually he has to admit defeat. \n\n[char1]: \"These symbols make no sense!\""
+						"text": "[char1]激动地扫视着石碑, 但最终他不得不承认他也看不懂. \n\n[char1]: \"这写的什么鬼嘛!\""
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_LanguagesF_female",
-						"text": "[char1] scans the stone tablet excitedly, but eventually she has to admit defeat. \n\n[char1]: \"These symbols make no sense!\""
+						"text": "[char1]激动地扫视着石碑, 但最终她不得不承认她也看不懂. \n\n[char1]: \"这写的什么鬼嘛!\""
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_LanguagesW",
-						"text": "[char1] scans the stone tablet excitedly, mumbling under his breath before turning to you: [CTP]\n\n[char1]: \"This is the sanctuary where priests used to carry out their purification rituals. This says: The Chosen One performs the ritual, and is filled with the divine spirit.\""
+						"text": "[char1]激动地扫视着石碑, 口中喃喃自语, 然后他转向你: [CTP]\n\n[char1]: \"这里是以前牧师们举行净化仪式的圣堂. 上面写着: 被选中的人执行仪式, 将获得神圣的祝福.\""
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_LanguagesW_female",
-						"text": "[char1] scans the stone tablet excitedly, mumbling under her breath before turning to you: [CTP]\n\n[char1]: \"This is the sanctuary where priests used to carry out their purification rituals. This says: The Chosen One performs the ritual, and is filled with the divine spirit.\""
+						"text": "[char1]激动地扫视着石碑, 口中喃喃自语, 然后她转向你: [CTP]\n\n[char1]: \"这里是以前牧师们举行净化仪式的圣堂. 上面写着: 被选中的人执行仪式, 将获得神圣的祝福.\""
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_RitualW",
-						"text": "You perform an improvised ritual. Who shall be purified?"
+						"text": "你举行了一个临时的仪式, 谁要接受祝福?"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_OccultF",
-						"text": "You perform an improvised ritual, but nothing happens. Disappointed, you move on."
+						"text": "你举行了一个临时的仪式, 但什么也没发生. 你非常失望, 继续上路了."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_OccultW",
-						"text": "[char2] intones an ancient consecration hymn as he guides you through the ritual. Who shall be purified?"
+						"text": "[char2]一边吟唱着古老的圣歌一边引导你完成仪式. 谁要接受祝福?"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_OccultW_female",
-						"text": "[char2] intones an ancient consecration hymn as she guides you through the ritual. Who shall be purified?"
+						"text": "[char2]一边吟唱着古老的圣歌一边引导你完成仪式. 谁要接受祝福?"
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Purified",
-						"text": "[char3] opens his eyes with a serene smile, as if a heavy burden had been lifted from his shoulders."
+						"text": "[char3]睁开了眼睛, 脸上带着平静的微笑，有种如释重负的感觉."
 					},
 					{
 						"id": "BE_SanctuaryExcavation1_Purified_female",
-						"text": "[char3] opens her eyes with a serene smile, as if a heavy burden had been lifted from her shoulders."
+						"text": "[char3]睁开了眼睛, 脸上带着平静的微笑，有种如释重负的感觉."
 					},
 					{
 						"id": "GE_StargateFragment01_Intro",
-						"text": "Your attention is drawn to a strange, circular stone formation in the desert sand. You take a closer look at the area and uncover several strange objects hidden in the sand. They are arranged in a circle. \n\nYou do not have the slightest idea what you have discovered."
+						"text": "你的注意力被沙漠里一个奇怪的圆形石质结构吸引. 你靠近看了看发现周围沙子里还埋着些奇怪的物体. 它们呈环状分布. \n\n你完全搞不懂你发现的是啥."
 					},
 					{
 						"id": "GE_StargateFragment01_Choice01",
-						"text": "Inspect the area"
+						"text": "检查该区域"
 					},
 					{
 						"id": "GE_StargateFragment01_Choice02",
-						"text": "Examine object more closely"
+						"text": "更仔细地检查物体"
 					},
 					{
 						"id": "GE_StargateFragment01_Choice03",
@@ -4462,59 +4462,59 @@
 					},
 					{
 						"id": "GE_StargateFragment01_InvestigateF",
-						"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. \n\nDespite all your efforts, you fail to gather any further insights so you continue your journey."
+						"text": "奇怪的物体像是用黑曜石之类的材料做的. 它们的表面看上去既像熔化的液体又像凝固的石头. \n\n不过你再怎么努力也就只能得到这么一点信息了. 于是你继续你的旅程."
 					},
 					{
 						"id": "GE_StargateFragment01_InvestigateW",
-						"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. \n\nJust as you are about to leave this place, [char0] stumbles over a stone block. A strange humming passes through the objects. Suddenly, some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+						"text": "奇怪的物体像是用黑曜石之类的材料做的. 它们的表面看上去既像熔化的液体又像凝固的石头. \n\n当你准备离开这个地方的时候, [char0] 脚绊到一个石块. 地上的物体发出一阵奇怪的轰鸣. 突然, 它们被一股无形的力量重新组合了起来. 组合后的装置发出奇异的光!"
 					},
 					{
 						"id": "GE_StargateFragment01_InvestigateW_female",
-						"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. \n\nJust as you are about to leave this place, [char0] stumbles over a stone block. A strange humming passes through the objects. Suddenly, some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+						"text": "奇怪的物体像是用黑曜石之类的材料做的. 它们的表面看上去既像熔化的液体又像凝固的石头. \n\n当你准备离开这个地方的时候, [char0] 脚绊到一个石块. 地上的物体发出一阵奇怪的轰鸣. 突然, 它们被一股无形的力量重新组合了起来. 组合后的装置发出奇异的光!"
 					},
 					{
 						"id": "GE_StargateFragment01_TechnicalW",
-						"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. [char1] grabs excitedly at the objects scattered in the sand. \n\nSuddenly, a strange humming passes through the objects. Some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+						"text": "奇怪的物体像是用黑曜石之类的材料做的. 它们的表面看上去既像熔化的液体又像凝固的石头. [char1]兴奋地去捡散落在沙地上的物体. \n\n突然, 地上的物体发出一阵奇怪的轰鸣. 它们被一股无形的力量重新组合了起来. 组合后的装置发出奇异的光!"
 					},
 					{
 						"id": "GE_StargateFragment01_TechnicalW_female",
-						"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. [char1] grabs excitedly at the objects scattered in the sand. \n\nSuddenly, a strange humming passes through the objects. Some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+						"text": "奇怪的物体像是用黑曜石之类的材料做的. 它们的表面看上去既像熔化的液体又像凝固的石头. [char1]兴奋地去捡散落在沙地上的物体. \n\n突然, 地上的物体发出一阵奇怪的轰鸣. 它们被一股无形的力量重新组合了起来. 组合后的装置发出奇异的光!"
 					},
 					{
 						"id": "GE_StargateFragment01_Stonewheel",
-						"text": "The man-sized stone wheel hovers in front of you at chest level, connected to the pedestal below by a mysterious invisible force. \n\nA pulsating light fills the interior of the stone wheel!"
+						"text": "你面前这足有一个人大小的石环悬浮在你胸部差不多的高度, 通过一股无形的神秘力量与底下的基座连接. \n\n石环内部被一种脉冲光波填满!"
 					},
 					{
 						"id": "GE_StargateFragment01_Choice04",
-						"text": "Inspect stone wheel"
+						"text": "检查石环"
 					},
 					{
 						"id": "GE_StargateFragment01_DetermineChar",
-						"text": "Pick a character to investigate the strange stone wheel."
+						"text": "派一个人调查奇怪的石环."
 					},
 					{
 						"id": "GE_StargateFragment01_ExamineWheelF",
-						"text": "When [char2] places his index finger on the light source, there is a deafening crash! You are blinded by a flash of lightning. \n\nWhen your eyes have readjusted, you see that the wheel has shattered into a thousand parts. [char2] is rolling on the ground, groaning."
+						"text": "当[char2]用他的食指触碰到光源的时候, 装置发出一声震耳欲聋的爆裂声! 你们被一道电光闪瞎了眼. \n\n当你们视力恢复的时候, 你看到石轮已经被震得粉碎. [char2]正在地上呻吟打滚."
 					},
 					{
 						"id": "GE_StargateFragment01_ExamineWheelF_female",
-						"text": "When [char2] places her index finger on the light source, there is a deafening crash! You are blinded by a flash of lightning. \n\nWhen your eyes have readjusted, you see that the wheel has shattered into a thousand parts. [char2] is rolling on the ground, groaning."
+						"text": "当[char2]用她的食指触碰到光源的时候, 装置发出一声震耳欲聋的爆裂声! 你们被一道电光闪瞎了眼. \n\n当你们视力恢复的时候, 你看到石轮已经被震得粉碎. [char2]正在地上呻吟打滚."
 					},
 					{
 						"id": "GE_StargateFragment01_ExamineWheelW",
-						"text": "When [char2] places his index finger on the light source, you hear a humming sound. Then the light goes out and the stone wheel crashes to the ground! \n\nWhen [char2] turns to you, there is a strange glint in his eyes: \n\n[char2]: \"I feel... fantastic…!\""
+						"text": "当[char2]用他的食指触碰到光源的时候, 你听到一阵轰鸣. 然后光源消失了, 石轮摔碎在地上! \n\n当[char2]转向你的时候, 你看到他眼里闪动着异样的光: \n\n[char2]: \"我感觉...好极了!\""
 					},
 					{
 						"id": "GE_StargateFragment01ExamineWheelW_female",
-						"text": "When [char2] places her index finger on the light source, you hear a humming sound. Then the light goes out and the stone wheel crashes to the ground!\n\nWhen [char2] turns to you, there is a strange glint in her eyes: \n\n[char2]: \"I feel... fantastic…!\""
+						"text": "当[char2]用她的食指触碰到光源的时候, 你听到一阵轰鸣. 然后光源消失了, 石轮摔碎在地上! \n\n当[char2]转向你的时候, 你看到她眼里闪动着异样的光: \n\n[char2]: \"我感觉...好极了!\""
 					},
 					{
 						"id": "BE_CreepyHut01_Intro",
-						"text": "You find a windblown hut among a few ancient, barely recognizable graves. \n\nAs you approach, you feel the hair on your hackles rising: large puddles of blood have congealed in the sand around the hut, turning it a reddish brown! You see bones and skull fragments, as well as scraps of cloth that might come from German uniforms. [CTP] \n\nA rotten wooden door squeaks on its hinges – probably just from a gust of wind but to your ears it sounds like a warning..."
+						"text": "你在一些几乎无法辨认的古代陵墓间发现了一间随风飘摇的小屋. \n\n当你走近后, 你感觉身上的寒毛都立了起来: 小屋周围凝固了一大滩血迹, 把周围沙地都染成了红棕色! 你看到了骨头和脑壳儿的碎片, 还有些可能是从德军制服上扯下来的破布. [CTP] \n\n腐朽的木门上的铰链发出吱吱的声响 – 也许只是一阵风, 但你听起来那分明像是警告..."
 					},
 					{
 						"id": "BE_CreepyHut01_Choice01",
-						"text": "Search hut"
+						"text": "搜查小屋"
 					},
 					{
 						"id": "BE_CreepyHut01_Choice02",
@@ -4522,27 +4522,27 @@
 					},
 					{
 						"id": "BE_CreepyHut01_NoLoot",
-						"text": "As expected, a search of the cabin reveals nothing. \n\nDisappointed, you continue your journey."
+						"text": "和预期的一样. 你在小屋里什么也没找到. \n\n你失望地重新踏上旅程."
 					},
 					{
 						"id": "BE_CreepyHut01_NoLoot_Fight",
-						"text": "As expected, a search of the cabin reveals nothing. \n\nAs you prepare to leave, you hear a strange groaning. Shuffling steps approach slowly from every direction. You quickly step outside the hut, where a nightmarish scene greets you..."
+						"text": "和预期的一样. 你在小屋里什么也没找到. \n\n当你准备离开的时候, 你听到一阵奇怪的低吟. 四面八方响起蹒跚缓慢的脚步声. 你迅速跑出屋子, 眼前是一幅噩梦般的场景..."
 					},
 					{
 						"id": "BE_CreepyHut01_Loot",
-						"text": "You enter and search the hut. Under some faded rags, you find a small bundle. You wonder who must have hidden it there!"
+						"text": "你进入小屋搜查. 在一堆破烂衣服下面你找到了一个小包. 你想知道是谁把它藏在那儿的!"
 					},
 					{
 						"id": "BE_CreepyHut01_Fight",
-						"text": "As you prepare to leave, you hear a strange groaning!\n\nShuffling steps approach slowly from every direction. You quickly step outside the hut, where a nightmarish scene greets you..."
+						"text": "当你准备离开的时候, 你听到一阵奇怪的低吟!\n\n四面八方响起蹒跚缓慢的脚步声. . 你迅速跑出屋子, 眼前是一幅噩梦般的场景..."
 					},
 					{
 						"id": "BE_AlienMonolith01_Intro",
-						"text": "As you take a short break at the edge of the track, a strange humming sound fills the air. \n\nYou decide to get to the bottom of the matter and follow the sound as it grows increasingly intense. As you climb a dune ridge, you feel as if every fiber of your being is vibrating in resonance with the humming.[CTP]\n\nFrom the crest of the dune you see a deep depression in the sand. At its center is a huge, pitch-black monolith among some strange rock formations. The humming seems to emanate from the strange object. [CTP]\n\nYou soon reach the foot of the monolith. Once there, you experience almost total silence, but the air feels like it is electrified."
+						"text": "当你们在路边稍作休息的时候, 你们听到空气中回荡着一阵奇怪的蜂鸣声. \n\n声音越来越大, 你决定寻找声音的源头并弄清楚到底是怎么一回事. 当你爬上一座沙丘的脊背时, 你感觉身上每一丝部位都在随着蜂鸣声一起震动. [CTP]\n\n从顶部向下望, 你看到了一片深深的洼地. 洼地中心岩石层上有一座漆黑的巨型石碑. 蜂鸣声似乎就是这个奇怪的庞然大物发出的. [CTP]\n\n你很快抵达了巨型石碑的脚下. 一到那儿, 周围变得一片死寂, 但空气给一种带电的感觉."
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice01",
-						"text": "Inspect monolith"
+						"text": "检查巨型石碑"
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice02",
@@ -4550,151 +4550,151 @@
 					},
 					{
 						"id": "BE_AlienMonolith01_Collaps",
-						"text": "As you circle the area, you notice the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char1] suddenly collapses and falls to the ground as if struck by lightning! [CTP]\n\n[char1] soon regains consciousness, but he complains of a sharp pain between his eyes. You decide to leave this strange place immediately."
+						"text": "当你绕着这个地区转圈的时候, 你注意到一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n[char1]突然像被雷击中一样失去知觉跌倒在地上! [CTP]\n\n[char1]很快恢复了神志, 但他抱怨说他两眼之间感到剧烈的疼痛. 你们决定立马离开这个奇怪的地方."
 					},
 					{
 						"id": "BE_AlienMonolith01_Collaps_female",
-						"text": "As you circle the area, you notice the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char1] suddenly collapses and falls to the ground as if struck by lightning! [CTP]\n\n[char1] soon regains consciousness, but she complains of a sharp pain between her eyes. You decide to leave this strange place immediately."
+						"text": "当你绕着这个地区转圈的时候, 你注意到一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n[char1]突然像被雷击中一样失去知觉跌倒在地上! [CTP]\n\n[char1]很快恢复了神志, 但他抱怨说他两眼之间感到剧烈的疼痛. 你们决定立马离开这个奇怪的地方."
 					},
 					{
 						"id": "BE_AlienMonolith01_NoLoot",
-						"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\nApart from this, however, you find nothing that indicates the function or significance of this strange monument. Confused, you set off on your journey again."
+						"text": "当你绕着这个地区转圈的时候, 你发现一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n但除此以外, 并没有任何能暗示这奇怪石碑的功能和重要性的东西. 带着疑惑, 你们踏上了旅途."
 					},
 					{
 						"id": "BE_AlienMonolith01_NoLoot_Enemies",
-						"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\nHowever, apart from this discovery, you find nothing that indicates the function or significance of this strange monument. [CTP]\n\nAs you are about to embark on your journey, another sound reaches your ears: Engines! \n\nYou quickly climb to the ridge of the dune: Two German Army jeeps are approaching your position! You look at each other in alarm – you still have a good chance of escaping unseen."
+						"text": "当你绕着这个地区转圈的时候, 你发现一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n但除此以外, 并没有任何能暗示这奇怪石碑的功能和重要性的东西. [CTP]\n\n当你准备踏上旅途的时候, 你听到了另一个声音: 是发动机! \n\n你迅速爬上沙丘顶部: 两辆德军吉普车正朝你所在位置靠近! 你们警觉地相互看看 – 你们还有机会偷偷溜走."
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice03",
-						"text": "Prepare ambush"
+						"text": "准备埋伏"
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice04",
-						"text": "Secretly observe enemies"
+						"text": "秘密观察敌人"
 					},
 					{
 						"id": "BE_AlienMonolith01_ObserveEnemy",
-						"text": "Hiding behind some rocks, you watch as the soldiers start digging in the desert sand around the monolith, closely supervised by their officer. \n\nSuddenly, you hear a shout – one of the soldiers has found something!"
+						"text": "你躲在岩石后面观察, 士兵们在他们长官的严密监视下开始挖掘石碑附近的沙土. \n\n突然你听到有个士兵大叫一声 – 他们找到了些什么!"
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice05",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice06",
-						"text": "Wait for the soldiers to leave"
+						"text": "等士兵们离开"
 					},
 					{
 						"id": "BE_AlienMonolith01_Loot",
-						"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char0] suddenly lets out an excited shout! You hurry over to find [char0] kneeling on the ground and shoveling the desert sand aside!"
+						"text": "当你绕着这个地区转圈的时候, 你发现一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n[char0]突然激动地大叫一声! 你赶忙跑过去, 发现[char0]正跪在地上用铲子挖石碑一侧的沙土!"
 					},
 					{
 						"id": "BE_AlienMonolith01_Loot_female",
-						"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char0] suddenly lets out an excited shout! You hurry over to find [char0] kneeling on the ground and shoveling the desert sand aside!"
+						"text": "当你绕着这个地区转圈的时候, 你发现一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n[char0]突然激动地大叫一声! 你赶忙跑过去, 发现[char0]正跪在地上用铲子挖石碑一侧的沙土!"
 					},
 					{
 						"id": "BE_AlienMonolith01_DetectionW",
-						"text": "You circle the area; the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char2] suddenly lets out an excited shout! You hurry over to find [char2] kneeling on the ground and shoveling the desert sand aside!"
+						"text": "你绕石碑转了几圈; 一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n[char0]突然激动地大叫一声! 你赶忙跑过去, 发现[char0]正跪在地上用铲子挖石碑一侧的沙土!"
 					},
 					{
 						"id": "BE_AlienMonolith01_DetectionW_female",
-						"text": "You circle the area; the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char2] suddenly lets out an excited shout! You hurry over to find [char2] kneeling on the ground and shoveling the desert sand aside!"
+						"text": "你绕石碑转了几圈; 一旦你距离石碑稍远几步, 蜂鸣声立马变回最大音量. \n\n[char0]突然激动地大叫一声! 你赶忙跑过去, 发现[char0]正跪在地上用铲子挖石碑一侧的沙土!"
 					},
 					{
 						"id": "BE_AlienMonolith01_Choice07",
-						"text": "Search the area"
+						"text": "搜刮该区域"
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Intro",
-						"text": "The temple entrance in front of you is framed by two pitch-black obelisks that appear to be hewn from solid obsidian. [CTP]\n\nAs you approach the entrance, you hear a deep humming sound – a ghostly glow emanates from the obelisks! \n\nYou examine the mysterious objects, but you don’t find anything that indicates how they work."
+						"text": "你面前的神庙入口是由两座漆黑的方尖碑围成的, 它们看上去像是用坚硬的黑曜石凿成的. [CTP]\n\n当你接近入口的时候, 你听到四周传来一阵低沉的嗡嗡声 – 方尖碑中放射出了幽灵般的光芒! \n\n你检查了这些神秘的物件, 但你完全看不出它们的工作原理."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Proceed",
-						"text": "You enter the building carefully. An almost endless flight of stairs leads deep into the earth. \n\nYour exploration ends in a dilapidated passage that looks like it might collapse at any moment. [CTP]\n\nBeyond the passageway, the rock walls open into a spacious vault. An eerie glow emanates from within. \n\nYou keep a wary eye on the creaking ceiling of the passageway between you and the mysterious vault..."
+						"text": "你小心翼翼地走进建筑. 一段几乎没有尽头的阶梯一直通向地下深处. \n\n你探索的终点是一条看起来随时都有可能倒塌的残破通道. [CTP]\n\n通道的另一边, 两边石墙豁然开朗, 是一间空旷的墓室. 一种奇异的亮光从里面照射出来. \n\n你警觉地盯着通道上方摇摇欲坠的天花板, 神秘的墓室在另一头与你遥遥相望..."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Choice01",
-						"text": "Proceed"
+						"text": "前进"
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Choice02",
-						"text": "Turn back"
+						"text": "折返"
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Win",
-						"text": "With small, careful steps you work your way forward. Dust and sand trickle down on you, but finally you reach the safety of the vault. You look around in excitement..."
+						"text": "你们迈着小心的步伐一点点前进. 灰尘和沙粒落在你们身上, 但最终你们安全到达了墓室. 你激动地环顾四周..."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Fail",
-						"text": "With small, careful steps you work your way forward. Dust and sand trickle down from the trembling ceiling. \n\nTo your horror, you notice [char0] fighting back a sneeze! [CTP]\n\nYou hurry to get through the passage as fast as you can, but in your haste, you trigger a small avalanche of debris – a few bricks hit [char0] on the head. \n\nYou patch up a painful-looking gash, then take an excited look around the vault..."
+						"text": "你们迈着小心的步伐一点点前进. 灰尘和沙粒从抖动的天花板上落在你们身上. \n\n你惊恐地注意到[char0]正在使劲忍住要打一个喷嚏! [CTP]\n\n你们以最快的速度穿过通道, 但匆忙中, 你们引发了一处局部坍塌 – 一些砖块击中了[char0]的头部. \n\n砖块砸出了一个看上去很疼的伤口, 你给他包扎了下, 然后激动地环视墓室四周..."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_Fail_female",
-						"text": "With small, careful steps you work your way forward. Dust and sand trickle down from the trembling ceiling. \n\nTo your horror, you notice [char0] fighting back a sneeze! [CTP]\n\nYou hurry to get through the passage as fast as you can, but in your haste you trigger a small avalanche of debris – a few bricks hit [char0] on the head. \n\nYou patch up a painful-looking gash, then take an excited look around the vault..."
+						"text": "你们迈着小心的步伐一点点前进. 灰尘和沙粒从抖动的天花板上落在你们身上. \n\n你惊恐地注意到[char0]正在使劲忍住要打一个喷嚏! [CTP]\n\n你们以最快的速度穿过通道, 但匆忙中, 你们引发了一处局部坍塌 – 一些砖块击中了[char0]的头部. \n\n砖块砸出了一个看上去很疼的伤口, 你给她包扎了下, 然后激动地环视墓室四周..."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_CriticalFail",
-						"text": "With small, careful steps you work your way forward. At first, only dust and sand trickle down, but suddenly the entire ceiling gives way: Debris and soil flood into the narrow space around you! [CTP]\n\nAs the dust settles, you see that [char1] is buried up to his hips in the rubble! It takes some time to free him. It looks like [char1] has injured his right leg! \n\nUnfortunately, you can no longer get to the vault so you are forced to turn back."
+						"text": "你们迈着小心的步伐一点点前进. 起初, 只有灰尘和沙粒往下落, 但突然整个天花板都塌了下来: 碎石和泥土涌向你们四周的狭小空间! [CTP]\n\n尘埃落定后, 你看到[char1]屁股以下都埋在了碎石堆里! 你们花了好一会儿才把他解放出来. 看起来[char1] 伤到了他的右腿! \n\n而且很不幸, 你们永远到不了另一头的墓室了, 只好原路折返."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_CriticalFail_female",
-						"text": "With small, careful steps you work your way forward. At first, only dust and sand trickle down, but suddenly the entire ceiling gives way: Debris and soil flood into the narrow space around you! [CTP]\n\nAs the dust settles, you see that [char1] is buried up to her hips in the rubble! It takes some time to free her. It looks like [char1] has injured her right leg! \n\nUnfortunately, you can no longer get to the vault so you are forced to turn back."
+						"text": "你们迈着小心的步伐一点点前进. 起初, 只有灰尘和沙粒往下落, 但突然整个天花板都塌了下来: 碎石和泥土涌向你们四周的狭小空间! [CTP]\n\n尘埃落定后, 你看到[char1]屁股以下都埋在了碎石堆里! 你们花了好一会儿才把她解放出来. 看起来[char1] 伤到了她的右腿! \n\n而且很不幸, 你们永远到不了另一头的墓室了, 只好原路折返."
 					},
 					{
 						"id": "LE_AlienCorpseAltar01_ AltarRoom",
-						"text": "The room contains a small, non-descript altar from which the strange light emanates. A bizarre form stands in front of it. [CTP]\n\nYou study it cautiously, but you are not sure what you have come across: Is it a statue or the fossilized remains of a strangely deformed person? Or... something else?! \n\nEventually, you notice a mysterious bundle in the creature’s deformed hands."
+						"text": "房间里有个小小的不可名状的祭坛, 奇异的光就是从那里发射出来的. 它前面放着一个奇怪的东西. [CTP]\n\n你仔细地研究, 但你不确定那到底是什么: 是一尊雕像还是一块畸形人类的遗体化石? 或者...其他什么?! \n\n最终, 注意到它变形的手中握着一个包裹."
 					},
 					{
 						"id": "LE_BurningJeep01_Intro",
-						"text": "As you leave the rocky foothills behind, you notice a cloud of dust approaching rapidly on your right: On a parallel sandy track, you see a fully laden Wehrmacht jeep! [CTP]\n\nIts driver has spotted you and is trying to get away! After several minutes of hot pursuit, it looks like the enemy jeep is going to get away. Then the driver fails to see a small boulder at the edge of the track: The vehicle flips and rolls off to the side! [CTP] \n\nAs you get out of your own vehicle, you see the driver hanging lifelessly in the windshield. Small flames flicker out from under the hood - a small plume of smoke rises into the air. You notice the jeep’s cargo: It is loaded with gasoline canisters!"
+						"text": "当你把颠簸的丘陵甩在身后的时候, 你注意到一大片尘土从你右侧飞速向你靠近: 在和你平行的沙路上有一辆满载的纳粹吉普车! [CTP]\n\n驾驶员已经看到了你并企图逃走! 几分钟的激烈追逐后, 看上去敌人车子要跑远了. 然而驾驶员没看到路边一块突出的圆石: 车子在空中翻转了几圈滚到了路边! [CTP] \n\n当你们跪下自己的车辆的时候, 你看到驾驶员的尸体挂在挡风玻璃上. 一小段火苗从除尘器下面窜了上来 - 空中升起了一缕轻烟. 你注意到吉普车上装的货物: 车上装的全是油桶!"
 					},
 					{
 						"id": "LE_BurningJeep01_Choice01",
-						"text": "Loot gasoline"
+						"text": "掠夺汽油"
 					},
 					{
 						"id": "LE_BurningJeep01_Choice02",
-						"text": "Take cover"
+						"text": "找掩护"
 					},
 					{
 						"id": "LE_BurningJeep01_Win",
-						"text": "With desperate courage, you spring towards the burning car. The driver is beyond help, but you frantically release the guy line and grab a few jerrycans before the fire spreads to them! [CTP]\n\nYou sprint to safety as fast as your legs will carry you - just as you reach your vehicle, a huge explosion destroys the Wehrmacht jeep!"
+						"text": "你们不顾一切地冲向燃烧的吉普车. 驾驶员已经没救了, 你们发疯般地松开绑绳, 在火势漫延过来之前抱起几个油罐然后撒腿就跑! [CTP]\n\n你们以尽可能快的速度跑到了安全地带 - 就在你们跑回自己车辆的时候, 巨大的爆炸摧毁了纳粹的吉普车!"
 					},
 					{
 						"id": "LE_BurningJeep01_Fail",
-						"text": "With desperate courage, you rush towards the burning vehicle, but you are too late: a huge explosion tears through the Wehrmacht jeep! \n\nThe force of the explosion throws you to the ground! You count your blessings, since you escape with scorched hair and a few minor burns."
+						"text": "你们不顾一切地冲向燃烧的吉普车, 但还是太迟了: 巨大的爆炸撕碎了纳粹的吉普车! \n\n冲击波把你们震倒在地! 不过上帝保佑, 你们只被烧掉了点头发, 受了点轻微的烫伤."
 					},
 					{
 						"id": "LE_BurningJeep01_CriticalFail",
-						"text": "With desperate courage, you rush towards the burning vehicle, but you are too late: a huge explosion tears through the Wehrmacht jeep! [CTP] \n\nThe force of the explosion throws you to the ground! You look up to see [char0] engulfed in flames and rolling in the sand! You frantically pile desert sand over his burning, petrol-soaked clothing – but [char0] has suffered severe burns, which you are barely capable of treating properly..."
+						"text": "你们不顾一切地冲向燃烧的吉普车, 但还是太迟了: 巨大的爆炸撕碎了纳粹的吉普车! [CTP] \n\n冲击波把你们震倒在地! 你抬头看见[char0]身上起火在地上打滚! 你疯狂地用沙子盖到他被汽油浸湿正熊熊燃烧的衣服上 – 但最终[char0]还是受了严重的烧伤, 你们勉强帮他治疗保住了他的一条小命..."
 					},
 					{
 						"id": "LE_BurningJeep01_CriticalFail_female",
-						"text": "With desperate courage, you rush towards the burning vehicle, but you are too late: a huge explosion tears through the Wehrmacht jeep! [CTP] \n\nThe force of the explosion throws you to the ground! You look up to see [char0] engulfed in flames and rolling in the sand! You frantically pile desert sand over her burning, petrol-soaked clothing – but [char0] has suffered severe burns, which you are barely capable of treating properly..."
+						"text": "你们不顾一切地冲向燃烧的吉普车, 但还是太迟了: 巨大的爆炸撕碎了纳粹的吉普车! [CTP] \n\n冲击波把你们震倒在地! 你抬头看见[char0]身上起火在地上打滚! 你疯狂地用沙子盖到他被汽油浸湿正熊熊燃烧的衣服上 – 但最终[char0]还是受了严重的烧伤, 你们勉强帮她治疗保住了她的一条小命..."
 					},
 					{
 						"id": "LE_BurningJeep01_Cover",
-						"text": "You quickly throw yourselves to the ground – not a second too soon – moments later, a huge explosion tears through the Wehrmacht jeep! \n\nThanks to your prudence you are able to continue your journey unscathed."
+						"text": "你们飞快地扑倒在地 – 差一秒刚刚好 – 紧接着, 巨大的爆炸撕碎了纳粹的吉普车! \n\n多亏你的谨慎你们才得以继续平安地上路."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Intro",
-						"text": "In the shade of some cliffs, you find a tree whose deep green foliage draws your interest. \n\nYou examine the dusty, rocky ground around the tree, but cannot find any trace of a water source. [CTP]\n\nWhen you look up, you see the juicy looking fruit of the strange tree."
+						"text": "在一片悬涯的阴处, 你发现了一棵树, 它深绿色的叶子勾起了你的好奇心. \n\n你检查了树周围的泥土和岩石地面, 却找不到任何水源的踪迹. [CTP]\n\n抬头向上看, 你看到了这棵奇怪的树结出的看上去多汁的果实."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Choice01",
-						"text": "Investigate tree"
+						"text": "调查树"
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Choice02",
-						"text": "Identify tree species"
+						"text": "鉴定树的品种"
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Choice03",
-						"text": "Pick a fruit and try it carefully"
+						"text": "摘颗果子小心品尝"
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Choice04",
-						"text": "Pick and eat all the fruit"
+						"text": "摘取吃掉所有果子"
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Choice05",
@@ -4702,55 +4702,55 @@
 					},
 					{
 						"id": "GE_ForbiddenFruit01_ExamineTree",
-						"text": "Your investigation reveals little beyond establishing that the tree species is unknown to you."
+						"text": "你们的调查收获甚微, 你们不知道这树什么品种."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_WildernessW",
-						"text": "[char0] frowns: \"That's strange. I’ve never seen a tree like this. I wonder if the fruit is edible.\""
+						"text": "[char0]皱了皱眉: \"奇怪. 我从没见过像这样的树. 我怀疑这果子能不能吃.\""
 					},
 					{
 						"id": "GE_ForbiddenFruit01_WildernessW_female",
-						"text": "[char0] frowns: \"That's strange. I’ve never seen a tree like this. I wonder if the fruit is edible.\""
+						"text": "[char0]皱了皱眉: \"奇怪. 我从没见过像这样的树. 我怀疑这果子能不能吃.\""
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Cautious",
-						"text": "You try a few bites of the weird fruit. The earthy-aromatic taste turns bitter after a little chewing. \n\nYou decide not to eat the rest of the fruit and continue your journey. You are vaguely refreshed and filled with a pleasant feeling of warmth."
+						"text": "你们试吃了几口这种奇怪的果子. 有点泥土的味道, 嚼了几下之后变苦了. \n\n你们决定不吃剩下的果子而是继续上路. 接下来的路上你们疲劳稍微得到了缓解, 身上暖暖的有种愉悦的感觉."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_EatAll",
-						"text": "You devour the fruits greedily. The initial, pleasantly aromatic taste soon turns bitter and you feel your stomachs rumble."
+						"text": "你们贪婪地吃着果子. 一开始令人舒适的泥土芳香转变成了苦味, 你们感觉胃里开始翻腾."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_EatAllW",
-						"text": "The bitter taste fades as you continue your journey. A pleasant warmth fills your stomachs. You feel strangely refreshed and full of confidence."
+						"text": "旅途中苦味渐渐消失.你们感觉胃里暖洋洋的很舒服. 你们感觉异常神清气爽, 充满了自信."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_EatAllF",
-						"text": "As you continue your journey, you feel an unpleasant churning in your stomachs, but it soon fades. \n\nOnly [char1] starts complaining of painful stomach cramps."
+						"text": "旅途中你感觉胃里不舒服地在翻腾, 但很快就好转了. \n\n只是[char1]一直抱怨他胃疼的厉害."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_EatAllF_female",
-						"text": "As you continue your journey, you feel an unpleasant churning in your stomachs, but it soon fades. \n\nOnly [char1] starts complaining of painful stomach cramps."
+						"text": "旅途中你感觉胃里不舒服地在翻腾, 但很快就好转了. \n\n只是[char1]一直抱怨她胃疼的厉害."
 					},
 					{
 						"id": "GE_ForbiddenFruit01_Decision",
-						"text": "You’re not sure. What do you want to do?"
+						"text": "你不太确定. 你想怎么做?"
 					},
 					{
 						"id": "LE_ElectricObelisk01_Intro",
-						"text": "At the center of a depression, you find a pitch-black obelisk with a surface like polished glass. \n\nWhat you initially thought was a shapeless bundle of rags, turns out to be the lifeless body of a German soldier lying in the desert sand with his arm outstretched at the foot of the obelisk. [CTP]\n\nA strange humming sound emanates from the obelisk."
+						"text": "在一片洼地的中央, 你发现了一座漆黑的方尖碑, 方尖碑的表面就像打磨过的玻璃一样. \n\n在碑石脚下, 一开始你以为是一堆不成样的破布, 结果发现是一具德国士兵的死尸躺在沙地上, 四肢摊开. [CTP]\n\n从方尖碑中发出一种奇怪的嗡嗡的声响."
 					},
 					{
 						"id": "LE_ElectricObelisk01_Choice01",
-						"text": "Examine the soldier"
+						"text": "检查士兵"
 					},
 					{
 						"id": "LE_ElectricObelisk01_Choice02",
-						"text": "Think carefully"
+						"text": "仔细考虑"
 					},
 					{
 						"id": "LE_ElectricObelisk01_Choice03",
-						"text": "Touch the monolith"
+						"text": "触摸碑石"
 					},
 					{
 						"id": "LE_ElectricObelisk01_Choice04",
@@ -4758,43 +4758,43 @@
 					},
 					{
 						"id": "LE_ElectricObelisk01_ExamineSoldier",
-						"text": "The soldier has been dead for just a few hours. When you examine the man, you notice blistering on the palm of his outstretched hand. \n\nWhatever killed the man, you have no desire to share his fate! You search his pockets and then leave this ominous place."
+						"text": "士兵死了才几个钟头. 当你检查他的尸体的时候你注意到伸出的手的手掌上起了水疱. \n\n不管是什么让这个人送命, 你可不想步他的后尘! 你搜索了他的口袋然后离开了这个不祥的地方."
 					},
 					{
 						"id": "LE_ElectricObelisk01_TechnicalW",
-						"text": "The disconcerting drone emanating from the obelisk reminds you of the hum of a power line. The smell of burning flesh hangs in the air. \n\nCould the soldier have been electrocuted?[CTP]\n\n\n[char0] takes off his jacket, folds it carefully, and then lays it on the desert sand to isolate himself, before bravely reaching for the obelisk. The humming sound stops instantly. \n\nA few feet away, a hole opens up in the desert sand!"
+						"text": "方尖碑发出的令人不安的嗡嗡声让你想起了高压电线的蜂鸣声. 肉体烧焦的味道还弥漫在空气中. \n\n这士兵有可能是被电死的么?[CTP]\n\n\n[char0]脱下他的夹克, 仔细折好后铺在沙地上, 让衣服将他与地面隔绝开, 然后勇敢地触摸了方尖碑. 蜂鸣声戛然而止. \n\n几英尺外的沙地上有个洞口打开了!"
 					},
 					{
 						"id": "LE_ElectricObelisk01_TechnicalW_female",
-						"text": "The disconcerting drone sound emanating from the obelisk reminds you of the hum of a power line. The smell of burning flesh hangs in the air. \n\nCould the soldier have been electrocuted?[CTP]\n\n\n[char0] takes off her jacket, folds it carefully, and then lays it on the desert sands to isolate herself, before bravely reaching for the obelisk. The humming sound stops instantly. \n\nA few feet away, a hole opens up in the desert sand!"
+						"text": "方尖碑发出的令人不安的嗡嗡声让你想起了高压电线的蜂鸣声. 肉体烧焦的味道还弥漫在空气中. \n\n这士兵有可能是被电死的么?[CTP]\n\n\n[char0]脱下她的夹克, 仔细折好后铺在沙地上, 让衣服将她与地面隔绝开, 然后勇敢地触摸了方尖碑. 蜂鸣声戛然而止. \n\n几英尺外的沙地上有个洞口打开了!"
 					},
 					{
 						"id": "LE_ElectricObelisk01_TechnicalF",
-						"text": "[char0] walks curiously around the obelisk before finally placing his hand on the smooth stone. \n\nTo your disappointment, nothing happens. You search the dead soldier’s pockets and then leave this ominous place."
+						"text": "[char0]好奇地围着方尖碑绕了两圈, 最后把他的手放在润光滑的碑石表面. \n\n令你失望的是, 什么也没发生. 你搜索了士兵的口袋然后离开了这个不祥的地方."
 					},
 					{
 						"id": "LE_ElectricObelisk01_TechnicalF_female",
-						"text": "[char0] walks curiously around the obelisk before finally placing her hand on the smooth stone. \n\nTo your disappointment, nothing happens. You search the dead soldier’s pockets and then leave this ominous place."
+						"text": "[char0]好奇地围着方尖碑绕了两圈, 最后把她的手放在润光滑的碑石表面. \n\n令你失望的是, 什么也没发生. 你搜索了士兵的口袋然后离开了这个不祥的地方."
 					},
 					{
 						"id": "LE_ElectricObelisk01_TouchMonolithW",
-						"text": "[char1] walks curiously around the obelisk before finally placing his hand on the smooth stone. \n\nFor a long moment, nothing happens. Then you hear a soft scraping: A few feet away, a hole opens up in the desert sand!"
+						"text": "[char0]好奇地围着方尖碑绕了两圈, 最后把他的手放在润光滑的碑石表面. \n\n有好一会儿, 什么也没发生. 然后你听到一声轻轻的刮擦声: 几英尺外的沙地上有个洞口打开了!"
 					},
 					{
 						"id": "LE_ElectricObelisk01_TouchMonolithW_female",
-						"text": "[char1] walks curiously around the obelisk before finally placing her hand on the smooth stone. \n\nFor a long moment, nothing happens. Then you hear a soft scraping: A few feet away, a hole opens up in the desert sand!"
+						"text": "[char0]好奇地围着方尖碑绕了两圈, 最后把她的手放在润光滑的碑石表面. \n\n有好一会儿, 什么也没发生. 然后你听到一声轻轻的刮擦声: 几英尺外的沙地上有个洞口打开了!"
 					},
 					{
 						"id": "LE_ElectricObelisk01_TouchMonolithF",
-						"text": "[char1] walks curiously around the obelisk before finally placing his hand on the smooth stone. \n\nThe next moment, a blinding flash of light dazzles you, and [char1] is thrown back several feet into the desert sand! [CTP]\n\nGroaning softly, he rolls on the ground as blood pours from his nose and ears. You apply cold compresses as best you can and then leave this inhospitable place."
+						"text": "[char1] [char0]好奇地围着方尖碑绕了两圈, 最后把他的手放在润光滑的碑石表面. \n\n下一秒, 一阵刺眼的强光闪到了你们的眼睛, 而[char1]被甩出去好几英尺远落在沙地上! [CTP]\n\n他低声地呻吟, 血从他的鼻子和耳朵里涌了出来. 你尽可能地给他做了冷敷, 然后离开了这个不宜久留之地."
 					},
 					{
 						"id": "LE_ElectricObelisk01_TouchMonolithF_female",
-						"text": "[char1] walks curiously around the obelisk before finally placing her hand on the smooth stone. \n\nThe next moment, a blinding flash of light dazzles you, and [char1] is thrown back several feet into the desert sand! [CTP]\n\nGroaning softly, she rolls on the ground as blood pours from her nose and ears. You apply cold compresses as best you can and then leave this inhospitable place."
+						"text": "[char1] [char0]好奇地围着方尖碑绕了两圈, 最后把她的手放在润光滑的碑石表面. \n\n下一秒, 一阵刺眼的强光闪到了你们的眼睛, 而[char1]被甩出去好几英尺远落在沙地上! [CTP]\n\n她低声地呻吟, 血从她的鼻子和耳朵里涌了出来. 你尽可能地给她做了冷敷, 然后离开了这个不宜久留之地."
 					},
 					{
 						"id": "LE_ElectricObelisk01_Vault",
-						"text": "You look down into the shaft and see a small burial chamber containing a strange structure, not unlike a sarcophagus. \n\nYou soon find its opening mechanism - what might be hidden inside?"
+						"text": "你向下看到这个天井通道的下面有一间小小的墓室, 墓室里有一个奇怪的装置, 不像普通的石棺. \n\n你很快找到了打开它的办法 - 里面会藏着什么呢?"
 					},
 					{
 						"id": "GE_ParadiseGarden01_Intro",
