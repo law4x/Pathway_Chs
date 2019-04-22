@@ -10575,7 +10575,7 @@
 					},
 					{
 						"id": "Tooltip_Weapon_RangeAmount",
-						"text": "[item:Range] tiles"
+						"text": "[item:Range]格"
 					},
 					{
 						"id": "Tooltip_Weapon_MagAmount",
@@ -10619,11 +10619,11 @@
 					},
 					{
 						"id": "Tooltip_Grenade_DamageAreaAmount",
-						"text": "[item:DamageRadius] tiles"
+						"text": "[item:DamageRadius]格"
 					},
 					{
 						"id": "Tooltip_Grenade_ThrowRangeAmount",
-						"text": "[item:ThrowDistance] tiles"
+						"text": "[item:ThrowDistance]格"
 					},
 					{
 						"id": "Tooltip_Repairkit_RepairAmount",
