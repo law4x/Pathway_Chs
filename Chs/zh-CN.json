@@ -10607,7 +10607,7 @@
 					},
 					{
 						"id": "Tooltip_Grenade_DamageArea",
-						"text": "爆炸范围:"
+						"text": "爆炸半径:"
 					},
 					{
 						"id": "Tooltip_Grenade_ThrowRange",
