@@ -3090,39 +3090,39 @@
 					},
 					{
 						"id": "AE_CarFailure01_Intro",
-						"text": "After an endless drive along dusty tracks, you hear a disturbing, rhythmic clatter from the engine – moments later, it dies with a tortured howl and your jeep slowly rolls to a stop. \n\nYou stare at each other in alarm."
+						"text": "在尘土飞扬的沙道上无休止地行驶着，你突然听到发动机发出令人不安的、有节奏的撞击声 – 过了一会儿，你的吉普车哀嚎着慢慢地停了下来. \n\n你们惊恐地互相盯着对方."
 					},
 					{
 						"id": "AE_CarFailure01_Standard",
-						"text": "You peer at the smoking engine while [char1] sits comfortably on a nearby rock.\n\nAs you finish your emergency repairs, [char1] screams and jumps up! [CTP]\n\nThe rock he was sitting on was a termite mound! [char1] frantically tries to shake off the termites, but they are everywhere! \n\nBy the time you leave, [char1]’s entire body is covered with painful termite bites..."
+						"text": "你凝视冒着烟的引擎，而[char1]舒舒服服地坐在附近的一块岩石上.\n\n当你完成紧急维修时，[char1]尖叫着跳了起来! [CTP]\n\n他坐在了一块白蚁丘上! [char1] 疯狂地试图摆脱白蚁，但它们无处不在! \n\n当你们离开的时候，[char1]的全身都被白蚁叮咬覆盖..."
 					},
 					{
 						"id": "AE_CarFailure01_Standard_female",
-						"text": "You peer at the smoking engine while [char1] sits comfortably on a nearby rock.\n\nAs you finish your emergency repairs, [char1] screams and jumps up! [CTP]\n\nThe rock she was sitting on was a termite mound! [char1] frantically tries to shake off the termites, but they are everywhere! \n\nBy the time you leave, [char1]’s entire body is covered with painful termite bites..."
+						"text":"你凝视冒着烟的引擎，而[char1]舒舒服服地坐在附近的一块岩石上.\n\n当你完成紧急维修时，[char1]尖叫着跳了起来! [CTP]\n\n她坐在了一块白蚁丘上! [char1] 疯狂地试图摆脱白蚁，但它们无处不在! \n\n当你们离开的时候，[char1]的全身都被白蚁叮咬所覆盖..."
 					},
 					{
 						"id": "AE_CarFailure01_Technical",
-						"text": "[char0] tears open the bonnet to let the engine cool down and peers at it, brow furrowed."
+						"text": "[char0] 掀开引擎盖，让发动机冷却下来，然后皱着眉头凝视着它."
 					},
 					{
 						"id": "AE_CarFailure01_Technical_female",
-						"text": "[char0] tears open the bonnet to let the engine cool down and peers at it, brow furrowed."
+						"text": "[char0] 掀开引擎盖，让发动机冷却下来，然后皱着眉头凝视着它."
 					},
 					{
 						"id": "AE_CarFailure01_TechnicalW",
-						"text": "[char0]: \"I think I know what the problem is....\"\n\nA few minutes later, you are driving along at top speed again."
+						"text": "[char0]: \"我想我知道问题出在哪儿了....\"\n\n几分钟后，你们又以最快的速度向前行驶了."
 					},
 					{
 						"id": "AE_CarFailure01_TechnicalW_female",
-						"text": "[char0]: \"I think I know what the problem is....\"\n\nA few minutes later, you are driving along at top speed again."
+						"text": "[char0]: \"我想我知道问题出在哪儿了....\"\n\n几分钟后，你们又以最快的速度向前行驶了."
 					},
 					{
 						"id": "AE_CarFailure01_TechnicalF",
-						"text": "[char0]: \"It doesn’t look good...\"\n\nYou sit down helplessly on the rocks until the jeep is patched up again and the journey can continue. [CTP]\n\n[char1] screams and leaps into the air! The rock he was sitting on was a termite mound! The insect bites are extremely painful..."
+						"text": "[char0]: \"这看起来不太好...\"\n\n你无助地坐在岩石上，直到吉普车修好，旅程才能继续. [CTP]\n\n[char1] 尖叫着跳向空中!他坐在了一块白蚁丘上! 被这些虫子咬了会非常疼..."
 					},
 					{
 						"id": "AE_CarFailure01_TechnicalF_female",
-						"text": "[char0]: \"It doesn’t look good...\"\n\nYou sit down helplessly on the rocks until the jeep is patched up again and the journey can continue. [CTP]\n\n[char1] screams and leaps into the air! The rock she was sitting on was a termite mound! The insect bites are extremely painful..."
+						"text": "[char0]: \"这看起来不太好...\"\n\n你无助地坐在岩石上，直到吉普车修好，旅程才能继续. [CTP]\n\n[char1] 尖叫着跳向空中!她坐在了一块白蚁丘上! 被这些虫子咬了会非常疼..."
 					},
 					{
 						"id": "AE_CarFailure02_Intro",
