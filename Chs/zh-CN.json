@@ -72,7 +72,7 @@
 					},
 					{
 						"id": "adventure05Clue03_desc",
-						"text": "An eerie silence lay over the huts."
+						"text": "屋子里寂静得诡异."
 					},
 					{
 						"id": "adventure05Clue03_title",
@@ -80,7 +80,7 @@
 					},
 					{
 						"id": "adventure06Clue01_desc",
-						"text": "The ruins drew them like vermin."
+						"text": "废墟像害虫一样吸引着他们."
 					},
 					{
 						"id": "adventure06Clue01_title",
@@ -168,7 +168,7 @@
 					},
 					{
 						"id": "fenrisFound01_desc",
-						"text": "Just when you think it’s all over..."
+						"text": "当你认为一切都结束的时候..."
 					},
 					{
 						"id": "fenrisFound01_title",
@@ -244,7 +244,7 @@
 					},
 					{
 						"id": "moneyCollected01_title",
-						"text": "Interest I"
+						"text": "利益 I"
 					},
 					{
 						"id": "moneyCollected02_desc",
@@ -252,7 +252,7 @@
 					},
 					{
 						"id": "moneyCollected02_title",
-						"text": "Interest II"
+						"text": "利益 II"
 					},
 					{
 						"id": "moneyCollected03_desc",
@@ -260,7 +260,7 @@
 					},
 					{
 						"id": "moneyCollected03_title",
-						"text": "Interest III"
+						"text": "利益 III"
 					},
 					{
 						"id": "murderousIdol_desc",
@@ -308,11 +308,11 @@
 					},
 					{
 						"id": "recruit01_title",
-						"text": "Through Thick and Thin"
+						"text": "历尽千辛万苦"
 					},
 					{
 						"id": "restingPlace01_desc",
-						"text": "Rest [amount] times."
+						"text": "休息 [amount] 次."
 					},
 					{
 						"id": "restingPlace01_title",
@@ -320,7 +320,7 @@
 					},
 					{
 						"id": "rifleKills01_desc",
-						"text": "Kill [amount] enemies with an Assault Rifle."
+						"text": "用突击步枪杀死 [amount] 个敌人."
 					},
 					{
 						"id": "rifleKills01_title",
@@ -328,7 +328,7 @@
 					},
 					{
 						"id": "shotgunKills01_desc",
-						"text": "Kill [amount] enemies with a Shotgun."
+						"text": "用散弹枪杀死 [amount] 个敌人."
 					},
 					{
 						"id": "shotgunKills01_title",
@@ -336,15 +336,15 @@
 					},
 					{
 						"id": "sickBeduinCamel01_desc",
-						"text": "Once the fever has passed, it is already too late."
+						"text": "一旦发烧过去,就已经太迟了."
 					},
 					{
 						"id": "sickBeduinCamel01_title",
-						"text": "Camel Whisperer"
+						"text": "骆驼语者"
 					},
 					{
 						"id": "singleShotKills01_desc",
-						"text": "Kill [amount] enemies with a single shot."
+						"text": "一枪秒杀 [amount] 个敌人."
 					},
 					{
 						"id": "singleShotKills01_title",
@@ -352,7 +352,7 @@
 					},
 					{
 						"id": "singleShotKills02_desc",
-						"text": "Kill [amount] enemies with a single shot."
+						"text": "一枪秒杀 [amount] 个敌人."
 					},
 					{
 						"id": "singleShotKills02_title",
@@ -360,7 +360,7 @@
 					},
 					{
 						"id": "singleShotKills03_desc",
-						"text": "Kill [amount] enemies with a single shot."
+						"text": "一枪秒杀 [amount] 个敌人."
 					},
 					{
 						"id": "singleShotKills03_title",
@@ -368,7 +368,7 @@
 					},
 					{
 						"id": "sniperKills01_desc",
-						"text": "Kill [amount] enemies with a Sniper Rifle."
+						"text": "用狙击步枪杀死 [amount] 个敌人."
 					},
 					{
 						"id": "sniperKills01_title",
@@ -376,7 +376,7 @@
 					},
 					{
 						"id": "stargateFragment01_desc",
-						"text": "The fragments lay strewn in a circle on the desert sand."
+						"text": "碎片散落在沙漠的沙子上."
 					},
 					{
 						"id": "stargateFragment01_title",
@@ -384,7 +384,7 @@
 					},
 					{
 						"id": "tankLeak01_desc",
-						"text": "Lose [amount] fuel in an accident."
+						"text": "一次事件中损失 [amount] 瓶汽油."
 					},
 					{
 						"id": "tankLeak01_title",
@@ -392,11 +392,11 @@
 					},
 					{
 						"id": "tarantulaCorpse_desc",
-						"text": "They are probably nesting inside the body..."
+						"text": "他们可能在尸体里筑巢..."
 					},
 					{
 						"id": "tarantulaCorpse_title",
-						"text": "Arachnophobia"
+						"text": "蜘蛛恐惧症"
 					},
 					{
 						"id": "threeKillsInOne01_desc",
@@ -408,15 +408,15 @@
 					},
 					{
 						"id": "trashSold01_desc",
-						"text": "Collect [amount] trash items."
+						"text": "收集 [amount] 个废品."
 					},
 					{
 						"id": "trashSold01_title",
-						"text": "Trash Collector"
+						"text": "捡破烂"
 					},
 					{
 						"id": "twoKillsInOne01_desc",
-						"text": "Kill 2 enemies with one attack."
+						"text": "一次攻击杀死2个敌人."
 					},
 					{
 						"id": "twoKillsInOne01_title",
@@ -424,71 +424,71 @@
 					},
 					{
 						"id": "undeadKills01_desc",
-						"text": "Kill [amount] Undead."
+						"text": "杀死 [amount] 个不死族."
 					},
 					{
 						"id": "undeadKills01_title",
-						"text": "Exorcist I"
+						"text": "驱魔人 I"
 					},
 					{
 						"id": "undeadKills02_desc",
-						"text": "Kill [amount] Undead."
+						"text": "杀死 [amount] 个不死族."
 					},
 					{
 						"id": "undeadKills02_title",
-						"text": "Exorcist II"
+						"text": "驱魔人 II"
 					},
 					{
 						"id": "undeadKills03_desc",
-						"text": "Kill [amount] Undead."
+						"text": "杀死 [amount] 个不死族."
 					},
 					{
 						"id": "undeadKills03_title",
-						"text": "Exorcist III"
+						"text": "驱魔人 III"
 					},
 					{
 						"id": "unholyVault01_desc",
-						"text": "The single guard was not really alone in the temple."
+						"text": "圣殿里不只有一个守卫."
 					},
 					{
 						"id": "unholyVault01_title",
-						"text": "滚，你个二货"
+						"text": "滚,你个二货"
 					},
 					{
 						"id": "unlockAdventure02_desc",
-						"text": "Finish Adventure I"
+						"text": "完成冒险 I"
 					},
 					{
 						"id": "unlockAdventure02_title",
-						"text": "Adventure II"
+						"text": "冒险 II"
 					},
 					{
 						"id": "unlockAdventure03_desc",
-						"text": "Finish Adventure II"
+						"text": "完成冒险 II"
 					},
 					{
 						"id": "unlockAdventure03_title",
-						"text": "Adventure III"
+						"text": "冒险 III"
 					},
 					{
 						"id": "unlockAdventure05_desc",
-						"text": "Finish Adventure III"
+						"text": "完成冒险 III"
 					},
 					{
 						"id": "unlockAdventure05_title",
-						"text": "Adventure IV"
+						"text": "冒险 IV"
 					},
 					{
 						"id": "unlockAdventure06_desc",
-						"text": "Finish Adventure IV"
+						"text": "完成冒险 IV"
 					},
 					{
 						"id": "unlockAdventure06_title",
-						"text": "Adventure V"
+						"text": "冒险 V"
 					},
 					{
 						"id": "unlockAnnabelle_desc",
-						"text": "Kill [amount] enemies with Double Shot to unlock Annabelle."
+						"text": "用手枪双发技能杀死 [amount] 个敌人来解锁 Annabelle."
 					},
 					{
 						"id": "unlockAnnabelle_title",
@@ -496,7 +496,7 @@
 					},
 					{
 						"id": "unlockBellamy_desc",
-						"text": "Find a Disintegrator to unlock Bellamy."
+						"text": "找到一个分裂者来解锁 Bellamy."
 					},
 					{
 						"id": "unlockBellamy_title",
@@ -504,7 +504,7 @@
 					},
 					{
 						"id": "unlockBrunhilda_desc",
-						"text": "Bleed Kill [amount] enemies to unlock Brunhilda."
+						"text": "用流血技能杀死 [amount] 个敌人来解锁 Brunhilda."
 					},
 					{
 						"id": "unlockBrunhilda_title",
@@ -512,7 +512,7 @@
 					},
 					{
 						"id": "unlockDrChandra_desc",
-						"text": "Revive [amount] characters to unlock Dr Chandra."
+						"text": "救活 [amount] 个角色来解锁 Dr Chandra."
 					},
 					{
 						"id": "unlockDrChandra_title",
@@ -520,7 +520,7 @@
 					},
 					{
 						"id": "unlockFantome_desc",
-						"text": "Evade [amount] attacks to unlock Le Fantôme."
+						"text": "回避 [amount] 次攻击来解锁 Le Fantôme."
 					},
 					{
 						"id": "unlockFantome_title",
@@ -528,7 +528,7 @@
 					},
 					{
 						"id": "unlockGeorgette_desc",
-						"text": "Kill [amount] enemies with Ambush ability to unlock Georgette."
+						"text": "用埋伏技能杀死 [amount] 个敌人来解锁 Georgette."
 					},
 					{
 						"id": "unlockGeorgette_title",
@@ -536,7 +536,7 @@
 					},
 					{
 						"id": "unlockLeonora_desc",
-						"text": "Kill [amount] Nazis to unlock Leonora."
+						"text": "杀死 [amount] 个纳粹分子来解锁 Leonora."
 					},
 					{
 						"id": "unlockLeonora_title",
@@ -544,15 +544,15 @@
 					},
 					{
 						"id": "unlockRose_desc",
-						"text": "Finish any Adventure with women only to unlock Rose."
+						"text": "只用女性角色完成任意冒险来解锁 Rose."
 					},
 					{
 						"id": "unlockRose_title",
-						"text": "rose"
+						"text": "Rose"
 					},
 					{
 						"id": "unlockShani_desc",
-						"text": "Kill [amount] enemies with Melee attacks to unlock Shani."
+						"text": "近战杀死 [amount] 个敌人来解锁 Shani."
 					},
 					{
 						"id": "unlockShani_title",
@@ -560,7 +560,7 @@
 					},
 					{
 						"id": "unlockVeduti_desc",
-						"text": "Kill [amount] zombies to unlock Monsignor Veduti."
+						"text": "杀死 [amount] 个僵尸来解锁 Monsignor Veduti."
 					},
 					{
 						"id": "unlockVeduti_title",
@@ -568,11 +568,11 @@
 					},
 					{
 						"id": "watchesSold01_desc",
-						"text": "Collect [amount] watches."
+						"text": "收集 [amount] 个手表."
 					},
 					{
 						"id": "watchesSold01_title",
-						"text": "Watch Collector"
+						"text": "手表收藏家"
 					},
 					{
 						"id": "nodesTravelled01_desc",
