@@ -7822,7 +7822,7 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Intro",
-						"text": "当你进入墓地的时候,你从远处看到一块奇怪的巨石.当你靠近时,你注意到一道奇怪的光芒从黑色的巨石中散发出来.\n\n你检查了这个神秘的结构,发现在一系列锯齿状的人物旁边有一个手形的凹陷,高到胸口.[CTP]\n\n空气中有微弱的嗡嗡声,但你找不出它的来源."
+						"text": "当你进入墓地的时候,你从远处看到一块奇怪的巨石.当你靠近时,你注意到一道奇怪的光芒从黑色的巨石中散发出来.\n\n你检查了这个神秘的建筑,发现在一系列锯齿状的人物旁边有一个手形的凹陷,高到胸口.[CTP]\n\n空气中有微弱的嗡嗡声,但你找不出它的来源."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice01",
@@ -8482,15 +8482,15 @@
 					},
 					{
 						"id": "SE_Adventure03Clue01_Intro",
-						"text": "秃鹫在岩石上盘旋——在这片荒凉的荒野里,这从来不是一个好兆头! \n\n你从远处的岩石中发现了这个水坑,你拔出武器小心地靠近这个干涸的水坑. [CTP]\n\n受惊的秃鹫开始逃跑,发出不快的叫声,暴露出低级营地的场景. \n\n你看到各种不平衡战斗的迹象:被打过的木箱、被砍过的背包——以及一个穿着热带套装的男人的遗体!他的身体被多处刺伤穿孔."
+						"text": "秃鹫在岩石上盘旋--在这片荒凉的荒野里,这从来不是一个好兆头! \n\n你从远处的岩石中发现了这个水坑,你拔出武器小心地靠近这个干涸的水坑. [CTP]\n\n受惊的秃鹫开始逃跑,发出不快的叫声,暴露出低级营地的场景. \n\n你看到各种不平衡战斗的迹象:被打过的木箱、被砍过的背包--以及一个穿着热带套装的男人的遗体!他的身体被多处刺伤穿孔."
 					},
 					{
 						"id": "SE_Adventure03Clue01_Article",
-						"text": "在死者的衣袋里,你可以看到一篇折叠的报纸文章,标题是 '埃及沙漠中令人震惊的血祭', 作者是某位珀西·阿什顿:\n\n\"被毒杀、绑架和敲诈——霍尼什兄弟会的暴行在过去几周里恐吓了我们美丽的大都会!\" [CTP]\n\n\"这个秘密社会背后的邪恶势力是谁? 传言指向有影响力和威望的人,但我们不想用猜测来困扰读者.\n\n唯一可以肯定的是,霍尼什兄弟会越来越多地将其活动转移到中东,我们的警察当局会紧跟其后.”"
+						"text": "在死者的衣袋里,你可以看到一篇折叠的报纸文章,标题是 '埃及沙漠中令人震惊的血祭', 作者是某位珀西·阿什顿:\n\n\"被毒杀、绑架和敲诈--霍尼什兄弟会的暴行在过去几周里恐吓了我们美丽的大都会!\" [CTP]\n\n\"这个秘密社会背后的邪恶势力是谁? 传言指向有影响力和威望的人,但我们不想用猜测来困扰读者.\n\n唯一可以肯定的是,霍尼什兄弟会越来越多地将其活动转移到中东,我们的警察当局会紧跟其后.”"
 					},
 					{
 						"id": "SE_Adventure03Clue01_Grave",
-						"text": "你搜了死者的财物,找到了一本英国护照——被谋杀的人是珀西·阿什顿本人! \n\n当兄弟会找到他时,记者可能是在跟踪一个热门线索! \n\n你埋葬了那个人,发誓要让那些狂热分子为他的谋杀付出代价..."
+						"text": "你搜了死者的财物,找到了一本英国护照--被谋杀的人是珀西·阿什顿本人! \n\n当兄弟会找到他时,记者可能是在跟踪一个热门线索! \n\n你埋葬了那个人,发誓要让那些狂热分子为他的谋杀付出代价..."
 					},
 					{
 						"id": "SE_Adventure01Clue04_Title",
@@ -8566,7 +8566,7 @@
 					},
 					{
 						"id": "FA_TeamDied_Intro",
-						"text": "你尽了最大的努力,但最终,敌人赢了! \n\n其他人必须把莫顿从他的命运中拯救出来..."
+						"text": "你尽了最大的努力,但最终,敌人赢了! \n\n其他人必须把莫顿从他被俘虏的命运中拯救出来..."
 					},
 					{
 						"id": "SE_Adventure02MapArrival01_Title",
@@ -8594,7 +8594,7 @@
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Intro",
-						"text": "爆炸声穿过寂静——你听到了响亮、愤怒的哭声! 几分钟后,岩石间回响着枪声!\n\n你跟着噪音,看到少数邪教教徒聚集在一个洞穴入口周围.一边是燃烧着的汽车残骸. [CTP]\n\n又响了一枪 – 有人在山洞里设了路障,拼命想阻止袭击者!"
+						"text": "爆炸声穿过寂静--你听到了响亮、愤怒的哭声! 几分钟后,岩石间回响着枪声!\n\n你跟着噪音,看到少数邪教教徒聚集在一个洞穴入口周围.一边是燃烧着的汽车残骸. [CTP]\n\n又响了一枪 – 有人在山洞里设了路障,拼命想阻止袭击者!"
 					},
 					{
 						"id": "SE_Adventure03MapArrival01_Choice01",
@@ -8886,7 +8886,7 @@
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Intro",
-						"text": "你失望地看看这些倒塌的地基,这真的是 Kharga Serabit的全部遗物吗? \n\n当月亮低垂在广阔的沙漠上空的天空中时,贝都因人在长夜谈论的喷泉、游乐场和豪华宫殿是什么? [CTP]\n\nKharga Serabit只是一个几乎被遗忘的梦吗?\n\n你背对城市阴暗的废墟 注意到一个奇怪的岩石结构... [CTP]\n\n当你靠近它时,你发现三辆德国军用卡车停在半埋式隧道入口附近. \n\n看来鲁克特上尉和他的手下去了Kharga Serabit!"
+						"text": "你失望地看看这些倒塌的地基,这真的是 Kharga Serabit的全部遗物吗? \n\n当月亮低垂在广阔的沙漠上空的天空中时,贝都因人在长夜谈论的喷泉、游乐场和豪华宫殿是什么? [CTP]\n\nKharga Serabit只是一个几乎被遗忘的梦吗?\n\n你背对城市阴暗的废墟 注意到一个奇怪的岩石建筑... [CTP]\n\n当你靠近它时,你发现三辆德国军用卡车停在半埋式隧道入口附近. \n\n看来鲁克特上尉和他的手下去了Kharga Serabit!"
 					},
 					{
 						"id": "SE_Adventure05FinalFight_Cisterns",
@@ -8934,7 +8934,7 @@
 					},
 					{
 						"id": "SE_Adventure06FinalFight_Intro",
-						"text": "你终于到达目的地了 – 谢巴女王的庙墓在你面前耸立! \n\n在观察了奇怪的结构后你感觉困惑,接着你意识到: 坟墓在遥远的过去是用坚实的熔岩玄武岩雕刻成的."
+						"text": "你终于到达目的地了 – 谢巴女王的庙墓在你面前耸立! \n\n在观察了奇怪的建筑后你感觉困惑,接着你意识到: 坟墓在遥远的过去是用坚实的熔岩玄武岩雕刻成的."
 					},
 					{
 						"id": "SE_Adventure06FinalFight_TempleObservation",
@@ -8942,7 +8942,7 @@
 					},
 					{
 						"id": "SE_Adventure06FinalFight_MerkabaAppears",
-						"text": "一声呼唤穿过人群! \n\n墓穴入口处出现了一个巨大的结构: 几十名教徒将绳子系在巨大的物体上,并缓慢地将其拉入前院."
+						"text": "一声呼唤穿过人群! \n\n墓穴入口处出现了一个巨大的建筑: 几十名教徒将绳子系在巨大的物体上,并缓慢地将其拉入前院."
 					},
 					{
 						"id": "SE_Adventure06FinalFight_EnterPriestesses",
@@ -8954,7 +8954,7 @@
 					},
 					{
 						"id": "SE_Adventure06FinalFight_FinalPreparations",
-						"text": "女祭司一发信号,她的随从们就走到车辂处. 他们手中的某种东西在闪光 – 那些一定是 Valkyrium 水晶! \n\n一声响亮的嗡嗡声从结构中发出,然后地面突然在你的脚下颤动!"
+						"text": "女祭司一发信号,她的随从们就走到车辂处. 他们手中的某种东西在闪光 – 那些一定是 Valkyrium 水晶! \n\n一声响亮的嗡嗡声从建筑中发出,然后地面突然在你的脚下颤动!"
 					},
 					{
 						"id": "SE_Adventure06FinalFight_ByeByeMerkaba",
@@ -9034,75 +9034,75 @@
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Title",
-						"text": "The Amhara Highlands"
+						"text": "阿姆哈拉高地"
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Intro",
-						"text": "The Amhara Mountains form an impressive massif, surrounded by dry, desert-like landscapes. This wasteland is clearly volcanic in origin: bizarre rock formations pierce the sky like needles. [CTP]\n\nBlood-curdling, guttural shouts tear you from your thoughts. You see a small group of nomads chasing one of their number who is raving and struggling like a man possessed. \n\nWhen you reach the men, they have already seized the fugitive and are trying to placate him. One of the nomads turns to you: [CTP]\n\n[char0]: \"Last night, evil men attacked our camp! We managed to fight them off, but this unfortunate was cursed by them!\""
+						"text": "阿姆哈拉山脉是个令人印象深刻的山脉,周围是干旱、沙漠般的景观. 这片荒地源于火山: 怪异的岩层像针一样刺穿天空. [CTP]\n\n声音刺耳得毛骨悚然,让你无法思考. 你看到一小群游牧民族在追逐他们中的一个人,他像被附身一样肆虐和挣扎. \n\n当你找到那些人时,他们已经抓住了逃犯并试图安抚他. 其中一个游牧民族对你说: [CTP]\n\n[char0]: \"昨晚,邪恶的人袭击了我们的营地! 我们把他们赶走了,但这个不幸的人却被他们诅咒了!\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Choice01",
-						"text": "Perform a bloodletting"
+						"text": "放血"
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Choice02",
-						"text": "Break the curse"
+						"text": "破除诅咒"
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Choice03",
-						"text": "Those fiends..."
+						"text": "那些恶魔..."
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_MedicalF",
-						"text": "[char1] takes out his scalpel, but the frightened man starts to struggle wildly when he sees the blade. \n\n[char1] shakes his head. It’s pointless..."
+						"text": "[char1] 取出手术刀,但当受诅咒的人看到刀刃时,开始疯狂地挣扎. \n\n[char1] 摇摇头.这毫无意义..."
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_MedicalF_female",
-						"text": "[char1] takes out her scalpel, but the frightened man starts to struggle wildly when he sees the blade. \n\n[char1] shakes her head. It’s pointless..."
+						"text": "[char1] 取出手术刀,但当受诅咒的人看到刀刃时,开始疯狂地挣扎. \n\n[char1] 摇摇头.这毫无意义..."
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_MedicalW",
-						"text": "[char1] takes out his scalpel and uses it to bleed the agitated man while his comrades hold him down. Soon the man's movements weaken, and a short time later he falls asleep. [CTP]\n\n[char1] carefully bandages the cut on the man’s arm and shrugs helplessly:\n\n[char1]: \"We can only hope that sleep will restore him to his senses...\""
+						"text": "他的族人们扶住他,[char1] 取出手术刀给受诅咒的人放血.这个人很快就虚了,一会儿就睡着了. [CTP]\n\n[char1] 小心地用绷带包扎男人手臂上的伤口,无助地耸耸肩:\n\n[char1]: \"我们只能希望睡眠能让他恢复知觉...\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_MedicalW_female",
-						"text": "[char1] takes out her scalpel and uses it to bleed the agitated man while his comrades hold him down. Soon the man's movements weaken, and a short time later he falls asleep. [CTP]\n\n[char1] carefully bandages the cut on the man’s arm and shrugs helplessly:\n\n[char1]: \"We can only hope that sleep will restore him to his senses...\""
+						"text": "他的族人们扶住他,[char1] 取出手术刀给受诅咒的人放血.这个人很快就虚了,一会儿就睡着了. [CTP]\n\n[char1] 小心地用绷带包扎男人手臂上的伤口,无助地耸耸肩:\n\n[char1]: \"我们只能希望睡眠能让他恢复知觉...\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_OccultF",
-						"text": "[char2] approaches the man and starts a strange and soothing chant, but the cursed man puts his hands to his ears and starts to struggle. \n\n[char2] takes a step back and shakes his head: It’s no good..."
+						"text": "[char2] 走近那个人,开始吟诵奇怪但安抚的咒语,但是被诅咒的人用手捂住耳朵,开始挣扎. \n\n[char2] 后退一步并摇了摇头: 不好..."
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_OccultF_female",
-						"text": "[char2] approaches the man and starts a strange and soothing chant, but the cursed man puts his hands to his ears and starts to struggle. \n\n[char2] takes a step back and shakes her head: It’s no good..."
+						"text": "[char2] 走近那个人,开始吟诵奇怪但安抚的咒语,但是被诅咒的人用手捂住耳朵,开始挣扎. \n\n[char2] 后退一步并摇了摇头: 不好..."
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_OccultW",
-						"text": "[char2] approaches the man and starts a strange and soothing chant, whereupon he relaxes immediately. A short time later, the man falls asleep peacefully. \n\n[char2]: \"I did what I could. Sleep must do the rest...\""
+						"text": "[char2] 走近那个人,开始吟诵奇怪但安抚的咒语, 然后他立刻放松下来.过了一会儿,那人安详地睡着了. \n\n[char2]: \"我尽我所能.剩下的就让他睡吧...\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_OccultW_female",
-						"text": "[char2] approaches the man and starts a strange and soothing chant, whereupon he relaxes immediately. A short time later, the man falls asleep peacefully. \n\n[char2]: \"I did what I could. Sleep must do the rest...\""
+						"text": "[char2] 走近那个人,开始吟诵奇怪但安抚的咒语, 然后他立刻放松下来.过了一会儿,那人安详地睡着了. \n\n[char2]: \"我尽我所能.剩下的就让他睡吧...\""
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Rest",
-						"text": "The nomads are beside themselves with gratitude and invite you into their tents! \n\nYou share a hearty feast of spicy goat and lentil stew, which you scoop directly into your mouths with rolled up strips of flatbread. [CTP]\n\nSated after your meal, you oil your weapons and check the rest of your equipment for damage before taking leave of your hosts."
+						"text": "游牧民族怀着感激之情,邀请你到他们的帐篷里去休息! \n\n你享用了一顿丰盛的辣味山羊和小扁豆炖肉大餐,你直接用卷起的扁圆面包条将其舀到嘴里. [CTP]\n\n饭后,在离开东道主之前,你给武器上油并检查其他设备看看是否损坏."
 					},
 					{
 						"id": "SE_Adventure06MapArrival02_Leave",
-						"text": "Unfortunately, there is nothing you can do for these unfortunates. You bid farewell and move on."
+						"text": "对于这些不幸的事情,你无能为力.你告别了,继续前进."
 					},
 					{
 						"id": "SE_Adventure06Clue01_Title",
-						"text": "In ancient Aksum"
+						"text": "古阿克苏姆"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Intro",
-						"text": "The ruins of ancient Aksum rise up before you, the fallen capital of a long-forgotten kingdom. \n\nAccording to the rumors you chased down in the murky underworld of Djibouti harbor, these ruins are important to the Brotherhood’s plans – so you decided to take a look for yourselves... [CTP]\n\nWhen you notice a small group of cultists making their way towards the ruins, you quickly take cover behind some nearby boulders. \n\nEventually the cultists reach the ruins, only to vanish a short time later! [CTP]\n\nYou wait a few minutes before approaching cautiously and searching the area where you last saw the group. You soon discover a shaft leading down into the depths."
+						"text": "古阿克苏姆遗址矗立在你面前,一个早已被遗忘的王国的倒塌之都. \n\n根据你在吉布提港黑暗的地下世界里得到的传言,这些废墟对兄弟会的计划很重要 - 所以你决定自己去看看... [CTP]\n\n当你注意到一小群邪教教徒朝着废墟前进时,你快速躲到附近的一些巨石后面. \n\n邪教分子到达废墟不久之后就消失了! [CTP]\n\n你等了几分钟,然后小心靠近并搜索最后看到邪教分子的地方.你很快就发现了一条通向地底深处的竖井."
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice01",
-						"text": "Descend"
+						"text": "顺着井道往下爬"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice02",
@@ -9110,39 +9110,39 @@
 					},
 					{
 						"id": "SE_Adventure06Clue01_Enter",
-						"text": "An eerie chant echoes through the tunnels – a sprawling network of subterranean chambers lies beneath the ancient city of Aksum! \n\nThe glowing light of the torches leads you to a chamber, where a large group of cultists has gathered around an altar in the shadow of a stone idol carved from red basalt. [CTP] \n\nOff to one side, you spot a small group of terrified tribesmen huddled together in a small pen. You gasp in horror: the Brotherhood of Khonesh is preparing to make a blood sacrifice! [CTP]\n\nAs a priestess rises from her chair, the cultists begin to chant. You must act fast!"
+						"text": "隧道里回荡着一种诡异的歌声 – 在古老的阿克苏姆市下面是一个巨大的地下网络! \n\n火把的光辉将你引向一个房间,那里有一大群信徒聚集在一个祭坛周围,一个由红色玄武岩雕刻成的石像的阴影下. [CTP] \n\n你看到一群惊恐的牧民挤在一个小围栏里.你吓得喘不过气来: 霍尼什兄弟会正准备做一场血祭! [CTP]\n\n当女祭司从椅子上站起来时,邪教分子们开始唱歌.你必须快速行动!"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice03",
-						"text": "Attack the cultists"
+						"text": "攻击邪教分子"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice04",
-						"text": "Search the chamber"
+						"text": "搜索房间"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice05",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "SE_Adventure06Clue01_AfterBattle",
-						"text": "The cultists are defeated! You release the tribesmen before setting out together for the entrance. \n\nAs you make your way through the tunnels, you consider your options. Overhearing your conversation, one of the tribesmen approaches:"
+						"text": "邪教被打败了!你在准备离开前释放了牧民. \n\n当你通过隧道时,你考虑了你的选择.听到你们的谈话,其中一个部落成员走了过来:"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Clue",
-						"text": "[char1]: \"Is it the tomb of the Queen of Sheba that you seek? Our tormentors mentioned her name often. They plan to travel to the Amhara Highlands to find Markawa.\"\n\nMarkawa? That can only be the Merkabah: the Divine Chariot! You thank the man and continue your journey with a new destination – the Amhara Highlands!"
+						"text": "[char1]: \"是你寻找的谢巴女王的坟墓吗?折磨我们的人经常提到她的名字.他们计划去阿姆哈拉高地寻找马卡瓦.那只能是梅尔卡巴:神圣的战车!你谢过这个人,便继续你的旅程,准备到达一个新的目的地 – 阿姆哈拉高地!"
 					},
 					{
 						"id": "SE_Adventure06Clue01_DetectionF",
-						"text": "[char0] casts an inquisitive eye around the chamber but he fails to discover anything that might be of use. What do you want to do?"
+						"text": "[char0] 好奇地看了房间的各个角落,但他没有发现任何可能有用的东西.你想做什么?"
 					},
 					{
 						"id": "SE_Adventure06Clue01_DetectionF_female",
-						"text": "[char0] casts an inquisitive eye around the chamber but she fails to discover anything that might be of use. What do you want to do?"
+						"text": "[char0] 好奇地看了房间的各个角落,但她没有发现任何可能有用的东西.你想做什么?"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice06",
-						"text": "Ambush the cultists"
+						"text": "伏击邪教分子"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Choice07",
@@ -9150,55 +9150,55 @@
 					},
 					{
 						"id": "SE_Adventure06Clue01_DetectionW",
-						"text": "Your weapons are drawn when [char0] suddenly intervenes:\n\n[char0]: \"Wait! Do you see that hole in the wall behind the prisoners? If we can make our way to it, we should be able to free them without alerting anyone!\""
+						"text": "当你已经掏出武器时 [char0] 突然打断了你:\n\n[char0]: \"等等!你看到囚犯身后墙上的那个洞了吗?如果我们想个法子,应该能够在不惊动任何人的情况下释放他们!\""
 					},
 					{
 						"id": "SE_Adventure06Clue01_DetectionW_female",
-						"text": "Your weapons are drawn when [char0] suddenly intervenes:\n\n[char0]: \"Wait! Do you see that hole in the wall behind the prisoners? If we can make our way to it, we should be able to free them without alerting anyone!\""
+						"text": "当你已经掏出武器时 [char0] 突然打断了你:\n\n[char0]: \"等等!你看到囚犯身后墙上的那个洞了吗?如果我们想个法子,应该能够在不惊动任何人的情况下释放他们!\""
 					},
 					{
 						"id": "SE_Adventure06Clue01_FreePrisoners",
-						"text": "It’s worth a try! You search the nearby passages and soon find what you are looking for: A small passageway leading to the rear wall of the pen. \n\nYou quietly cut the herdmen’s bonds before leading them back through the narrow passageway to freedom!"
+						"text": "值得一试! 你搜索附近的通道,很快,你找到一个通向围栏后墙的小通道. \n\n你悄悄地割断了牧民的绳子,然后把他们带到通往自由的狭窄通道!"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Flee",
-						"text": "Cries of alarm fill the air – your attempt to free the prisoners has not gone unnoticed! \n\nYou race for the mineshaft that will lead you to freedom! As soon as the last of your party has exited the shaft, you cut the rope – that will slow the cultists down... [CTP]\n\nYou look around and discuss your options. Overhearing your conversation, one of the tribesmen approaches:"
+						"text": "警报的呼喊声弥漫在空气中 – 你释放囚犯的计划被发现了! \n\n你们冲向引领你们通往自由的矿井! 一旦最后一个退出了竖井,你就切断了绳索 – 这会减慢教徒们的动作... [CTP]\n\n你们四处看了看并讨论接下来的行动. 听到你们的谈话,其中一个牧民走了过来:"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Title",
-						"text": "A mountain village"
+						"text": "一个山村"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Intro",
-						"text": "Chaos reigns in the squalid village ahead of you!\n\nThe cultists of the Brotherhood of Khonesh are ransacking one hut after the next – they must be searching for something! [CTP]\n\nThere is no sign of the inhabitants. You can only presume that they fled into the mountains as soon as the cultists neared their village."
+						"text": "前方肮脏的村庄,混乱不堪!\n\n霍尼什兄弟会的教徒们正在一个接一个的洗劫小屋 – 他们一定在寻找什么! [CTP]\n\n这里没有居民的迹象.你假定居民们在他们一接近村庄时就逃到山上."
 					},
 					{
 						"id": "SE_Adventure06Clue02Choice01",
-						"text": "Creep closer"
+						"text": "缓缓摸进"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice02",
-						"text": "Assess the situation"
+						"text": "分析情况"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice03",
-						"text": "Drive around village"
+						"text": "绕开村子行驶"
 					},
 					{
 						"id": "SE_Adventure06Clue02_SneakCloserW",
-						"text": "You approach the huts carefully. Your luck holds and you remain unnoticed."
+						"text": "你小心地靠近小屋. 运气很好,你依然没有被注意到."
 					},
 					{
 						"id": "SE_Adventure06Clue02_SneakCloserF",
-						"text": "You approach the huts carefully. \n\nSuddenly, you hear a loud shout! A priestess gestures furiously in your direction – the cultists draw their weapons and race towards you!"
+						"text": "你小心地靠近小屋. \n\n突然,你听到一声响亮的叫声! 一个女祭司朝你的方向疯狂地比手势 –邪教者拔出他们的武器,向你飞奔而来!"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice04",
-						"text": "Spread out and attack"
+						"text": "分散攻击"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice05",
-						"text": "Observe the cultists"
+						"text": "观察邪教分子"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice06",
@@ -9206,31 +9206,31 @@
 					},
 					{
 						"id": "SE_Adventure06Clue02_Attack",
-						"text": "The cultists appear to be searching for supplies. Their intentions soon become clear: The raiders drag their loot to the village square and gather around the pile in a semi-circle. [CTP]\n\nAfter a few moments, a monotonous chant fills the air and the cultists enter a trance-like state – this is the perfect moment for a surprise attack!"
+						"text": "邪教似乎在寻找补给品. 很快就能知道他们的意图: 袭击者把他们的战利品拖到村里的广场上,围成一个半圆形聚集在一堆东西周围. [CTP]\n\n几分钟后,诵经般的咒语在广场回荡,邪教教徒进入一种恍惚的状态 – 这是突袭的最佳时机!"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice07",
-						"text": "Open fire!"
+						"text": "开火!"
 					},
 					{
 						"id": "SE_Adventure06Clue02_Choice08",
-						"text": "Turn back"
+						"text": "掉头"
 					},
 					{
 						"id": "SE_Adventure06Clue02_BadLuck",
-						"text": "As you return to your vehicle, [char0] loses his balance and stumbles briefly, triggering a rock-slide that hurtles down the slope towards the village below! \n\nThere is no point in hiding – you have been discovered!"
+						"text": "当你回到你的车上时, [char0] 失去了平衡,短暂的绊倒引发了一场岩石滑坡,沿着斜坡冲到下面的村庄! \n\n躲藏已经毫无意义 – 你们被发现了!"
 					},
 					{
 						"id": "SE_Adventure06Clue02_BadLuck_female",
-						"text": "As you return to your vehicle, [char0] loses her balance and stumbles briefly, triggering a rock-slide that hurtles down the slope towards the village below! \n\nThere is no point in hiding – you have been discovered!"
+						"text": "当你回到你的车上时, [char0] 失去了平衡,短暂的绊倒引发了一场岩石滑坡,沿着斜坡冲到下面的村庄! \n\n躲藏已经毫无意义 – 你们被发现了!"
 					},
 					{
 						"id": "SE_Adventure06Clue02_EbonyChest",
-						"text": "You discover a small chest made of ebony with several brass rings on each side. Two long wooden poles have been threaded through the rings so that the casket can be carried by four bearers. \n\nAfter breaking the seal, you rifle through the chest’s contents and discover a trove of books and papers belonging to the Brotherhood! [CTP]\n\nYou sift through the collection of ancient books and scrolls until a copy of an ancient Abyssinian tale catches your eye: \n\n\"Then Nagusta, the son of the Queen of Sheba, spoke thus: Is it not unjust that the Divine Chariot shall be the property of my brothers alone? Am I not also a son of King Solomon?\""
+						"text": "你发现了一个黑檀木做的小箱子,箱子两边各有几个铜环.两个长长的木杆穿过了环,这样四个抬棺材的人就可以抬棺材了. \n\n撕开封条后,你翻阅箱子里的东西,发现一堆属于兄弟会的书和文件! [CTP]\n\n你仔细阅读古书和卷轴,直到一本阿比西尼亚的古老传说吸引了你的注意: \n\n\"谢巴女王的儿子纳古斯塔这样说: 神圣的战车仅仅是我兄弟的财产,这不公平吧? 我不是所罗门王的儿子吗?\""
 					},
 					{
 						"id": "SE_Adventure06Clue02_JewelBoats",
-						"text": "\"And so Nagusta the Cunning departed his mother’s empire. With thirteen ships laden with jewels, he journeyed towards Jerusalem. He held a great feast for his brothers and gave them many gifts.\"\n\n\"But as they slept, Nagusta slipped away, carrying with him the Merkabah – the Divine Chariot – upon his shoulders.\" [CTP]\n\nShips laden with jewels? \n\nYour thoughts turn to the fabled diamond mines of King Solomon – legend has it that the mines were located somewhere within the realm of the Queen of Sheba. \n\nCould there be a kernel of truth to this ancient legend?"
+						"text": "\"于是狡猾的纳古斯塔离开了他母亲的帝国.他带着十三艘装满珠宝的船向耶路撒冷驶去.他为他的兄弟们举行了一个盛大的宴会,并给了他们许多礼物.\"\n\n\"但是当他们睡觉时,纳古斯塔溜了出去,把神圣的战车 Merkabah 扛在肩上带走了.\" [CTP]\n\n装满珠宝的船只? \n\n你的兴趣转向了传说中所罗门王的钻石矿 – 传说这些钻石矿位于谢巴女王的领地内. \n\n这个古老的传说是否有一个核心的真理呢?"
 					},
 					{
 						"id": "SE_Adventure06Clue03_Title",
@@ -9238,15 +9238,15 @@
 					},
 					{
 						"id": "SE_Adventure06Clue03_Intro",
-						"text": "As you make your way through the thorny scrub, you cross paths with a wild dog awkwardly dragging a long, misshapen object back to its den. \n\nStartled by your sudden appearance, the dog yelps and vanishes down a nearby hole in the ground. [CTP]\n\nYou cautiously approach the object dropped by the dog and recognize the badly chewed remains of a human arm!\n\nThe bracelet and scraps of cloth clinging to the arm suggest that it once belonged to a priestess of the Brotherhood of Khonesh! [CTP]\n\nA search of the vicinity reveals a small area of blood-soaked ground nearby but nothing else of significance. \n\nThe wild dogs must have dragged their victim back to their den..."
+						"text": "当你穿过荆棘丛生的灌木丛时,你穿过小路,看见一只野狗笨拙地把一个又长又畸形的物体拖回它的窝里. \n\n由于你的突然出现,狗尖叫着消失在附近的一个洞里. [CTP]\n\n你小心地接近被狗扔下的物体,并认出这是被严重咀嚼的人类手臂残骸!\n\n手镯和粘在手臂上的布条表明它曾经是霍尼什兄弟会的女祭司! [CTP]\n\n在附近地区搜索时发现有一小块地浸透了血,但没有了其他迹象. \n\n野狗一定是把受害者拖回了他们的巢穴..."
 					},
 					{
 						"id": "SE_Adventure06Clue03_Choice01",
-						"text": "Drive dogs away by shouting"
+						"text": "用喊叫声赶走狗"
 					},
 					{
 						"id": "SE_Adventure06Clue03_Choice02",
-						"text": "Approach the dogs’ den"
+						"text": "接近狗窝"
 					},
 					{
 						"id": "SE_Adventure06Clue03_Choice03",
@@ -9254,43 +9254,43 @@
 					},
 					{
 						"id": "SE_Adventure06Clue03_ShooDogsF",
-						"text": "You shout and wave your arms wildly in the air but the dogs refuse to leave their den and growl at you fiercely. \n\nYou continue your efforts for several more minutes before admitting defeat and setting forth your journey."
+						"text": "你狂呼并挥动手臂,但狗拒绝离开它们的巢穴,并对你咆哮. \n\n在驱赶失败继续旅程之前,你又努力尝试了几分钟."
 					},
 					{
 						"id": "SE_Adventure06Clue03_ShooDogsW",
-						"text": "You shout and wave your arms wildly in the air at the entrance to the den. Fearful of your intentions, the dogs flee their burrow and watch you from a safe distance. \n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. [CTP]\n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char0] finally succeeds."
+						"text": "你在狗窝入口处大声喊叫并挥动你的手臂. 受到你的惊吓,狗逃出了洞穴并在安全的距离观察你. \n\n你爬下来窥视狗洞,发现了一个教徒残缺不全的遗体.她身边挂着一个破旧皮包. [CTP]\n\n[char0] 多次用长木棍从狗洞取出皮包,最后终于成功了."
 					},
 					{
 						"id": "SE_Adventure06Clue03_ShooDogsW_female",
-						"text": "You shout and wave your arms wildly in the air at the entrance to the den. Fearful of your intentions, the dogs flee their burrow and watch you from a safe distance. \n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. [CTP]\n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char0] finally succeeds."
+						"text": "你在狗窝入口处大声喊叫并挥动你的手臂. 受到你的惊吓,狗逃出了洞穴并在安全的距离观察你. \n\n你爬下来窥视狗洞,发现了一个教徒残缺不全的遗体.她身边挂着一个破旧皮包. [CTP]\n\n[char0] 多次用长木棍从狗洞取出皮包,最后终于成功了."
 					},
 					{
 						"id": "SE_Adventure06Clue03_Ezekiel",
-						"text": "Filled with curiosity, you rifle through the satchel. Wild dogs and weather have left its contents ragged and torn. Among the surviving papers, you find a passage by the prophet Ezekiel, in which he describes the Merkabah, or Divine Chariot: [CTP]\n\n\"And I looked, and, behold, a Whirlwind came from the North at Midnight, a great Cloud of Fire folding in upon itself, and a Brightness was about it. And it was the Color of Fiery Coals, burning brightly like Torches, and out of its midst shot Bolts of Lightning.\" [CTP]\n\n\"And I heard the Sound of many Waters, like the Sound of the Almighty, a Sound of Tumult such as that of a mighty Host. And when I saw it, I fell upon my Face and covered my Eyes that I might not see.\""
+						"text": "你充满好奇地翻开书包. 野狗的撕扯和恶劣天气使里面的东西破烂不堪.在现存的文件中,你可以看到先知以西结的一段文字,他在文中描述了Merkabah,或者说是神的战车: [CTP]\n\n\"我看了看,看哪,午夜时分,一股旋风从北方吹来,一团巨大的火云卷在它身上,周围有光明.它是火炭的颜色,像火把一样燃烧着,从它中间射出一道道闪电.\" [CTP]\n\n\"我听见许多水的声音,像全能者的声音,像万军的声音,像喧哗的声音.当我看到它的时候,我倒在我的脸上,遮住了我的眼睛,让我看不见.\""
 					},
 					{
 						"id": "SE_Adventure06Clue03_Wilderness",
-						"text": "[char1] glances about before disappearing into the scrub. He returns soon after with some dry twigs and palm fronds, which he places at the entrance to the dogs’ den. \n\nLighting a small fire, he begins to feed it with green leaves."
+						"text": "[char1] 四处张望,消失在灌木丛中之前.不久之后,他带着一些干树枝和棕榈叶回来,放在狗窝的入口. \n\n他点燃一团小火,开始用叶子给它助燃."
 					},
 					{
 						"id": "SE_Adventure06Clue03_Wilderness_female",
-						"text": "[char1] glances about before disappearing into the scrub. She returns soon after with some dry twigs and palm fronds, which she places at the entrance to the dogs’ den. \n\nLighting a small fire, she begins to feed it with green leaves."
+						"text": "[char1] 四处张望,消失在灌木丛中之前.不久之后,她带着一些干树枝和棕榈叶回来,放在狗窝的入口. \n\n她点燃一团小火,开始用叶子给它助燃."
 					},
 					{
 						"id": "SE_Adventure06Clue03_WildernessW",
-						"text": "A gust of wind blows the acrid smoke deep into the dogs’ den. Smoke billows from the ground around you as it is forced out through the den’s numerous smaller exits, reminding you for a moment of some strange volcanic landscape. \n\nWithin seconds, the dogs begin to yelp and flee the den in panic with their tails tucked between their legs! [CTP]\n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. \n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char1] finally succeeds."
+						"text": "一阵风把辛辣的烟吹进狗窝里.烟雾从你周围的地面上翻滚而出,通过狗洞无数的小出口,这让你想起一些奇怪的火山景观. \n\n几秒钟后,狗开始尖叫,慌乱地从窝里跑出来,尾巴夹在腿中间! [CTP]\n\n你爬下来窥视狗洞,发现了一个教徒残缺不全的遗体.她身边挂着一个破旧皮包. \n\n[char1] 多次用长木棍从狗洞取出皮包,最后终于成功了."
 					},
 					{
 						"id": "SE_Adventure06Clue03_WildernessW_female",
-						"text": "A gust of wind blows the acrid smoke deep into the dogs’ den. Smoke billows from the ground around you as it is forced out through the den’s numerous smaller exits, reminding you for a moment of some strange volcanic landscape. \n\nWithin seconds, the dogs begin to yelp and flee the den in panic with their tails tucked between their legs! [CTP]\n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. \n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char1] finally succeeds."
+						"text": "一阵风把辛辣的烟吹进狗窝里.烟雾从你周围的地面上翻滚而出,通过狗洞无数的小出口,这让你想起一些奇怪的火山景观. \n\n几秒钟后,狗开始尖叫,慌乱地从窝里跑出来,尾巴夹在腿中间! [CTP]\n\n你爬下来窥视狗洞,发现了一个教徒残缺不全的遗体.她身边挂着一个破旧皮包. \n\n[char1] 多次用长木棍从狗洞取出皮包,最后终于成功了."
 					},
 					{
 						"id": "SE_Adventure06Clue03_WildernessF",
-						"text": "Unfortunately [char1] didn’t reckon with the wind – as a thick cloud of smoke rises from the fire, a sudden gust of wind blows the smoke in your direction! Gasping for air, you scramble away from the den. \n\nYou hang back for a few minutes, but the wind does not change direction. Disappointed at your failure, you trample out the fire and set off again."
+						"text": "很不幸,[char1] 没有考虑到风向 – 当一团浓烟从火中升起时,一阵风突然把烟吹向你的方向! 你喘着粗气,从狗洞上爬了起来. \n\n你往后退等了几分钟,但风没有改变方向.你对自己的失败感到很失望,于是你踏灭火堆,重新出发了."
 					},
 					{
 						"id": "SE_Adventure06Clue03_WildernessF_female",
-						"text": "Unfortunately [char1] didn’t reckon with the wind – as a thick cloud of smoke rises from the fire, a sudden gust of wind blows the smoke in your direction! Gasping for air, you scramble away from the den. \n\nYou hang back for a few minutes, but the wind does not change direction. Disappointed at your failure, you trample out the fire and set off again."
+						"text": "很不幸,[char1] 没有考虑到风向 – 当一团浓烟从火中升起时,一阵风突然把烟吹向你的方向! 你喘着粗气,从狗洞上爬了起来. \n\n你往后退等了几分钟,但风没有改变方向.你对自己的失败感到很失望,于是你踏灭火堆,重新出发了."
 					},
 					{
 						"id": "SE_Adventure06Clue04_Title",
@@ -9298,63 +9298,63 @@
 					},
 					{
 						"id": "SE_Adventure06Clue04_Intro",
-						"text": "The goatherd you encounter in this barren mountain range tells you of a mysterious group of travelers he observed from afar.\n\n[char0]: \"The strangers were on their way to the old ruins. Once there was a mighty fortress there, but today only the foundations remain.\" [CTP]\n\n[char0]: \"Surely you will find them in the tunnels under the ruins. I know secret ways into the caverns – if you wish, I can guide you there.\"\n\nYou follow the herdsman into the belly of the ruined complex – could this be a former outpost of the Queen of Sheba’s empire?"
+						"text": "你在这个贫瘠的山脉中遇到的牧羊人告诉你,他从远处看到了一群神秘的旅行者.\n\n[char0]: \"陌生人正在前往古老的废墟的路上.曾经有一个强大的堡垒,但今天只剩下地基了.\" [CTP]\n\n[char0]: \"你会在废墟下方的通道里发现他们. 我知道通往洞穴的秘密通道 – 如果你愿意的话,我可以指引你去那里.\"\n\n你跟着牧民进入废墟的腹地 – 这会是谢巴女王帝国的前哨吗?"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Betrayed",
-						"text": "[char1] slowly opens the massive stone door, bathing you in the flickering light of several torches within. \n\nYou gasp in astonishment: It is true! The cultists really do have a base down here... [CTP]\n\n[char1] clicks his tongue loudly three times and the cultists turn in your direction. Their eyes betray no surprise...\n\n[char1]: \"Here! I bring you the infidels!\" [CTP]\n\nWith these words, the traitorous herdsman slips away, slamming the heavy door closed at your backs! You are trapped! \n\nA priestess rises slowly and gestures in your direction with a sneer..."
+						"text": "[char1] 慢慢打开巨大的石门,沐浴在几把火把闪烁的灯光中. \n\n你惊讶地喘着气: 还真的是! 邪教分子确实在这里有基地... [CTP]\n\n[char1] 大声地咂了三下他的舌头,邪教者朝你的方向转去.他们的眼神丝毫不感到奇怪...\n\n[char1]: \"这里! 我带你去见了异教徒!\" [CTP]\n\n说完这些话,背叛你的牧民就溜走了,走前砰的一声关上了沉重的门! 你中计了! \n\n一位女祭司缓缓起立,朝你的方向比手势,露出诡异的笑..."
 					},
 					{
 						"id": "SE_Adventure06Clue04_Choice01",
-						"text": "Draw your weapons"
+						"text": "掏出武器"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Choice02",
-						"text": "Improvise"
+						"text": "即兴表演"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Daredevil",
-						"text": "Suddenly, appearing as if from nowhere, [char2] rises up behind the priestess ! He pins the priestess’s arm against her back and holds a knife to her throat!\n\n[char2]: \"Let’s not do anything rash now!\""
+						"text": "突然, [char2] 不知从哪里冒出来并在女祭司身后站起身! 他把女祭司的胳膊靠在她的背上,用刀抵住她的喉咙!\n\n[char2]: \"我们现在不要做任何鲁莽的事!\""
 					},
 					{
 						"id": "SE_Adventure06Clue04_Daredevil_female",
-						"text": "Suddenly, appearing as if from nowhere, [char2] rises up behind the priestess ! She pins the priestess’s arm against her back and holds a knife to her throat!\n\n[char2]: \"Let’s not do anything rash now!\""
+						"text": "突然, [char2] 不知从哪里冒出来并在女祭司身后站起身! 她把女祭司的胳膊靠在她的背上,用刀抵住她的喉咙!\n\n[char2]: \"我们现在不要做任何鲁莽的事!\""
 					},
 					{
 						"id": "SE_Adventure06Clue04_DaredevilF",
-						"text": "While [char2] keeps the mob at bay, you desperately search for some way to lever open the stone door behind you. \n\nSuddenly, you hear a loud cry: The priestess has bitten [char2] on the wrist and torn herself free! Seconds later, the cultists surge forward and attack you!"
+						"text": "当 [char2] 阻止暴徒时,你绝望地寻找某种方法来撬开身后的石门. \n\n突然,你听到一声巨响: 女祭司咬伤 [char2] 的手腕并把自己撕开了! 几秒钟后,邪教分子冲上来攻击你!"
 					},
 					{
 						"id": "SE_Adventure06Clue04_DaredevilF_female",
-						"text": "While [char2] keeps the mob at bay, you desperately search for some way to lever open the stone door behind you. \n\nSuddenly, you hear a loud cry: The priestess has bitten [char2] on the wrist and torn herself free! Seconds later, the cultists surge forward and attack you!"
+						"text": "当 [char2] 阻止暴徒时,你绝望地寻找某种方法来撬开身后的石门. \n\n突然,你听到一声巨响: 女祭司咬伤 [char2] 的手腕并把自己撕开了! 几秒钟后,邪教分子冲上来攻击你!"
 					},
 					{
 						"id": "SE_Adventure06Clue04_DaredevilW",
-						"text": "While [char2] keeps the mob at bay, you search in desperation for some way to lever open the stone door behind you. \n\nThere! You hear a click as you press your fingers against a small depression in the wall! \n\nThe door swings open silently. [CTP]\n\nYou hear an astonished outcry and the echoes of frantic footsteps as [char1] flees in terror. \n\nThe next moment, [char2] hurls the priestess into the hostile crowd - you run as fast as you can, with the knife-wielding mob hard on your heels!"
+						"text": "当 [char2] 阻止暴徒时,你绝望地寻找某种方法来撬开身后的石门. \n\n那儿! 当你把手指按在墙上的一个小凹陷处时,你听到了咔哒声! \n\n门静静地打开. [CTP]\n\n当 [char1] 惊恐地逃离时,你听到惊心的呐喊和疯狂的脚步声传来的回声. \n\n下一刻, [char2]把女祭司扔到敌对的人群中 - 你尽可能快地跑,挥舞着刀的暴徒在后面穷追不舍!"
 					},
 					{
 						"id": "SE_Adventure06Clue04_DaredevilW_female",
-						"text": "While [char2] keeps the mob at bay, you search in desperation for some way to lever open the stone door behind you. \n\nThere! You hear a click as you press your fingers against a small depression in the wall! \n\nThe door swings open silently. [CTP]\n\nYou hear an astonished outcry and the echoes of frantic footsteps as [char1] flees in terror. \n\nThe next moment, [char2] hurls the priestess into the hostile crowd - you run as fast as you can, with the knife-wielding mob hard on your heels!"
+						"text": "当 [char2] 阻止暴徒时,你绝望地寻找某种方法来撬开身后的石门. \n\n那儿! 当你把手指按在墙上的一个小凹陷处时,你听到了咔哒声! \n\n门静静地打开. [CTP]\n\n当 [char1] 惊恐地逃离时,你听到惊心的呐喊和疯狂的脚步声传来的回声. \n\n下一刻, [char2]把女祭司扔到敌对的人群中 - 你尽可能快地跑,挥舞着刀的暴徒在后面穷追不舍!"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Flee",
-						"text": "After a desperate flight you finally reach the open air. \n\nYou dive into your jeep and step on the accelerator before the cultists can seize you!"
+						"text": "绝望的逃离之后,你们终于到达了废墟外面. \n\n你在邪教分子抓住你之前跳上吉普车,踩下油门飞驰而去!"
 					},
 					{
 						"id": "SE_Adventure06Clue04_Examine",
-						"text": "Minutes later, [char2] notices he is clutching a richly embroidered bag. \n\nHe must have torn it from the priestess in the melee! As you rifle through its exotic contents for any clues, you find a strange letter that was originally dispatched in Paris."
+						"text": "几分钟后, [char2] 发现他手里拿着一个绣得很华丽的包. \n\n一定是在混战中把它从女祭司身上撕下来的!当你翻阅它寻找任何有用的线索时,你发现一封在巴黎寄出的奇怪的信."
 					},
 					{
 						"id": "SE_Adventure06Clue04_Examine_female",
-						"text": "Minutes later, [char2] notices she is clutching a richly embroidered bag. \n\nShe must have torn it from the priestess in the melee! As you rifle through its exotic contents for any clues, you find a strange letter that was originally dispatched in Paris."
+						"text": "几分钟后, [char2] 发现她手里拿着一个绣得很华丽的包. \n\n一定是在混战中把它从女祭司身上撕下来的!当你翻阅它寻找任何有用的线索时,你发现一封在巴黎寄出的奇怪的信."
 					},
 					{
 						"id": "SE_Adventure06Clue04_Aftermath",
-						"text": "When you search the priestess, you discover a richly embroidered bag slung over her shoulder. You rifle through its exotic contents in search of clues and find a strange letter that was originally dispatched in Paris."
+						"text": "当你搜索女祭司的尸体时,你发现她肩上挂着一个绣得很华丽的包.当你翻阅它寻找任何有用的线索时,你发现一封在巴黎寄出的奇怪的信."
 					},
 					{
 						"id": "SE_Adventure06Clue04_Conspiracy",
-						"text": "\"Beloved Sisters!\n\nThe rumors are true. Our brothers and sisters in Moscow have failed to complete their mission! No doubt the Politburo will soon hold a show trial under some trumped up charges.\" [CTP]\n\n\"The High Lodge is unable to intervene, but our time will come!\n\nThis latest development, together with our retreat from London, represents a considerable setback but not a catastrophe.\n\nDo not despair!\" [CTP]\n\n\"Our chapters in New York and San Francisco are now well established and we have made significant progress in Berlin: with each day the completion of our Great Work draws closer!\""
+						"text": "\"亲爱的姐妹们!\n\n谣言是真的.我们在莫斯科的兄弟姐妹没有完成他们的使命! 毫无疑问,政治局将很快在一些捏造的指控下举行一场审判.\" [CTP]\n\n\"High Lodge无法干预, 但我们的时代要来临了!\n\n这一最新进展,加上我们从伦敦撤退,代表着相当大的失败,但还不算灾难.\n\n不要绝望!\" [CTP]\n\n\"我们在纽约和旧金山的章节已经建立得相当完善,在柏林也取得了重大进展: 我们伟大的目标会越来越近!\""
 					},
 					{
 						"id": "FE_Nothing01_Title",
@@ -9370,7 +9370,7 @@
 					},
 					{
 						"id": "FE_Nothing01_Intro",
-						"text": "There is nothing of interest here."
+						"text": "鸟不拉屎的地方."
 					},
 					{
 						"id": "FE_NothingAmmoLoot01_Title",
@@ -9402,11 +9402,11 @@
 					},
 					{
 						"id": "CU_Fenrir01_Intro",
-						"text": "Head bowed, you stare silently ahead of you. When you finally sit down exhausted, you feel totally drained. \n\nSo tired... [CTP]\n\nYou look up at the sound of soft paws in the desert sands. \n\nEmerging from between the rocks you spot a German shepherd dog. Instinctively you reach for your weapon, but the animal appears to be alone, just like you. \n\nHesitantly, the black dog trots towards you and sniffs at you suspiciously."
+						"text": "你低下头静静地盯着前方.当你最后精疲力竭地坐下来时,你感觉仿佛身体被掏空. \n\n太累了... [CTP]\n\n你听见柔软的爪子刨沙的声音,你抬头一看. \n\n你从岩石之间看到一只德国牧羊犬.你本能地伸手去拿武器,但动物似乎和你一样孤独. \n\n黑狗心不在焉地朝你跑来,怀疑地嗅着你."
 					},
 					{
 						"id": "CU_Fenrir01_BFF",
-						"text": "As you scratch at his neck, you find a German dog tag:\n\n[char0]: \"Fenris, huh? Did they treat you badly, you little deserter?\"\n\nThe dog yaps eagerly, as if in agreement. He then pants excitedly and wags his tail. [CTP]\n\nA wave of confidence flows through you. \n\nYou get in the car and pat encouragingly on the passenger seat.\n\n[char0]: \"Come on, boy! We’ve got work to do...\""
+						"text": "当你挠它的脖子时,你发现一个德国狗牌:\n\n[char0]: \"Fenris, 哈? 他们对你不好吗,你这个逃兵?\"\n\n这只狗狂吠着,好像同意了什么.然后它兴奋地哈气,摇着尾巴. [CTP]\n\n你的心里突然涌现了一股自信. \n\n你坐上车,鼓舞人心地拍拍乘客座椅.\n\n[char0]: \"来吧,孩子!我们还有工作要做...\""
 					},
 					{
 						"id": "CU_SnowWhite01_Title",
@@ -9414,11 +9414,11 @@
 					},
 					{
 						"id": "CU_SnowWhite01_Intro",
-						"text": "You sit down in the sand, exhausted. \n\nProfound despair rises slowly from deep within you. \n\nCould this be the end of your journey? [CTP]\n\nA fleeting movement at the edge of your field of vision shakes you from your gloomy thoughts. \n\nYou look up and see a snow-white wolfhound peering at you from the shadows of the rocks."
+						"text": "你坐在沙地上,筋疲力尽. \n\n你的内心感到深深的绝望. \n\n这就是你旅程的终点了吗? [CTP]\n\n在你视野的边缘稍纵即逝的一个影子使你从阴郁的思绪中脱离出来. \n\n你抬头看到一只雪白的猎狼犬从岩石的阴影中凝视着你."
 					},
 					{
 						"id": "CU_SnowWhite01_BFF",
-						"text": "You carefully reach into your breast pocket and fish out the rock-hard donut you had been saving for a special occasion. \n\nThe shy creature hesitates first, but then creeps forward suspiciously. [CTP] \n\nWith ravenous hunger, it devours the donut and licks your hands clean with its rough tongue. You feel your will to live returning as the animal nuzzles at you. [CTP]\n\nYou open the passenger door and wave the dog in:\n\n[char0]: \"Donut, I think this might be the beginning of a beautiful friendship...\""
+						"text": "你小心地把手伸进你的胸袋,掏出你在特殊场合保存下来的硬石甜甜圈. \n\n害羞的生物先是犹豫了一会儿,然后可疑地向前爬. [CTP] \n\n它饿得要命,吞食着甜甜圈,吃完后用粗糙的舌头舔干净你的手.当狗向你扑来时,你感觉到活下去的希望. [CTP]\n\n你打开副驾门,向狗招手唤它上来:\n\n[char0]: \"甜甜圈,这可能是一段美好友谊的开始...\""
 					},
 					{
 						"id": "FA_FenrirDied01_Title",
@@ -9426,11 +9426,11 @@
 					},
 					{
 						"id": "FA_FenrirDied01_Intro",
-						"text": "Shaking your head, you stand by the grave you just dug for your four-legged friend – it all seems so pointless...\n\nDon't people usually say a prayer at times like these? \n\nYou rack your heat-addled brains for something fitting but nothing comes to you."
+						"text": "你摇了摇头, 站在刚为四腿朋友挖的坟墓旁 – 这一切似乎毫无意义...\n\n人们通常不都会在这样的时候祈祷吗? \n\n你绞尽脑汁想找些合适的词,但却什么也没想到."
 					},
 					{
 						"id": "FA_FenrirDied01_CryNow",
-						"text": "In the end, you improvise: \n\n[char0]: \"Fenris was a loyal companion.\"\n\nNo, that's not good enough! You clear your throat and start again:\n\n[char0]: \"Fenris was a true friend. He died as he lived: free and proud. We will miss him forever.\" [CTP]\n\nWe? \n\nTormented, you laugh. Who are you kidding out here in this wasteland? \n\nForgotten and alone, your journey ends here..."
+						"text": "最后,你即兴发挥了一下: \n\n[char0]: \"Fenris 是一个忠诚的伙伴.\"\n\n不,这还不够好! 你清了清嗓子,然后又开始说:\n\n[char0]: \"Fenris 是个真正的朋友.它活在我的心中: 自由又骄傲. 我们会永远想念他的.\" [CTP]\n\n我们? \n\n你带着痛苦笑了笑. 你在这个荒地里开什么玩笑? \n\n孤单一人,被人遗忘,你的旅程到此结束..."
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Title",
@@ -9438,11 +9438,11 @@
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Intro",
-						"text": "[char0]: \"Donut, old girl! Come on, we need to get going!\"\n\nBut Donut doesn't move; the animal lies on its side, panting. \n\nThe helpless look in her gentle eyes shakes you to the core. [CTP]\n\nYou look away and feverishly scour your pockets for something to eat. \n\nThere! An old ship's biscuit!"
+						"text": "[char0]: \"甜甜圈,老姑娘! 快点,我们得走了!\"\n\n但是甜甜圈不动; 狗躺在一边喘着粗气. \n\n她温柔的眼睛里无助的眼神让你动摇了. [CTP]\n\n你看向别处,疯狂地在口袋里找吃的东西. \n\n看哪! 一个旧船形饼干!"
 					},
 					{
 						"id": "FA_SnowWhiteDied01_CryNow",
-						"text": "But you look up again into Donut's lifeless gaze and something breaks inside you. \n\nYou struggle to maintain your composure, but there's no denying it: Your journey together has come to an end. \n\nIt’s time to admit defeat..."
+						"text": "但是当你再次抬头看到甜甜圈死气沉沉的凝视,你内心的某种东西就破裂了. \n\n你努力保持镇静,但不可否认: 你们一起的旅程已经结束. \n\n是时候承认失败..."
 					},
 					{
 						"id": "FA_AloneRescue01_Title",
@@ -9450,7 +9450,7 @@
 					},
 					{
 						"id": "FA_AloneRescue01_Intro",
-						"text": "You squat helplessly in the sand next to your jeep and stare into the distance.\n\nYou scan the endless horizon, then shake your head: No, you are the only human being for many miles. [CTP]\n\nContinuing your journey alone through this desolate wilderness would be your certain end!\n\nYou sigh.\n\nMaybe this is a good time to see how your radio has weathered the rigors of the journey..."
+						"text": "你无可奈何地蹲在吉普车旁边的沙地上,凝视远方.\n\n你扫视无边无际的地平线,然后摇摇头: 不,你是方圆几里内唯一的人类. [CTP]\n\n独自穿越这片荒芜的荒野将是你的最终目标!\n\n你发出了叹息.\n\n也许现在是看看你的收音机能否经受住旅途的严峻考验的时候..."
 					},
 					{
 						"id": "FA_TeamDied01_Title",
@@ -9458,7 +9458,7 @@
 					},
 					{
 						"id": "FA_TeamDied01_Intro",
-						"text": "You did your best, but in the end, the enemy won! \n\nSomebody else will have to save Morten from his fate..."
+						"text": "你尽了最大的努力,但最终,敌人赢了! \n\n其他人必须把莫顿从他被俘虏的命运中拯救出来..."
 					},
 					{
 						"id": "FA_TeamDied02_Title",
@@ -9466,7 +9466,7 @@
 					},
 					{
 						"id": "FA_TeamDied02_Intro",
-						"text": "You did your best, but in this race there is no second place!\n\nHopefully someone else can prevent The Wrath of God from falling into the hands of the Nazis..."
+						"text": "你已经尽力了,但是在这次比赛中没有第二名!\n\n希望有别人能阻止神之愤怒落入纳粹手中..."
 					},
 					{
 						"id": "FA_TeamDied03_Title",
@@ -9474,7 +9474,7 @@
 					},
 					{
 						"id": "FA_TeamDied03_Intro",
-						"text": "Unfortunately, you did not manage to thwart the Brotherhood's blasphemous plans!\n\nWho can prevent the return of the Black Pharaoh now? You do not know..."
+						"text": "不幸的是,你没有设法阻止兄弟会亵渎神明的计划!\n\n现在有什么能阻止黑法老的回归呢? 你不知道..."
 					},
 					{
 						"id": "FA_TeamDied04_Title",
@@ -9482,7 +9482,7 @@
 					},
 					{
 						"id": "FA_TeamDied04_Intro",
-						"text": "You fought to the bitter end, but you lost!\n\nPerhaps somebody else will look into the secrets of the German expedition to the holy Mount Sinai..."
+						"text": "你奋斗到了最后,但你输了!\n\n也许其他人会调查德国远征圣西奈山的秘密..."
 					},
 					{
 						"id": "FA_TeamDied05_Title",
@@ -9490,7 +9490,7 @@
 					},
 					{
 						"id": "FA_TeamDied05_Intro",
-						"text": "You did your best, but you were unable to solve the mystery of Kharga Serabit!\n\nFabulous images of the magnificent desert city are the last thing that passes through your mind as you sink, exhausted, into the sand..."
+						"text": "你尽了最大的努力,却无法解开 Kharga Serabit之谜!\n\n当你精疲力竭,倒在沙中,你脑海中最后一件事是壮丽的沙漠城市景观..."
 					},
 					{
 						"id": "FA_TeamDied06_Title",
@@ -9498,71 +9498,71 @@
 					},
 					{
 						"id": "FA_TeamDied06_Intro",
-						"text": "Everything blurs before your eyes. The Divine Chariot, the Queen of Sheba - was any of it true, or have you been chasing the imaginings of a fever dream all this time?\n\nDream or reality - your journey ends here..."
+						"text": "一切都在你眼前模糊. 神圣战车,谢巴女王 - 这是真的吗, 还是你一直在追逐发烧梦的想象?\n\n梦境或现实 - 你的旅程到此结束..."
 					},
 					{
 						"id": "FA_Generic_Choice1",
-						"text": "Continue"
+						"text": "继续"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_FreeChar",
-						"text": "You release the prisoner from his bonds and he shakes your hands effusively. \n\n[char3]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char3]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+						"text": "你把犯人从束缚中释放出来,他热情地和你握手. \n\n[char3]: \"从心底感谢你!没有你,事情会很糟的!\" [CTP] \n\n[char3]: \"嘿 – 你看起来需要一些帮助... 我想你没有地方坐另一个乘客了吧?\""
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_FreeChar_female",
-						"text": "You release the prisoner from her bonds and she shakes your hands effusively. \n\n[char3]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char3]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+						"text": "你把犯人从束缚中释放出来,她热情地和你握手. \n\n[char3]: \"从心底感谢你!没有你,事情会很糟的!\" [CTP] \n\n[char3]: \"嘿 – 你看起来需要一些帮助... 我想你没有地方坐另一个乘客了吧?\""
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_CU_FreeChar",
-						"text": "You release the prisoner from his bonds and he shakes your hands effusively. \n\n[char2]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char2]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+						"text": "你把犯人从束缚中释放出来,他热情地和你握手. \n\n[char2]: \"从心底感谢你!没有你,事情会很糟的!\" [CTP] \n\n[char2]: \"嘿 – 你看起来需要一些帮助... 我想你没有地方坐另一个乘客了吧?\""
 					},
 					{
 						"id": "CU_NaziExcavationPrisoner01_CU_FreeChar_female",
-						"text": "You release the prisoner from her bonds and she shakes your hands effusively. \n\n[char2]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char2]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+						"text": "你把犯人从束缚中释放出来,她热情地和你握手. \n\n[char2]: \"从心底感谢你!没有你,事情会很糟的!\" [CTP] \n\n[char2]: \"嘿 – 你看起来需要一些帮助... 我想你没有地方坐另一个乘客了吧?\""
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_FreeChar",
-						"text": "You release the prisoner from his bonds and he shakes your hands effusively. \n\n[char1]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char1]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+						"text": "你把犯人从束缚中释放出来,他热情地和你握手. \n\n[char1]: \"从心底感谢你!没有你,事情会很糟的!\" [CTP] \n\n[char1]: \"嘿 – 你看起来需要一些帮助... 我想你没有地方坐另一个乘客了吧?\""
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_FreeChar_female",
-						"text": "You release the prisoner from her bonds and she shakes your hands effusively. \n\n[char1]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char1]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+						"text": "你把犯人从束缚中释放出来,她热情地和你握手. \n\n[char1]: \"从心底感谢你!没有你,事情会很糟的!\" [CTP] \n\n[char1]: \"嘿 – 你看起来需要一些帮助... 我想你没有地方坐另一个乘客了吧?\""
 					},
 					{
 						"id": "CU_Fenrir01_Intro_female",
-						"text": "Head bowed, you stare silently ahead of you. When you finally sit down exhausted, you feel totally drained. \n\nSo tired... [CTP]\n\nYou look up at the sound of soft paws in the desert sands. \n\nEmerging from between the rocks you spot a German shepherd dog. Instinctively you reach for your weapon, but the animal appears to be alone, just like you. \n\nHesitantly, the black dog trots towards you and sniffs at you suspiciously."
+						"text": "你低下头静静地盯着前方.当你最后精疲力竭地坐下来时,你感觉仿佛身体被掏空. \n\n太累了... [CTP]\n\n你听见柔软的爪子刨沙的声音,你抬头一看. \n\n你从岩石之间看到一只德国牧羊犬.你本能地伸手去拿武器,但动物似乎和你一样孤独. \n\n黑狗心不在焉地朝你跑来,怀疑地嗅着你."
 					},
 					{
 						"id": "CU_Fenrir01_BFF_female",
-						"text": "As you scratch at his neck, you find a German dog tag:\n\n[char0]: \"Fenris, huh? Did they treat you badly, you little deserter?\"\n\nThe dog yaps eagerly, as if in agreement. He then pants excitedly and wags his tail. [CTP]\n\nA wave of confidence flows through you. \n\nYou get in the car and pat encouragingly on the passenger seat.\n\n[char0]: \"Come on, boy! We’ve got work to do...\""
+						"text": "当你挠它的脖子时,你发现一个德国狗牌:\n\n[char0]: \"Fenris, 哈? 他们对你不好吗,你这个逃兵?\"\n\n这只狗狂吠着,好像同意了什么.然后它兴奋地哈气,摇着尾巴. [CTP]\n\n你的心里突然涌现了一股自信. \n\n你坐上车,鼓舞人心地拍拍乘客座椅.\n\n[char0]: \"来吧,孩子!我们还有工作要做...\""
 					},
 					{
 						"id": "CU_SnowWhite01_Intro_female",
-						"text": "You sit down in the sand, exhausted.\n \nProfound despair rises slowly from deep within you. \n\nCould this be the end of your journey? [CTP]\n\nA fleeting movement at the edge of your field of vision shakes you from your gloomy thoughts. \n\nYou look up and see a snow-white wolfhound peering at you from the shadows of the rocks."
+						"text": "你坐在沙地上,筋疲力尽. \n\n你的内心感到深深的绝望. \n\n这就是你旅程的终点了吗? [CTP]\n\n在你视野的边缘稍纵即逝的一个影子使你从阴郁的思绪中脱离出来. \n\n你抬头看到一只雪白的猎狼犬从岩石的阴影中凝视着你."
 					},
 					{
 						"id": "CU_SnowWhite01_BFF_female",
-						"text": "You carefully reach into your breast pocket and fish out the rock-hard donut you had been saving for a special occasion. \n\nThe shy creature hesitates first, but then creeps forward suspiciously. [CTP] \n\nWith ravenous hunger, it devours the donut and licks your hands clean with its rough tongue. You feel your will to live returning as the animal nuzzles at you. [CTP]\n\nYou open the passenger door and wave the dog in:\n\n[char0]: \"Donut, I think this might be the beginning of a beautiful friendship...\""
+						"text": "你小心地把手伸进你的胸袋,掏出你在特殊场合保存下来的硬石甜甜圈. \n\n害羞的生物先是犹豫了一会儿,然后可疑地向前爬. [CTP] \n\n它饿得要命,吞食着甜甜圈,吃完后用粗糙的舌头舔干净你的手.当狗向你扑来时,你感觉到活下去的希望. [CTP]\n\n你打开副驾门,向狗招手唤它上来:\n\n[char0]: \"甜甜圈,这可能是一段美好友谊的开始...\""
 					},
 					{
 						"id": "FA_FenrirDied01_Intro_female",
-						"text": "Shaking your head, you stand by the grave you just dug for your four-legged friend – it all seems so pointless...\n\nDon't people usually say a prayer at times like these? \n\nYou rack your heat-addled brains for something fitting but nothing comes to you."
+						"text": "你摇了摇头, 站在刚为四腿朋友挖的坟墓旁 – 这一切似乎毫无意义...\n\n人们通常不都会在这样的时候祈祷吗? \n\n你绞尽脑汁想找些合适的词,但却什么也没想到."
 					},
 					{
 						"id": "FA_FenrirDied01_CryNow_female",
-						"text": "In the end, you improvise: \n\n[char0]: \"Fenris was a loyal companion.\"\n\nNo, that's not good enough! You clear your throat and start again:\n\n[char0]: \"Fenris was a true friend. He died as he lived: free and proud. We will miss him forever.\" [CTP]\n\nWe? \n\nTormented, you laugh. Who are you kidding out here in this wasteland? \n\nForgotten and alone, your journey ends here..."
+						"text": "最后,你即兴发挥了一下: \n\n[char0]: \"Fenris 是一个忠诚的伙伴.\"\n\n不,这还不够好! 你清了清嗓子,然后又开始说:\n\n[char0]: \"Fenris 是个真正的朋友.它活在我的心中: 自由又骄傲. 我们会永远想念他的.\" [CTP]\n\n我们? \n\n你带着痛苦笑了笑. 你在这个荒地里开什么玩笑? \n\n孤单一人,被人遗忘,你的旅程到此结束..."
 					},
 					{
 						"id": "FA_SnowWhiteDied01_Intro_female",
-						"text": "[char0]: \"Donut, old girl! Come on, we need to get going!\"\n\nBut Donut doesn't move; the animal lies on its side, panting. \n\nThe helpless look in her gentle eyes shakes you to the core. [CTP]\n\nYou look away and feverishly scour your pockets for something to eat. \n\nThere! An old ship's biscuit!"
+						"text": "[char0]: \"甜甜圈,老姑娘! 快点,我们得走了!\"\n\n但是甜甜圈不动; 狗躺在一边喘着粗气. \n\n她温柔的眼睛里无助的眼神让你动摇了. [CTP]\n\n你看向别处,疯狂地在口袋里找吃的东西. \n\n看哪! 一个旧船形饼干!"
 					},
 					{
 						"id": "FA_SnowWhiteDied01_CryNow_female",
-						"text": "But you look up again into Donut's lifeless gaze and something breaks inside you. \n\nYou struggle to maintain your composure, but there's no denying it: Your journey together has come to an end. \n\nIt’s time to admit defeat..."
+						"text": "但是当你再次抬头看到甜甜圈死气沉沉的凝视,你内心的某种东西就破裂了. \n\n你努力保持镇静,但不可否认: 你们一起的旅程已经结束. \n\n是时候承认失败..."
 					},
 					{
 						"id": "FA_AloneRescue01_Intro_female",
-						"text": "You squat helplessly in the sand next to your jeep and stare into the distance. \n\nYou scan the endless horizon, then shake your head: No, you are the only human being for many miles. [CTP] \n\nContinuing your journey alone through this desolate wilderness would be your certain end! \n\nYou sigh. \n\nMaybe this is a good time to see how your radio has weathered the rigors of the journey..."
+						"text": "边无际的地平线,然后摇摇头: 不,你是方圆几里内唯一的人类. [CTP]\n\n独自穿越这片荒芜的荒野将是你的最终目标!\n\n你发出了叹息.\n\n也许现在是看看你的收音机能否经受住旅途的严峻考验的时候..."
 					},
 					{
 						"id": "SE_Adventure01FinalFight_Trailer_title",
@@ -9570,139 +9570,139 @@
 					},
 					{
 						"id": "SE_Adventure02MapArrival02_Trailer_title",
-						"text": "The Armenian Mountains"
+						"text": "亚美尼亚山"
 					},
 					{
 						"id": "SE_Adventure05Clue03_Trailer_title",
-						"text": "An oasis settlement"
+						"text": "绿洲栖居地"
 					},
 					{
 						"id": "SE_Adventure06Clue01_Trailer_title",
-						"text": "In ancient Aksum"
+						"text": "古阿克苏姆"
 					},
 					{
 						"id": "FE_CavedInTemple01_Intro",
-						"text": "In the distance you see what looks like an old temple structure. You stop to investigate and realise the entrance has caved in long ago."
+						"text": "在远处你可以看到一座古老的寺庙建筑.你停下来调查,发现入口早就塌陷了."
 					},
 					{
 						"id": "FE_MineEntrance01_Intro",
-						"text": "You pass an old abandoned mine entrance. It is not accessible."
+						"text": "你经过一个废弃的老矿口.但无法进入."
 					},
 					{
 						"id": "FE_BunkerEntrace01_Intro",
-						"text": "You notice a bunker in the distance. On closer inspection you realise it is locked tight."
+						"text": "你注意到远处有一个地堡.仔细检查后,你发现它锁得很紧."
 					},
 					{
 						"id": "FE_ClosedWell01_Intro",
-						"text": "Not far from the road you see an old water cistern. It is completely dried up."
+						"text": "你看到路边不远处有一个旧水池.但它完全干涸了."
 					},
 					{
 						"id": "FE_RockFormation01_Intro",
-						"text": "On your next break you stop near a beautiful rock formation."
+						"text": "在下一次休息时,你将停在美丽的岩层附近."
 					},
 					{
 						"id": "FE_OldTree01_Intro",
-						"text": "You stop near an old-growth tree before continuing your journey."
+						"text": "在继续旅程之前,你把车停在一棵古老的树木附近."
 					},
 					{
 						"id": "FE_AbandonedJeep01_Intro",
-						"text": "You come to halt near a half buried jeep. You quickly realise that there's nothing to be found here."
+						"text": "你停在一辆半埋的吉普车附近.你很快就发现到这里什么也找不到."
 					},
 					{
 						"id": "FE_TrashMount01_Intro",
-						"text": "Promising colours in the distance turned out to be nothing but a mount of useless trash dumped here."
+						"text": "远处充满希望的色彩只不过是一堆无用的垃圾而已."
 					},
 					{
 						"id": "FE_SandyCrate01_Intro",
-						"text": "A few crates in the sand piqued your interest, but nothing of value could be found."
+						"text": "沙滩上的几个板条箱激起了你的兴趣,但找不到任何有价值的东西."
 					},
 					{
 						"id": "FE_SandyCanister01_Intro",
-						"text": "As you come around the corner you see a couple of rusty fuel canisters in the ground. They turn out to be completely empty."
+						"text": "当你走到拐角处时,你看到地上有两个生锈的燃料罐.但你发现它们全是空的."
 					},
 					{
 						"id": "FE_SandDunes01_Intro",
-						"text": "The boundless desert in front of you is a sight to behold. Soon you continue your journey."
+						"text": "你面前的茫茫沙漠是一道值得一看的风景.但很快你就要继续你的旅程了."
 					},
 					{
 						"id": "FE_LostCamel01_Intro",
-						"text": "You are stopped by a lonely camel crossing the road. You let it pass and continue."
+						"text": "你被一只孤独的骆驼拦住去路.你等它过去然后继续向前开."
 					},
 					{
 						"id": "FE_LostGoat01_Intro",
-						"text": "As you stop to stretch your legs you hear the bleat of a goat in the distance. You shrug and keep going."
+						"text": "当你停下来伸腿时,你听到远处山羊的叫声.你耸耸肩,继续往前走."
 					},
 					{
 						"id": "FE_LostSheep01_Intro",
-						"text": "A single sheep passes near your jeep. After a quick stop you drive off."
+						"text": "一只羊在你的吉普车附近经过.急停下来等了一会后,你就开走了."
 					},
 					{
 						"id": "FE_Snake01_Intro",
-						"text": "Halting near a group of bushes, you suddenly notice a snake slithering next to your feet. You cautiously move on."
+						"text": "你把车停在一簇灌木丛旁,突然发现一条蛇在你的脚边滑行.你小心地往前走."
 					},
 					{
 						"id": "FE_NaziTent01_Intro",
-						"text": "A structure in the distance turns out to be a tattered Nazi tent. Nothing of value remains and you leave."
+						"text": "远处的一座建筑原来是一座破烂的纳粹帐篷.但没有任何有价值的东西留下,于是你就离开了."
 					},
 					{
 						"id": "FE_UndeadTent01_Intro",
-						"text": "Around the next corner you discover a recently built tent. The skulls strewn on the ground are enough to make you leave this place quickly."
+						"text": "在下一个拐角,你发现了最近建成的帐篷. 撒在地上的头骨让你想尽快离开这个地方."
 					},
 					{
 						"id": "FE_EmptyAltar01_Intro",
-						"text": "An old altar appears over the next dune. All the dried blood is making you feel uneasy and you move on."
+						"text": "一个旧祭坛出现在下一个沙丘上.干涸的血液让你感到不安,你继续前进."
 					},
 					{
 						"id": "FE_Bushes01_Intro",
-						"text": "The hills around you are filled with big bushes. You journey on after a quick stop."
+						"text": "你周围的山丘上满是大灌木丛.你很快就停了下来."
 					},
 					{
 						"id": "FE_TatteredBooks01_Intro",
-						"text": "Not far from your last stop you notice a pile of books - none of them in a readable state. Disappointed you leave."
+						"text": "在离最后一站不远的地方,你注意到一堆书 - 但没有一本是可读的.你失望地离开了."
 					},
 					{
 						"id": "FE_SandySkull01_Intro",
-						"text": "When you halt next, you are surprised to find a few skulls buried in the sandy ground around you. You leave wondering what had taken place here."
+						"text": "当你停下时,你惊讶地发现周围沙地里埋着一些头骨.你不知道这里发生了什么."
 					},
 					{
 						"id": "FE_SpearedSkull01_Intro",
-						"text": "A row of speared skulls make you stop your jeep. After a few minutes you have satisfied your curiousity and you continue your travels."
+						"text": "一排长矛头骨让你停下吉普车看了一会儿.几分钟后,你满足了你的好奇心,便继续你的旅程."
 					},
 					{
 						"id": "FE_OldMap01_Intro",
-						"text": "In the middle of the road you find an old map - it is completely undecipherable. You keep going."
+						"text": "你在路上发现了一张旧地图 - 但它完全无法辨认.于是你继续往前走."
 					},
 					{
 						"id": "FE_Ruins01_Intro",
-						"text": "You stop near some worn down stone structures. After a short while you drive off."
+						"text": "你停在一些风化的石头建筑附近.过了一会儿你就开车走了."
 					},
 					{
 						"id": "FE_Campfire01_Intro",
-						"text": "A long gone cold campfire gives you reason to stop and take a deep breath. Not wanting to waste time you depart again."
+						"text": "一场久违的寒冷营火让你有理由停下来深呼吸.不想再浪费时间了."
 					},
 					{
 						"id": "FE_StrangeObject01_Intro",
-						"text": "You stop the jeep immediately upon noticing a metalic object in the ground. You decide it is useless trash and leave."
+						"text": "你发现地面有金属物体就立即停车了.过了一会儿你认为那是无用的垃圾于是就离开了."
 					},
 					{
 						"id": "FE_Cactus01_Intro",
-						"text": "As you stop you look upon a single lonely cactus growing in the desert. Shaking your heads you continue."
+						"text": "当你停下脚步时,你看到一株孤独的仙人掌生长在沙漠中.你摇了摇头继续走."
 					},
 					{
 						"id": "FE_NaziFlag01_Intro",
-						"text": "As soon as you notice the nazi flag you stop immediately and look around for danger. Soon you realise it is just an abandoned flag and leave."
+						"text": "一旦你注意到纳粹的旗帜,你就立刻停下来四处寻找危险来源. 但很快你就意识到这只是一面被遗弃的旗帜,接着你离开了."
 					},
 					{
 						"id": "FE_SpiderNest01_Intro",
-						"text": "Between a handful of rocks you are temporarily fascinated by a spider nest. Soon you jump back in your jeep and drive off."
+						"text": "在几块岩石之间,你暂时被一个蜘蛛窝吸引住了.但很快你就跳回到吉普车上,开车离开了."
 					},
 					{
 						"id": "FE_Grass01_Intro",
-						"text": "You stop and notice the grassy patches covering the ground around you. You depart."
+						"text": "你停下来,看了看到你周围的草地.过了一会儿你就离开了."
 					},
 					{
 						"id": "FE_OldRadio01_Intro",
-						"text": "The old radio you noticed next to the tree turns out to be completely broken. You start your engines again and leave."
+						"text": "你发现树旁边的旧收音机是坏的.你就启动引擎走了."
 					},
 					{
 						"id": "FE_CavedInTemple01_Title",
