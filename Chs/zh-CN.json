@@ -5462,39 +5462,39 @@
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage02",
-						"text": "The dilapidated old mine leads deep into the mountain. You spin around: Was that voices behind you? \n\nWhile you're still wondering, dark forms emerge from the shadows around you – you have been ambushed by the Brotherhood..."
+						"text": "残破的旧矿井一直通往大山内部. 你有点晕头转向: 身后是不是有什么动静? \n\n你还在思考着, 邪恶的生物从四面八方的阴影中冒了出来 – 你们被兄弟会伏击了..."
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage03",
-						"text": "你探索完旧矿洞后很失望,因为没有发现任何价值的东西. \n\n一声轻响, 你警惕地转过身来 – 一群邪教徒正悄悄地从后面偷袭过来!这是埋伏!"
+						"text": "你们探索完旧矿洞后很失望, 因为没有发现任何有价值的东西. \n\n一声轻响, 你警惕地转过身来 – 一群邪教徒正悄悄地从后面偷袭过来! 这是埋伏!"
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage06",
-						"text": "你探索了旧矿洞的主矿道觉得并没有什么有价值的东西. \n\n或许我这里有? \n\n当你听到了嘲笑声时,你便意识到中计了: 一群邪教徒围住了你!"
+						"text": "你们探索了旧矿洞的主矿道觉得并没有什么有价值的东西. \n\n\"或许我这里有? \"\n\n当你听到嘲笑声的时候,你便意识到中计了: 一群邪教徒围住了你们!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral02",
-						"text": "The necropolis in front of you sprawls over the gentle desert dunes. \n\nYou wander past ancient tombs and catacombs, until the whispering of soft voices stops you in your tracks: You startle a group of cultists who are now rushing straight at you!"
+						"text": "你面前这座古代的坟场在平缓的沙丘上一直延伸了好远. \n\n你们穿过一座座古墓, 直到一阵轻声的低语拦住了你们的去路: 你们惊动了一群邪教徒, 他们下向你们冲过来!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral04",
-						"text": "A rambling, deserted graveyard sprawls across the desert sand in front of you. \n\nDeserted? Was that a movement in the shadows? \n\nAll of a sudden, a group of cultists jump out from behind a tomb!"
+						"text": "你面前的沙地上是一大片凌乱的荒无人烟的墓地. \n\n等等, 荒无人烟? 刚才那边阴影里是不是有什么动了一下? \n\n突然间, 一群邪教徒从一座坟墓后面跳了出来!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardNeutral05",
-						"text": "沙漠坟墓风声啸啸响起. \n\n这被人类遗忘的地方到底有多久没有人踏足过? \n\n想不到你问题的答案这么快就有了: 一群可怕的异教徒走了出来. 马上就发起了进攻!"
+						"text": "这片阴郁的沙漠坟场周围风声四起. \n\n到底有多久没有人踏足过这片被人遗弃的荒凉之地了? \n\n没想到你的问题很快就有人回答了: 你们打搅到了一群正在举行可怕仪式的邪教徒. 他们立马发动了攻击!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01",
-						"text": "在看到沙丘外部的坟墓之前. \n\n你小心潜行发现了一群聚集在坟墓周围的异教徒."
+						"text": "你们还没看到沙丘外部的那座坟墓, 就听到一阵怪异的吟唱. \n\n你们偷偷摸近, 发现在坟墓周围聚集了一群邪教徒."
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage04",
-						"text": "The graveyard you explored so hopefully reveals none of its secrets. \n\nDisappointed, you sit on an ancient gravestone, when a sudden vibration makes you jump up – the slab beneath you is moving! [CTP] \n\nYou rush for cover behind some sepulchers. A short time later, a group of cultists emerges from the vault beneath the tomb!"
+						"text": "你们满怀希望地探索了一座墓地却一无所获. \n\n你失望至极, 坐在了一块古老的碑石上. 突然一阵振动, 你吓得跳了起来 – 脚下的石板在移动! [CTP] \n\n你们迅速躲到一些墓碑后面隐蔽起来. 过了一会儿, 一群邪教徒从底下的墓穴中冒了出来!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage05",
-						"text": "在古代坟墓中心,你发现了一群邪教徒聚集在墓地周围. \n\n他们开始念诵一下你听不明白的话!but the hackles on your neck stand on end! \n\n这里发生了什么?"
+						"text": "在古代坟场的中心,你们发现了一大群邪教徒聚集在一块墓碑周围. \n\n他们开始吟唱, 你完全听不懂他们在唱什么, 但你身上的寒毛却一根根立了起来! \n\n他们到底在做什么?"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardAdvantage01_Choice01",
@@ -5546,39 +5546,39 @@
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage01",
-						"text": "在你想深入一座早已被遗忘的神明的祭祀埋葬死人的古老大墓冢之前. \n\n这里鬼寂般的安静, 但当你开始探索陵墓和墓葬时, 你突然听到四面八方传来的脚步声! \n\n你陷入伏击了..."
+						"text": "这里是某个早已被人遗忘的神明手下祭司埋葬死人的墓冢. \n\n在你们准备深入之前, 四周鬼一般的寂静, 但当你们开始探索陵墓墓室的时候, 你突然听到四面八方传来的脚步声! \n\n你们被埋伏了..."
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage03",
-						"text": "Was that a sudden movement between the tombs or is the desert heat slowly addling your mind? \n\nYou advance on the graveyard cautiously to investigate. You search the mausoleums and ossuaries, but do not find anything suspicious. [CTP]\n\nSuddenly, menacing figures appear on all sides – you have been ambushed by the Brotherhood!"
+						"text": "刚才那两座坟墓间是不是有什么动了一下? 还是沙漠的酷热已经慢慢让你产生幻觉了? \n\n你们在墓地间小心地前进想要调查一番. 你们搜查了陵墓和尸骨罐, 但没有发现任何可疑的. [CTP]\n\n突然, 不怀好意的身影从四面八方出现 – 你们被兄弟会埋伏了!"
 					},
 					{
 						"id": "BE_GenericUndeadGraveyardDisadvantage06",
-						"text": "A forsaken graveyard. You see a collection of mausoleums, cenotaphs, tombs and sepulchers. \n\nYou pick your way nervously through this necropolis, when you suddenly see a movement out of the corner of your eye! A small group of cultists has been trailing you and now they attack from all sides!"
+						"text": "一座被人遗忘的坟场. 你看到有一大堆陵墓, 碑冢和石棺. \n\n你们紧张地在墓地间穿行. 突然, 你眼角的余光看到有一丝动静! 一小队邪教徒一直在跟踪你们而现在他们从四面八方攻了过来!"
 					},
 					{
 						"id": "BE_GenericUndeadCampNeutral02",
-						"text": "The cultists are busy building a place of worship at the center of the fortified camp. You wonder what role the many piles of bone will play. \n\nYou shudder despite the desert heat. Excited voices warn you that your presence has not gone unnoticed!"
+						"text": "邪教徒们正忙着在驻扎营地的中央搭建一个祭祀场所. 你们想知道那边一堆堆的骨头是用来干嘛的. \n\n尽管沙漠里很热, 你还是打了个寒颤. 因为激动的喊声表明你们被发现了!"
 					},
 					{
 						"id": "BE_GenericUndeadCampNeutral04",
-						"text": "The garishly colored tents are the first thing you notice about the fortified cultist camp. You cautiously sneak forward to take a closer look. \n\nThey are clearly building an altar of some kind! As you try to sneak off quietly, you hear a shout!"
+						"text": "当你们接近这座邪教徒驻扎的营地的时候, 你一眼看到的是一顶色彩艳丽的帐篷. 你们小心地摸近以更近距离地观察. \n\n他们明显是在建造一座祭坛什么的! 当你准备悄悄溜走的时候, 你听到一声大喊!"
 					},
 					{
 						"id": "BE_GenericUndeadCampNeutral05",
-						"text": "Death haunts the fortified cultist camp: the ground is littered with piles of bones, skulls on stakes grimace through empty eye sockets; you shudder. \n\nYou hear an angry shout! One of the cultists has seen you!"
+						"text": "死亡的气息笼罩着这座邪教徒驻扎的营地: 地上散落着一堆堆的骨头, 木桩上插着一个个骷髅头, 摆出一副副阴森的表情; 你们不禁为之颤栗. \n\n你们听到一声愤怒地喊叫! 一个邪教徒看到了你们!"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage01",
-						"text": "At the sight of the fortified camp up ahead, the hair on the back of your necks stands on end: A group of cultists are preparing to perform an unholy ritual in this place! \n\nThey have not noticed you yet..."
+						"text": "当看到前方邪教徒们驻扎的营地的时候, 你脖子上的寒毛一根根立了起来: 一群邪教徒们正在准备举行一场邪恶的仪式! \n\n他们还没有注意到你们..."
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage03",
-						"text": "The cultists ahead of you move clumsily, as if hanging on invisible threads, controlled by a mysterious power. \n\nYou have no trouble sneaking up on their camp unseen."
+						"text": "前方的一群邪教徒们走路晃晃悠悠, 就好像被一股神秘的力量用隐形的线牵着控制了一样. \n\n你毫不费力地偷偷溜到了帐篷边上."
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage06",
-						"text": "Skulls impaled on wooden stakes guard the entrance to the fortified camp. You see a large group of cultists crouching between several piles of bones around an altar - you would rather not know what they are doing! \n\nThe cultists are so engrossed in their work that they do not notice you."
+						"text": "邪教徒驻扎的营地入口处插着钉了骷髅头的木桩. 你看到一大群邪教徒蹲伏在一堆堆围绕祭坛的骨头周围 - 你情愿不知道他们在干什么! \n\n邪教徒们如此的聚精会神以致于他们根本没注意到你们."
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage01_Choice01",
@@ -5594,7 +5594,7 @@
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage04_Choice01",
-						"text": "埋伏的邪教徒"
+						"text": "伏击邪教徒"
 					},
 					{
 						"id": "BE_GenericUndeadCampAdvantage05_Choice01",
@@ -5630,39 +5630,39 @@
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage01",
-						"text": "A deathly silence hangs over the fortified cultist camp. You peer warily around the crude palisade, when you suddenly hear soft footsteps in the desert sand behind you! [CTP]\n\nThe cultists have been stalking you and now they have you trapped!"
+						"text": "死一般的寂静笼罩在邪教徒驻扎的营地上空. 你警惕地向粗制的栅栏里四处张望. 突然你听到身后的沙地里传来放轻的脚步声! [CTP]\n\n邪教徒们已经悄悄摸到你们身后并困住了你们!"
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage03",
-						"text": "The camp seems deserted: Between the tents, their colorful canvas fluttering softly in the desert wind, you find a shrine surrounded by piles bones - but no trace of the cultists who were camped here...[CTP]\n\nMocking laughter cuts through the silence like a knife! You turn around and realize that you have been tricked by the cultists!"
+						"text": "营地看上去空无一人: 帐篷彩色的帆布在风中轻柔的摇摆, 你看到一个周围堆了一堆骨头的神龛 - 但没找到一丝在这里扎营的邪教徒的踪迹... [CTP]\n\n嘲弄的笑声像利刃一样划破了寂静! 你转身意识到你被邪教徒们耍了!"
 					},
 					{
 						"id": "BE_GenericUndeadCampDisadvantage05",
-						"text": "The warning cry of a lone hawk circling in the sky above you is the only sound that breaks the silence. The camp is abandoned. Inside, you find a fetid, unholy altar. Skulls dangle from wooden stakes driven into the ground. You have found an abandoned cultist shrine! [CTP]\n\nAbandoned? Not at all! The armed figures stalking you from all sides prove just how wrong you are..."
+						"text": "头顶上一只老鹰的警诫孤鸣是这里唯一打破寂静的声音. 营地被人遗弃了. 你在里面发现一个腐臭的邪恶祭坛. 骷髅头在插在地上的木桩顶端摇摆. 你们这是发现了一座废弃的邪教神龛! [CTP]\n\n不过真的是被废弃了吗? 并不! 全副武装悄悄尾随你的身影从四面八方出现, 证明你们犯了一个大错..."
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerNeutral01",
-						"text": "You almost miss the bunker entrance half hidden among the desert dunes. \n\nYou explore the strange complex, but you don’t find a living soul. [CTP]\n\nInstead, you encounter a gruesome scene of sheer horror: viciously mutilated corpses, pools of blood, clear signs of a desperate struggle! What happened here? \n\nYour worst fears cannot prepare you for what you find in the next room..."
+						"text": "你差点就错过了这个半掩埋在沙丘中的地堡入口. \n\n你们探索了下这个奇怪的建筑, 但却没有发现一个活物. [CTP]\n\n相反, 你们却看到了一幅纯粹恐怖的画面: 被恶意摧残的尸体, 大片的血迹, 种种迹象表明这里发生过一场殊死的搏斗! 到底发生了什么? \n\n在接下来的房间里看到的东西更是让你们恐惧到窒息..."
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerNeutral03",
-						"text": "Your exploration of the mysterious bunker takes you ever deeper underground, down endless steps until you finally reach a room that looks like the scene of an explosion: Body parts are scattered on the floor, guts on the walls, and blood... blood everywhere! [CTP]\n\nVile, demonic creatures crouch over the corpses of the soldiers. They have seen you and attack immediately..."
+						"text": "你们边探索着这座地堡边往地下越来越深处走去, 顺着向下没完没了的阶梯你们最终来到一个房间, 房间里的景象让你们头皮发麻血液都要凝固了: 地板上散落着尸块, 墙上粘着内脏, 还有血...到处都是血! [CTP]\n\n恶魔般的邪恶生物蹲伏在士兵尸体的旁边. 它们已经看到你们了并立马发动了攻击..."
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerNeutral05",
-						"text": "The silence inside the bunker is intolerable. Wherever you look, you see signs of a desperate struggle. \n\nStruggle? More like a massacre - you cannot tell where one body begins and the next one ends. The floor is literally soaked in blood. [CTP]\n\nWho or what could have done this? You question is answered as the door to the next room flies open and a horde of grotesque creatures descend on you!"
+						"text": "地堡内静得让人无法忍受. 无论你们看向哪里, 到处都是殊死搏斗过的痕迹. \n\n搏斗? 看起来更像是一场屠杀 - 你根本分不清一些尸块是不是属于同一个人. 地面全被血迹浸透了. [CTP]\n\n什么人或什么样的生物可以弄出这种场面? 你的问题很快有了答案. 隔壁的门被猛地推开, 一大群怪异的生物猛地袭击了你们!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage01",
-						"text": "You smell the dead long before you see them. \n\nCorridor by corridor, you finally reach the center of the bunker and the source of the fetid odor. A group of inhuman creatures crouch among the mangled corpses. They have not noticed you yet!"
+						"text": "远远地你就闻到了死亡的味道. \n\n穿过一个又一个回廊你们终于来到了地堡中心并看到了腐臭的来源. 一群非人的生物蹲伏在一堆残缺不全的尸体旁边. 它们还没有注意到你们!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage03",
-						"text": "Something isn’t quite right with the lone desert bunker ahead of you - the eerie silence, the steel door swinging loosely on its hinges, the body of the soldier missing his legs... [CTP]\n\nWith weapons drawn, you start to explore the bunker. You soon come across a group of strange creatures clawing at the remains of some dead soldiers!"
+						"text": "前方孤零零的沙漠地堡感觉有点不对劲 - 诡异的寂静, 钢门绕着铰链松跨地摇晃, 那边士兵的尸体少了条腿... [CTP]\n\n你们端好武器开始探索地堡. 很快你们就遇到一群奇怪的生物, 它们正趴在几具尸体上进食!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage06",
-						"text": "The bunker is a scene of a desperate struggle: The narrow passageways are choked with the bodies of soldiers. They must have trampled each other in a stampede to escape their fate. \n\nNone of them made it. [CTP]\n\nInside the bunker, you cautiously sneak up on the creatures that wrought this carnage. A large group of them are sniffing excitedly at the soldiers’ remains - they do not seem to have noticed you!"
+						"text": "地堡内是一幅殊死搏斗后的景象: 狭窄的过道里挤满了士兵的尸体. 他们一定是在惊慌逃窜的过程中相互踩踏才变成了这样. \n\n没有一个人活下来. [CTP]\n\n在地堡内部你们发现了造成这场屠杀的元凶并悄悄接近了这群生物. 它们正大群地围在一起, 兴奋地嗅着士兵们的尸体 - 它们似乎还没注意到你!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice01",
@@ -5682,7 +5682,7 @@
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage05_Choice01",
-						"text": "拿起你们的武器"
+						"text": "准备好你们的武器"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerAdvantage06_Choice01",
@@ -5714,19 +5714,19 @@
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage02",
-						"text": "A deathly silence hangs over the old bunker. \n\nA portrait of pure horror awaits within: The mangled remains of the bunker crew lie in puddles of their own blood. \n\nWho or what could have done this? [CTP]\n\nWhen you hear the soft chanting around you, the hair stands up on the back of your neck. The chanting gets louder and you realize that you are surrounded!"
+						"text": "死一样的寂静包围着这座老旧的地堡. \n\n里面是一幅恐怖的景象: 地堡成员们残缺不全的尸首横七竖八地四散在血泊中. \n\n这些是谁或者什么东西干的? [CTP]\n\n当你听到轻轻的吟唱声在四周响起的时候, 你脖子上的寒毛一根根都立了起来. 吟唱的声音越来越大, 你意识到你们被包围了!"
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage04",
-						"text": "The stink of death hangs over the old bunker. \n\nAs you explore the bunker, your blood runs cold: Wherever you look, the ground is littered with entrails and mangled corpses! [CTP]\n\nSuddenly, you hear a door slam behind you! You spin around and realize that you have walked into a trap..."
+						"text": "这座古老的地堡内充斥着死亡的恶臭. \n\n当你们探索地堡的时候, 你感觉血液都冰凉了: 无论你看向哪里, 到处都是散落的内脏和残缺的肢体! [CTP]\n\n突然你身后的一扇门被猛地关上了! 你环顾四周, 意识到你们步入了一个陷阱..."
 					},
 					{
 						"id": "BE_GenericUndeadMassacredBunkerDisadvantage05",
-						"text": "The stink of rotting corpses is unbearable. Wherever you look, dead soldiers, or parts of them, cover the floor of the abandoned bunker. \n\nWhat happened here? [CTP] \n\nA wheezing sound somewhere in the darkness curdles your blood. Then you see a movement in the shadows: Your are surrounded!"
+						"text": "尸体的腐臭让人无法忍受. 在这座废弃的地堡中, 无论你们看向哪里, 满眼都是士兵的尸体, 或者是尸体的一部分. \n\n这里发生了什么? [CTP] \n\n黑暗中某处传来的喘息声让你血液都要凝固了. 然后你看到阴影中有东西在移动: 你们被包围了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Intro",
-						"text": "The tombs of the ancient necropolis echo with the rhythmic chanting of a multitude of cultists. They are gathered around a crude altar that they have constructed in front of a mausoleum. [CTP] \n\nYou see a woman, apparently their prisoner, staggering and reeling as if possessed. The dense, cloying swathes of incense plunge the scene into an eerie light as the high priestess raises her voice. She gesticulates wildly, a jagged ritual dagger clenched in her right hand. [CTP] \n\nAre the cultists planning a human sacrifice? At the moment, all attention is on the priestess – nobody seems to be paying any attention to the prisoner..."
+						"text": "一群邪教徒有节奏的吟唱声回荡在这座古老的陵墓间. 他们聚集在墓前一个事先搭建好的粗制祭坛周围. [CTP] \n\n你看到一个女人, 很明显是他们的囚犯, 正像被附身了一样摇摇晃晃地站立着. 当女祭司提高她的嗓音的时候, 浓郁的烟雾缭绕的熏香使得整个场面呈现出一幅光怪陆离的景象. 女祭司右手拿着一把带锯齿的匕首, 疯狂地舞动着手势. [CTP] \n\n这些邪教徒们是不是正在准备一场活人祭祀? 现在他们所有人的注意力都在女祭司身上 – 似乎没有人在关注那个囚犯..."
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice01",
@@ -5738,7 +5738,7 @@
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice03",
-						"text": "Sneak up to the prisoner"
+						"text": "悄悄接近囚犯"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Choice04",
@@ -5750,51 +5750,51 @@
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Busted",
-						"text": "You take advantage of the opportunity to approach the prisoner as inconspicuously as possible – unfortunately, you only make it half way before you are spotted! \n\nThe furious cultists descend on you!"
+						"text": "你们抓住机会, 尽可能不被察觉地接近囚犯 – 不幸的是, 你们只走到一半还是被发现了! \n\n愤怒的邪教徒们朝你们袭来!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_StealthW",
-						"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, he leaps from cover to cover until he finally reaches the woman. \n\nThey both manage to get away unseen! [CTP]\n\nIt is not until you reach the outer walls of the necropolis that you hear the distant screams of outrage indicating that your actions have been discovered. \n\nYou jump into your car and speed off!"
+						"text": "[char0]小心地偷偷靠近邪恶的祭坛. 他像猫一样灵巧地在掩体间穿行并很快来到了那个女人的身边. \n\n他们两都成功在不被发现的情况下溜了回来! [CTP]\n\n你们一直跑到陵墓的外墙了才远远听到里面传来愤怒的尖叫, 邪教徒们终于发现你们干的好事了. \n\n你们跳上车飞快地溜走了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_StealthW_female",
-						"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, she leaps from cover to cover until she finally reaches the woman. \n\nThey both manage to get away unseen! [CTP]\n\nIt is not until you reach the outer walls of the necropolis that you hear the distant screams of outrage indicating that your actions have been discovered. \n\nYou jump into your car and speed off!"
+						"text": "[char0]小心地偷偷靠近邪恶的祭坛. 她像猫一样灵巧地在掩体间穿行并很快来到了那个女人的身边. \n\n他们两都成功在不被发现的情况下溜了回来! [CTP]\n\n你们一直跑到陵墓的外墙了才远远听到里面传来愤怒的尖叫, 邪教徒们终于发现你们干的好事了. \n\n你们跳上车飞快地溜走了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_StealthF",
-						"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, he leaps from cover to cover until he finally reaches the woman. \n\nJust as he is attempting to free her, you hear a loud shout - [char0] has been spotted!"
+						"text": "[char0]小心地偷偷靠近邪恶的祭坛. 他像猫一样灵巧地在掩体间穿行并很快来到了那个女人的身边. \n\n然而就在他准备解救女人的时候, 你听到一声大叫 - [char0]被发现了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_StealthF_female",
-						"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, she leaps from cover to cover until she finally reaches the woman. \n\nJust as she is attempting to free her, you hear a loud shout - [char0] has been spotted!"
+						"text": "[char0]小心地偷偷靠近邪恶的祭坛. 她像猫一样灵巧地在掩体间穿行并很快来到了那个女人的身边. \n\n然而就在她准备解救女人的时候, 你听到一声大叫 - [char0]被发现了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_DistractW",
-						"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! [CTP]\n\nThis is your chance! You run over to the woman and free her, then rush back to the car together. \n\n[char1] is already waiting there with the engine running. Just as the first cultists come rushing towards you, you speed away, leaving them in a cloud of dust!"
+						"text": "[char1]消失在一座墓碑后面. 过了一小会儿, 你听到了枪声 – 邪教徒们立刻跳了起来寻找声音的来源! [CTP]\n\n这是个好机会! 你们立即跑过去救下女人并和她一起迅速跑回了车上. \n\n[char1]已经发动好引擎在车上等你们了. 就在第一个邪教徒出现并朝你们冲过来的时候, 你们一脚油门把他们甩在了后面, 留下一片扬尘潇洒离去!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_DistractW_female",
-						"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! [CTP]\n\nThis is your chance! You run over to the woman and free her, then rush back to the car together. \n\n[char1] is already waiting there with the engine running. Just as the first cultists come rushing towards you, you speed away, leaving them in a cloud of dust!"
+						"text": "[char1]消失在一座墓碑后面. 过了一小会儿, 你听到了枪声 – 邪教徒们立刻跳了起来寻找声音的来源! [CTP]\n\n这是个好机会! 你们立即跑过去救下女人并和她一起迅速跑回了车上. \n\n[char1]已经发动好引擎在车上等你们了. 就在第一个邪教徒出现并朝你们冲过来的时候, 你们一脚油门把他们甩在了后面, 留下一片扬尘潇洒离去!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_DistractF",
-						"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! \n\nThis is your chance! You run over to the woman and free her, but then you hear loud, angry shouting – you have been discovered!"
+						"text": "[char1]消失在一座墓碑后面. 过了一小会儿, 你听到了枪声 – 邪教徒们立刻跳了起来寻找声音的来源! \n\n这是个好机会! 你们立即跑过去救那个女人, 但接着你们听到了一声愤怒的大喊 – 你们被发现了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_DistractF_female",
-						"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! \n\nThis is your chance! You run over to the woman and free her, but then you hear loud, angry shouting – you have been discovered!"
+						"text": "[char1]消失在一座墓碑后面. 过了一小会儿, 你听到了枪声 – 邪教徒们立刻跳了起来寻找声音的来源! \n\n这是个好机会! 你们立即跑过去救那个女人, 但接着你们听到了一声愤怒的大喊 – 你们被发现了!"
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Reward",
-						"text": "The young woman's parents are overjoyed when you bring her back to her home village. Her father enters his house and reappears a short time later with a bundle under his arm: \n\n[char2]: \"We do not have much to give, but please take this with our blessings!\""
+						"text": "当你们带着年轻女人回到她住的村庄的时候, 她的父母喜极而泣. 她的父亲走进屋, 过了一会儿手里拿了一个包裹出来: \n\n[char2]: \"我们没有太多能报答你们的, 但请带上这个, 上帝保佑你们!\""
 					},
 					{
 						"id": "BE_NecropolisSacrifice01_Aftermath",
-						"text": "When you have defeated your opponents, you crouch over the young woman. She is scared, but fortunately unharmed. You learn that she was kidnapped from her village by cultists."
+						"text": "当你们击败对手之后. 你在年轻女人身旁蹲下. 她很害怕, 但幸运的是没有受伤. 你了解到她是被邪教徒们从村子里绑架到这里来的."
 					},
 					{
 						"id": "BE_BridgeInvocation01_Intro",
-						"text": "Clouds of incense fill the air, almost choking you. \n\nYou crouch down behind a monstrous idol and observe the sinister ritual taking place before you. [CTP]\n\nA horde of cultists has gathered at the lava temple and is listening to the hypnotic chanting of their high priestess.\n\nTwo cultists approach bearing a chest. They cross a narrow bridge that spans a lava-filled precipice. [CTP]\n\nThey place the chest in front of the statue. Your eyes widen in amazement when you see its content!"
+						"text": "空气中香雾缭绕, 几乎呛到你们. \n\n你们蹲在一尊神像后面观察着眼前正在举行的罪恶仪式. [CTP]\n\n一群邪教徒聚焦在岩浆神殿, 正倾听着他们女祭司催眠般的吟唱. \n\n有两个邪教徒抬着个箱子从远处走来. 他们走过了横在悬崖上的一座窄桥, 桥下满是沸腾的岩浆. [CTP]\n\n他们把箱子放在了雕像前面. 当你看清箱子里是什么的时候你瞪大了双眼!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice01",
@@ -5802,7 +5802,7 @@
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice02",
-						"text": "打开箱子"
+						"text": "偷走箱子"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice03",
@@ -5810,7 +5810,7 @@
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice04",
-						"text": "攻击高阶女祭司"
+						"text": "攻击女祭司"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Choice05",
@@ -5818,75 +5818,75 @@
 					},
 					{
 						"id": "BE_BridgeInvocation01_RobW",
-						"text": "Believing yourself unobserved, you carefully reach out from your hiding place and dip your hand into the chest. \n\nYou manage to pilfer the contents without being noticed! You then leave the eerie cave as soon as you can before anyone uncovers your sacrilege."
+						"text": "在确信没有被发现的情况下, 你小心地从藏身的地方溜到了箱子边上, 并把手伸进了箱子里. \n\n你成功地从箱子里偷到了点东西! 然后你们趁着还没有人发现你们的亵渎行为尽快离开了这个可怕的洞穴."
 					},
 					{
 						"id": "BE_BridgeInvocation01_RobF",
-						"text": "Believing yourself unobserved, you carefully reach out from your hiding place and dip your hand into the chest. Suddenly, you hear a loud cry of rage: your impudent theft has been noticed!\n\nYou quickly grab the chest and sprint across the bridge with your haul. The enraged cultists are hot on your heels!"
+						"text": "在相信自己没有被发现的情况下, 你小心地从藏身的地方溜到了箱子边上, 并把手伸进了箱子里. 突然, 你听到一声愤怒的大喊: 你无耻的偷窃行为被人注意到了!\n\n你飞快地抱起箱子撒腿溜过了桥. 愤怒的教徒们在后面紧追不舍!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Deception",
-						"text": "[char0] cups his hand in front of his mouth and roars:\n\n[char0]: \"Unworthy! Who dares disturb my slumber! Begone, or my wrath will destroy you!\""
+						"text": "[char0]把手放到嘴边吼道:\n\n[char0]: \"尔等贱民! 是谁胆敢在这里打搅我休息! 快滚, 不然就接受我愤怒的制裁!\""
 					},
 					{
 						"id": "BE_BridgeInvocation01_Deception_female",
-						"text": "[char0] cups her hand in front of her mouth and roars:\n\n[char0]: \"Unworthy! Who dares disturb my slumber! Begone, or my wrath will destroy you!\""
+						"text": "[char0]把手放到嘴边吼道:\n\n[char0]: \"尔等贱民! 是谁胆敢在这里打搅我休息! 快滚, 不然就接受我愤怒的制裁!\""
 					},
 					{
 						"id": "BE_BridgeInvocation01_DeceptionW",
-						"text": "You hear pandemonium break out: Screams, curses, wailing. When calm returns, you peer carefully out from your hiding place: The place is abandoned! \n\nYou quickly pick up the chest and make your escape!"
+						"text": "你听到那边爆发出一片混乱之声: 尖叫, 咒骂, 哭泣...当一切回归平静, 你从你藏身的地方小心地探出头来: 这地方已空无一人! \n\n你迅速拿上宝箱溜之大吉!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DeceptionF",
-						"text": "You hear excited voices and footsteps. Moments later, the face of the high priestess appears over the edge of the idol statue that you are crouching behind. Her face is twisted with rage! \n\nReacting quickly, you jump up, push her aside and grab the chest! You sprint over the bridge with your haul, but the enraged cultists are hot on your heels!"
+						"text": "你听到一阵激动的嗓音和脚步声. 片刻过后, 女祭司的脸出现在你们藏身的神像边缘. 她的脸因为愤怒而变得扭曲! \n\n你反应快一下子跳起来把她推到一边然后抱起了宝箱! 你们撒开腿跑过了桥, 但是愤怒的教徒们也在后面紧追不舍!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Daredevil",
-						"text": "In a frenzy, [char1] rushes the high priestess. A blade flashes in his hand!"
+						"text": "[char1]狂暴地冲向女祭司. 同时他手中出现一把闪着寒光的利刃!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_Daredevil_female",
-						"text": "In a frenzy, [char1] rushes the high priestess. A blade flashes in her hand!"
+						"text": "[char1]狂暴地冲向女祭司. 同时她手中出现一把闪着寒光的利刃!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DaredevilF",
-						"text": "[char1] misses the priestess by a hair’s breadth! \n\nFor a moment, the high priestess stares at him dumbfounded, then summons her followers! The angry cultists descend on you!"
+						"text": "就差一丁点儿, [char1]并没有击中女祭司! \n\n有那么一会儿, 女祭司惊得目瞪口呆, 接着她召集来她的同伴! 愤怒的邪教徒们向你攻了过来!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DaredevilF_female",
-						"text": "[char1] misses the priestess by a hair’s breadth! \n\nFor a moment, the high priestess stares at her dumbfounded, then summons her followers! The angry cultists descend on you!"
+						"text": "就差一丁点儿, [char1]并没有击中女祭司! \n\n有那么一会儿, 女祭司惊得目瞪口呆, 接着她召集来她的同伴! 愤怒的邪教徒们向你攻了过来!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DaredevilW01",
-						"text": "Before anybody can react [char1] plunges his dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You sprint over the bridge with your haul, but the enraged cultists are hot on your heels!"
+						"text": "没等任何人反应过来, [char1]将利刃刺入了女祭司的心脏! \n\n现场顿时一片混乱! \n\n[char1]冷静地抓起了箱子! 你们撒开腿跑过了桥, 但是愤怒的教徒们也在后面紧追不舍!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DaredevilW01_female",
-						"text": "Before anybody can react [char1] plunges her dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You sprint over the bridge with your haul, but the enraged cultists are hot on your heels!"
+						"text": "没等任何人反应过来, [char1]将利刃刺入了女祭司的心脏! \n\n现场顿时一片混乱! \n\n[char1]冷静地抓起了箱子! 你们撒开腿跑过了桥, 但是愤怒的教徒们也在后面紧追不舍!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DaredevilW02",
-						"text": "Before anybody can react [char1] plunges his dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You use the turmoil to escape over the bridge with your loot! As the furious cultists reach the temple exit, you're already in the jeep with your foot on the accelerator!"
+						"text": "没等任何人反应过来, [char1]将利刃刺入了女祭司的心脏! \n\n现场顿时一片混乱! \n\n[char1]冷静地抓起了箱子! 你们趁着一片骚动带着你们的战利品跑过了桥! 当愤怒的邪教徒们赶到神庙出口的时候, 你们已经跳上吉普车踩着油门溜之大吉了!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_DaredevilW02_female",
-						"text": "Before anybody can react [char1] plunges her dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You use the turmoil to escape over the bridge with your loot! As the furious cultists reach the temple exit, you're already in the jeep with your foot on the accelerator!"
+						"text": "没等任何人反应过来, [char1]将利刃刺入了女祭司的心脏! \n\n现场顿时一片混乱! \n\n[char1]冷静地抓起了箱子! 你们趁着一片骚动带着你们的战利品跑过了桥! 当愤怒的邪教徒们赶到神庙出口的时候, 你们已经跳上吉普车踩着油门溜之大吉了!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_BridgeFight",
-						"text": "As you rush up the stairs at the end of the bridge, you look behind you: The cultists have almost reached you – a fight is unavoidable!"
+						"text": "当你们冲上桥末端的台阶时, 你回头看到邪教徒们已经快追上你们了 – 一场战斗在所难免!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_RareStrengthW",
-						"text": "[char2] suddenly springs forward and throws all his weight against a man-sized boulder that is resting against the temple wall! \n\nMoments later, the boulder rolls down and buries the screaming cultists below! You are saved!"
+						"text": "[char2]突然冲向前用他全身的力气推神庙墙边靠着的一块一人大小的圆石! \n\n片刻过后, 圆石滚了下去把尖叫着的邪教徒们埋在了下面! 你们得救了!"
 					},
 					{
 						"id": "BE_BridgeInvocation01_RareStrengthW_female",
-						"text": "[char2] suddenly springs forward and throws all her weight against a man-sized boulder that is resting against the temple wall!\n\nMoments later, the boulder rolls down and buries the screaming cultists below! You are saved!"
+						"text": "[char2]突然冲向前用她全身的力气推神庙墙边靠着的一块一人大小的圆石! \n\n片刻过后, 圆石滚了下去把尖叫着的邪教徒们埋在了下面! 你们得救了!"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Intro",
-						"text": "The Brotherhood has seized control of the old, abandoned mine – they appear to be preparing an unholy ritual here! [CTP]\n\nHelpless, you cower in the shadows as the cultists’ chanting grows louder. They have gathered around a clay idol and are repeatedly prostrating themselves in the dust before the idol."
+						"text": "兄弟会控制了一片老旧的废弃矿坑 – 他们看上去正准备在这里举行一场邪恶的仪式! [CTP]\n\n你们无奈地躲在暗处. 教徒们的吟唱声越来越大. 他们聚集在一尊粘土做的神像前, 不停重复地在沙地上仰头扣首."
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice01",
@@ -5898,7 +5898,7 @@
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice03",
-						"text": "Smash the idol"
+						"text": "打碎神像"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice04",
@@ -5906,11 +5906,11 @@
 					},
 					{
 						"id": "BE_ClayIdolMine01_WaitNoFight",
-						"text": "The cultists whip themselves into a frenzy before finally sinking to the floor, exhausted. Nothing else happens. [CTP]\n\nIn front of the statue surrounded by the unconscious cultists, a collection of objects catches your eye."
+						"text": "邪教徒们迫使自己陷入一阵疯狂之中, 最后纷纷精疲力竭地倒在地上. 其他什么也没有发生. [CTP]\n\n意识不清的邪教徒们躺倒在雕像周围, 而此时雕像脚边堆的一堆物品引起了你的注意."
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice05",
-						"text": "偷东西"
+						"text": "偷走物品"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Choice06",
@@ -5918,35 +5918,35 @@
 					},
 					{
 						"id": "BE_ClayIdolMine01_WaitAFight",
-						"text": "The guttural chanting of the cultists transforms into an awful howling. Eventually, nightmarish beings appear out of thin air right before your eyes. \n\nSuddenly, you hear a scream – you have been discovered!"
+						"text": "从邪教徒们喉咙里发出的吟唱声变成了一阵可怕的咆哮. 最终, 噩梦般的生物凭空出现在你们眼前\n\n突然你听到一声尖叫 – 你们被发现了!"
 					},
 					{
 						"id": "BE_ClayIdolMine01_Occult",
-						"text": "To your horror, [char0] suddenly jumps up: \n\n[char0]: \"The idol is the key!\""
+						"text": "[char0]突然跳了起来, 吓了你一跳: \n\n[char0]: \"神像是关键!\""
 					},
 					{
 						"id": "BE_ClayIdolMine01_Occult_female",
-						"text": "To your horror, [char0] suddenly jumps up: \n\n[char0]: \"The idol is the key!\""
+						"text": "[char0]突然跳了起来, 吓了你一跳: \n\n[char0]: \"神像是关键!\""
 					},
 					{
 						"id": "BE_ClayIdolMine01_OccultW",
-						"text": "With these words, he lunges at the clay statue and shatters it with a few deliberate blows of his rifle butt. \n\nThe cultists instantly throw themselves to the ground in pain, thrashing around as if possessed! [CTP]\n\nA few moments later, they are lying lifeless on the ground. In front of the statue surrounded by the cultists, a collection of objects catches your eye..."
+						"text": "说完这些, 他冲向雕像并用枪托几下把它砸碎. \n\n教徒们立马痛苦地倒在了地上, 像着了魔一样四处扑腾! [CTP]\n\n一会儿过后, 他们全都躺在地上一动不动死了. 雕像周围都是邪教徒的尸体, 此时雕像脚边的一堆物品引起了你的注意..."
 					},
 					{
 						"id": "BE_ClayIdolMine01_OccultW_female",
-						"text": "With these words, she lunges at the clay statue and shatters it with a few deliberate blows of her rifle butt. \n\nThe cultists instantly throw themselves to the ground in pain, thrashing around as if possessed! [CTP]\n\nA few moments later, they are lying lifeless on the ground. In front of the statue surrounded by the cultists, a collection of objects catches your eye..."
+						"text": "说完这些, 她冲向雕像并用枪托几下把它砸碎. \n\n教徒们立马痛苦地倒在了地上, 像着了魔一样四处扑腾! [CTP]\n\n一会儿过后, 他们全都躺在地上一动不动死了. 雕像周围都是邪教徒的尸体, 此时雕像脚边的一堆物品引起了你的注意..."
 					},
 					{
 						"id": "BE_ClayIdolMine01_OccultF",
-						"text": "With these words, he rushes towards the statue, but stumbles and falls sprawled out on the stone floor! \n\nThe dumbfounded cultists stop for a moment, but then seize their weapons in rage!"
+						"text": "说完这些, 他冲向了雕像, 但却被绊倒摔了个狗啃泥! \n\n邪教徒们被惊得目瞪口呆, 但马上他们就愤怒地拿起了武器!"
 					},
 					{
 						"id": "BE_ClayIdolMine01__OccultF_female",
-						"text": "With these words, she rushes towards the statue, but stumbles and falls sprawled out on the stone floor! \n\nThe dumbfounded cultists stop for a moment, but then seize their weapons in rage!"
+						"text": "说完这些, 她冲向了雕像, 但却被绊倒摔了个狗啃泥! \n\n邪教徒们被惊得目瞪口呆, 但马上他们就愤怒地拿起了武器!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Intro",
-						"text": "You had hoped to take a break at the walls of the temple. But then you spot the cultists marching in your direction across the desert dunes and you quickly hide behind a large stone statue.\n\nWhen the cultists arrive a short time later, they begin preparations for a ritual and gather right in front of the statue that you are hiding behind! [CTP]\n\nAs the high priestess grovels before the stone statue, the rest of the cultists begin a grotesque dance: as if in a trance, they spin around and spread out around the statue. \n\nIn a few moments, they will be able to see you!"
+						"text": "你们想在神庙的墙边休息一下, 却看到一群邪教徒穿过沙丘径直向你们这边走来. 你们迅速躲到了一尊巨大的石像后面.\n\n邪教徒们到达这里不久就开始准备举行一场仪式, 他们正好聚集在你们藏身的石像正前方! [CTP]\n\n当女祭司趴在石像前的时候, 其他的教徒们开始跳一种奇异的舞蹈: 好像神情恍惚一般, 他们开始围石像转圈并分散开来. \n\n过一会儿他们就能看到你了!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice01",
@@ -5958,7 +5958,7 @@
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice03",
-						"text": "Topple the stone statue"
+						"text": "推倒石像"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_Choice04",
@@ -5966,47 +5966,47 @@
 					},
 					{
 						"id": "BE_DesertTempleStatue01_DistractF",
-						"text": "[char0] grabs a stone and throws it past the cultists at some clay vases by the temple wall. Unfortunately, he misses his target and the stone lands in the desert sand...\n\nA few moments later, you are discovered!"
+						"text": "[char0]捡起一块石头扔过邪教徒的头顶, 砸向墙边的一些陶罐. 很不幸他并没有击中目标, 石头落在了沙地上...\n\n片刻后你们被发现了!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_DistractF_female",
-						"text": "[char0] grabs a stone and throws it past the cultists at some clay vases against the temple wall. Unfortunately, she misses her target and the stone lands in the desert sand...\n\nA few moments later, you are discovered!"
+						"text": "[char0]捡起一块石头扔过邪教徒的头顶, 砸向墙边的一些陶罐. 很不幸她并没有击中目标, 石头落在了沙地上...\n\n片刻后你们被发现了!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_DistractW",
-						"text": "[char0] grabs a stone and throws it past the cultists at some clay vases against the temple wall.\n\nThe pottery shatters with a loud crash – the cultists spin around and run over to the vases to investigate the source of the noise! [CTP]\n\nThis is your chance! \n\nAs fast as you can, you rush to your jeep, which you parked behind the temple. You hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+						"text": "[char0]捡起一块石头扔过邪教徒的头顶, 砸向墙边的一些陶罐. \n\n陶罐被砸的粉碎并发出了很大的声响 – 教徒们转身向罐子奔去调查声音的来源! [CTP]\n\n这是个好机会! \n\n你们以最快的速度冲向了停在神庙后面的吉普车. 你们听到身后传来愤怒的高声尖叫 – 你们被发现了! 但还没等教徒们反应过来, 你们已经发动了车子并很快把神庙抛在了身后!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_DistractW_female",
-						"text": "[char0] grabs a stone and throws it past the cultists at some clay vases against the temple wall. \n\nThe pottery shatters with a loud crash – the cultists spin around and run over to the vases to investigate the source of the noise! [CTP]\n\nThis is your chance! \n\nAs fast as you can, you rush to your jeep, which you parked behind the temple. You hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+						"text": "[char0]捡起一块石头扔过邪教徒的头顶, 砸向墙边的一些陶罐. \n\n陶罐被砸的粉碎并发出了很大的声响 – 教徒们转身向罐子奔去调查声音的来源! [CTP]\n\n这是个好机会! \n\n你们以最快的速度冲向了停在神庙后面的吉普车. 你们听到身后传来愤怒的高声尖叫 – 你们被发现了! 但还没等教徒们反应过来, 你们已经发动了车子并很快把神庙抛在了身后!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_RawStrengthW",
-						"text": "[char1] heaves against the stone statue, and moments later it comes crashing down into the desert sand! \n\nThe high priestess is crushed by the falling statue! [CTP]\n\nThe cultists run around screaming! You take advantage of the confusion to grab one of their chests. You then sprint as fast as you can to your jeep, which you parked behind the temple. \n\nYou hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind you!"
+						"text": "[char1]用力抬起石像, 片刻过后石像向前方沙地轰然倒去! \n\n女祭司被石像压了个正着! [CTP]\n\n邪教徒们尖叫着四处奔走! 你们趁着混乱抓起一个箱子, 然后飞也似的撒腿跑向停在神庙后的吉普车. \n\n你们听到身后传来愤怒的高声尖叫 – 你们被发现了! 但还没等教徒们反应过来, 你们已经发动了车子并很快把神庙抛在了身后!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_RawStrengthW_female",
-						"text": "[char1] heaves against the stone statue, and moments later it comes crashing down into the desert sand! \n\nThe high priestess is crushed by the falling statue! [CTP]\n\nThe cultists run around screaming! You take advantage of the confusion to grab one of their chests. You then sprint as fast as you can to your jeep, which you parked behind the temple. \n\nYou hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+						"text": "[char1]用力抬起石像, 片刻过后石像向前方沙地轰然倒去! \n\n女祭司被石像压了个正着! [CTP]\n\n邪教徒们尖叫着四处奔走! 你们趁着混乱抓起一个箱子, 然后飞也似的撒腿跑向停在神庙后的吉普车. \n\n你们听到身后传来愤怒的高声尖叫 – 你们被发现了! 但还没等教徒们反应过来, 你们已经发动了车子并很快把神庙抛在了身后!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_RawStrengthF",
-						"text": "[char1] heaves against the stone statue but he fails to knock it over. \n\nThe statue’s wobbling has not gone unnoticed! The cultists draw their daggers and seek out the cause!"
+						"text": "[char1]用力抬起石像, 但他没能把石像推翻. \n\n石像的晃动引起了教徒们的注意! 他们抄起匕首开始寻找原因!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_RawStrengthF_female",
-						"text": "[char1] heaves against the stone statue but she fails to knock it over. \n\nThe statue’s wobbling has not gone unnoticed! The cultists draw their daggers and seek out the cause!"
+						"text": "[char1]用力抬起石像, 但她没能把石像推翻. \n\n石像的晃动引起了教徒们的注意! 他们抄起匕首开始寻找原因!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_RunW",
-						"text": "Panic grips you! As fast as you can, you rush to your jeep, which you parked behind the temple! \n\nYou hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+						"text": "你们感到非常害怕! 你们撒开腿飞也似的冲向停在神庙后的吉普车! \n\n你们听到身后传来愤怒的高声尖叫 – 你们被发现了! 但还没等教徒们反应过来, 你们已经发动了车子并很快把神庙抛在了身后!"
 					},
 					{
 						"id": "BE_DesertTempleStatue01_RunF",
-						"text": "Panic grips you! You run as fast as the soft desert sand allows until you reach your jeep behind the temple! \n\nUnfortunately, your efforts are in vain: You cannot shake off the cultists..."
+						"text": "你们感到非常害怕! 你们撒开腿飞也似的冲向停在神庙后的吉普车! \n\n不幸的是, 你们并没有能够甩掉教徒们..."
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Intro",
-						"text": "As you explore the ruins of the deserted village, you almost stumble over a small group of cultists sleeping on the ground. \n\nYou see an old wooden chest in their midst – what might it contain?"
+						"text": "当你们探索一座废弃村庄的废墟的时候, 你险些被地上熟睡的几个邪教徒绊倒. \n\n你看到他们中间放着一个老旧的木头箱子 – 里面会放着什么呢?"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice01",
@@ -6026,43 +6026,43 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_PilferW",
-						"text": "As quietly as possible [char0] picks his way through the bodies of the sleeping cultists until he reaches the chest. \n\nYou hold your breath as he opens it, but the cultists are sleeping soundly. A short time later, [char0] returns with a yellowed parchment in his hands!"
+						"text": "[char0]尽可能地轻轻避开地上熟睡的教徒们走到了箱子旁边. \n\n他打开箱子的时候你不由地摒住了呼吸. 然而教徒们还是睡得很死. 过了一会儿, [char0] 回来了, 手里拿着一张泛黄的羊皮纸!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_PilferW_female",
-						"text": "As quietly as possible [char0] picks her way through the bodies of the sleeping cultists until she reaches the chest. \n\nYou hold your breath as she opens it, but the cultists are sleeping soundly. A short time later, [char0] returns with a yellowed parchment in her hands!"
+						"text": "[char0]尽可能地轻轻避开地上熟睡的教徒们走到了箱子旁边. \n\n她打开箱子的时候你不由地摒住了呼吸. 然而教徒们还是睡得很死. 过了一会儿, [char0] 回来了, 手里拿着一张泛黄的羊皮纸!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_PilferF",
-						"text": "As quietly as possible [char0] picks his way through the sleeping cultists. Suddenly, he loses his balance and stumbles over one of the sleepers! \n\nThe cultists jump up immediately and draw their weapons!"
+						"text": "[char0]尽可能地轻轻避开地上熟睡的教徒们朝箱子走去. 突然, 他失去平衡, 绊到了地上睡着的人! \n\n教徒们立马跳了起来并抄起了家伙!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_PilferF_female",
-						"text": "As quietly as possible [char0] picks her way through the sleeping cultists. Suddenly, she loses her balance and stumbles over one of the sleepers! \n\nThe cultists jump up immediately and draw their weapons!"
+						"text": "[char0]尽可能地轻轻避开地上熟睡的教徒们朝箱子走去. 突然, 她失去平衡, 绊到了地上睡着的人! \n\n教徒们立马跳了起来并抄起了家伙!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_StealthW",
-						"text": "With catlike agility [char1] picks his way through the bodies of the sleeping cultists until he reaches the chest. \n\nYou hold your breath as he opens it, but the cultists are sleeping soundly. A short time later, [char1] returns with a yellowed parchment in his hands!"
+						"text": "[char0]像猫一样灵巧地避开地上熟睡的教徒们走到了箱子旁边. \n\n他打开箱子的时候你不由地摒住了呼吸. 然而教徒们还是睡得很死. 过了一会儿, [char0] 回来了, 手里拿着一张泛黄的羊皮纸!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_StealthW_female",
-						"text": "With catlike agility [char1] picks her way through the bodies of the sleeping cultists until she reaches the chest. \n\nYou hold your breath as she opens it, but the cultists are sleeping soundly. A short time later, [char1] returns with a yellowed parchment in her hands!"
+						"text": "[char0]像猫一样灵巧地避开地上熟睡的教徒们走到了箱子旁边. \n\n她打开箱子的时候你不由地摒住了呼吸. 然而教徒们还是睡得很死. 过了一会儿, [char0] 回来了, 手里拿着一张泛黄的羊皮纸!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_StealthF",
-						"text": "With catlike agility, [char1] picks his way past the sleeping cultists, but suddenly one of them stirs and and lets out a furious scream!\n\nThe rest of the cultists jump up immediately and draw their weapons!"
+						"text": "[char0]像猫一样灵巧地避开地上熟睡的教徒们朝箱子走去. 突然, 地上一个人动了一下并发出了愤怒的尖叫! \n\n剩下的教徒们立马跳了起来并抄起了家伙!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_StealthF_female",
-						"text": "With catlike agility, [char1] picks her way past the sleeping cultists, but suddenly one of them stirs and and lets out a furious scream!\n\nThe rest of the cultists jump up immediately and draw their weapons!"
+						"text": "[char0]像猫一样灵巧地避开地上熟睡的教徒们朝箱子走去. 突然, 地上一个人动了一下并发出了愤怒的尖叫! \n\n剩下的教徒们立马跳了起来并抄起了家伙!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_TreasureMap",
-						"text": "You study the parchment carefully. It is a map of the surrounding area. \n\nYou see a marking on the map, but the scrawled text next to it is illegible. Do you want to follow the map?"
+						"text": "你仔细地研究了羊皮纸. 那是一张周边地区的地图. \n\n你看到地图上有个标记, 但它边上的字迹过于潦草难以辨认. 你想按地图指引去标记地点么?"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice05",
-						"text": "查看地图"
+						"text": "去标记地点"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice06",
@@ -6070,7 +6070,7 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Cave",
-						"text": "You reach some impassable rocks. Without the map, you would never have thought of exploring these inaccessible hills, but you soon find a small cave entrance hidden between two rocky outcrops. [CTP]\n\nCurious, you enter the cave. The ornamentations on the walls are strange and unfamiliar. As the passage widens into a larger hall, you hear a low, menacing hum."
+						"text": "你们到达了一片车子无法通行的岩石层处. 如果没有地图指引的话, 你们大概永远不会想到要探索这片难以到达的山区, 但很快你们在两块岩石间发现了一个很小的洞穴入口. [CTP]\n\n你们满怀好奇地进入洞穴内部. 洞穴墙壁上的装饰看上去奇怪而又陌生. 通道越来越宽, 最后变成了一个大厅, 在大厅里你们听到了一阵低沉的令人不安的嗡嗡声."
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Choice07",
@@ -6082,11 +6082,11 @@
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Lucky",
-						"text": "The source of the humming remains a mystery, so you turn to more important questions.\n\nExcited, you search the ancient tomb. The floor is scattered with strange crates and boxes – the cultists have clearly been using the vault as a secret stash...!"
+						"text": "嗡嗡声的来源一直是个谜, 你们索性把你们的注意力放到了你们更关心的东西上. \n\n你们兴奋地搜索着这座古墓. 地上散落着许多奇怪的箱子和盒子 – 很明显邪教徒们是拿这个墓室作为了他们秘密储存赃物的地点...!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Unlucky",
-						"text": "As you set foot in the ancient burial chamber, the air feels charged with electricity. \n\nMoments later, a blinding beam of light shoots through the room! You are thrown to the ground by an invisible force! [CTP]\n\nGasping in pain, you crawl back on all fours towards the daylight. Your clothes hang in tatters, heat blisters cover your skin! \n\nNo treasure on this Earth would persuade you to enter that cursed room again!"
+						"text": "当你们踏足这间古代墓室的时候, 你们感觉到周围的空气仿佛带电了一般. \n\n片刻之后, 一道眩目的电光从墓室里穿过! 你们被一股无形的力量推倒在地! [CTP]\n\n你们一边痛苦地喘息一边连滚带爬地逃出了洞穴. 你们的衣服已经破烂不堪, 皮肤上也起满了水疱! \n\n不管里面有什么样的宝藏, 你们打死也不会再进这个洞了!"
 					},
 					{
 						"id": "BE_SleepingCultistVault01_Aftermath",
@@ -6094,11 +6094,11 @@
 					},
 					{
 						"id": "BE_LostIdol01_Intro",
-						"text": "The cavernous crevice in the rock wall in front of you is clad with crude bricks. A small, murky gully indicates that you have come across an outlet of an ancient system of water cisterns. \n\nYou hear a distant chanting, interspersed with screams and the noise of battle."
+						"text": "你面前墙壁上巨大的岩石裂缝内砌有一些粗制的石砖, 裂缝底端是一条阴暗的小水沟. 种种迹象表明, 你现在正位于一个古代蓄水池的排水口. \n\n你听到远处传来吟唱的声音, 中间还夹杂着尖叫和战斗的声响."
 					},
 					{
 						"id": "BE_LostIdol01_Choice01",
-						"text": "冲锋陷阵"
+						"text": "加入战斗"
 					},
 					{
 						"id": "BE_LostIdol01_Choice02",
@@ -6106,27 +6106,27 @@
 					},
 					{
 						"id": "BE_LostIdol01_PostFightWounded",
-						"text": "After the fight, you check the cultists’ victims. You hear a low moan! \n\nYou stoop over an old tribesman, struggling for breath."
+						"text": "战斗结束后, 你检查了被邪教徒们袭击了的受害者. 你听到一声低沉的呻吟! \n\n你在一位年事已高的部落男子身边伏下, 他正挣扎地喘着气."
 					},
 					{
 						"id": "BE_LostIdol01_PostFightNoMedical",
-						"text": "You do everything you can, but unfortunately it is all too late: The old man breathes his last in your arms. \n\nIn low spirits, you make your way back."
+						"text": "你尽你所能, 但很不幸还是太迟了: 老人在你怀里咽下了最后一口气. \n\n你们情绪低落地原路返回了."
 					},
 					{
 						"id": "BE_LostIdol01_PostFightMedicalF",
-						"text": "[char0] does everything he can, but unfortunately it is too late: The old man breathes his last in [char0]’s arms. \n\nIn low spirits, you make your way back."
+						"text": "[char0]尽了一切努力, 但很不幸还是太迟了: 老人死在了[char0]怀里. \n\n你们情绪低落地原路返回了."
 					},
 					{
 						"id": "BE_LostIdol01_PostFightMedicalF_female",
-						"text": "[char0] does everything she can, but unfortunately it is too late: The old man breathes his last in [char0]’s arms. \n\nIn low spirits, you make your way back."
+						"text": "[char0]尽了一切努力, 但很不幸还是太迟了: 老人死在了[char0]怀里. \n\n你们情绪低落地原路返回了."
 					},
 					{
 						"id": "BE_LostIdol01_Wounded",
-						"text": "You stumble over the remains of a desperate battle. Mangled bodies in tattered caftans lie scattered around, but there is no trace of the victors. \n\nYou stoop over a groaning tribesman, struggling for breath."
+						"text": "你脚边是一片殊死搏斗后遗留下来的场景. 支离破碎的肢体连带着撕扯得粉碎的衣物散落一地, 却找不到胜利一方的任何踪迹. \n\n你在一位还在呻吟的年长部落男子身边伏下, 他正挣扎地喘着气."
 					},
 					{
 						"id": "BE_LostIdol01_Choice03",
-						"text": "检查伤员"
+						"text": "检查他的伤势"
 					},
 					{
 						"id": "BE_LostIdol01_Choice04",
@@ -6134,27 +6134,27 @@
 					},
 					{
 						"id": "BE_LostIdol01_NoMedic",
-						"text": "You do everything you can, but is too late: The old man breathes his last in your arms. \n\nIn low spirits, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+						"text": "你尽了一切努力, 但还是太迟了: 老人在你怀里咽下了最后一口气. \n\n你们情绪低落, 正准备离开继续你们的旅程, 迎面走来一群奇怪的人, 他们和你们一样非常地吃惊!"
 					},
 					{
 						"id": "BE_LostIdol01_MedicalF",
-						"text": "[char0] does everything he can, but it is too late: The old man breathes his last in [char0]’s arms. \n\nDespondently, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+						"text": "[char0]尽了一切努力, 但还是太迟了: 老人死在了[char0]怀里. \n\n你们情绪低落, 正准备离开继续你们的旅程, 迎面走来一群奇怪的人, 他们和你们一样非常地吃惊!"
 					},
 					{
 						"id": "BE_LostIdol01_MedicalF_female",
-						"text": "[char0] does everything she can, but it is too late: The old man breathes his last in [char0]’s arms. \n\nDespondently, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+						"text": "[char0]尽了一切努力, 但还是太迟了: 老人死在了[char0]怀里. \n\n你们情绪低落, 正准备离开继续你们的旅程, 迎面走来一群奇怪的人, 他们和你们一样非常地吃惊!"
 					},
 					{
 						"id": "BE_LostIdol01_MedicalW",
-						"text": "[char0] rips the old man's cloak. He uses the improvised bandage to staunch the injured man’s bleeding. \n\nA short time later, the old farmer regains consciousness: [CTP]\n\n[char1]: \"The Brotherhood attacked our village and stole the holy idol that we have guarded for many generations! We did our best but their high priestess made off with the idol.\" \n\n[char1]: \"Will you help me if I tell you how to find her?\""
+						"text": "[char0]撕碎了老人的外衣做了个临时的绷带给老人伤口止血. \n\n过了一会儿, 这位老农恢复了意识: [CTP]\n\n[char1]: \"兄弟会的人袭击了我们的村庄, 偷走了我们几代人一直守护的神像! 我们尽力了, 但是他们的女祭司还是带着神像跑了.\" \n\n[char1]: \"如果我告诉你们怎样能找到她, 你们能帮帮我们吗?\""
 					},
 					{
 						"id": "BE_LostIdol01_MedicalW_female",
-						"text": "[char0] rips the old man's cloak. She uses the improvised bandage to staunch the injured man’s bleeding. \n\nA short time later, the old farmer regains consciousness: [CTP]\n\n[char1]: \"The Brotherhood attacked our village and stole the holy idol that we have guarded for many generations! We did our best but their high priestess made off with the idol.\" \n\n[char1]: \"Will you help me if I tell you how to find her?\""
+						"text": "[char0]撕碎了老人的外衣做了个临时的绷带给老人伤口止血. \n\n过了一会儿, 这位老农恢复了意识: [CTP]\n\n[char1]: \"兄弟会的人袭击了我们的村庄, 偷走了我们几代人一直守护的神像! 我们尽力了, 但是他们的女祭司还是带着神像跑了.\" \n\n[char1]: \"如果我告诉你们怎样能找到她, 你们能帮帮我们吗?\""
 					},
 					{
 						"id": "BE_LostIdol01_Choice05",
-						"text": "Search for the idol"
+						"text": "搜寻神像"
 					},
 					{
 						"id": "BE_LostIdol01_Choice06",
@@ -6162,11 +6162,11 @@
 					},
 					{
 						"id": "BE_LostIdol01_HighPriestess",
-						"text": "The old man’s directions take you deeper into the cisterns until you come to a crooked wooden ladder that you climb to a vault above the tunnels. [CTP]\n\nYou hunker down behind a low wall and watch as the High Priestess rants and gesticulates wildly before a group of her followers. She holds the idol in her hands!\n\nSuddenly, you hear a loud cry: You have been discovered!"
+						"text": "按照老人的指引你向蓄水池深处进发, 直到你顺着一条斜木梯爬上了一间位于通道上方的墓室. [CTP]\n\n你们在一堵矮墙边蹲下, 看到女祭司正在一群她的追随者面前狂野地演说和比划着手势. 她手里正拿着那尊神像!\n\n突然, 你听到一声大叫: 你们被发现了!"
 					},
 					{
 						"id": "BE_LostIdol01_HappyEnd",
-						"text": "At the exit of the underground pipe system, you meet the old man again.\n\n[char1]: \"You have the idol! You have our eternal gratitude!\""
+						"text": "在地下管道系统的出口, 你们再次遇到了那位老人.\n\n[char1]: \"你们拿回了神像! 你们永远是我们的恩人!\""
 					},
 					{
 						"id": "BE_LostIdol01_LanguagesW",
