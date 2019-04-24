@@ -6170,31 +6170,31 @@
 					},
 					{
 						"id": "BE_LostIdol01_LanguagesW",
-						"text": "Just as you are leaving the old vault, [char2] pauses to study the strange inscriptions on its walls. He becomes increasingly excited as he inspects the weird characters, prodding the stone here and there. [CTP]\n\nMoments later, the wall slides aside to reveal a strange little chamber containing an ancient sarcophagus.\n\nFrom the scattered detritus on the ground, you can tell that a group of cultists were here not so long ago!"
+						"text": "当你准备离开这座古老墓室的时候, [char2]停了下来开始研究墙上的奇怪铭文. 他越来越激动, 边检查这些奇怪的符号边在墙上到处戳. [CTP]\n\n过了一会儿, 墙壁滑到了一边露出一个奇怪的小房间, 房间里有一口古代石棺.\n\n从地上散落的碎石来看, 一群邪教徒不久之前才在这里呆过!"
 					},
 					{
 						"id": "BE_LostIdol01_LanguagesW_female",
-						"text": "Just as you are leaving the old vault, [char2] pauses to study the strange inscriptions on its walls. She becomes increasingly excited as she inspects the weird characters, prodding the stone here and there. [CTP]\n\nMoments later, the wall slides aside to reveal a strange little chamber containing an ancient sarcophagus.\n\nFrom the scattered detritus on the ground, you can tell that a group of cultists were here not so long ago!"
+						"text": "当你准备离开这座古老墓室的时候, [char2]停了下来开始研究墙上的奇怪铭文. 她越来越激动, 边检查这些奇怪的符号边在墙上到处戳. [CTP]\n\n过了一会儿, 墙壁滑到了一边露出一个奇怪的小房间, 房间里有一口古代石棺.\n\n从地上散落的碎石来看, 一群邪教徒不久之前才在这里呆过!"
 					},
 					{
 						"id": "BE_MonsterAssault01_Intro",
-						"text": "The remains of dead soldiers are scattered around the deserted military camp. Someone... or something... overran these soldiers and slaughtered them with incredible brutality! It looks like the soldiers did not even have time to take up their weapons...\n\nYou hear a groan: one of the soldiers moves awkwardly – a survivor?"
+						"text": "士兵们的死尸横七竖八躺在这座军事营地周围. 什么人...或者说是什么东西...用让人难以置信的残暴方式屠杀了他们! 看起来士兵们似乎连武器都没来的及拿起来...\n\n你听到一声呻吟: 一名士兵在艰难地移动 – 还有个幸存者?"
 					},
 					{
 						"id": "BE_MonsterAssault01_MedicalF",
-						"text": "You approach the wounded man, but the gaping wound in his side leaves no doubt: the man is doomed! \n\nA short time later, the soldier succumbs to his wounds without regaining consciousness. You search the camp quickly before continuing your journey."
+						"text": "你们走向受伤的士兵, 但他身上裂开的伤口显示: 毫无疑问, 他已经没救了! \n\n不久之后, 士兵就因伤势过重不再动弹了, 他再也没能恢复意识. 你在继续上路前快速搜索了营地."
 					},
 					{
 						"id": "BE_MonsterAssault01_MedicalW",
-						"text": "You approach the wounded man, but the gaping wound in his side leaves no doubt: the man is doomed! [char0] bends over the dying man and dabs his forehead with a wet cloth. \n\nThe man returns to consciousness briefly, but finally succumbs to his injuries: [CTP]\n\n[char1]: \"They fell on us like demons! Go to the secret bunker half a mile southeast of here and see if there are any survivors...\""
+						"text": "你们走向受伤的士兵, 但他身上裂开的伤口显示: 毫无疑问, 他已经没救了! [char0] 弯下腰用一块湿布拍在这奄奄一息的人的额头上. \n\n士兵短暂地恢复了意识, 但随后还是因伤重死去了: [CTP]\n\n[char1]: \"它们像恶魔一样袭击了我们! 东南方向...离这里半英里的秘密地堡...去看看...还有没有幸存的人...\""
 					},
 					{
 						"id": "BE_MonsterAssault01_MedicalW_female",
-						"text": "You approach the wounded man, but the gaping wound in his side leaves no doubt: the man is done for! [char0] bends over the dying man and dabs his forehead with a wet cloth. \n\nThe man returns to consciousness briefly, but finally succumbs to his injuries: [CTP]\n\n[char1]: \"They fell on us like demons! Go to the secret bunker half a mile southeast of here and see if there are any survivors...\""
+						"text": "你们走向受伤的士兵, 但他身上裂开的伤口显示: 毫无疑问, 他已经没救了! [char0] 弯下腰用一块湿布拍在这奄奄一息的人的额头上. \n\n士兵短暂地恢复了意识, 但随后还是因伤重死去了: [CTP]\n\n[char1]: \"它们像恶魔一样袭击了我们! 东南方向...离这里半英里的秘密地堡...去看看...还有没有幸存的人...\""
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice01",
-						"text": "寻找掩体隐蔽"
+						"text": "寻找秘密地堡"
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice02",
@@ -6202,7 +6202,7 @@
 					},
 					{
 						"id": "BE_MonsterAssault01_EnterBunker",
-						"text": "A short time later you reach the bunker. Its heavy iron door hangs from its hinges. Once inside, your worst fears are confirmed: The mysterious attackers have struck again - the mangled corpses of the bunker crew are scattered at random on the blood-soaked concrete floor. [CTP] \n\nYou freeze at the sound of heavy breathing! It is coming from the next room!\n\nAs you peer through the slightly open door, you see several nightmarish forms clawing at a soldier’s corpse."
+						"text": "一小段时间过后你们来到了地堡. 沉重的铁门悬挂在铰链上. 进入到地堡内部, 你发现你最害怕的事情还是发生了: 神秘的攻击者同样也血洗了这里 - 被血浸染的水泥地上到处散落着士兵们残缺的肢体. [CTP] \n\n你们突然听到了沉重的喘息声, 血液也随之冰凉! 声音是从隔壁房间传来的!\n\n你透过稍稍打开的门缝往里偷瞄, 看到几只噩梦般的生物正围着一具士兵的尸体在进食."
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice03",
@@ -6210,35 +6210,35 @@
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice04",
-						"text": "炸掉它们"
+						"text": "炸死它们"
 					},
 					{
 						"id": "BE_MonsterAssault01_Choice05",
-						"text": "悄悄地潜行"
+						"text": "悄悄地溜出去"
 					},
 					{
 						"id": "BE_MonsterAssault01_LeaveF",
-						"text": "As you back off carefully, [char2] stumbles against a filing cabinet that crashes noisily to the ground. \n\nBefore you can react, the creatures jump up and rush at you with an enraged bellow!"
+						"text": "当你们小心后退的时候, [char2]绊倒了一个档案柜, 柜子倒在地上发出了巨大的声响. \n\n你们还没反应过来, 那些生物已经跳了起来, 怒吼着朝你们冲了过来!"
 					},
 					{
 						"id": "BE_MonsterAssault01_LeaveF_female",
-						"text": "As you back off carefully, [char2] stumbles against a filing cabinet that crashes noisily to the ground. \n\nBefore you can react, the creatures jump up and rush at you with an enraged bellow!"
+						"text": "当你们小心后退的时候, [char2]绊倒了一个档案柜, 柜子倒在地上发出了巨大的声响. \n\n你们还没反应过来, 那些生物已经跳了起来, 怒吼着朝你们冲了过来!"
 					},
 					{
 						"id": "BE_MonsterAssault01_Daredevil",
-						"text": "[char3] pushes his way past you. He is holding a burning stick of dynamite that he must have found somewhere in the bunker! \n\nHe casually lobs the dynamite into the throng of monsters.\n\n[char3]: \"Eat that, infernal abominations!\""
+						"text": "[char3]推开你冲向前去. 他手里拿着一捆已经点燃的在地堡中搜刮到的炸药! \n\n他轻巧地把炸药丢到了怪物堆中.\n\n[char3]: \"小逼崽子们, 尝尝这个!\""
 					},
 					{
 						"id": "BE_MonsterAssault01_Daredevil_female",
-						"text": "[char3] pushes her way past you. She is holding a burning stick of dynamite that she must have found somewhere in the bunker!\n\nShe casually lobs the dynamite into the throng of monsters.\n\n[char3]: \"Eat that, infernal abominations!\""
+						"text": "[char3]推开你冲向前去. 她手里拿着一捆已经点燃的在地堡中搜刮到的炸药! \n\n她轻巧地把炸药丢到了怪物堆中.\n\n[char3]: \"小逼崽子们, 尝尝这个!\""
 					},
 					{
 						"id": "BE_MonsterAssault01_DaredevilW",
-						"text": "You quickly slam shut the metal door and take cover! A deafening explosion sweeps through the bunker! \n\nWhen the smoke in the neighboring room has cleared, you see that the dynamite has done its job..."
+						"text": "你们迅速关上铁门并寻找隐蔽! 一声震耳欲聋的爆炸声响彻地堡! \n\n当隔壁房间的烟雾渐渐散去时, 你们看到怪物们已经全部都被消灭了..."
 					},
 					{
 						"id": "BE_MonsterAssault01_DaredevilF",
-						"text": "The dynamite flies into the middle of the monsters - but unfortunately it lands directly on the fuse, extinguishing it! The angry creatures turn towards you...\n\n[char3]: \"Well that’s... awkward!\""
+						"text": "炸药落在了怪物堆中 - 但不幸的是它正好引信着地被弄灭了! 愤怒的怪物们转向了你们...\n\n[char3]: \"Emmm, 这...有点尴尬!\""
 					},
 					{
 						"id": "GE_HealingWell01_Title",
@@ -6362,7 +6362,7 @@
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage03_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "BE_GenericNaziRuinsDisadvantage04_Title",
@@ -6698,27 +6698,27 @@
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_anabelle_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_drChandra_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_jackson_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_miguel_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_caballero_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "CU_NaziDesertAdvantagePrisoner01_shaneeka_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "CU_NaziDryWellPrisoner01_bellamy_Title",
@@ -6986,11 +6986,11 @@
 					},
 					{
 						"id": "LE_GenericOrientalCamp01_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "LE_GenericOrientalCamp02_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "LE_GenericOrientalCamp03_Title",
@@ -6998,11 +6998,11 @@
 					},
 					{
 						"id": "LE_GenericOrientalCamp04_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "LE_GenericOrientalCamp05_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp01_Title",
@@ -7010,7 +7010,7 @@
 					},
 					{
 						"id": "LE_GenericNaziCamp02_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp03_Title",
@@ -7018,11 +7018,11 @@
 					},
 					{
 						"id": "LE_GenericNaziCamp04_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "LE_GenericNaziCamp05_Title",
-						"text": "一个古老营地"
+						"text": "一个老旧营地"
 					},
 					{
 						"id": "SE_Adventure01Clue02_Title",
@@ -7646,23 +7646,23 @@
 					},
 					{
 						"id": "BE_CowardOfficer01_Intro",
-						"text": "The bunker is half hidden among the sand dunes. It has been overrun: the entire bunker crew lies dead. The silence is broken only by the buzzing of the flies. \n\nYou climb over the torn and mangled bodies and start to explore the strange structure. [CTP]\n\nOnce inside, a horde of vile creatures leap at you as you enter the room!"
+						"text": "这座地堡半隐藏在沙丘中. 它已经被血洗过了: 所有的成员都躺在地上死了. 只有苍蝇的嗡嗡声不断打破这里的寂静. \n\n你们跨过这些被撕扯得残缺不全的尸体开始探索这座奇怪的建筑. [CTP]\n\n当你们进入房间的时候, 一群邪恶的生物立马向你们扑来!"
 					},
 					{
 						"id": "BE_CowardOfficer01_Officer",
-						"text": "You stand over the remains of your enemies when a sudden clattering noise in the next room makes you jump! \n\nYou find a Nazi officer hiding among the files and overturned map tables. You notice a closed safe door with a combination lock in the wall behind him. [CTP]\n\n[char0]: \"Not another step or I’ll call for reinforcements!\"\n\nYou quickly overpower the man. Unfortunately, he cannot tell you anything because he hid as soon he heard the first sounds of a fight."
+						"text": "你们踩在敌人的尸体上, 突然隔壁传来一阵响动, 吓了你们一跳! \n\n你们发现一名纳粹指挥官躲在一堆文件和翻倒的地图桌边. 你们注意到他身后有一扇关着的门, 墙上还有个密码锁. [CTP]\n\n[char0]: \"别过来, 再过来我喊救兵了!\"\n\n你们很快制服了他. 不幸的是, 他没有任何情报能提供给你们, 因为之前他听到第一声枪响时就躲了起来."
 					},
 					{
 						"id": "BE_CowardOfficer01_IntimidateF",
-						"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\nYou search the command room but find nothing of value. You leave the officer to his fate and exit the bunker."
+						"text": "当你们提到安全屋的时候, 他不屑一顾地摇了摇头: \n\n[char0]: \"恐怕我也不知道密码锁的密码. 我什么也帮不了你们!\" \n\n你们搜刮了指挥室但什么有价值的东西也没找到. 你们把指挥官留下让他自生自灭, 然后离开了地堡."
 					},
 					{
 						"id": "BE_CowardOfficer01_IntimidateW",
-						"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\n[char1]: \"I find that hard to believe! Perhaps we should see if we missed some of those monsters – call it a little reminder...\" [CTP]\n\nThe officer’s face is a portrait of sheer terror!\n\nHe jumps up and quickly enters the combination into the safe door. As the safe opens, you knock the officer out with a sharp blow to the back of the head."
+						"text": "当你们提到安全屋的时候, 他不屑一顾地摇了摇头: \n\n[char0]: \"恐怕我也不知道密码锁的密码. 我什么也帮不了你们!\"\n\n[char1]: \"我怎么觉得那么不可信呢! 对了我们好像还落下了几只怪物没处理掉 – 你看看万一它们...\" [CTP]\n\n指挥官吓得整个脸都白了!\n\n他跳了起来飞快地输入了安全屋的密码. 当安全屋打开的时候你给指挥官后脑勺一个重击把他打晕了过去."
 					},
 					{
 						"id": "BE_CowardOfficer01_IntimidateW_female",
-						"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\n[char1]: \"I find that hard to believe! Perhaps we should see if we missed some of those monsters – call it a little reminder...\" [CTP]\n\nThe officer’s face is a portrait of sheer terror!\n\nHe jumps up and quickly enters the combination into the safe door. As the safe opens, you knock the officer out with a sharp blow to the back of the head."
+						"text": "当你们提到安全屋的时候, 他不屑一顾地摇了摇头: \n\n[char0]: \"恐怕我也不知道密码锁的密码. 我什么也帮不了你们!\"\n\n[char1]: \"我怎么觉得那么不可信呢! 对了我们好像还落下了几只怪物没处理掉 – 你看看万一它们...\" [CTP]\n\n指挥官吓得整个脸都白了!\n\n他跳了起来飞快地输入了安全屋的密码. 当安全屋打开的时候你给指挥官后脑勺一个重击把他打晕了过去."
 					},
 					{
 						"id": "BE_VillageBloodbath01_Title",
@@ -7670,7 +7670,7 @@
 					},
 					{
 						"id": "BE_VillageBloodbath01_Intro",
-						"text": "At first glance, the village seems deserted, but you soon discover the reason for the ghostly silence that blankets this place: An unknown enemy has brutally slaughtered the villagers! Their mutilated remains lie scattered in the blood-soaked sand. [CTP]\n\nYou are shaken by the sheer brutality of the massacre – who or what could have caused such a bloodbath?"
+						"text": "一眼看上去, 这座沙漠村庄看起来像是空无一人, 但很快你就发现这地方一片鬼一般的死寂背后的原因: 一群未知的敌人残暴地屠杀了这里的村民! 村民们残缺的尸体四处散落在被血浸染的沙地上. [CTP]\n\n你们被这可怕的场面震慑住了 – 是什么人, 又或是什么生物会发动如此凶残的大屠杀呢?"
 					},
 					{
 						"id": "BE_VillageBloodbath01_Choice01",
@@ -7682,19 +7682,19 @@
 					},
 					{
 						"id": "BE_VillageBloodbath01_Choice03",
-						"text": "马上继续你的旅程"
+						"text": "马上离开, 继续你的旅程"
 					},
 					{
 						"id": "BE_VillageBloodbath01_CautiousW",
-						"text": "You cautiously inspect some of the bodies and peer into the nearby huts, but you do not find any survivors. \n\nIn one of the larger huts, you find some valuables carelessly scattered around. Perplexed and troubled, you leave this place of horror."
+						"text": "你们小心地检查了一些尸体并看了看附近小屋的内部, 但并没有发现任何幸存者. \n\n在一间大一点的屋子里, 你们找到了一些散落在地上的财物. 怀揣着困惑和不安, 你们离开了这个恐怖的地方."
 					},
 					{
 						"id": "BE_VillageBloodbath01_CautiousF",
-						"text": "You cautiously inspect some of the bodies and peer into the nearby huts, but you do not find any survivors. \n\nYou stop at the sound of a deep growl – you are surrounded by an implacable foe!"
+						"text": "你们小心地检查了一些尸体并看了看附近小屋的内部, 但并没有发现任何幸存者. \n\n一阵低沉的咆哮打断了你们 – 你们被一群冷血的怪物包围了!"
 					},
 					{
 						"id": "BE_VillageBloodbath01_Systematic",
-						"text": "You search the village hut by hut, but you don’t find a single survivor. \n\nWhen you reach the village square, you startle a group of grotesque creatures crouched over some of the corpses – you have found the monsters that slaughtered the villagers!"
+						"text": "你们小心地检查了一些尸体并看了看附近小屋的内部, 但并没有发现任何幸存者.  \n\n当你们来到村子的广场的时候, 你们惊动了一群伏在尸体上的怪异生物 – 屠杀村民们的元凶找到了!"
 					},
 					{
 						"id": "BE_TreasureCamp01_Title",
@@ -7702,7 +7702,7 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_Intro",
-						"text": "You manage to sneak up on the huge cultist camp unnoticed. There is a lot of activity behind its rough palisades. [CTP]\n\nYou discover a gap in the fence that is filled by a colorful tent – with a bit of luck, you could use it to sneak into the camp unseen.."
+						"text": "你们设法神不知鬼不觉地摸到了一个巨大的邪教徒营地边上. 粗糙的栅栏内部正在进行各种活动. [CTP]\n\n你发现一顶彩色帐篷边上的栅栏有一处缝隙 – 幸运的话, 你可以利用它偷偷潜入营地内部."
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice01",
@@ -7718,15 +7718,15 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_SneakIntoCamp",
-						"text": "You reach the tent unseen. You carefully cut the tent open with your knives. \n\nFortunately, the tent is unoccupied. As you peek carefully out of the tent entrance, you see several things: [CTP]\n\nThe cultists are busy setting up an altar and have their backs to you – in a tent a few steps away, you notice a chest full of strange objects..."
+						"text": "你们偷偷溜到帐篷边, 用小刀在帐篷上划开了一个口子. \n\n很幸运, 帐篷里没人. 当你们偷偷从帐篷里往外瞄的时候, 你们看到: [CTP]\n\n邪教徒们正忙着搭建一个祭坛并且背对着你们 – 你们还注意到几步开外的另一个帐篷里有一个宝箱, 里面装满了奇怪的物件..."
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice04",
-						"text": "打开箱子"
+						"text": "偷走宝箱"
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice05",
-						"text": "Sneak up to chest"
+						"text": "偷偷接近宝箱"
 					},
 					{
 						"id": "BE_TreasureCamp01_Choice06",
@@ -7738,27 +7738,27 @@
 					},
 					{
 						"id": "BE_TreasureCamp01_SneakW",
-						"text": "You wait for the right moment and then sneak up to the tent with the chest as inconspicuously as possible. \n\nYou are lucky: nobody notices you! The cultists’ belongings are now in front of you!"
+						"text": "你等待正确的时机, 然后尽可能不被察觉地摸进了放有宝箱的帐篷. \n\n你很幸运: 没人注意到你! 邪教徒们的财产现在就摆在你面前!"
 					},
 					{
 						"id": "BE_TreasureCamp01_SneakF",
-						"text": "You carefully peek out of your tent – this seems like your chance! \n\nBut you have barely taken a few steps when an angry scream breaks the silence: You have been discovered!"
+						"text": "你小心地朝帐篷外张望 – 看起来这是个机会! \n\n但没走几步你就听到一声大叫: 你被发现了!"
 					},
 					{
 						"id": "BE_TreasureCamp01_StealthW",
-						"text": "[char0] dashes from cover to cover unnoticed until he finally reaches the tent with the chest. \n\nA short time later, he returns fully laden with the spoils of his daring exploit! You leave the camp and the unsuspecting cultists behind you."
+						"text": "[char0]悄悄地从一个掩体冲向另一个掩体, 最终他到达了放有宝箱的帐篷. \n\n过了一会儿, 他带着他大胆搜刮到的战利品满载而归! 你们离开了营地, 把那群还蒙在鼓里的邪教徒甩在身后溜之大吉."
 					},
 					{
 						"id": "BE_TreasureCamp01_StealthW_female",
-						"text": "[char0] dashes from cover to cover unnoticed until she finally reaches the tent with the chest. \n\nA short time later, she returns fully laden with the spoils of her daring exploit! You leave the camp and the unsuspecting cultists behind you."
+						"text": "[char0]悄悄地从一个掩体冲向另一个掩体, 最终她到达了放有宝箱的帐篷. \n\n过了一会儿, 她带着她大胆搜刮到的战利品满载而归! 你们离开了营地, 把那群还蒙在鼓里的邪教徒甩在身后溜之大吉."
 					},
 					{
 						"id": "BE_TreasureCamp01_StealthF",
-						"text": "[char0] sneaks from cover to cover. Slowly but surely, he approaches his target, when a sudden shout breaks the silence: [char0] has been discovered!"
+						"text": "[char0]悄悄地从一个掩体冲向另一个掩体. 他稳扎稳打地前进慢慢地接近目标, 但是旁边突然传来一声大叫: [char0]被发现了!"
 					},
 					{
 						"id": "BE_TreasureCamp01_StealthF_female",
-						"text": "[char0] sneaks from cover to cover. Slowly but surely, she approaches her target, when a sudden shout breaks the silence: [char0] has been discovered!"
+						"text": "[char0]悄悄地从一个掩体冲向另一个掩体. 她稳扎稳打地前进慢慢地接近目标, 但是旁边突然传来一声大叫: [char0]被发现了!"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Title",
@@ -7766,11 +7766,11 @@
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Intro",
-						"text": "The entrance to the mine is heavily guarded by grim-faced cultists and other, more sinister figures lurking in the shadows. \n\nYou decide to avoid the main entrance and take a hidden, narrow mineshaft that leads you deep into the mine instead. [CTP]\n\nThe mineshaft ends in a large cave. You see a few cultists standing around a handful of exhausted nomads."
+						"text": "古老矿井的入口被一群面相凶残的邪教徒以及其他一些在阴影中游荡的更加邪恶的生物牢牢地把守着. \n\n你们决定避开主入口, 而是从一个秘密的狭窄天井下到矿井内部深处. [CTP]\n\n天井的尽头是一个巨大的洞穴. 你们看到有几个邪教徒正围着几个精疲力竭的牧民."
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice01",
-						"text": "埋伏的邪教徒"
+						"text": "埋伏邪教徒"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice02",
@@ -7782,35 +7782,35 @@
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_DeceptionW",
-						"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. \n\nHe takes a handful of cartridges out of his magazine and wraps them in some rags. He then tosses the bundle carefully into the flames. [char0] returns to your position without the cultists noticing him. [CTP] \n\nMoments later, a fireworks display begins as the cartridges detonate in the campfire! The cultists jump up in alarm and start to look for the invisible enemy! Soon they have disappeared from your sight. \n\nYou beckon the nomads over to you quickly and take them to safety in the mine tunnel!"
+						"text": "[char0]小心地爬向洞穴另一端的营火. \n\n他从弹夹中取出一把弹药, 用布把它们包起来, 然后小心地丢进了火堆中. [char0]接着又偷偷溜回到了你们所在的位置. [CTP] \n\n片刻过后, 弹药在火堆中引爆, 宛如一场盛大的烟火表演! 邪教徒们警觉地跳了起来, 开始寻找躲在暗处的敌人! 很快他们消失在了你们的视野里. \n\n你们迅速把牧民们招过来并把他们带到了矿井通道中的安全地带!"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_DeceptionW_female",
-						"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. \n\nShe takes a handful of cartridges out of her magazine and wraps them in some rags. She then tosses the bundle carefully into the flames. [char0] returns to your position without the cultists noticing her. [CTP] \n\nMoments later, a fireworks display begins as the cartridges detonate in the campfire! The cultists jump up in alarm and start to look for the invisible enemy! Soon they have disappeared from your sight. \n\nYou beckon the nomads over to you quickly and take them to safety in the mine tunnel!"
+						"text": "[char0]小心地爬向洞穴另一端的营火. \n\n她从弹夹中取出一把弹药, 用布把它们包起来, 然后小心地丢进了火堆中. [char0]接着又偷偷溜回到了你们所在的位置. [CTP] \n\n片刻过后, 弹药在火堆中引爆, 宛如一场盛大的烟火表演! 邪教徒们警觉地跳了起来, 开始寻找躲在暗处的敌人! 很快他们消失在了你们的视野里. \n\n你们迅速把牧民们招过来并把他们带到了矿井通道中的安全地带!"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_DeceptionF",
-						"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. You see him fumbling in his pockets when you hear a loud shout: the cultists have spotted him too! \n\nPrepare to fight!"
+						"text": "[char0]小心地爬向洞穴另一端的营火. 当他还在口袋里掏着什么东西的时候, 你们听到一声大叫: 邪教徒们也已经发现了他! \n\n准备战斗!"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_DeceptionF_female",
-						"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. You see her fumbling in her pockets when you hear a loud shout: the cultists have spotted her too! \n\nPrepare to fight!"
+						"text": "[char0]小心地爬向洞穴另一端的营火. 当她还在口袋里掏着什么东西的时候, 你们听到一声大叫: 邪教徒们也已经发现了她! \n\n准备战斗!"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Thank",
-						"text": "The liberated nomads are beside themselves with gratitude!\n\n[char1]: \"These fanatics are searching this place for an ancient burial chamber. They abducted us and forced us to work for them!\"\n\nBefore they make their way to freedom, the man turns around again: [CTP]\n\n[char1]: \"The cultists are storing their belongings in one of the chambers on the right at the far end of the cave. May the spirits watch over you!\""
+						"text": "重获自由的牧民们对你们感激不尽!\n\n[char1]: \"这群疯子们正在这里搜寻一座古代的墓穴. 他们绑架了我们并逼迫我们为他们工作!\"\n\n在他们准备逃走之前, 一个牧民再次转向你们: [CTP]\n\n[char1]: \"邪教徒们把他们的财宝藏在了洞穴最末端右侧的一间墓室里. 愿上帝保佑你们!\""
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Unlucky",
-						"text": "You search the cave carefully. Fortunately, you do not encounter any more cultists – but you do not find the chamber the old man spoke of... \n\nDisappointed, you turn back."
+						"text": "你仔细地搜寻了洞穴. 很幸运, 你们没有遇到更多的邪教徒 – 但你们也没找到老牧民所说的那间墓室... \n\n你们只能失望而返."
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Lucky",
-						"text": "You search the cave carefully. Fortunately, you do not encounter any more cultists – you soon reach the chamber that the old man spoke of."
+						"text": "你仔细地搜寻了洞穴. 很幸运, 你们没有遇到更多的邪教徒 – 而且你们很快找到了老牧民所说的那间墓室."
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice04",
-						"text": "Look for the chamber"
+						"text": "寻找墓室"
 					},
 					{
 						"id": "BE_EnslavedBeduinsMine01_Choice05",
