@@ -2730,15 +2730,15 @@
 					},
 					{
 						"id": "LE_DerelictCar01_Intro",
-						"text": "Between the crooked huts of a deserted village, you find a dusty old wrecked car. The passenger door screeches as you pull it open. \n\n[char0]: \"What a pile of garbage!\"\n\nYou tap at the tank anyway to check for gasoline:"
+						"text": "你在一座荒村的破败小屋间发现一辆落满灰尘的老旧汽车的残骸, 车门被打开的时候发出了刺耳的咿呀声. \n\n [char0]: \"这是一堆什么破玩意儿! \"\n\n你敲了敲油箱检查里面是否还有汽油:"
 					},
 					{
 						"id": "LE_DerelictCar01_LootW",
-						"text": "Who would have imagined? There’s still some gasoline in there!"
+						"text": "谁能想到? 里面竟然还真有一些汽油!"
 					},
 					{
 						"id": "LE_DerelictCar01_LootF",
-						"text": "The tank sounds as empty as you imagined it would."
+						"text": "油箱里和你想的一样, 空空如也."
 					},
 					{
 						"id": "LE_DerelictCar01_Choice01",
@@ -2746,51 +2746,51 @@
 					},
 					{
 						"id": "LE_DerelictCar01_Choice02",
-						"text": "Search the area"
+						"text": "检查该区域"
 					},
 					{
 						"id": "LE_DerelictCar01_DetectionW",
-						"text": "Just as you are about to leave, [char1]'s face lights up. He leans over one of the crooked walls and picks up a dusty jerrycan. \n\n[char1]: \"Ha! It’s still half full!\""
+						"text":"就在你们准备离开的时候, [char1]眼前一亮. 他在一面歪歪斜斜的墙边俯下身, 捡起了一只落满灰尘的四方形汽油桶. \n\n[char1]: \"哈! 里面还有一半儿! \""
 					},
 					{
 						"id": "LE_DerelictCar01_DetectionW_female",
-						"text": "Just as you are about to leave, [char1]'s face lights up. She leans over one of the crooked walls and picks up a dusty jerrycan. \n\n[char1]: \"Ha! It’s still half full!\""
+						"text": "就在你们准备离开的时候, [char1]眼前一亮. 她在一面歪歪斜斜的墙边俯下身, 捡起了一只落满灰尘的四方形汽油桶. \n\n[char1]: \"哈! 里面还有一半儿! \""
 					},
 					{
 						"id": "LE_DerelictCar01_DetectionF",
-						"text": "[char1] stops briefly and looks around, then frowns and shakes his head. You move on."
+						"text": "[char1]短暂地停顿环顾四周, 然后皱起眉摇了摇头. 你们继续前进. "
 					},
 					{
 						"id": "LE_DerelictCar01_DetectionF_female",
-						"text": "[char1] stops briefly and looks around, then frowns and shakes her head. You move on."
+						"text": "[char1]短暂地停顿环顾四周, 然后皱起眉摇了摇头. 你们继续前进. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Intro",
-						"text": "A few foundation walls are all that remains of the temple complex, half-buried in the sand and rocks. \n\nYou search the area, but apart from a small rock altar, you find nothing of importance."
+						"text": "这座神庙群只剩下些残垣断壁, 半掩埋在沙子和岩石间. \n\n你们搜索了这片区域, 但除了一座小型岩石祭坛外, 你们没有发现任何有价值的东西. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Leave01",
-						"text": "Examining the altar reveals no new information. It must be many years since a living creature set foot in this desolate place. [CTP]\n\nYou are seized by a strange restlessness and decide to leave this oppressive place as fast as you can."
+						"text": "你们检查了祭坛也没有任何新的发现. 一定有好多年没有任何活物踏足过这片荒凉之地了. [CTP]\n\n你们莫名地感到一阵焦躁不安, 决定尽可能快地离开这个压抑的地方. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_OccultW",
-						"text": "As if in a trance, [char0] kneels before the altar. His eyes are strangely glazed as he chants a strange melody. A strange tension fills the air and the hair stands up on the back of your neck. [CTP]\n\nMoving like a puppet on invisible strings, [char0] grabs a sharp-edged flint and slashes the palm of his hand. His blood drips onto the altar as if in slow motion, and suddenly the sand in the inner courtyard parts to reveal an old stone shaft that leads vertically down into the depths."
+						"text": "[char0]在祭坛前跪下, 精神好像有点恍惚. 他目光奇怪而呆滞, 嘴里吟唱着一段奇怪的旋律. 奇异紧张的氛围弥漫在空气中, 你们背上的寒毛不由地一根根竖了起来. [CTP]\n\n[char0]此刻就像是一具被看不见的丝线操纵着的人偶, 他抓起一块锋利的燧石向他的手掌削去. 他的鲜血像慢动作一样滴落在祭坛上, 突然内院沙地上的沙子向两边分开, 露出一条垂直向下通往深处的古老通道. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_OccultW2",
-						"text": "[char0] opens his eyes, as if awakening from a deep slumber. You take a deep breath and think about what you want to do:"
+						"text": "[char0]睁开眼睛, 仿佛刚从沉睡中醒来. 你深吸一口气, 思考着你要怎么做:"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_OccultW_female",
-						"text": "As if in a trance, [char0] kneels before the altar. Her eyes are strangely glazed as she chants a strange melody. A strange tension fills the air and the hair stands up on the back of your neck. [CTP]\n\nMoving like a puppet on invisible strings, [char0] grabs a sharp-edged flint and slashes the palm of her hand. Her blood drips onto the altar as if in slow motion, and suddenly the sand in the inner courtyard parts to reveal an old stone shaft that leads vertically down into the depths."
+						"text":"[char0]在祭坛前跪下, 精神好像有点恍惚. 她目光奇怪而呆滞, 嘴里吟唱着一段奇怪的旋律. 奇异紧张的氛围弥漫在空气中, 你们背上的寒毛不由地一根根竖了起来. [CTP]\n\n[char0]此刻就像是一具被看不见的丝线操纵着的人偶, 她抓起一块锋利的燧石向她的手掌削去. 她的鲜血像慢动作一样滴落在祭坛上, 突然内院沙地上的沙子向两边分开, 露出一条垂直向下通往深处的古老通道. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_OccultW2_female",
-						"text": "[char0] opens her eyes, as if awakening from a deep slumber. You take a deep breath and think about what you want to do:"
+						"text": "[char0]睁开眼睛, 仿佛刚从沉睡中醒来. 你深吸一口气, 思考着你要怎么做:"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Choice01",
-						"text": "Enter the temple"
+						"text": "进入神庙"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Choice02",
@@ -2798,95 +2798,95 @@
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Enter",
-						"text": "You secure the shaft with a crossbeam and then rappel down. What awaits you in the depths?"
+						"text": "你们把绳索固定在一段横梁上然后垂直降下去. 深处会有什么在等着你们呢?"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Leave02",
-						"text": "You are gripped with an inexplicable panic and decide to leave this godless place as quickly as possible!"
+						"text": "你们感到一种无法言语的恐惧, 决定尽快离开这片无主之地! "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_Corridor",
-						"text": "You slowly make your way through an ancient passage that leads you ever deeper into the unknown. The condition of the passage worsens with every step. Finally, you come to a completely dilapidated passage that seems like it might collapse at any moment."
+						"text": "你慢慢地穿过一条古老的通道, 通道一直通往地下越来越深处的未知世界. 你们每往前走一步, 通道的状况都变得越来越糟. 最后, 你们面前的通道已经破旧到似乎随时都有可能坍塌下来. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_Choice01",
-						"text": "Proceed"
+						"text": "继续前进"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_Choice02",
-						"text": "Secure passage"
+						"text": "加固通道"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_Choice03",
-						"text": "Turn back"
+						"text": "原路返回"
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_ProceedW",
-						"text": "Dust trickles down with every step you take, a few small stones fall from the ceiling – but nothing else happens! Relieved, you look around."
+						"text": "你们每走一步都有尘土落下来, 还有一些小石块从天花板上掉下来 - 但除此之外什么也没有发生. 你们松了口气, 环顾四周."
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_ProceedF",
-						"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nSeveral beams break away from the passageway, burying [char1]! You manage to dig him free, but his shoulder looks badly injured."
+						"text": "你们每走一步都有尘土落下来. 突然你们听到一声不祥的咯吱声! \n\n几根横梁从通道上方脱落, 把[char1]埋在了下面! 你们把他挖了出来, 但他的肩膀看上去受了重伤."
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_ProceedF_female",
-						"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nSeveral beams break away from the passageway, burying [char1]! You manage to dig her free, but her shoulder looks badly injured."
+						"text":"你们每走一步都有尘土落下来. 突然你们听到一声不祥的咯吱声! \n\n几根横梁从通道上方脱落, 把[char1]埋在了下面! 你们把她挖了出来, 但她的肩膀看上去受了重伤."
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_TechnicalW",
-						"text": "[char2] takes command. Under his direction, you search for beams and wooden boards. You use them to shore up the passageway before continuing down it gingerly.\n\nDust trickles down with every step you take, a few small stones fall from the ceiling – but nothing else happens! Relieved, you look around."
+						"text": "[char2]开始指挥. 在他的指引下, 你们找了些木梁和木板并用它们加固了通道, 之后你们才又小心翼翼地继续往下走. \n\n你们每走一步都有尘土落下来, 还有一些小石块从天花板上掉下来 - 但除此之外什么也没有发生. 你们松了口气, 环顾四周."
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_TechnicalW_female",
-						"text": "[char2] takes command. Under her direction, you search for beams and wooden boards. You use them to shore up the passageway before continuing down it gingerly.\n\nDust trickles down with every step you take, a few small stones fall from the ceiling – but nothing else happens! Relieved, you look around."
+						"text": "[char2]开始指挥. 在她的指引下, 你们找了些木梁和木板并用它们加固了通道, 之后你们才又小心翼翼地继续往下走. \n\n你们每走一步都有尘土落下来, 还有一些小石块从天花板上掉下来 - 但除此之外什么也没有发生. 你们松了口气, 环顾四周."
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_TechnicalF01",
-						"text": "[char2] takes command. Under his direction, you search for beams and wooden boards. \n\nYou use them to shore up the passageway before continuing down it gingerly."
+						"text": "[char2]开始指挥. 在他的指引下, 你们找了些木梁和木板并用它们加固了通道, 之后你们才又小心翼翼地继续往下走. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_TechnicalF01_female",
-						"text": "[char2] takes command. Under her direction, you search for beams and wooden boards. \n\nYou use them to shore up the passageway before continuing down it gingerly."
+						"text": "[char2]开始指挥. 在她的指引下, 你们找了些木梁和木板并用它们加固了通道, 之后你们才又小心翼翼地继续往下走. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_TechnicalF02",
-						"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nA wooden beam breaks away from the passageway, smashing into [char3]’s shoulder!"
+						"text": "你们每走一步都有尘土落下来. 突然你们听到一声不祥的咯吱声! \n\n几根横梁从通道上方脱落, 砸到了[char1]的肩膀! "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_TechnicalF02_female",
-						"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nA wooden beam breaks away from the passageway, smashing into [char3]’s shoulder!"
+						"text":"你们每走一步都有尘土落下来. 突然你们听到一声不祥的咯吱声! \n\n几根横梁从通道上方脱落, 砸到了[char1]的肩膀! "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_Leave",
-						"text": "After a short discussion, you decide to turn back."
+						"text": "经过一番简短的讨论, 你们决定原路返回. "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_Sarcophagus",
-						"text": "You enter a sprawling burial chamber. Massive columns, covered from top to bottom with hieroglyphs, line an aisle that leads up to a dusty sarcophagus. [CTP]\n\nYou carefully check the sarcophagus for traps, but you do not discover anything. \n\nWorking together, you push the granite slab aside to take a look inside the sarcophagus. \n\nYou catch your breath: this is the final resting place of a embalmed priestess - and she was buried with some very valuable-looking burial objects!"
+						"text":"你们进入了一间巨大而不规则的墓室. 巨大的石柱排列在过道两侧, 石柱从上到下刻满了象形文字, 过道一直通向一口落满灰尘的石棺. [CTP]\n\n你们仔细检查石棺以防有陷阱, 但什么也没有发现. \n\n你们合力将花岗岩板做的盖子推到一边, 看向石棺内部. \n\n你们不由屏住了呼吸: 里面是一具女祭司保存完好的尸体, 这里是她最后的安息之地 - 而她身边还有一些看上去价值不菲的陪葬品! "
 					},
 					{
 						"id": "LE_ForlornGhostTemple01_RE01_GraveRobber",
-						"text": "Stooped over, you work your way step by step along the narrow passage until you finally reach the end: \n\nThe corridor has collapsed here. There is nothing you can do but turn back. You curse your bad luck! \n\nJust as you are about to turn back you see something in the rubble of the cave in:[CTP]\n\nThe mortal remains of a grave robber! \n\nYou look around carefully and spot a tripwire that disappears into holes in the walls on either side of the passage: A trap triggered by the hapless grave robber! \n\nThe man holds a small bundle in his mummified hands. What might it contain?"
+						"text":"你们弯下腰沿着狭窄的通道一步一步地往前走, 直到你们最终走到了路的尽头: \n\n这里的走廊已经坍塌. 你们对此束手无策, 只能原路折返. 你因为糟糕的运气而想要骂娘! \n\n但就在你们准备回头的时候, 你在坍塌的石堆中看到了一些东西: [CTP]\n\n一具盗墓贼的尸体! \n\n你仔细环顾四周, 看到一条绊线消失在通道两侧墙壁上的洞里: 这可怜的盗墓贼触发了一个陷阱! \n\n他干瘪的手上拿着一个小小的包裹. 里面会装着什么呢? "
 					},
 					{
 						"id": "LE_GraveRobberCache01_Intro",
-						"text": "After a long, exhausting journey you take a short rest in the shadow of a rock formation that protrudes like a lonely, admonishing finger from the monotony of the desert. [CTP]\n\nYou prepare to continue your journey after a short rest. As you gather your things, you discover some cloth-wrapped bundles hidden in a nearby niche in the rocks. \n\nYou untie the bundles and your suspicions are confirmed: You have come across the secret stash of some local grave robbers!"
+						"text": "经过一段漫长而疲惫的旅程后, 你们在一块岩石的阴影下短暂停留. 这块岩石结构外形就像是一根在做训诫手势的手指, 孤零零地耸立在单调而一成不变的沙漠中. [CTP]\n\n短暂休息过后你们准备继续上路. 但在整理东西的时候, 你们发现附近岩石中的一个小洞里藏着一些用布包起来的包裹. \n\n你们解开包裹, 你的怀疑得到了证实: 你们发现了一处当地盗墓贼藏匿赃物的地点! "
 					},
 					{
 						"id": "LE_LostNaziCanisters01_Intro",
-						"text": "You suddenly see something flash in the endless sea of ​​dunes. \n\nYou soon come to a track that crosses your path: You see the tire tracks of several vehicles – probably a German military convoy. [CTP]\n\nYour suspicions are confirmed when you find a long line of jerrycans scattered along the edge of the track: German army supplies! They probably fell off a truck during a night convoy!\n\nThe jerrycans are full of gasoline! You gather them up and leave before anybody else comes along."
+						"text":"你在无尽的沙海中突然看到有什么东西闪了一下. \n\n你们很快发现一条和你们路线交叉的道路: 你看到了好几辆车的轮胎印, 可能是德军的一支车队曾经过这里. [CTP]\n\n你怀疑的没错, 因为你看到路边掉了一路的四方形汽油桶: 是德军的补给! 它们可能是在夜间行军的时候从卡车上掉下来的! \n\n这些汽油桶里装满了汽油! 你们把它们收集了起来, 然后趁还没有别人看到迅速地离开了. "
 					},
 					{
-						"id": "LE_FleeingNaziScouts01_Intro",
-						"text": "In the shade of an ancient colonnade, two German soldiers have set up an improvised camp. They are clearly scouts on a reconnaissance mission. \n\nWhen they see you approaching, they jump frantically into their jeep and race full throttle across the dunes, leaving a huge cloud of sand behind them. [CTP] \n\nYou exchange somewhat confused glances – you must look fearsome indeed! Then your gaze falls on the Wehrmacht crates, that the two war heroes left behind in their hurry to escape: You quickly open the crates and rummage through their contents. You don’t wait around to see if the soldiers return with reinforcements."
+						"id":"LE_FleeingNaziScouts01_Intro",
+						"text":"两名德国士兵在一个古代柱廊的阴凉处搭了个临时营地. 他们显然是两个正在执行侦察任务的侦察兵. \n\n当他们看到你们靠近时, 他们疯狂地跳上吉普车, 开足马力一溜烟穿过沙丘跑了, 留下一大团沙尘在身后. [CTP]\n\n你们交换了下多少有些疑惑的眼神 – 或许你们看起来真的很吓人! 然后你们的目光落在了两位战争英雄落荒而逃后落下的军用箱子上: 你们迅速打开箱子, 翻遍了里面的东西. 你们也没等看士兵们是否带着援军回来就匆匆离开了. "
 					},
 					{
 						"id": "LE_VillageVault01_Intro",
-						"text": "这村子显然已经被废弃多年了; 水井淤塞了,茅屋的屋顶也塌下来了. 你试图在茅屋里搜出些有用的东西来,但什么也没有. [CTP]\n\n一个响亮的呼喊声吓了你一跳: [char0] 站在最大房子的院子里,兴奋地想你招手. 在他面前的地上, 你看到有一块石板,中间有一个旧铁环 – 这会是地窖的入口吗?"
+						"text": "这村子显然已经被废弃多年了; 水井淤塞了, 茅屋的屋顶也塌下来了. 你们试图在茅屋里搜出些有用的东西来, 但一无所获. [CTP]\n\n一声响亮的呼喊吓了你一跳: [char0]站在最大房子的院子里, 兴奋地向你招手. 在他面前的地上, 你看到有一块石板, 中间有一个旧铁环 – 这会是地窖的入口吗?"
 					},
 					{
 						"id": "LE_VillageVault01_Intro_female",
-						"text": "这村子显然已经被废弃多年了; 水井淤塞了,茅屋的屋顶也塌下来了. 你试图在茅屋里搜出些有用的东西来,但什么也没有. [CTP]\n\n一个响亮的呼喊声吓了你一跳: [char0] 站在最大房子的院子里,兴奋地想你招手. 在她面前的地上, 你看到有一块石板,中间有一个旧铁环 – 这会是地窖的入口吗?"
+						"text": "这村子显然已经被废弃多年了; 水井淤塞了, 茅屋的屋顶也塌下来了. 你们试图在茅屋里搜出些有用的东西来, 但一无所获. [CTP]\n\n一声响亮的呼喊吓了你一跳: [char0]站在最大房子的院子里, 兴奋地向你招手. 在她面前的地上, 你看到有一块石板, 中间有一个旧铁环 – 这会是地窖的入口吗?"
 					},
 					{
 						"id": "LE_VillageVault01_Choice01",
@@ -2902,67 +2902,67 @@
 					},
 					{
 						"id": "LE_VillageVault01_Fail01",
-						"text": "尽管你使尽了力气,但你还是搬不动那块巨大的石板. 沮丧之下,你离开了村子."
+						"text": "尽管你使尽了力气, 但你还是搬不动那块巨大的石板. 你们沮丧地离开了村子."
 					},
 					{
 						"id": "LE_VillageVault01_Fail02",
-						"text": "[char1] 用尽全力,但那块巨大的石板还是纹丝不动. 突然,你听到了一声巨响: [char1] 痛苦地呻吟着,放弃了努力!"
+						"text": "[char1]用尽全力, 但那块巨大的石板还是纹丝不动. 突然, 你听到了一声脆响: [char1]一边捂着背一边痛苦地呻吟!"
 					},
 					{
 						"id": "LE_VillageVault01_Fail02_female",
-						"text": "[char1] 用尽全力,但那块巨大的石板还是纹丝不动. 突然,你听到了一声巨响: [char1] 痛苦地呻吟着,放弃了努力!"
+						"text": "[char1]用尽全力, 但那块巨大的石板还是纹丝不动. 突然, 你听到了一声脆响: [char1]一边捂着背一边痛苦地呻吟!"
 					},
 					{
 						"id": "LE_VillageVault01_RawStrengthW",
-						"text": "[char2] 深吸一口气,抓住了铁环. 他吃力地喘着气,抬起石板,把它推到一边. \n\n有一个摇晃的木梯通向一个小地窖. 你在墙上的架子上搜索了一下,但除了灰尘和污物,什么也没找到. 然后你看到了靠在墙边的木头宝箱..."
+						"text": "[char2]深吸一口气, 抓住了铁环. 他吃力地喘着气, 抬起石板, 把它推到一边. \n\n有一个摇晃的木梯通向下面的一个小地窖. 你在墙上的架子上搜索了一番, 但除了灰尘和脏东西, 什么也没找到. 但接着你看到有个木头宝箱靠在墙边..."
 					},
 					{
 						"id": "LE_VillageVault01_RawStrengthW_female",
-						"text": "[char2] 深吸一口气,抓住了铁环. 他吃力地喘着气,抬起石板,把它推到一边. \n\n有一个摇晃的木梯通向一个小地窖. 你在墙上的架子上搜索了一下,但除了灰尘和污物,什么也没找到. 然后你看到了靠在墙边的木头宝箱..."
+						"text": "[char2]深吸一口气, 抓住了铁环. 她吃力地喘着气, 抬起石板, 把它推到一边. \n\n有一个摇晃的木梯通向下面的一个小地窖. 你在墙上的架子上搜索了一番, 但除了灰尘和脏东西, 什么也没找到. 但接着你看到有个木头宝箱靠在墙边..."
 					},
 					{
 						"id": "LE_VillageVault01_RawStrengthF",
-						"text": "[char2] 用尽全力,但那块巨大的石板还是纹丝不动. 沮丧之下, 你们继续了你们的旅程."
+						"text": "[char2]用尽全力,但那块巨大的石板还是纹丝不动. 沮丧之下, 你们继续踏了旅程."
 					},
 					{
 						"id": "LE_VillageVault01__RawStrengthF_female",
-						"text": "[char2] 用尽全力,但那块巨大的石板还是纹丝不动. 沮丧之下, 你们继续了你们的旅程."
+						"text": "[char2]用尽全力,但那块巨大的石板还是纹丝不动. 沮丧之下, 你们继续踏了旅程."
 					},
 					{
 						"id": "AE_TankLeak01_Intro",
-						"text": "You have been making good progress, so you're in high spirits when you take a short break. \n\nAfter a quick meal, you are about to continue your journey when you make an unpleasant discovery: The sand and rocky ground around your jeep is soaked in gasoline. [CTP]\n\nA hasty inspection confirms your suspicions: A pebble must have hit the tank at full speed and ripped open a small hole from which gasoline is now slowly dripping. \n\nThe hole is quickly plugged, but the damage is done!"
+						"text": "事情进展的很顺利, 短暂休息过后, 你们的心情也特别的舒畅. \n\n然而当你们简单吃了点东西准备继续上路的时候, 你们发现了一件令人不快的事情: 吉普车周围的沙子和岩石地面都被汽油浸透了. [CTP]\n\n一番仓促的检查证实了你们的怀疑: 一定是一颗卵石全速撞击了油箱, 在上面撕开了一个小孔, 而汽油正从这个小孔中不断地慢慢滴下. \n\n虽然孔很快被堵上了, 但损失已经无法挽回!"
 					},
 					{
 						"id": "AE_Quicksand01_Intro",
-						"text": "你在这无边无际的沙丘之海中休息了一会儿."
+						"text": "你在这无边无际的沙海中短暂休息了一会儿."
 					},
 					{
 						"id": "AE_Quicksand01_SurvivalW",
-						"text": "As you take a short walk to stretch your tired limbs a little, [char0] suddenly raises his hand in warning: \n\n[char0]: \"Stop! That’s quicksand up ahead! I’ve seen entire caravans disappear in sand fields like these.\"\n\nYou heed his warning and keep a respectful distance from the quicksand. You are soon on your way again."
+						"text": "当你想散会儿步来伸展下你疲惫的四肢时, [char0]突然抬手警告你: "等下! 前面有流沙! 我见过一整个商队都被这样的沙地吞掉过. \n\n你听取了他的警告, 恭敬地与流沙保持一段足够的距离. 你们很快又上路了."
 					},
 					{
 						"id": "AE_Quicksand01_SurvivalW_female",
-						"text": "As you take a short walk to stretch your tired limbs a little, [char0] suddenly raises her hand in warning: \n\n[char0]: \"Stop! That’s quicksand up ahead! I’ve seen entire caravans disappear in sand fields like these.\"\n\nYou heed her warning and keep a respectful distance from the quicksand. You are soon on your way again."
+						"text": "当你想散会儿步来伸展下你疲惫的四肢时, [char0]突然抬手警告你: "等下! 前面有流沙! 我见过一整个商队都被这样的沙地吞掉过. \n\n你听取了她的警告, 恭敬地与流沙保持一段足够的距离. 你们很快又上路了."
 					},
 					{
 						"id": "AE_Quicksand01_Lucky",
-						"text": "After a short walk to stretch your tired limbs a little, you're on your way again."
+						"text": "稍微散了会儿步, 伸展了下疲惫的四肢, 你们便又上路了. "
 					},
 					{
 						"id": "AE_Quicksand01_Unlucky",
-						"text": "A short time later, you hear a smothered cry for help! You rush over the next dune ridge – and see [char1] floundering and up to his chest in quicksand! [char1] waves his arms in desperation and sinks ever deeper into the sand right before your eyes! \n\nYou immediately throw him a rope and pull with all your might. [CTP]\n\nThe quicksand refuses to release its prey without a fight, but eventually you manage it: You lie in the sand, panting heavily and drenched in sweat. [char1]’s equipment has been badly damaged."
+						"text":"过了一会儿, 你听到一阵快要窒息了的呼救! 你冲上边上沙丘的顶部 - 看到[char1]在流沙中挣扎, 沙子已经没到了他的胸前! [char1]绝望地挥动着他的手臂, 在你眼前的沙地里陷得越来越深! \n\n你立即扔给[char1]一根绳子, 用尽全力拉. [CTP]\n\n流沙不经过一番搏斗就拒绝释放它的猎物, 但最终你成功了: 你们躺在沙地上, 气喘吁吁, 汗流浃背. [char1]的装备严重受损. "
 					},
 					{
 						"id": "AE_Quicksand01_Unlucky_female",
-						"text": "A short time later, you hear a smothered cry for help! You rush over the next dune ridge – and see [char1] floundering and up to her chest in quicksand! [char1] waves her arms in desperation and sinks ever deeper into the sand right before your eyes!\n\nYou immediately throw her a rope and pull with all your might. [CTP]\n\nThe quicksand refuses to release its prey without a fight, but eventually you manage it: You lie in the sand, panting heavily and drenched in sweat. [char1]’s equipment has been badly damaged."
+						"text":"过了一会儿, 你听到一阵快要窒息了的呼救! 你冲上边上沙丘的顶部 - 看到[char1]在流沙中挣扎, 沙子已经没到了她的胸前! [char1]绝望地挥动着她的手臂, 在你眼前的沙地里陷得越来越深! \n\n你立即扔给[char1]一根绳子, 用尽全力拉. [CTP]\n\n流沙不经过一番搏斗就拒绝释放它的猎物, 但最终你成功了: 你们躺在沙地上, 气喘吁吁, 汗流浃背. [char1]的装备严重受损. "
 					},
 					{
 						"id": "AE_OldMiningShaft01_Intro",
-						"text": "The bumpy dirt track leads you through rocky terrain when a turnoff appears on your left. It is obviously a dead end that stops not far from a rock face. But wait... what’s that? An old mine entrance?"
+						"text": "颠簸的泥路把你们带到了一处崎岖的地形. 左侧突然出现了一条岔路. 那明显是一条死路, 没多远就被一块岩石挡住了. 但是等等......那是什么?  一个古老的矿井入口? "
 					},
 					{
 						"id": "AE_OldMiningShaft01_Choice01",
-						"text": "检视矿井入口"
+						"text": "调查矿井入口"
 					},
 					{
 						"id": "AE_OldMiningShaft01_Choice02",
@@ -2970,47 +2970,47 @@
 					},
 					{
 						"id": "AE_OldMiningShaft01_Enter",
-						"text": "After a dozen steps, the tunnel ends in a blank rock face. A shaft dug into the ground leads into the depths, surrounded by a pile of rubble from old wooden beams and bobbins. \n\nEverything around you seems derelict and dilapidated."
+						"text": "走了十几步, 通道的尽头是一块空白的岩石. 有一口竖井一直通向地下深处, 竖井周围散落着一堆旧木梁和缠线板之类的碎屑. \n\n你周围的一切看上去都是那么的老旧破败. "
 					},
 					{
 						"id": "AE_OldMiningShaft01_Choice03",
-						"text": "Leave the mine"
+						"text": "离开矿井"
 					},
 					{
 						"id": "AE_OldMiningShaft01_Choice04",
-						"text": "Explore the mine"
+						"text": "探索矿井"
 					},
 					{
 						"id": "AE_OldMiningShaft01_Choice05",
-						"text": "Repair the winch"
+						"text": "修理绞盘"
 					},
 					{
 						"id": "AE_OldMiningShaft01_Accident",
-						"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! [CTP]\n\nIn a panic, you dive out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed. \n\n[char0] is cursing and holding his left calf, which has been pierced by a finger-thick splinter of wood."
+						"text": "这座旧矿井让你有种不安的感觉. 你刚转过身来 - 顷刻间沙子从天花板上滑落下来, 边梁在岁月的重压下嘎吱作响! [CTP]\n\n你们慌忙跑回外面的空地, 身后紧跟着一大团的灰尘! 你环顾四周, 发现矿井已经坍塌了. \n\n[char0]一边咒骂一边抱着他的左小腿, 他的左小腿被一根手指粗的木片刺穿了."
 					},
 					{
-						"id": "AE_OldMiningShaft01_Accident_female",
-						"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! [CTP]\n\nIn a panic, you dive out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed. \n\n[char0] is cursing and holding her left calf, which has been pierced by a finger-thick splinter of wood."
+						"id":"AE_OldMiningShaft01_Accident_female",
+						"text":"这座旧矿井让你有种不安的感觉. 你刚转过身来 - 顷刻间沙子从天花板上滑落下来, 边梁在岁月的重压下嘎吱作响! [CTP]\n\n你们慌忙跑回外面的空地, 身后紧跟着一大团的灰尘! 你环顾四周, 发现矿井已经坍塌了. \n\n[char0]一边咒骂一边抱着她的左小腿, 他的左小腿被一根手指粗的木片刺穿了."
 					},
 					{
 						"id": "AE_OldMiningShaft01_DetectionW",
-						"text": "Alarmed, [char1] places his index finger on his lips and points at the wall of the tunnel in front of you: softly, almost invisibly, a fine line of sand trickles out from behind the supporting frame! \n\nStep by step, you slowly work your way towards the exit, careful to avoid knocking into anything. [CTP]\n\nYou have barely reached the open air when the side beams creak loudly under the weight of the years: the mineshaft collapses with a deafening crash! You have escaped death by a hair's breadth..."
+						"text": "[char1]警觉地将食指放在嘴唇上示意你们不要出声, 并指向你面前的隧道墙壁: 一股轻柔地, 几乎看不见的细沙正从支撑柱后面流出! \n\n你们一步一步慢慢地走向出口, 小心地避免撞到任何东西. [CTP]\n\n你们刚到达出口处, 侧梁就开始在岁月的重压下大声吱吱作响, 矿井在一阵震耳欲聋的撞击声中轰然倒塌! 你们以毫厘之差逃过一劫..."
 					},
 					{
 						"id": "AE_OldMiningShaft01_DetectionW_female",
-						"text": "Alarmed, [char1] places her index finger on her lips and points at the wall of the tunnel in front of you: softly, almost invisibly, a fine line of sand trickles out from behind the supporting frame! \n\nStep by step, you slowly work your way towards the exit, careful to avoid knocking into anything. [CTP]\n\nYou have barely reached the open air when the side beams creak loudly under the weight of the years: the mineshaft collapses with a deafening crash! You have escaped death by a hair's breadth..."
+						"text":"[char1]警觉地将食指放在嘴唇上示意你们不要出声, 并指向你面前的隧道墙壁: 一股轻柔地, 几乎看不见的细沙正从支撑柱后面流出! \n\n你们一步一步慢慢地走向出口, 小心地避免撞到任何东西. [CTP]\n\n你们刚到达出口处, 侧梁就开始在岁月的重压下大声吱吱作响, 矿井在一阵震耳欲聋的撞击声中轰然倒塌! 你们以毫厘之差逃过一劫..."
 					},
 					{
 						"id": "AE_OldMiningShaft01_DetectionF",
-						"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! \n\nIn a panic, you dive back out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed!"
+						"text": "这座旧矿井让你有种不安的感觉. 你刚转过身来 - 顷刻间沙子从天花板上滑落下来, 边梁在岁月的重压下嘎吱作响! [CTP]\n\n你们慌忙跑回外面的空地, 身后紧跟着一大团的灰尘! 你环顾四周, 发现矿井已经坍塌了. "
 					},
 					{
 						"id": "AE_OldMiningShaft01_TechnicalW",
-						"text": "With a few competent actions, [char2] returns the winch to working order. With a sinking feeling you lower yourself into the unknown. [CTP]\n\nBitter disappointment awaits you below: The tunnel has collapsed. The only way out is back up the shaft. \n\nThen your eyes fall on a dusty wooden box, lying inconspicuously among the rubble..."
+						"text":"经过一番熟练地修理, [char2]让绞车再次正常运转起来. 怀揣着不安的情绪你慢慢下到未知的深处. [CTP]\n\n令人失望的是, 下面的隧道已经坍塌. 唯一的出路就是把绞车倒回去. \n\n你看到有个落满灰尘的木箱毫不起眼地躺在碎石堆中..."
 					},
 					{
 						"id": "AE_OldMiningShaft01_TechnicalW_female",
-						"text": "With a few competent actions, [char2] returns the winch to working order. With a sinking feeling you lower yourself into the unknown. [CTP]\n\nBitter disappointment awaits you below: The tunnel has collapsed. The only way out is back up the shaft. \n\nThen your eyes fall on a dusty wooden box, lying inconspicuously among the rubble..."
+						"text":"经过一番熟练地修理, [char2]让绞车再次正常运转起来. 怀揣着不安的情绪你慢慢下到未知的深处. [CTP]\n\n令人失望的是, 下面的隧道已经坍塌. 唯一的出路就是把绞车倒回去. \n\n你看到有个落满灰尘的木箱毫不起眼地躺在碎石堆中..."
 					},
 					{
 						"id": "AE_OldMiningShaft01_TechnicalF",
