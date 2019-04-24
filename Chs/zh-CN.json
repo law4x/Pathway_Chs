@@ -4798,131 +4798,131 @@
 					},
 					{
 						"id": "GE_ParadiseGarden01_Intro",
-						"text": "You find a strange altar between the rocks. You approach the glossy black slab that appears to have been cut from of a massive block of obsidian. \n\nBehind it, you discover another man-sized obsidian block embedded in the rock face. [CTP]\n\nCould it cover a passageway? What might be hidden behind the block?"
+						"text": "你在岩石之间找到了一个奇怪的祭坛, 并接近了那一块看起来是从巨大的黑曜石上切下的有光泽的黑色石板. \n\n在它背后, 你发现了另一个嵌入岩壁的, 和人体一般大的黑曜石块. [CTP]\n\n它可能隐藏着一条密道?  什么样的东西会藏在这障碍后面? "
 					},
 					{
 						"id": "GE_ParadiseGarden01_Choice01",
-						"text": "Open the obsidian portal"
+						"text": "开启黑曜石门"
 					},
 					{
 						"id": "GE_ParadiseGarden01_Choice02",
-						"text": "Inspect the obsidian altar"
+						"text": "检查黑曜石祭坛"
 					},
 					{
 						"id": "GE_ParadiseGarden01_Choice03",
-						"text": "Perform a ritual"
+						"text": "举行一场仪式"
 					},
 					{
 						"id": "GE_ParadiseGarden01_Choice04",
-						"text": "Continue journey"
+						"text": "继续你的旅程"
 					},
 					{
 						"id": "GE_ParadiseGarden01_Choice05",
-						"text": "Scale the rock face"
+						"text": "登上岩石表面"
 					},
 					{
 						"id": "GE_ParadiseGarden01_OpenDoorF",
-						"text": "The huge, impenetrable obsidian portal is built into the rock.\n\nDiscouraged, you appraise the rock face in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... \n\nDo you want to risk climbing it?"
+						"text": "这个巨大且令人费解的黑曜石门建立在岩石之间.\n\n你灰心丧气地估测了一下你面前的这堵岩石墙的高度: 十五英尺高, 而且是封死的, 这几乎是个不可逾越的障碍...几乎... \n\n你愿意冒着风险爬上去么? "
 					},
 					{
 						"id": "GE_ParadiseGarden01_AltarF",
-						"text": "The altar has no decorations whatsoever that might provide a clue to its purpose. \n\nYou look at the rock wall in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... \n\nDo you want to risk climbing it?"
+						"text": "这个祭坛上覆盖的雕饰并不能够提供什么关于这个祭坛用途的线索. \n\n你看向你前方的岩石墙壁: 十五英尺高, 而且是封死的, 这几乎是个不可逾越的障碍...几乎... \n\n你愿意冒着风险爬上去么? "
 					},
 					{
 						"id": "GE_ParadiseGarden01_AltarW",
-						"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nDisappointed, [char0] rests against the mysterious stone block – the moment his hand touches the altar’s sacrificial hollow, to your surprise, the obsidian portal opens with a loud rumble. \n\nThe passageway inside is clear!"
+						"text": "这个沥青般漆黑的祭坛并没有任何可能提供其目的线索的雕饰或雕文. [CTP]\n\n [char0]灰心丧气的靠在这个神秘的岩石障碍上休息 - 此时他的手触碰到了祭坛上的献祭凹槽上；出乎意料的是, 黑曜石大门在隆隆声中开启了. \n\n藏在其中的密道显现了!"
 					},
 					{
 						"id": "GE_ParadiseGarden01_AltarW_female",
-						"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nDisappointed, [char0] rests against the mysterious stone block – the moment her hand touches the altar’s sacrificial hollow, to your surprise, the obsidian portal opens with a loud rumble. \n\nThe passageway inside is clear!"
+						"text": "这个沥青般漆黑的祭坛并没有任何可能提供其目的线索的雕饰或雕文. [CTP]\n\n [char0]灰心丧气的靠在这个神秘的岩石障碍上休息 - 此时她的手触碰到了祭坛上的献祭凹槽上；出乎意料的是, 黑曜石大门在隆隆声中开启了. \n\n藏在其中的密道显现了!"
 					},
 					{
 						"id": "GE_ParadiseGarden01_OccultW",
-						"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nYou are dumbfounded when [char1] steps up to the mysterious slab brandishing a knife, which he slices across his palm! The moment the first drop of blood hits the altar, to your astonishment, the obsidian door opens with a loud rumble. \n\nThe passageway inside is clear!"
+						"text": "这个沥青般漆黑的祭坛并没有任何可能提供其目的线索的雕饰或雕文. [CTP]\n\n当[char1]快速且诡秘地挥舞着一把小刀, 在他的手掌上割开一刀时, 你被吓着了! 令你惊异的是, 在第一滴血落到祭坛上的时候, 黑曜石大门在隆隆声中开启了. \n\n藏在其中的密道显现了!"
 					},
 					{
 						"id": "GE_ParadiseGarden01_OccultW_female",
-						"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nYou are dumbfounded when [char1] steps up to the mysterious slab brandishing a knife, which she slices across her palm! The moment the first drop of blood hits the altar, to your astonishment, the obsidian door opens with a loud rumble. \n\nThe passageway inside is clear!"
+						"text": "这个沥青般漆黑的祭坛并没有任何可能提供其目的线索的雕饰或雕文. [CTP]\n\n当 [char1]快速且诡秘地挥舞着一把小刀, 在她的手掌上割开一刀时, 你被吓着了! 令你惊异的是, 在第一滴血落到祭坛上的时候, 黑曜石大门在隆隆声中开启了. \n\n藏在其中的密道显现了!"
 					},
 					{
 						"id": "GE_ParadiseGarden01_OccultF",
-						"text": "The pitch-black altar has no inscriptions whatsoever that might provide a clue to its purpose. \n\nYou are astounded when [char1] starts a strange chant in front of the mysterious block. Unfortunately, it has no effect whatsoever and [char1] eventually falls silent with a nervous giggle. [CTP]\n\nYou look at the rock wall in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... Do you want to risk climbing it?"
+						"text": "这个沥青般漆黑的祭坛并没有任何可能提供其目的线索的雕饰或雕文. \n\n当[char1]在那块神秘的障碍面前开始一段神秘的吟唱时, 你被震惊到了. 不幸的是, 这并没冇什么用, 而[char1]终究还是在尴尬的傻笑中陷入沉默了. [CTP]\n\n你看向你前方的岩石墙壁: 十五英尺高, 而且是封死的, 这几乎是个不可逾越的障碍...几乎... \n\n你愿意冒着风险爬上去么?"
 					},
 					{
 						"id": "GE_ParadiseGarden01_OccultF_female",
-						"text": "The pitch-black altar has no inscriptions whatsoever that might provide a clue to its purpose. \n\nYou are astounded when [char1] starts to sing a strange chant in front of the mysterious block. Unfortunately, it has no effect whatsoever and [char1] eventually falls silent with a nervous giggle. [CTP]\n\nYou look at the rock wall in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... Do you want to risk climbing it?"
+						"text": "这个沥青般漆黑的祭坛并没有任何可能提供其目的线索的雕饰或雕文. \n\n当[char1]在那块神秘的障碍面前开始一段神秘的吟唱时, 你被震惊到了.不幸的是, 这并没冇什么用, 而[char1]终究还是在尴尬的傻笑中陷入沉默了. [CTP]\n\n你看向你前方的岩石墙壁: 十五英尺高, 而且是封死的, 这几乎是个不可逾越的障碍...几乎... \n\n你愿意冒着风险爬上去么?"
 					},
 					{
 						"id": "GE_ParadiseGarden01_ClimbW",
-						"text": "It's a struggle, but using ropes, you finally manage to scale the rock face!"
+						"text": "这是个艰难的过程, 但有着绳子的帮助, 你最终攀上了岩石的表面! "
 					},
 					{
 						"id": "GE_ParadiseGarden01_ClimbF",
-						"text": "The climb is more difficult than expected. \n\n[char2] loses his grip near the top and comes crashing down! Cursing, he holds his leg. Frustrated, you continue your journey."
+						"text": "这次攀登比你预期的要艰难. \n\n[char2]在即将登顶时没有抓牢并滚落了下来! 他咒骂着抱着自己的腿. 你失落的继续你的旅程."
 					},
 					{
 						"id": "GE_ParadiseGarden01_ClimbF_female",
-						"text": "The climb is more difficult than expected. \n\n[char2] loses her grip near the top and comes crashing down! Cursing, she holds her leg. Frustrated, you continue your journey."
+						"text": "这次攀登比你预期的要艰难. \n\n[char2]在即将登顶时没有抓牢并滚落了下来! 她咒骂着抱着自己的腿. 你失落的继续你的旅程."
 					},
 					{
 						"id": "GE_ParadiseGarden01_Garden",
-						"text": "Beyond the rock face, you come across a true vision of paradise. A secret garden has grown up around a natural spring: A deep green sea of ​​lush foliage laden with dates sways gently in the wind. \n\nYou enjoy a spontaneous bath and pick enough succulent fruit to enjoy on your onward journey."
+						"text": "在岩石表面上的远处, 你遇见了真正的天堂的样子. 一个秘密花园围绕着天然的泉水生长: 一片由茂密的植物组成的绿色海洋在风中轻轻地摇摆. \n\n你们自发的享受了一次泡澡, 并采集了足够多的肉质水果, 在接下来的旅程中享用."
 					},
 					{
 						"id": "LE_GhostTown01_Intro",
-						"text": "Even from a distance, you can tell that something is wrong in the village ahead of you: a ghostly silence lies over the place. The huts seem deserted and there is no trace of its inhabitants. [CTP]\n\nThe desert wind carries the bleating of a stray goat somewhere in the distance. You swap nervous glances: What happened here?"
+						"text": "即使有一段距离, 你也能说你前方的村子出了些问题: 那地方如同幽灵一般的寂静. 这里的房舍荒废了, 而且没有这个村子居民的痕迹. [CTP]\n\n沙漠的风中传来了远方离群山羊凄惨的叫声. 你们交换了一下焦虑的眼神: 这里发生了什么?"
 					},
 					{
 						"id": "LE_GhostTown01_Choice01",
-						"text": "Explore the village"
+						"text": "探索村庄"
 					},
 					{
 						"id": "LE_GhostTown01_Choice02",
-						"text": "Assess the situation"
+						"text": "评估情况"
 					},
 					{
 						"id": "LE_GhostTown01_Choice03",
-						"text": "Leave this place"
+						"text": "离开这里"
 					},
 					{
 						"id": "LE_GhostTown01_Observe",
-						"text": "Carefully, and keeping to a safe distance, you skirt around the outer buildings of the village. There is no doubt that this place was still inhabited just a few hours ago! [CTP]\n\nAs you cast your eyes over the huts, you suddenly realize that what you initially believed to be shapeless, randomly scattered piles of rags, are actually the mortal remains of the villagers!"
+						"text": "保持着安全的距离, 你们谨慎地环绕着村子外部的建筑侦查,  没有疑问的是这里在几个小时前还有人居住过! [CTP]\n\n当你们把目光投到棚舍上时, 你突然明白并意识到原先你以为是堆四散零落的破布片的东西, 实际上是村民们的尸体! "
 					},
 					{
 						"id": "LE_GhostTown01_ObserveF",
-						"text": "Whatever fate befell the villagers, you are not keen to share it! \n\nYou head the other way. You just want to get away from this blighted place!"
+						"text": "无论什么样的命运降临到了这些村民身上, 你都不会想去了解它! \n\n你走向了另一条路. 你只想离开这被陨毁的地方! "
 					},
 					{
 						"id": "LE_GhostTown01_ObserveW",
-						"text": "You decide to investigate the mysterious village. You bind cloths over your faces to provide at least some kind of makeshift protection. \n\nYou do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village, you see a Wehrmacht jeep surrounded by the bodies of several German soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a pitch black obelisk protrudes from the sand. [CTP]\n\nYou listen to your instincts and leave the wretched place behind you. You will not be able to solve this puzzle! Before you leave, you search the soldiers' vehicle for anything useful."
+						"text": "你决定调查这个诡异的村子.你把衣服拉起来遮住你的脸来提供至少一点点勉强的保护. \n\n你并没有找到任何幸存者. 尸体倒在沙中, 毫无生气, 但没有什么痕迹能表明什么杀了他们. [CTP]\n\n在村子中心, 你看到了零散的德军士兵的尸体倒在一辆军用吉普旁. 在车旁, 你看见一个肯定是德国人挖出来的坑, 漆黑的方尖碑顶部在沙中露出一角. [CTP]\n\n你相信你的直觉并立刻离开了这凄惨的地方. 你没有能力解决这个谜团! 在你离开之前, 你在士兵的交通工具上寻找任何有用的东西."
 					},
 					{
 						"id": "LE_GhostTown01_EnterF",
-						"text": "You decide to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. There is a strange smell in the air - you start to cough involuntarily."
+						"text": "你决定调查这个诡异的村子. 你并没有找到任何幸存者. 尸体倒在沙中, 毫无生气, 但没有什么痕迹能表明什么杀了他们. [CTP]\n\n在村子中心, 你看到了零散的德军士兵的尸体倒在一辆军用吉普旁. 在车旁, 你看见一个肯定是德国人挖出来的坑, 漆黑的方尖碑顶部在沙中露出一角. 空气中有股奇怪的味道 - 你们开始不由自主地咳嗽了起来."
 					},
 					{
 						"id": "LE_GhostTown01_EnterF02",
-						"text": "Suddenly, [char0] collapses. His breathing rattles as bloodied mucus runs from his mouth and nose! \n\nAlarmed, you help him to his feet and quickly leave this perilous place!"
+						"text": "[char0]突然虚脱了. 在他剧烈咳嗽的同时, 血色的粘液从他的口鼻中涌出! \n\n你们帮助他站起来并立刻离开这恶心的地方!"
 					},
 					{
 						"id": "LE_GhostTown01_EnterF_female",
-						"text": "You decide to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. There is a strange smell in the air - you start to cough involuntarily."
+						"text": "你决定调查这个诡异的村子. 你并没有找到任何幸存者. 尸体倒在沙中, 毫无生气, 但没有什么痕迹能表明什么杀了他们. [CTP]\n\n在村子中心, 你看到了零散的德军士兵的尸体倒在一辆军用吉普旁. 在车旁, 你看见一个肯定是德国人挖出来的坑, 漆黑的方尖碑顶部在沙中露出一角. 空气中有股奇怪的味道 - 你们开始不由自主地咳嗽了起来."
 					},
 					{
 						"id": "LE_GhostTown01_EnterF02_female",
-						"text": "Suddenly, [char0] collapses. Her breathing rattles as bloodied mucus runs from her mouth and nose! \n\nAlarmed, you help her to her feet and quickly leave this perilous place!"
+						"text": "[char0]突然虚脱了. 在她剧烈咳嗽的同时, 血色的粘液从她的口鼻中涌出! \n\n你们帮助她站起来并立刻离开这恶心的地方!"
 					},
 					{
 						"id": "LE_GhostTown01_EnterW",
-						"text": "You decide to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. There is a strange smell in the air - you start to cough involuntarily. [CTP]\n\nYou follow your gut feeling and leave the wretched place behind you. You will not be able to solve this puzzle! Before you leave, you search the soldiers' vehicle for anything useful. \n\nYou are grateful when the choking sensation finally subsides."
+						"text": "你决定调查这个诡异的村子. 你并没有找到任何幸存者. 尸体倒在沙中, 毫无生气, 但没有什么痕迹能表明什么杀了他们. [CTP]\n\n在村子中心, 你看到了零散的德军士兵的尸体倒在一辆军用吉普旁. 在车旁, 你看见一个肯定是德国人挖出来的坑, 漆黑的方尖碑顶部在沙中露出一角. 空气中有股奇怪的味道-你们开始不由自主地咳嗽了起来. [CTP]\n\n你相信你身体的不适感, 并立刻离开了这凄惨的地方. 你没有能力解决这个谜团! 在你离开之前, 你在士兵的交通工具上寻找任何有用的东西. \n\n最终窒息般的感觉减轻了, 你感觉舒适了一些."
 					},
 					{
 						"id": "LE_TempleGusher01_Intro",
-						"text": "A strange column of steam rises from the rocks ahead of you. As you approach, you see that it comes from a pool of water among the rocks. A lifeless German soldier lies at the edge of the pool. [CTP]\n\nBeyond the clouds of steam, you see the outline of a temple entrance that seems to lead deeper into the rocks. The only way to get to it is directly through the steaming pool of water. \n\nIt is a choice that appears to have brought little fortune to the dead man..."
+						"text": "一团奇怪的蒸汽在你前方的岩石堆中升起. 当你靠近时, 你看见这团蒸汽是从岩石间的水池中蒸腾出来的. 一个没有生命迹象的德国士兵倒在了池边. [CTP]\n\n在迷雾之间, 你看到了寺庙的入口在岩石之间显现的轮廓. 唯一到达那里的方法是趟过这个散发着蒸汽的池子. \n\n但也许也正是这一选择让躺在地上的德国兵倒了霉..."
 					},
 					{
 						"id": "LE_TempleGusher01_Choice01",
-						"text": "Wade through the water"
+						"text": "趟过水池"
 					},
 					{
 						"id": "LE_TempleGusher01_Choice02",
@@ -4930,123 +4930,123 @@
 					},
 					{
 						"id": "LE_TempleGusher01_Wading",
-						"text": "The water is pleasantly warm. It comes up to your hips. The steam has a sulfurous odor. \n\nYou are a third of the way across the basin when you notice small bubbles rising from hidden crevices beneath you."
+						"text": "这池子的水温暖宜人, 水深到了你的臀部. 蒸汽有一股硫磺的味道. \n\n你们在穿过三分之一的水池时, 你注意到了水池下隐藏的裂隙中冒出了气泡."
 					},
 					{
 						"id": "LE_TempleGusher01_Choice03",
-						"text": "Continue wading at the same pace"
+						"text": "保持匀速前进"
 					},
 					{
 						"id": "LE_TempleGusher01_Choice04",
-						"text": "Rush to the temple entrance"
+						"text": "冲向神庙入口"
 					},
 					{
 						"id": "LE_TempleGusher01_Choice05",
-						"text": "Withdraw quickly"
+						"text": "迅速撤退"
 					},
 					{
 						"id": "LE_TempleGusher01_SlowW",
-						"text": "You ignore the bubbles and focus instead on reaching your destination unharmed over the sharp, uneven ground beneath your feet. The bubbling soon ceases, and a short time later you reach the temple entrance safe and sound."
+						"text": "你无视了那些气泡并专注于安然无恙地通过尖锐且不平坦的水底而到达目的地. 气泡在一会儿后便停止涌出了, 过了一段时间, 你们安全地到达了寺庙入口."
 					},
 					{
 						"id": "LE_TempleGusher01_SlowF",
-						"text": "You ignore the bubbles and focus instead on reaching your destination unharmed over the sharp, uneven ground beneath your feet. \n\nBut the bubbles increase in number - and the water temperature rises noticeably! [CTP]\n\nGripped with panic, you rush for the temple entrance as all hell breaks loose around you! You are lucky that the main jet of the boiling geyser barely clips you: nevertheless, you come away with a painful scalding!"
+						"text": "你无视了那些气泡并专注于安然无恙地通过尖锐且不平坦的水底而到达目的地. \n\n但那些气泡逐渐变多 - 而且水温也在明显的变高! [CTP]\n\n你强忍着痛苦并冲向寺庙的入口, 宛如你周围都变得跟地狱一般滚烫! 幸运的是, 喷泉的主涌水口仅是在你身旁喷出: 但你依然是承受着痛苦的烫伤过来的! "
 					},
 					{
 						"id": "LE_TempleGusher01_FastW",
-						"text": "Gripped by panic, you scramble over to the opposite bank!\n\nYou reach the temple entrance not a moment too soon: Seconds later, a plume of boiling water shoots into the sky!"
+						"text": "被恐惧所驱使着, 你们冲向另一侧的岸边! \n\n你们不到一小会儿就抵达了寺庙入口；几秒之后, 一簇滚烫的水柱射爆了天空! "
 					},
 					{
 						"id": "LE_TempleGusher01_FastF",
-						"text": "Gripped by panic, you scramble over to the opposite bank. [char0] stumbles and scratches his knee on the sharp rocks beneath you!\n\nYou reach the temple entrance not a moment too soon: Seconds later, a plume of boiling water shoots into the sky!"
+						"text": "被恐惧所驱使着, 你们冲向另一侧的岸边! [char0]被脚下尖锐的岩石绊倒并伤到了膝盖! \n\n你们不到一小会儿就抵达了寺庙入口；几秒之后, 一簇滚烫的水柱射爆了天空! "
 					},
 					{
 						"id": "LE_TempleGusher01_FastF_female",
-						"text": "Gripped by panic, you scramble over to the opposite bank! [char0] stumbles and scratches her knee on the sharp rocks beneath you!\n\nYou reach the temple entrance not a moment too soon: Seconds later, a plume of boiling water shoots into the sky!"
+						"text": "被恐惧所驱使着, 你们冲向另一侧的岸边! [char0]被脚下尖锐的岩石绊倒并伤到了膝盖! \n\n你们不到一小会儿就抵达了寺庙入口；几秒之后, 一簇滚烫的水柱射爆了天空! "
 					},
 					{
 						"id": "LE_TempleGusher01_TurnBack",
-						"text": "Panicked, you turn back immediately. You reach the opposite bank not a moment too soon: Seconds later, a plume of boiling water shoots into the sky! \n\nYou won’t be getting back in the water any time soon! You continue your journey."
+						"text": "你们立刻惊慌失措地掉头返回. 你们不一会儿到了岸边；几秒之后, 一簇滚烫的水柱射爆了天空! \n\n你们无论何时都不会再会去那了! 你们继续踏上了旅程."
 					},
 					{
 						"id": "LE_TempleGusher01_TempleNoLoot",
-						"text": "The temple in front of you consists of a single altar room. The Germans were very thorough: You find nothing of importance."
+						"text": "在你前方的寺庙仅由一个单独的祭祀间构成. 德国人洗劫的很彻底: 你没有找到任何有用的东西."
 					},
 					{
 						"id": "LE_TempleGusher01_TempleLoot",
-						"text": "The temple in front of you consists of a single altar room, which you search excitedly. \n\nThe Germans must have been here before you, but your prudence pays off!"
+						"text": "在你前方的寺庙仅由一个单独的祭祀间构成, 你们激动地搜索着. \n\n德国人肯定在你之前到过这里, 但你的细心给了你回报! "
 					},
 					{
 						"id": "LE_MountainChase01_Intro",
-						"text": "As you turn the next bend on the bumpy mountain track, you see a lone German soldier standing at the side of the path. \n\nWhen he sees you, he leaps into his jeep and accelerates away!"
+						"text": "当你绕过崎岖的山路的一个弯时, 你看见一个落单的德国士兵站在路边. \n\n当他看见你时, 他跳入了他的吉普车并加速离开! "
 					},
 					{
 						"id": "LE_MountainChase01_Choice01",
-						"text": "Car chase!"
+						"text": "追上他! 逮虾户! "
 					},
 					{
 						"id": "LE_MountainChase01_Choice02",
-						"text": "Follow carefully"
+						"text": "小心地跟随"
 					},
 					{
 						"id": "LE_MountainChase01_Choice03",
-						"text": "Ignore the fleeing German"
+						"text": "忽视那个逃跑的德国人"
 					},
 					{
 						"id": "LE_MountainChase01_RecklessW",
-						"text": "For several minutes, you race after the man at breakneck speed along steep cliffs and hairpin bends! \n\nYou make several attempts to draw level with the enemy jeep, but each time he swerves ruthlessly, almost forcing you off the track! [CTP]\n\nSuddenly, a camel appears on the track around the next corner. The man swerves frantically - but it is too late! \n\nThe car starts to skid and then flips over, rolling several times before coming to a stop at the edge of the track! You jump out to investigate the jeep and its lifeless driver."
+						"text": "几分钟之间, 你以惊人的速度在陡峭的悬崖和发卡弯之间追逐着那个人! \n\n你数次尝试和敌人的吉普车并行, 但每次他无情的甩尾操作都几乎让你冲出道路! [CTP]\n\n一头骆驼突然出现在道路的下一个拐角上.那个人疯狂的转向 - 但已经太迟了! \n\n车开始打滑并侧翻, 在数次翻滚之后撞向了路边并停了下来! 你跳下车并检查那辆吉普和已经没了气息的司机."
 					},
 					{
 						"id": "LE_MountainChase01_RecklessF",
-						"text": "For several minutes, you follow the man at breakneck speed along the steep cliffs and hairpin bends! \n\nYou make several attempts to draw level with the enemy jeep, but each time he swerves ruthlessly, almost forcing you off the track! [CTP]\n\nYou round the next turn to see a camel standing directly in your path! You hit the brakes and tear at the steering wheel! Your jeep skids from side to side and eventually comes to a screeching halt, inches away from the abyss! \n\nYou watch as the enemy jeep disappears around the next corner. As you examine your cargo, you notice that a jerrycan broke loose..."
+						"text": "几分钟之间, 你以惊人的速度在陡峭的悬崖和发卡弯之间追逐着那个人! \n\n你数次尝试和敌人的吉普车并行, 但每次他无情的甩尾操作都几乎让你掉下悬崖! [CTP]\n\n你转到下一个弯时, 看见一头骆驼直接出现在了你的路上! 你踩下刹车并打转着方向盘! 你的吉普车左右横跳并最后在车轮的尖啸声中停了下来, 距离前方的深渊只有几英尺远! \n\n你看着敌人的吉普车消失在下一个拐角. 当你检查你的车辆时, 你发现一桶汽油破了个口... "
 					},
 					{
 						"id": "LE_MountainChase01_CautiousW",
-						"text": "With nerves of steel, you stay on the tail of the fleeing vehicle, gaining on him inexorably. \n\nYou will soon catch up with the enemy jeep! [CTP]\n\nAs you turn the next bend, you see that the German has come to the same conclusion: He has stopped his jeep at the side of the track and is attempting to climb down the steep cliff face. \n\nSuddenly, you hear a deep rumble - a layer of scree slides away from the side of the cliff and buries the unfortunate man!"
+						"text": "你紧绷着神经, 尾随在逃跑的车辆后面, 默默地追上他. \n\n你不一会儿就要追上敌人的吉普了! [CTP]\n\n当你转过下一个弯时, 你看见德国人迎来了自己的结局: 他把车停在了道路旁并尝试爬下陡峭的悬崖,  \n\n你突然听到一阵隆隆声 - 一块峭壁上的岩石滑落了下去并埋葬了那个不幸的人! "
 					},
 					{
 						"id": "LE_MountainChase01_CautiousF",
-						"text": "With nerves of steel, you stay on the tail of the fleeing vehicle, gaining on them inexorably. \n\nYou will soon catch up with the enemy jeep! [CTP]\n\nAs you turn the next bend, you see that the German has come to the same conclusion: Slamming his foot down on the accelerator in one last desperate attempt to escape, he loses control of the jeep and crashes into the depths! The vehicle disappears in a ball of flames!"
+						"text": "你紧绷着神经, 尾随在逃跑的车辆后面, 默默地追上他. \n\n你不一会儿就要追上敌人的吉普了! [CTP]\n\n当你转过下一个弯时, 你看见德国人迎来了自己的结局: 他把脚踩在油门上做最后的殊死一搏来逃离, 但他的吉普失去了控制并冲向了深渊! 那辆车在一团火焰中消失了! "
 					},
 					{
 						"id": "LE_MountainChase01_IgnoreF",
-						"text": "With a shrug, you ignore the man. He soon disappears from sight. \n\nAs you leave the mountains behind, you decide to take a side track, just in case the man sent reinforcements your way. But you encounter no one."
+						"text": "你耸了耸肩, 无视了那个人. 他很快就从视野中消失了. \n\n当你离开山脉时, 你决定走一条侧路, 防止那个人带着援军过来. 但你并没有遇见任何人."
 					},
 					{
 						"id": "LE_MountainChase01_IgnoreW",
-						"text": "Shrugging, you ignore the man, who soon disappears from sight. Several minutes later, you round a sharp bend to find the overturned wreck of the fleeing car.\n\nYou quickly get out to investigate the jeep and its lifeless driver."
+						"text": "你耸了耸肩, 无视了那个人. 他很快就从视野中消失了. 几分钟后, 你过了一个急弯并找到了那辆逃跑的车翻倒着的残骸.\n\n你快速地跳下车并检查那辆吉普和已经没了气息的司机."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Intro",
-						"text": "You stop at the sight of a Wehrmacht jeep parked on the ridge of a dune. Warily, you sneak closer. [CTP] \n\nAs you peer over the ridge, you spot a unit of German soldiers. Overseen by their officer, they are working on a pyramid, the tip of which protrudes a few feet from the desert sand. The pyramid is glistening black. It looks like it is made of solid obsidian. \n\nThe soldiers have not noticed you yet..."
+						"text": "当你看见一辆德军吉普车停在了沙丘坎上的的时候, 你停了下来. 你们小心翼翼地接近那里. [CTP]\n\n当你们窥视沙丘的另一侧时, 你看到了一队德国士兵. 士兵们在高级军官的检视下在一座金字塔前忙碌, 塔的尖端从沙漠的沙中凸起数英尺高. 金字塔黑的发亮, 看起来像是由坚固的黑曜石构成. \n\n士兵暂时没有发现你..."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice01",
-						"text": "Ambush immediately"
+						"text": "立刻突袭"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice02",
-						"text": "Wait and watch"
+						"text": "等待并观察"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice03",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Fight",
-						"text": "When your enemies are defeated, you decide to investigate the mysterious pyramid for yourself. Try as you might, you cannot find an opening anywhere. \n\nDisappointed, you search the soldiers for anything useful and set off again."
+						"text": "当你的敌人被击败时, 你决定亲自调查这座神秘的金字塔. 尽管你尽你所能, 但你没法找到任何入口. \n\n你失落的搜索着士兵的尸体来找到任何有用的东西, 并接着上路了."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_WaitF",
-						"text": "After some time, you hear loud shouts; the officer pushes his soldiers excitedly aside and makes strange gestures in the air. \n\nMoments later, a passage opens in the side of the black pyramid. The soldiers proceed into the structure in single file. The passageway closes behind them. [CTP]\n\nWhen you finally get closer, you cannot see the slightest hint of a passageway or opening mechanism in the pyramid wall. \n\nYou wait some time to see whether the Germans return, but eventually you give up and continue your journey."
+						"text": "在一段时间后, 你听见了大声的呼喊: 那个高级军官激动地把他的士兵推到一边, 并做了个奇怪的手势. \n\n一阵子后, 一个密道在黑金字塔的一侧开启. 士兵们排成一条线进入了那个构造体. 那个密道在他们身后关闭了. [CTP]\n\n当你最终靠近时, 你无法在金字塔的墙上找到哪怕一点的关于如何开启金字塔并进去相关的提示. \n\n你们等待了一会儿并看看德国人会从哪里出来, 但最终你们放弃并继续你们的旅程."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_WaitW",
-						"text": "After some time, you hear loud shouts; the officer pushes his soldiers excitedly aside and makes strange gestures in the air. \n\nMoments later, a passage opens in the side of the black pyramid. The soldiers proceed into the structure in single file."
+						"text": "在一段时间后,你听见了大声的呼喊: 那个高级军官激动地把他的士兵推到一边, 并做了个奇怪的手势. \n\n一阵子后, 一个密道在黑金字塔的一侧开启. 士兵们排成一条线进入了那个构造体."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice04",
-						"text": "Sneak after them"
+						"text": "跟在他们后面"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice05",
@@ -5054,91 +5054,91 @@
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Crypt",
-						"text": "You trail the soldiers at a careful distance until they get to a small chamber that looks like an ancient place of worship. \n\nAt the behest of their officer, the soldiers gather around a mighty sarcophagus in the middle of the room. Working together, they pry off the slab that seals it. [CTP] \n\nA ghostly light shines from the sarcophagus; The German soldiers stagger back in pain and attempt to cover their faces, screaming in agony!\n\nMoments later, there is silence. The corpses of the Germans are scattered around the open sarcophagus."
+						"text": "你保持着安全距离尾随着那些士兵, 直到他们来到了一个看上去像是古代礼拜堂的小房间. \n\n士兵们在他们的军官的命令下, 聚集在房间中央一个像是石棺的东西周围. 他们一起掀开了封印在上面的棺盖. [CTP]\n\n一道幽灵般的光芒从棺材中射出; 德国士兵们痛苦的蹒跚后退并试图捂住他们的脸, 他们绝望地哀嚎着!\n\n一阵子后, 一切归于寂静. 德国人的尸体倒在打开的石棺周围."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice06",
-						"text": "Examine the contents of the sarcophagus"
+						"text": "检查石棺内的东西"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Choice07",
-						"text": "Leave the sinister pyramid"
+						"text": "离开这个邪恶的地方"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_Leave",
-						"text": "You bolt out of the chamber. In your haste, you knock over some old clay vases, smashing them to pieces. \n\nAmong the clay shards, you spot something precious looking, causing you to pause for a moment. Then you rush off again, desperate to get away from this place!"
+						"text": "你们从房间中离开. 在仓促之中, 你们打翻了一些旧陶瓶, 让它们变成了一摊碎片. \n\n在陶片之间, 你发现了一些闪亮的东西, 让你们为它们停驻了一会儿. 之后你继续奔跑, 拼死逃离这个地方!"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_NoLoot",
-						"text": "You carefully approach the sinister sarcophagus. When you finally dare to look inside you are bitterly disappointed: the sarcophagus is empty! \n\nYou quickly search the soldiers before leaving this eerie place."
+						"text": "你们小心翼翼地靠近那个诡异的石棺. 当你最终鼓起胆子去看棺内时, 你感到格外失望: 棺材是空的! \n\n你们在离开这阴森的地方之前快速搜刮了一下士兵的尸体."
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_LootF",
-						"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can stop him, [char0] is already peering greedily over the edge of the sarcophagus. A blinding light fills the room, and you hear [char0]’s desperate screams! [CTP]\n\nIn a flash, you yank him away from the sarcophagus! [char0] clasps at his eyes in agony, they have been badly burned by the mysterious light! \n\nThat's warning enough for you: You just want to get away from this awful place!"
+						"text": "你们小心翼翼地靠近那个诡异的石棺. \n\n在你能阻止他之前, [char0]已经贪婪地靠近了那个石棺的边缘. 一道炫目的光照耀了整个房间, 你听见了[char0]的哀嚎! [CTP]\n\n你们闪电般地将他从那石棺面前拉开了! [char0]痛苦地揉着他那被诡异的光线严重灼伤的眼睛! \n\n这对于你们而言已经是一个足够的警示: 你只想尽快逃离这可怕的地方!"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_LootF_female",
-						"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can stop her, [char0] is already peering greedily over the edge of the sarcophagus. A blinding light fills the room, and you hear [char0]’s desperate screams! [CTP]\n\nIn a flash, you yank her away from the sarcophagus! [char0] clasps at her eyes in agony, they have been badly burned by the mysterious light! \n\nThat's warning enough for you: You just want to get away from this awful place!"
+						"text": "你们小心翼翼地靠近那个诡异的石棺. \n\n在你能阻止她之前, [char0]已经贪婪地靠近了那个石棺的边缘. 一道炫目的光照耀了整个房间, 你听见了[char0]的哀嚎! [CTP]\n\n你们闪电般地将她从那石棺面前拉开了! [char0]痛苦地揉着她那被诡异的光线严重灼伤的眼睛! \n\n这对于你们而言已经是一个足够的警示: 你只想尽快逃离这可怕的地方!"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_LootW",
-						"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can do anything, [char0] is already peering greedily over the edge of the sarcophagus. He whistles in appreciation before pointing proudly to his loot!"
+						"text": "你们小心翼翼地靠近那个诡异的石棺. \n\n在你能做什么事情之前, [char0]已经贪婪地靠近了那个石棺的边缘. 他惊喜的尖叫着, 骄傲的给你们展示他的收获!"
 					},
 					{
 						"id": "BE_ObsidianBlindingLight01_LootW_female",
-						"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can do anything, [char0] is already peering greedily over the edge of the sarcophagus. She whistles in appreciation before pointing proudly to her loot!"
+						"text": "你们小心翼翼地靠近那个诡异的石棺. \n\n在你能做什么事情之前, [char0]已经贪婪地靠近了那个石棺的边缘. 她惊喜的尖叫着, 骄傲的给你们展示他的收获!"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Intro",
-						"text": "You have lost sight of the unit of German soldiers you were trailing in the confusing labyrinth of water tunnels. \n\nAs you silently traverse the ancient cisterns, you hear the echo of their boots around you."
+						"text": "你在错综迷离的地下水道跟踪那些德国士兵时找不到他们了. \n\n当你安静地穿越这些古代蓄水池时, 脚步声在你周围回响着."
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Intro2",
-						"text": "Suddenly, screams echo through the tunnels. You hear a few shots – then silence! \n\nWarily, you continue down tunnels bathed in the unreal light of the strange, iridescent flowers that grow on the damp walls. [CTP]\n\nAs the passage finally widens, you see the bodies of the German soldiers lying lifeless in a sea of ​​dimly glowing flowers. \n\nWhat happened here?"
+						"text": "尖叫声突然响彻了水道. 你听到了几声枪声 – 然后重归于寂静! \n\n你们小心翼翼地在被恍惚的灯光笼罩着的水道中前进, 虹光花盛开在潮湿的墙上. [CTP]\n\n当通道终于变得宽敞时, 你看见德国士兵的尸体倒在虹光花的花海中. \n\n这里发生了什么?"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Choice01",
-						"text": "Leave the cisterns"
+						"text": "离开蓄水池"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Choice02",
-						"text": "Inspect the bodies"
+						"text": "检查尸体"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_Choice03",
-						"text": "Search the side tunnels"
+						"text": "搜索侧边的隧道"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_SideSewerF",
-						"text": "A search of the side tunnels provides no new information. These luminous flowers seem to be all around you! \n\nYou guess you’ll never know what the Germans were doing here. You return to the open air and continue your journey."
+						"text": "一次对水道的搜索并没有带来更多的讯息. 这些虹光花看起来四周都是! \n\n你猜你永远都不会知道德国人在这里干了什么了. 你回到了室外并继续你的旅程."
 					},
 					{
 						"id": "LE_HungrySewerFlower01_SideSewerW",
-						"text": "In one of the side tunnels, you find another dead soldier. As you approach him, you see a sudden movement: a vine that had been wrapped around the man slithers free! [CTP]\n\nA murderous, carnivorous plant? You are not keen to get to the bottom of this! You seize the man's equipment and beat a hasty retreat!"
+						"text": "你在一个副水道中发现了另一名死去的士兵. 当你靠近他时, 你看见了一阵突如其来的搐动: 缠绕在那尸体上的蔓藤肆意滑行了出来! [CTP]\n\n一个嗜血的食肉植物? 你并没有那么敏锐的身手来走到水道尽头! 你搜索了那个人的装备并迅速撤退了!"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_DeadSoldiersF",
-						"text": "You inspect the dead soldiers to work out what killed them. \n\nIn the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! There is no trace of their mysterious assailants... [CTP]\n\nAs you start to pick up the soldiers' valuables, [char0] suddenly cries out! You turn around to see a sinuous vine winding its way around [char0]’s neck and throttling him! You slash at the vine furiously, severing it just in time as [char0] gasps for breath! [CTP]\n\nA murderous, carnivorous plant? You flee the the sea of ​​deadly flowers as fast as you can!"
+						"text": "你检查那个死去的士兵并试图找出死因. \n\n在虹光花的光芒中, 你注意到他们的脖子上有摩擦产生的瘀伤. 士兵是被窒息而死的! 这里没有那个神秘的袭击者的痕迹... [CTP]\n\n当你们开始搜索士兵身上的财物时, [char0]突然大叫了起来! 你环绕四周并发现了一条盘藤滑向了[char0]的脖子并死死缠住了他! 你愤怒地切断了那根藤蔓, 及时的断开让[char0]能够重新呼吸! [CTP]\n\n一个嗜血的食肉植物? 你们以最快的速度从那片死亡的花海中逃离了!"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_DeadSoldiersF_female",
-						"text": "You inspect the dead soldiers to work out what killed them. \n\nIn the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! There is no trace of their mysterious assailants... [CTP]\n\nAs you start to pick up the soldiers' valuables, [char0] suddenly cries out! You turn around to see a sinuous vine winding its way around [char0]’s neck and throttling her! You slash at the vine furiously, severing it just in time as [char0] gasps for breath! [CTP]\n\nA murderous, carnivorous plant? You flee the the sea of ​​deadly flowers as fast as you can!"
+						"text": "你检查那个死去的士兵并试图找出死因. \n\n在虹光花的光芒中, 你注意到他们的脖子上有摩擦产生的瘀伤. 士兵是被窒息而死的! 这里没有那个神秘的袭击者的痕迹... [CTP]\n\n当你们开始搜索士兵身上的财物时, [char0]突然哭喊了起来! 你环绕四周并发现了一条盘藤滑向了[char0]的脖子并死死缠住了她! 你愤怒地切断了那根藤蔓, 及时的断开让[char0]能够重新呼吸! [CTP]\n\n一个嗜血的食肉植物? 你们以最快的速度从那片死亡的花海中逃离了!"
 					},
 					{
 						"id": "LE_HungrySewerFlower01_DeadSoldiersW",
-						"text": "You inspect the dead soldiers to work out what killed them. In the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! [CTP]\n\nThere is no trace of their mysterious assailants... \n\nYou snatch up the valuables scattered on the ground and quickly leave this eerie place!"
+						"text": "你检查那个死去的士兵并试图找出死因. \n\n在虹光花的光芒中, 你注意到他们的脖子上有摩擦产生的瘀伤. 士兵是被窒息而死的! 这里没有那个神秘的袭击者的痕迹... \n\n你拾起了散落在地面上的财物并迅速离开了这阴森的地方!"
 					},
 					{
 						"id": "AE_CollapsingSewer01_Intro",
-						"text": "The masonry of the old water tunnel has seen better days."
+						"text": "旧水道的砌砖见证了这里曾经的辉煌的日子."
 					},
 					{
 						"id": "AE_CollapsingSewer01_Choice01",
-						"text": "Enter the water pipe system"
+						"text": "进入水道系统"
 					},
 					{
 						"id": "AE_CollapsingSewer01_Choice02",
-						"text": "Inspect the masonry"
+						"text": "检查砌砖"
 					},
 					{
 						"id": "AE_CollapsingSewer01_CHoice03",
@@ -5146,43 +5146,43 @@
 					},
 					{
 						"id": "AE_CollapsingSewer01_TechnicalW",
-						"text": "[char0] examines the entrance to the old water cistern and shakes his head:\n\n[char0]: \"These walls are completely rotten. The slightest shock and they could all collapse. Let’s keep moving! \""
+						"text": "[char0]检查了旧水道的入口水槽并摇摇他的头:\n\n[char0]: \"这些墙濒临毁坏了. 最轻微的晃动都能让它们崩塌. 我们继续自己的旅程吧! \""
 					},
 					{
 						"id": "AE_CollapsingSewer01_TechnicalW_female",
-						"text": "[char0] examines the entrance to the old cistern and shakes her head:\n\n[char0]: \"These walls are completely rotten. The slightest shock and they could all collapse. Let’s keep moving! \""
+						"text": "[char0]检查了旧水道的入口水槽并摇摇她的头:\n\n[char0]: \"这些墙濒临毁坏了. 最轻微的晃动都能让它们崩塌. 我们继续自己的旅程吧! \""
 					},
 					{
 						"id": "AE_CollapsingSewer01_Lucky",
-						"text": "You enter the tunnel carefully. You follow the main pipe for some time and search a series of branching side passages, but you find nothing of importance. \n\nYou are relieved when you finally emerge from the ruins unharmed and can continue your journey."
+						"text": "你们小心翼翼地进入水道. 你沿着主水道走了一会儿并发现了一系列次要通道, 但你并没有找到任何重要的东西. \n\n当你们最终安然无恙地从废墟中出来时, 你们松了一口气并继续你们的旅程."
 					},
 					{
 						"id": "AE_CollapsingSewer01_LuckyLoot",
-						"text": "You enter the tunnel carefully. You follow the main pipe for some time and search a series of branching side passages, but you find nothing of importance. [CTP]\n\nOn your way back, you literally stumble over the remains of a nomad who must have met his tragic end in the collapse of a side tunnel. \n\nAs you take a closer look, you make a discovery..."
+						"text": "你们小心翼翼地进入水道. 你们沿着主水道走了一会儿并发现了一系列次要通道, 但你并没有找到任何重要的东西. [CTP]\n\n在回头路上, 你们在侧路水道发现了一个游牧民倒在塌方中并结束了他悲惨的一生. \n\n当你靠近观察时, 你搜索到了什么..."
 					},
 					{
 						"id": "AE_CollapsingSewer01_Unlucky",
-						"text": "You start to explore the old passageways. Suddenly you hear a deep rumble overhead and you dive to the side! Not a second too soon! \n\nWhen the dust has settled, you can see in the pale glow of the strange flowers around you, that the vault has collapsed! You are trapped! [CTP]\n\nYou fight back the panic and investigate the site of the collapse. Digging with your bare hands, it seems like an eternity before you manage to clear a narrow passage that you can squeeze through. \n\nYou are overjoyed to see the sky again! [char1]’s fingertips are bloodied and his fingernails are ripped..."
+						"text": "你们开始探索旧隧道. 你突然听见了沉重的隆隆声并在侧边俯倒! 这一切发生的太快了! \n\n当尘埃落地时, 你看见了在你周围, 奇怪的花朵发出惨白的光芒, 拱顶已经倒塌了! 你落入了陷阱之中! [CTP]\n\n你忍受着痛苦并探索了崩塌的地方. 你们用双手挖掘着, 在挖出一个足以挤过的隧道之前这似乎个近乎一辈子的事情. \n\n当你能重见天空时,这是一个多么愉悦的事情! [char1]的手指流血了, 并且他的手指甲龟裂开了..."
 					},
 					{
 						"id": "AE_CollapsingSewer01_Unlucky_female",
-						"text": "You start to explore the old passageways. Suddenly you hear a deep rumble overhead and you dive to the side! Not a second too soon! \n\nWhen the dust has settled, you can see in the pale glow of the strange flowers around you, that the vault has collapsed! You are trapped! [CTP]\n\nYou fight back the panic and investigate the site of the collapse. Digging with your bare hands, it seems like an eternity before you manage to dig a narrow passage that you can squeeze through. \n\nYou are overjoyed to see the sky again! [char1]’s fingertips are bloodied and her fingernails are ripped..."
+						"text": "你们开始探索旧隧道. 你突然听见了沉重的隆隆声并在侧边俯倒! 这一切发生的太快了! \n\n当尘埃落地时, 你看见了在你周围, 奇怪的花朵发出惨白的光芒, 拱顶已经倒塌了! 你落入了陷阱之中! [CTP]\n\n你忍受着痛苦并探索了崩塌的地方. 你们用双手挖掘着, 在挖出一个足以挤过的隧道之前这似乎个近乎一辈子的事情. \n\n当你能重见天空时,这是一个多么愉悦的事情! [char1]的手指流血了, 并且她的手指甲龟裂开了..."
 					},
 					{
 						"id": "AE_CollapsingSewer01_TechnicalF",
-						"text": "[char0] shrugs:\n\n[char0]: \"The retaining walls don’t look too bad... for their age.\"\n\nYou’re not so sure. What do you want to do?"
+						"text": "[char0]耸了耸肩:\n\n[char0]: \"对于这些墙壁经历过的时间而言... 这个状况不算坏.\"\n\n你并不确定. 你们打算怎么做?"
 					},
 					{
 						"id": "AE_CollapsingSewer01_TechnicalF_female",
-						"text": "[char0] shrugs:\n\n[char0]: \"The retaining walls don’t look too bad... for their age.\"\n\nYou’re not so sure. What do you want to do?"
+						"text": "[char0]耸了耸肩:\n\n[char0]: \"对于这些墙壁经历过的时间而言... 这个状况不算坏.\"\n\n你并不确定. 你们打算怎么做?"
 					},
 					{
 						"id": "LE_SewerAltar01_Intro",
-						"text": "The porous masonry disappears into the rock face. It looks like the entrance to an old, abandoned sewage system. \n\nA noxious, unhealthy smell rises to your nostrils - you're not sure what to do: Do you really want to explore this dank, dilapidated labyrinth?"
+						"text": "多孔砖石隐匿在岩石表面上. 它看起来像是旧废弃污水道的入口. \n\n恶臭且不健康的气味上升到你的鼻孔 - 你不知道该怎么办: 你真的想探索这个潮湿且老旧的迷宫吗?"
 					},
 					{
 						"id": "LE_SewerAltar01_Choice01",
-						"text": "Explore the cisterns"
+						"text": "探索蓄水池"
 					},
 					{
 						"id": "LE_SewerAltar01_Choice02",
@@ -5190,91 +5190,91 @@
 					},
 					{
 						"id": "LE_SewerAltar01_DeadEnd",
-						"text": "To your disappointment, the tunnels soon finish in a dead end. Like it or not, you have to turn back."
+						"text": "令你不悦的是, 这条隧道很快以死胡同的方式结束了. 不论是否是这样, 你都不得不调头返回了."
 					},
 					{
 						"id": "LE_SewerAltar01_GraveRobber",
-						"text": "To your disappointment, the tunnels soon finish in a dead end. \n\nJust as you are about to turn back, your gaze falls on the remains of the man who was crushed by the cave-in. [CTP]\n\nA grave robber? Or a goatherd seeking protection from the scorching sun? You find a bundle in the dead man’s hands, but the contents do not answer your questions."
+						"text": "令你失望的是隧道很快就走到了尽头. \n\n正当你即将回头时, 你的目光落在一个因塌陷而死的人的尸体上. [CTP]\n\n一个盗墓贼? 还是一个寻找遮阳处以免晒伤的牧羊人? 你在他的手上发现了一个提包, 但其中的财物并不能回答你的问题."
 					},
 					{
 						"id": "LE_SewerAltar01_WadeWater",
-						"text": "As you move deeper into the tunnels, the ground becomes increasingly unstable. \n\nWhat began as foul-smelling puddles soon becomes a viscous body of sludge that fills the passages ahead of you. [CTP]\n\nA short time later, you are wading up to your hips in the oily, foul-smelling liquid. Strangely luminous flowers cling to the brick walls above you and bathe the corridors in their eerie light."
+						"text": "当你深入隧道时,地面变得越来越不稳定. \n\n不知何时, 恶臭的水坑逐渐变成粘稠的淤泥, 填满你前面的通道. [CTP]\n\n不到一小会儿, 油腻而恶臭的液体就漫到了你的臀部的高度. 奇怪的虹光花紧贴天花板上, 并以悚人的光线照着通道."
 					},
 					{
 						"id": "LE_SewerAltar01_Choice03",
-						"text": "Continue wading"
+						"text": "继续淌水过去"
 					},
 					{
 						"id": "LE_SewerAltar01_Choice04",
-						"text": "Turn back"
+						"text": "调头返回"
 					},
 					{
 						"id": "LE_SewerAltar01_Spores",
-						"text": "As you continue wading through the tunnels, you notice strange flower pods hanging from vines on the ceiling.\n\nAs [char0] reluctantly pushes one of the pouches aside, it bursts open! A cloud of spores surrounds you, filling your lungs! [CTP]\n\nCoughing and spluttering, you rush back to the entrance! It takes some time before you are able to breathe easier again. The strange scratching in your throats stays with you for much longer..."
+						"text": "当你继续淌过隧道时, 你注意到天花板上的藤蔓上的奇怪的花荚.\n\n当 [char0]不得不把其中一个花荚推开时, 它爆裂并绽开了! 一团孢子云在你四周散开, 而且孢子开始充斥满你的肺部! [CTP]\n\n开始剧烈的咳嗽, 你们快速返回了入口! 你们需要一些时间才能重新顺畅的呼吸. 喉咙里的奇怪感觉会伴随你很长一段时间..."
 					},
 					{
 						"id": "LE_SewerAltar01_Spores_female",
-						"text": "As you continue wading through the tunnels, you notice strange flower pods hanging from vines on the ceiling.\n\nAs [char0] reluctantly pushes one of the pouches aside, it bursts open! A cloud of spores surrounds you, filling your lungs! [CTP]\n\nCoughing and spluttering, you rush back to the entrance! It takes some time before you are able to breathe easier again. The strange scratching in your throats stays with you for much longer..."
+						"text": "当你继续淌过隧道时, 你注意到天花板上的藤蔓上的奇怪的花荚.\n\n当 [char0]不得不把其中一个花荚推开时, 它爆裂并绽开了! 一团孢子云在你四周散开, 而且孢子开始充斥满你的肺部! [CTP]\n\n开始剧烈的咳嗽, 你们快速返回了入口! 你们需要一些时间才能重新顺畅的呼吸. 喉咙里的奇怪感觉会伴随你很长一段时间..."
 					},
 					{
 						"id": "LE_SewerAltar01_Loot",
-						"text": "You continue to wade through the nauseating sludge. The ground soon starts to slope upwards again and you reach firm ground, ending in a circular room. \n\nOn the wall you find a series of rusty metal protrusions that lead upwards in a spiral! [CTP]\n\nAfter some strenuous climbing, you reach a small chamber. Next to the hole from which you emerged, you discover a rusty crate, its lock broken."
+						"text": "你继续趟过令人作呕的污泥. 地面很快又开始向上倾斜并变得坚固, 直到到了一个尽头的圆形房间. \n\n你看到了墙上有一一堆螺旋着向上排布着的, 生锈的金属凸起! [CTP]\n\n一阵子艰苦的攀登后, 你到达了一个小房间. 在你们爬上来的洞口旁边, 你看见了一个生锈的箱子, 它的锁看上去坏了."
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral01",
-						"text": "An ancient building rises from the desert sand in front of you: an abandoned temple! You inspect the building and find an entrance \n\nYou carefully work your way through the corridors. As you reach a vast vault, you hear a loud cry! \n\nYou have been discovered by a group of cultists!"
+						"text": "一座古老的建筑从你面前的沙漠的沙中显现: 一个废弃的神庙! 你检查了建筑物并找到一个入口. \n\n你小心地走过走廊. 当你到达一个巨大的拱顶时, 你听见了一声怒吼! \n\n你被一群邪教徒发现了!"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral02",
-						"text": "The entrance to the temple in front of you has been smashed in. You enter the building with weapons drawn. \n\nOnce inside, your suspicions are confirmed: You find a group of cultists preparing a ritual! \n\nThey have seen you!"
+						"text": "你面前的寺庙入口被破坏殆尽了. 你们握着武器进入了寺庙. \n\n当你进入时, 你们的怀疑更加确认无疑: 你发现一群邪教徒正在准备一次仪式! \n\n他们发现你了!"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonNeutral03",
-						"text": "The ancient, dilapidated building in front of you may once have been a temple. Curious, you start to explore it. \n\nAs you enter the altar room, you almost stumble over a cultist who is cowering motionless in a wall recess. \n\nHe has seen you and alerts his brothers!"
+						"text": "在你面前的这栋古老而破旧的建筑可能曾经是一个寺庙. 你们好奇地开始探索着这栋建筑. \n\n当你进入祭坛间时, 你几乎差点给一个在墙壁凹陷处一动不动的邪教徒绊倒了. \n\n他看见你并对他的兄弟们发出了警告!"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage01",
-						"text": "The freshly churned up sand and footprints around the entrance lead to just one conclusion: The ancient temple you have discovered here has visitors! You give in to your curiosity and warily enter the ruins. [CTP]\n\nYou soon spot a group of cultists at work on the walls of the altar room. They have not noticed you yet!"
+						"text": "入口处才被翻动的沙子和脚印只能得出一个结论: 你们发现的这个神庙有其他拜访者! 你被好奇心驱使并小心翼翼地进入废墟. [CTP]\n\n你看见一群邪教徒正在祭坛室的墙上做什么工作. 他们还没有注意到你!"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage02",
-						"text": "The ancient building has taken a real beating: The statues on the facade have been deliberately smashed and the door has been broken in. Could the perpetrators still be inside the temple? You immediately decide to search for them. [CTP]\n\nA short time later, you sneak up on a group of cultists. They remain oblivious to your approach, as they are tapping on the walls of the temple’s main hall in search of secret doors."
+						"text": "这个古老的建筑遭到了严重的损坏: 门口的雕像被故意砸碎,大门也被打破了. 肇事者是否还在寺庙里头? 你们立刻决定搜寻他们. [CTP]\n\n一段时间后, 你跟踪到了一群邪教徒. 他们仍然不知道你们的出现, 而还正在寺庙大厅的墙体上寻找着秘门."
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage03",
-						"text": "A weird chanting rises from the depths of the secluded temple complex. You ready your weapons and decide to get to the bottom of this mystery. \n\nYou sneak up unseen on several cultists lying around in the cool temple interior in some kind of trance."
+						"text": "一阵奇怪的颂唱声从僻静的寺庙建筑群的深处传来.  你准备好你的武器, 并决定深入建筑群以了解这个怪事. \n\n你们潜入其中并看到几个躺在凉爽的寺庙内部的恍神的邪教徒."
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage02_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage03_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage04_Choice01",
-						"text": "Ambush!"
+						"text": "突袭! "
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage05_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage06_Choice01",
-						"text": "Ambush!"
+						"text": "突袭! "
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage01_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage02_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage03_Choice02",
@@ -5282,183 +5282,183 @@
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage04_Choice02",
-						"text": "Return to the jeep"
+						"text": "撤回车上"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage05_Choice02",
-						"text": "Turn back"
+						"text": "调头返回"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonAdvantage06_Choice02",
-						"text": "Return to the car"
+						"text": "撤回车上"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonDisadvantage01",
-						"text": "You come across a lonely temple, half buried in the desert sand. After a brief inspection you find the entrance and dare to descend into the depths. \n\nAs you reach the inner sanctum – you hear a sound behind you and turn around: You see a group of cultists with weapons drawn! \n\nIt’s an ambush!"
+						"text": "你路过一座半掩在沙中的孤零零的神庙. 一番简单的调查后你找到了入口并大胆地下到了深处. \n\n当你到达内部密室的时候 – 你听到身后有动静并转过身来: 你看到一群抄着家伙的邪教徒! \n\n这是个陷阱!"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonDisadvantage02",
-						"text": "Beyond the next sand dune, ancient walls rise abruptly from the desert sands. It’s a deserted temple! It does not take long to uncover the entrance. \n\nYou set out to explore the complex - and run into a cultist ambush!"
+						"text": "沙丘的另一边, 古老的石墙从沙地中突兀地升起. 那是一座废弃的神庙! 没多久你就找到了入口. \n\n你开始探索这座建筑 - 然后被埋伏在这里的邪教徒们逮了个正着!"
 					},
 					{
 						"id": "BE_GenericUndeadDungeonDisadvantage03",
-						"text": "The temple in front of you looks desolate and deserted. It only takes you a few moments to get past the entrance. \n\nAfter exploring for some time, you finally make it to the altar room. Suddenly, you are ambushed by a group of fanatical cultists who have been following you unnoticed!"
+						"text": "你面前的神庙看上去荒凉空无一人. 你毫不费力地找到了入口. \n\n经过一段时间的探索, 你最终来到了祭坛室. 突然, 你被一群狂热的邪教徒伏击了, 他们神不知鬼不觉地已经跟踪你好久了!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsNeutral01",
-						"text": "As you walk around the ruined walls, a cultist sentry spots you and sounds the alarm! \n\nYou have startled a group of Brotherhood cultists who are camping here!"
+						"text": "当你行走在残垣断壁之间时, 一个邪教徒的哨兵看到了你并拉响了警报! \n\n你惊动了一群在这里扎营的兄弟会的邪教徒们!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsNeutral02",
-						"text": "A group of cultists are camped among the ruins! They have seen you and jump up with murderous intent!"
+						"text": "一群邪教徒驻扎在这片废墟之中! 他们已经看到了你并杀气腾腾地朝你冲了过来!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsNeutral03",
-						"text": "You hear a shout and a group of cultists jump up from the shadows of the ruins. \n\nYou dive for cover – moments later, they rush towards you!"
+						"text": "你听到一声大叫, 一群邪教徒从废墟的阴影中跳了出来. \n\n你赶忙隐蔽 – 片刻之后 , 他们朝你冲了过来!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage02",
-						"text": "Some cultists are camping in the shadow of some dilapidated ruins. They are engrossed in a strange ritual and have not noticed you!"
+						"text": "有一些邪教徒在这片残破废墟的阴处扎了营. 他们正沉浸在奇怪的仪式当中, 还没有注意到你们!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage04",
-						"text": "In the distance, you hear a wailing, many-voiced lament. \n\nUsing some ruins for cover, you cautiously sneak closer to discover a group of cultists conducting some kind of ritual here!"
+						"text": "远远地你听到一声哭号, 接着许多人的恸哭声跟着附和. \n\n借助一些废墟作掩护, 你小心地接近, 发现一群邪教徒们正在这里举行某种仪式!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage05",
-						"text": "The large group of cultists in the ruins ahead of you did not consider it necessary to post sentries – presumably they think nobody will dare to attack!\n\nPerhaps they are right."
+						"text": "位于你前方废墟中的一大群邪教徒没有派任何人放哨 – 他们大概以为没有人会有胆量发动攻击!\n\n也许他们是对的."
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage01_Choice01",
-						"text": "Open fire"
+						"text": "开火"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage02_Choice01",
-						"text": "Attack cultists"
+						"text": "攻击邪教徒"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage03_Choice01",
-						"text": "Attack the cultists"
+						"text": "攻击邪教徒"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage04_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage05_Choice01",
-						"text": "Attack immediately"
+						"text": "立刻攻击"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage06_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage01_Choice02",
-						"text": "Turn back"
+						"text": "调头返回"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage02_Choice02",
-						"text": "Avoid a fight"
+						"text": "躲避战斗"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage03_Choice02",
-						"text": "Back to the car"
+						"text": "回到车上"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage04_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage05_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsAdvantage06_Choice02",
-						"text": "Turn back"
+						"text": "调头返回"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsDisadvantage01",
-						"text": "The camp among the ruins ahead of you seems deserted until half a dozen frenzied cultists jump up behind you: You have walked into an ambush!"
+						"text": "在你前面的废墟中的营地似乎已经荒废, 直到有几个疯狂的邪教徒在你身后窜出来: 你已经走进了伏击之中!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsDisadvantage02",
-						"text": "You spot an abandoned camp among the ruins. The campfire is no longer lit, but the ashes are fresh. \n\nJust how recent is this camp?[CTP]\n\nAs if in response to your unspoken question, you hear a rustle behind you. You spin around to find a group of armed cultists sneaking up on you! \n\nYou have walked into an ambush!"
+						"text": "你在废墟中发现了一个被遗弃的营地. 篝火已经熄灭, 但余烬还是温暖的. \n\n这个营地多久之前还有在使用?[CTP]\n\n似乎是在回答你尚未提出的问题, 你的身后传来了一阵沙沙声. 你转向四周并发现一群武装的邪教徒跟踪到了你! \n\n你陷入了一场伏击之中!"
 					},
 					{
 						"id": "BE_GenericUndeadRuinsDisadvantage03",
-						"text": "The old camp in the ruins appears deserted, but you are suspicious of the silence...[CTP]\n\nYour instincts are right: You have walked into a cultist ambush! \n\nSeveral cultists step out of the shadows with weapons drawn, their faces twisted with hatred!"
+						"text": "遗迹中的旧营地看上去已经废弃了, 但你觉得这寂静得有些不对劲...[CTP]\n\n你的直觉是正确的: 你走进了邪教徒的伏击圈之中! \n\n几个邪教徒带着武器从阴影中跳出, 他们的表情因仇恨和愤怒而扭曲!"
 					},
 					{
 						"id": "BE_GenericUndeadMineNeutral02",
-						"text": "The old mine was abandoned many years ago. \n\nYou rappel down the deep mineshaft and set out to explore it. You freeze at the sound of soft footsteps. A weird procession comes around the corner! \n\nThe cultists have also seen you and attack immediately!"
+						"text": "这个旧矿井很多年前就被遗弃了. \n\n你们沿着深邃的矿井下降并开始探索它. 当你听见轻微的脚步声时你仿佛被定住了一般. 一队奇怪的人影从墙边出现! \n\n邪教徒也看见了你们并立刻展开了攻击!"
 					},
 					{
 						"id": "BE_GenericUndeadMineNeutral03",
-						"text": "Work at this ancient copper mine must have ceased generations ago. \n\nIn search of a suitable resting place, you advance deeper into the mine. You startle a small group of cultists who apparently had the same plan!"
+						"text": "这个古代铜矿在几代人之前就停转了. \n\n为了寻找适合休息的地方, 你们深入了矿井. 但是你们让一小群显然有同样计划的邪教徒吃了一惊!"
 					},
 					{
 						"id": "BE_GenericUndeadMineNeutral05",
-						"text": "Miners last labored in these tunnels many centuries ago. With your hearts in your throats, you begin your journey into the depths. \n\nWhat’s that? Voices echo in the corridors! Before you have a chance to hide, you are discovered by a group of Brotherhood cultists!"
+						"text": "最后一次有矿工在这些隧道工作是几个世纪前的事情了. 心脏提到了嗓子眼, 你们开始了前往深渊的路程. \n\n那是什么? 走廊中传来了回声! 在你有机会躲藏之前, 你们被一队兄弟会的邪教徒发现了!"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage02",
-						"text": "The footprints in front of the old mineshaft are fresh – you are not alone here! \n\nYou scurry forward from cover to cover until you come across a group of Brotherhood cultists. They are squatting on the stone floor in some kind of trance. You could still withdraw unnoticed..."
+						"text": "在你前方矿井中的脚印依然很新 – 你们并非唯一在这里的人! \n\n你们从一个掩护绕到另一个掩护, 直到你们发现了一队邪教徒.  他们出于某些原因恍恍惚惚地蹲在岩石地板上. 你们仍然有机会不被发现地撤退..."
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage04",
-						"text": "The flickering on the wall indicates that you are not alone in the mine! \n\nYou peer carefully around the corner: You see a group of cultists crouching in a circle around several torches!"
+						"text": "墙上闪烁的灯光表明你们并非矿井中唯一一队人! \n\n你小心地绕到墙角: 你看见一群邪教徒围着一些火把蹲成一圈!"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage05",
-						"text": "The old mine seems deserted – but as you advance deeper into the depths, you soon realize that you are not alone here! \n\nMurmuring voices lead you to a large group of cultists who seem immersed in some kind of unholy communion!"
+						"text": "这个老矿井似乎废弃了 – 但随着你们深入深处, 你们发现你们并非这里的唯一一批人! \n\n微弱的声音引导你找到一大群邪教徒,他们似乎沉浸在亵圣餐中!"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage01_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage02_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage03_Choice01",
-						"text": "Attack"
+						"text": "攻击"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage04_Choice01",
-						"text": "Attack!"
+						"text": "攻击! "
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage05_Choice01",
-						"text": "Surprise attack!"
+						"text": "突然袭击! "
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage06_Choice01",
-						"text": "Open fire!"
+						"text": "开火! "
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage01_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage02_Choice02",
-						"text": "Return to the surface"
+						"text": "回到地表"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage03_Choice02",
-						"text": "Return to the surface"
+						"text": "回到地表"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage04_Choice02",
-						"text": "Return to the car"
+						"text": "撤回车上"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage05_Choice02",
-						"text": "Return to the car"
+						"text": "撤回车上"
 					},
 					{
 						"id": "BE_GenericUndeadMineAdvantage06_Choice02",
-						"text": "Withdraw"
+						"text": "撤退"
 					},
 					{
 						"id": "BE_GenericUndeadMineDisadvantage02",
