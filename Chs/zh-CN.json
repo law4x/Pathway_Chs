@@ -7822,11 +7822,11 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Intro",
-						"text": "当你进入墓地的时候,你从远处看到一块奇怪的巨石.当你靠近时,你注意到一道奇怪的光芒从黑色的巨石中散发出来.\n\n你检查了这个神秘的建筑,发现在一系列锯齿状的人物旁边有一个手形的凹陷,高到胸口.[CTP]\n\n空气中有微弱的嗡嗡声,但你找不出它的来源."
+						"text": "当你进入墓地的时候, 你远远看到一块奇怪的巨石. 当你靠近时, 你注意到一道奇怪的光芒从黑色的巨石中散发出来.\n\n你检查了这个神秘的装置, 发现在胸口高位置一堆不规则的文字旁边有一个手形的凹槽.[CTP]\n\n空气中有微弱的嗡嗡声, 但你找不出它的来源."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice01",
-						"text": "把手放在凹处"
+						"text": "把手放在凹槽上"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Choice02",
@@ -7842,39 +7842,39 @@
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Hand",
-						"text": "[char0] 把他的手放在黑曜石上的凹处.嗡嗡声响了一会儿,然后停止了,什么都没发生.\n\n就在你即将失望地离开的时候,你听到身后有轻轻的咔嗒声."
+						"text": "[char0]把他的手放在黑曜石上的凹处. 嗡嗡声响了一会儿, 然后停止了, 什么都没发生.\n\n就在你即将失望地离开的时候, 你听到身后传来轻轻的咔嗒声."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Hand_female",
-						"text": "[char0] 把她的手放在黑曜石上的凹处.嗡嗡声响了一会儿,然后停止了,什么都没发生.\n\n就在你即将失望地离开的时候,你听到身后有轻轻的咔嗒声."
+						"text": "[char0]把她的手放在黑曜石上的凹处. 嗡嗡声响了一会儿, 然后停止了,  什么都没发生.\n\n就在你即将失望地离开的时候, 你听到身后传来轻轻的咔嗒声."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Loot",
-						"text": "你环顾四周,发现其中一座陵墓的门已经打开.你在里面发现了大量的埋藏物!"
+						"text": "你环顾四周, 发现其中一座陵墓的门已经打开. 你在里面发现了大量的埋藏物!"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Fight",
-						"text": "你环顾四周,吓得发抖:你周围有几座坟墓已经被打开了!\n\n就像在噩梦中,畸形的生物向你移动..."
+						"text": "你环顾四周, 不由吓得发抖: 你周围有几座坟墓已经被打开了! \n\n就像是在做噩梦一般, 畸形的生物向你爬来..."
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesW",
-						"text": "[char1] 弯下腰来,咕哝着.\n\n[char1]: \"这是一个诅咒,描述了'活死人'以及他们守护的宝藏.我看不出剩下的了...\""
+						"text": "[char1]弯下腰来, 咕哝着.\n\n[char1]: \"这是一个诅咒, 描述了'活死人'以及他们守护的宝藏. 我看不出剩下的了...\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesW_female",
-						"text": "[char1] 弯下腰来,咕哝着.\n\n[char1]: \"这是一个诅咒,描述了'活死人'以及他们守护的宝藏.我看不出剩下的了...\""
+						"text": "[char1]弯下腰来, 咕哝着.\n\n[char1]: \"这是一个诅咒, 描述了'活死人'以及他们守护的宝藏. 我看不出剩下的了...\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesF",
-						"text": "[char1] 弯下腰来,咕哝着.\n\n [char1]: \"有意思...我从没见过这样的铭文!\""
+						"text": "[char1]弯下腰来, 咕哝着.\n\n [char1]: \"有意思...我从没见过这样的铭文!\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_LanguagesF_female",
-						"text": "[char1] 弯下腰来,咕哝着.\n\n [char1]: \"有意思...我从没见过这样的铭文!\""
+						"text": "[char1]弯下腰来, 咕哝着.\n\n [char1]: \"有意思...我从没见过这样的铭文!\""
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_Undecided",
-						"text": "你不能决定 - 你想做什么?"
+						"text": "你不能确定 - 你想做什么?"
 					},
 					{
 						"id": "BE_ObsidianStelaNecropolis01_ExamineTombs",
