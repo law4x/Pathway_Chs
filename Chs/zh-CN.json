@@ -11247,11 +11247,11 @@
 					},
 					{
 						"id": "ActionDescription_LowProfile",
-						"text": "隐蔽中的角色在本回合及接下来敌人行动的回合中回避率额外提高40%."
+						"text": "隐蔽中的角色在本回合及接下来敌人行动的回合中回避率额外提高 40%."
 					},
 					{
 						"id": "ActionDescription_HunkerDown",
-						"text": "固守状态下, 本回合与接下来敌人行动回合中角色受到的所有伤害降低75%."
+						"text": "固守状态下, 本回合与接下来敌人行动回合中角色受到的所有伤害降低 75%."
 					},
 					{
 						"id": "ActionDescription_Burst",
@@ -11259,11 +11259,11 @@
 					},
 					{
 						"id": "ActionDescription_Blast",
-						"text": "强力喷射可以攻击到你面前圆锥形范围内的所有目标. 会消耗两发子弹. 喷射伤害较原来降低20%."
+						"text": "强力喷射可以攻击到你面前圆锥形范围内的所有目标. 会消耗两发子弹. 喷射伤害较原来降低 20%."
 					},
 					{
 						"id": "ActionDescription_EnergyLance",
-						"text": "腐蚀射线可以攻击一条直线上的所有敌人, 直到它被墙壁挡住. 每穿透一个敌人攻击力降低40%. 腐蚀射线会一次性打空整个弹夹."
+						"text": "腐蚀射线可以攻击一条直线上的所有敌人, 直到它被墙壁挡住. 每穿透一个敌人攻击力降低 40%. 腐蚀射线会一次性打空整个弹夹."
 					},
 					{
 						"id": "ActionDescription_Ambush",
@@ -11283,7 +11283,7 @@
 					},
 					{
 						"id": "ActionDescription_Grenade",
-						"text": "朝目标区域投掷手雷造成AOE伤害."
+						"text": "朝目标区域投掷手雷造成 AOE 伤害."
 					},
 					{
 						"id": "ActionDescription_Punch",
