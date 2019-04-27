@@ -12343,11 +12343,11 @@
 					},
 					{
 						"id": "NPC_captainZettler_name",
-						"text": "Zettler船长"
+						"text": "Zettler上尉"
 					},
 					{
 						"id": "NPC_captainRueckert_name",
-						"text": "Rueckert船长"
+						"text": "Rueckert上尉"
 					},
 					{
 						"id": "NPC_strangeBeing_name",
@@ -12379,7 +12379,7 @@
 					},
 					{
 						"id": "NPC_nomad_name",
-						"text": "Nomad"
+						"text": "牧民"
 					},
 					{
 						"id": "NPC_oldWoman_name",
