@@ -1557,7 +1557,7 @@
 						"text": "一咬牙, [char3] 冲向巨石!它以不可思议的量顶住了巨石,直到你们都安全到达了下一个岔路口. 最终, 他没有力气了,然后向你们扑过来.就在他刚跃入拐角的时候,那块巨石轰隆一声撞在墙上,发出震耳欲聋的撞击声![CTP]\n\n你们花了一些时间试着把石头推到另一边,但前面的通道现在被堵住了. 你们别无选择,只能回到入口."
 					},
 					{
-						"id": "BE_LostRockTemple01RE02_StrengthF_female",
+						"id": "BE_LostRockTemple01_RE02_StrengthF_female",
 						"text": "一咬牙, [char3] 冲向巨石!它以不可思议的量顶住了巨石,直到你们都安全到达了下一个岔路口. 最终, 她没有力气了,然后向你们扑过来.就在她刚跃入拐角的时候,那块巨石轰隆一声撞在墙上,发出震耳欲聋的撞击声![CTP]\n\n你们花了一些时间试着把石头推到另一边,但前面的通道现在被堵住了. 你们别无选择,只能回到入口."
 					},
 					{
@@ -5941,7 +5941,7 @@
 						"text": "说完这些, 他冲向了雕像, 但却被绊倒摔了个狗啃泥! \n\n邪教徒们被惊得目瞪口呆, 但马上他们就愤怒地拿起了武器!"
 					},
 					{
-						"id": "BE_ClayIdolMine01__OccultF_female",
+						"id": "BE_ClayIdolMine01_OccultF_female",
 						"text": "说完这些, 她冲向了雕像, 但却被绊倒摔了个狗啃泥! \n\n邪教徒们被惊得目瞪口呆, 但马上他们就愤怒地拿起了武器!"
 					},
 					{
@@ -8989,6 +8989,10 @@
 						"text": "群山之间"
 					},
 					{
+						"id": "SE_Adventure06MapArrival01_drChandra_Title",
+						"text": "群山之间"
+					},
+					{
 						"id": "SE_Adventure06MapArrival01_georgette_Title",
 						"text": "群山之间"
 					},
@@ -10163,6 +10167,206 @@
 					{
 						"id": "FA_TeamDied06_SnowWhite",
 						"text": "荒芜之地"
+					},
+					{
+						"id": "BE_GorgeAmbush01_Choice03",
+						"text": ""
+					},
+					{
+						"id": "BE_GorgeAmbush01_Choice04",
+						"text": ""
+					},
+					{
+						"id": "BE_HolyMountainSpring01_Choice04",
+						"text": ""
+					},
+					{
+						"id": "BE_HolyMountainSpring01_Choice05",
+						"text": ""
+					},
+					{
+						"id": "BE_HolyMountainSpring01_Choice06",
+						"text": ""
+					},
+					{
+						"id": "BE_HolyMountainSpring01_Choice07",
+						"text": ""
+					},
+					{
+						"id": "BE_NaziDesertDisadvantage01_Choice01",
+						"text": ""
+					},
+					{
+						"id": "BE_NaziDesertDisadvantage01_Choice02",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_Choice04",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_Choice05",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_Choice06",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_Choice07",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_Choice08",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_Choice09",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_AltarRoomSearch",
+						"text": ""
+					},
+					{
+						"id": "BE_SanctuaryExcavation01_SecretChamber",
+						"text": ""
+					},
+					{
+						"id": "BE_SurprisedSoldiers01_Choice01",
+						"text": ""
+					},
+					{
+						"id": "BE_SurprisedSoldiers01_Choice02",
+						"text": ""
+					},
+					{
+						"id": "BE_UnholyVault01_Choice06",
+						"text": ""
+					},
+					{
+						"id": "BE_UnholyVault01_Choice07",
+						"text": ""
+					},
+					{
+						"id": "BE_BridgeInvocation01_Choice06",
+						"text": ""
+					},
+					{
+						"id": "BE_BridgeInvocation01_Choice07",
+						"text": ""
+					},
+					{
+						"id": "BE_CowardOfficer01_Choice01",
+						"text": ""
+					},
+					{
+						"id": "BE_CowardOfficer01_Choice02",
+						"text": ""
+					},
+					{
+						"id": "BE_LostIdol01_Choice07",
+						"text": ""
+					},
+					{
+						"id": "BE_LostIdol01_Choice08",
+						"text": ""
+					},
+					{
+						"id": "BE_LostIdol01_CultistsVanquished",
+						"text": ""
+					},
+					{
+						"id": "BE_MonsterAssault01_Choice06",
+						"text": ""
+					},
+					{
+						"id": "BE_MonsterAssault01_Choice07",
+						"text": ""
+					},
+					{
+						"id": "FE_FriendlyBeduins02_Choice01",
+						"text": ""
+					},
+					{
+						"id": "FE_FriendlyBeduins02_Choice02",
+						"text": ""
+					},
+					{
+						"id": "SE_Adventure01Clue03_Choice03",
+						"text": ""
+					},
+					{
+						"id": "SE_Adventure01Clue03_Choice04",
+						"text": ""
+					},
+					{
+						"id": "SE_Adventure01Clue03_Choice05",
+						"text": ""
+					},
+					{
+						"id": "SE_Adventure01Clue03_Choice06",
+						"text": ""
+					},
+					{
+						"id": "SE_Adventure01Clue03_Choice07",
+						"text": ""
+					},
+					{
+						"id": "LE_CobraCache01_Choice04",
+						"text": ""
+					},
+					{
+						"id": "LE_CobraCache01_Choice05",
+						"text": ""
+					},
+					{
+						"id": "LE_CobraCache01_Choice06",
+						"text": ""
+					},
+					{
+						"id": "LE_DesertedShrine01_Choice03",
+						"text": ""
+					},
+					{
+						"id": "LE_ForlornGhostTemple01_Choice03",
+						"text": ""
+					},
+					{
+						"id": "LE_ForlornGhostTemple01_Choice04",
+						"text": ""
+					},
+					{
+						"id": "LE_FriendlyBeduins01_Choice03",
+						"text": ""
+					},
+					{
+						"id": "LE_FriendlyBeduins01_Choice04",
+						"text": ""
+					},
+					{
+						"id": "AE_CarFailure01_Choice01",
+						"text": ""
+					},
+					{
+						"id": "AE_CarFailure01_Choice02",
+						"text": ""
+					},
+					{
+						"id": "AE_CarFailure02_Choice01",
+						"text": ""
+					},
+					{
+						"id": "AE_CarFailure02_Choice02",
+						"text": ""
+					},
+					{
+						"id": "AE_CarFailure03_Choice01",
+						"text": ""
+					},
+					{
+						"id": "AE_CarFailure03_Choice02",
+						"text": ""
 					}
 				]
 			},
@@ -10526,8 +10730,52 @@
 						"text": "这是一个临时天赋, 仅在本次冒险中有效."
 					},
 					{
+						"id": "EndOfTurn_Confirm_Question",
+						"text": "Some of your characters are still able to perform an action. Are you sure you'd like to finish this turn?"
+					},
+					{
+						"id": "EndOfTurn_Confirm",
+						"text": "Confirm"
+					},
+					{
+						"id": "EndOfTurn_Cancel",
+						"text": "Cancel"
+					},
+					{
 						"id": "Tooltip_Weapon_Damage",
 						"text": "伤害:"
+					},
+					{
+						"id": "Tooltip_Weapon_BaseDamage",
+						"text": "BASE DMG:"
+					},
+					{
+						"id": "Tooltip_Weapon_DamageCompleteAmount",
+						"text": "DMG: [0]-[1]"
+					},
+					{
+						"id": "Tooltip_Weapon_DamageTypeName",
+						"text": "[item:damageType]:"
+					},
+					{
+						"id": "Tooltip_Weapon_DamageTypeArmorPiercing",
+						"text": "Ignores Armor"
+					},
+					{
+						"id": "Tooltip_Weapon_PercentagePositive",
+						"text": " +[0]%"
+					},
+					{
+						"id": "Tooltip_Weapon_Percentage",
+						"text": "[0]%"
+					},
+					{
+						"id": "Tooltip_Weapon_EntityTypeBoostName",
+						"text": "vs. [entity:entityType]:"
+					},
+					{
+						"id": "Tooltip_Attack_MoreDetails",
+						"text": "Tab for details"
 					},
 					{
 						"id": "Tooltip_Weapon_Accuracy",
@@ -11730,6 +11978,14 @@
 						"text": "屏蔽狗狗受伤/死亡的音效."
 					},
 					{
+						"id": "GameOptions_Global_ConfirmEndTurn",
+						"text": "CONFIRM END TURN"
+					},
+					{
+						"id": "GameOptions_Global_ConfirmEndTurnTooltip",
+						"text": "Will ask for confirmation to end turn if one of your characters can still perform an action"
+					},
+					{
 						"id": "VideoOptions_Window",
 						"text": "窗口设置"
 					},
@@ -12698,6 +12954,14 @@
 						"text": "菜单中无法领取奖励"
 					},
 					{
+						"id": "Achievement_Info_InventoryFull_Label",
+						"text": "Can't claim: Full Inventory."
+					},
+					{
+						"id": "Achievement_Info_ResourceFull_Label",
+						"text": "Can't claim: Resource maxed out."
+					},
+					{
 						"id": "Achievement_AdventureUnlock_Label",
 						"text": "解锁了新的冒险"
 					},
@@ -12982,12 +13246,16 @@
 						"text": "拿去待售"
 					},
 					{
+						"id": "ItemContext_Caption",
+						"text": "Actions"
+					},
+					{
 						"id": "GambleOption_Info",
 						"text": "该选择会产生一项有利或不利的结果."
 					},
 					{
 						"id": "GamblePerkOption_Info",
-						"text": "该选项会用到角色的天赋. 结果可能有利也可能不利. 但你角色的天赋能大大提高成功的几率."
+						"text": "This option uses a character perk. It generally yields a positive outcome but in some instances may result in unexpected situations.."
 					},
 					{
 						"id": "GamblePerkOption_LockedInfo",
@@ -17078,7 +17346,7 @@
 					},
 					{
 						"id": "jackson_Recruited_0",
-						"text": "幸运与荣耀,孩子."
+						"text": "Happy to help, kiddo."
 					},
 					{
 						"id": "jackson_LevelUp_0",
@@ -17126,7 +17394,7 @@
 					},
 					{
 						"id": "jackson_ItemUpgrade_1",
-						"text": "不错,孩子,还不赖嘛."
+						"text": "不错,还不赖嘛."
 					},
 					{
 						"id": "jackson_ItemDowngrade_1",
