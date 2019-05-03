@@ -841,7 +841,7 @@
 					},
 					{
 						"id": "SpecialActions_Content",
-						"text": "[h1]技能[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点:\n[p]成功攻击敌人:    +[bravery:Hit] 勇气\n致命打击敌人:    +[bravery:HitCritical] 勇气\n躲避敌人攻击:    +[bravery:Evade] 勇气\n治愈队伍成员:    +[bravery:UseMedKit] 勇气\n修复我方装甲:    +[bravery:UseRepairKit] 勇气"
+						"text": "[h1]技能[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点:\n[p]成功攻击敌人:    +[bravery:Hit] 勇气\n攻击触发暴击:    +[bravery:HitCritical] 勇气\n躲避敌人攻击:    +[bravery:Evade] 勇气\n治愈队伍成员:    +[bravery:UseMedKit] 勇气\n修复我方装甲:    +[bravery:UseRepairKit] 勇气"
 					},
 					{
 						"id": "MovementActions",
