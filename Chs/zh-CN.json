@@ -176,7 +176,7 @@
 					},
 					{
 						"id": "firstBlood01_desc",
-						"text": "干掉一个."
+						"text": "干掉一个纳粹士兵."
 					},
 					{
 						"id": "firstBlood01_title",
@@ -184,7 +184,7 @@
 					},
 					{
 						"id": "fourKillsInOne01_desc",
-						"text": "一石四鸟."
+						"text": "一石N鸟."
 					},
 					{
 						"id": "fourKillsInOne01_title",
@@ -316,7 +316,7 @@
 					},
 					{
 						"id": "restingPlace01_title",
-						"text": "月光光鬼咁慌"
+						"text": "篝火的故事"
 					},
 					{
 						"id": "rifleKills01_desc",
@@ -10731,15 +10731,15 @@
 					},
 					{
 						"id": "EndOfTurn_Confirm_Question",
-						"text": "Some of your characters are still able to perform an action. Are you sure you'd like to finish this turn?"
+						"text": "你有单位仍可以行动. 确定要结束这回合吗?"
 					},
 					{
 						"id": "EndOfTurn_Confirm",
-						"text": "Confirm"
+						"text": "确定"
 					},
 					{
 						"id": "EndOfTurn_Cancel",
-						"text": "Cancel"
+						"text": "取消"
 					},
 					{
 						"id": "Tooltip_Weapon_Damage",
@@ -10747,11 +10747,11 @@
 					},
 					{
 						"id": "Tooltip_Weapon_BaseDamage",
-						"text": "BASE DMG:"
+						"text": "基础伤害:"
 					},
 					{
 						"id": "Tooltip_Weapon_DamageCompleteAmount",
-						"text": "DMG: [0]-[1]"
+						"text": "伤害: [0]-[1]"
 					},
 					{
 						"id": "Tooltip_Weapon_DamageTypeName",
@@ -10759,7 +10759,7 @@
 					},
 					{
 						"id": "Tooltip_Weapon_DamageTypeArmorPiercing",
-						"text": "Ignores Armor"
+						"text": "无视护甲"
 					},
 					{
 						"id": "Tooltip_Weapon_PercentagePositive",
@@ -10775,7 +10775,7 @@
 					},
 					{
 						"id": "Tooltip_Attack_MoreDetails",
-						"text": "Tab for details"
+						"text": "按Tab查看详情"
 					},
 					{
 						"id": "Tooltip_Weapon_Accuracy",
@@ -11551,7 +11551,7 @@
 					},
 					{
 						"id": "ActionTooltip_Attack",
-						"text": "攻击"
+						"text": "命中率"
 					},
 					{
 						"id": "ActionTooltip_Melee",
@@ -11979,11 +11979,11 @@
 					},
 					{
 						"id": "GameOptions_Global_ConfirmEndTurn",
-						"text": "CONFIRM END TURN"
+						"text": "回合结束确认"
 					},
 					{
 						"id": "GameOptions_Global_ConfirmEndTurnTooltip",
-						"text": "Will ask for confirmation to end turn if one of your characters can still perform an action"
+						"text": "开启后如果点击结束回合时仍有角色可以行动, 系统会提醒你再次确认"
 					},
 					{
 						"id": "VideoOptions_Window",
@@ -12955,11 +12955,11 @@
 					},
 					{
 						"id": "Achievement_Info_InventoryFull_Label",
-						"text": "Can't claim: Full Inventory."
+						"text": "背包满了, 无法获取."
 					},
 					{
 						"id": "Achievement_Info_ResourceFull_Label",
-						"text": "Can't claim: Resource maxed out."
+						"text": "已达上限, 无法获取."
 					},
 					{
 						"id": "Achievement_AdventureUnlock_Label",
@@ -13247,7 +13247,7 @@
 					},
 					{
 						"id": "ItemContext_Caption",
-						"text": "Actions"
+						"text": "操作"
 					},
 					{
 						"id": "GambleOption_Info",
@@ -13255,7 +13255,7 @@
 					},
 					{
 						"id": "GamblePerkOption_Info",
-						"text": "This option uses a character perk. It generally yields a positive outcome but in some instances may result in unexpected situations.."
+						"text": "选择该项会用到角色的天赋. 大多数情况下结果是有利的, 但偶尔也有翻车的时候."
 					},
 					{
 						"id": "GamblePerkOption_LockedInfo",
@@ -16814,7 +16814,7 @@
 					},
 					{
 						"id": "natalya_Evade_1",
-						"text": "又幸免于难."
+						"text": "又逃过一劫."
 					},
 					{
 						"id": "natalya_Idle_1",
@@ -16838,11 +16838,11 @@
 					},
 					{
 						"id": "natalya_ItemDowngrade_1",
-						"text": "我不太乐意."
+						"text": "不喜欢."
 					},
 					{
 						"id": "natalya_Recruited_1",
-						"text": "很高兴加入你们!"
+						"text": "我好兴奋!"
 					},
 					{
 						"id": "natalya_LevelUp_1",
@@ -16866,7 +16866,7 @@
 					},
 					{
 						"id": "leonora_Killshot_0",
-						"text": "美丽的死亡之日."
+						"text": "去见上帝的好日子."
 					},
 					{
 						"id": "leonora_Evade_0",
@@ -16974,7 +16974,7 @@
 					},
 					{
 						"id": "veduti_CriticalStrike_0",
-						"text": "我不是在神学院学的."
+						"text": "我这一手可不是在神学院学的."
 					},
 					{
 						"id": "veduti_Killshot_0",
@@ -16986,7 +16986,7 @@
 					},
 					{
 						"id": "veduti_Idle_0",
-						"text": "*praying*"
+						"text": "*祈祷*"
 					},
 					{
 						"id": "veduti_Flanked_0",
@@ -17006,7 +17006,7 @@
 					},
 					{
 						"id": "veduti_ItemDowngrade_0",
-						"text": "我不喜欢那样."
+						"text": "我不喜欢那个."
 					},
 					{
 						"id": "veduti_Recruited_0",
@@ -17086,7 +17086,7 @@
 					},
 					{
 						"id": "brunhilda_CriticalStrike_0",
-						"text": "就在痛的地方."
+						"text": "正中要害."
 					},
 					{
 						"id": "brunhilda_Killshot_0",
@@ -17094,7 +17094,7 @@
 					},
 					{
 						"id": "brunhilda_Evade_0",
-						"text": "刚才真的很近."
+						"text": "刚才真的就差一点点."
 					},
 					{
 						"id": "brunhilda_Idle_0",
@@ -17114,7 +17114,7 @@
 					},
 					{
 						"id": "brunhilda_ItemUpgrade_0",
-						"text": "Takk!"
+						"text": "谢了!"
 					},
 					{
 						"id": "brunhilda_ItemDowngrade_0",
@@ -17138,7 +17138,7 @@
 					},
 					{
 						"id": "brunhilda_NeedHealing_1",
-						"text": "啊,只是一点肉伤!"
+						"text": "呸,只是一点皮肉伤!"
 					},
 					{
 						"id": "brunhilda_CriticalStrike_1",
@@ -17146,11 +17146,11 @@
 					},
 					{
 						"id": "brunhilda_Killshot_1",
-						"text": "我喜欢破骨的声音."
+						"text": "我喜欢骨头裂开的声音."
 					},
 					{
 						"id": "brunhilda_Evade_1",
-						"text": "初学者."
+						"text": "菜鸟."
 					},
 					{
 						"id": "brunhilda_Idle_1",
@@ -17174,7 +17174,7 @@
 					},
 					{
 						"id": "brunhilda_ItemDowngrade_1",
-						"text": "*grinds teeth*"
+						"text": "*磨牙齿*"
 					},
 					{
 						"id": "brunhilda_Recruited_1",
@@ -17190,7 +17190,7 @@
 					},
 					{
 						"id": "pereira_NeedReloading_0",
-						"text": "必须重新装填锡罐."
+						"text": "家伙需要重新上弹."
 					},
 					{
 						"id": "pereira_NeedHealing_0",
@@ -17198,7 +17198,7 @@
 					},
 					{
 						"id": "pereira_CriticalStrike_0",
-						"text": "这个老头还是得到了."
+						"text": "宝刀未老."
 					},
 					{
 						"id": "pereira_Killshot_0",
@@ -17262,7 +17262,7 @@
 					},
 					{
 						"id": "pereira_Evade_1",
-						"text": "哈!Missed!"
+						"text": "哈!没打中!"
 					},
 					{
 						"id": "pereira_Idle_1",
@@ -17318,7 +17318,7 @@
 					},
 					{
 						"id": "jackson_Evade_0",
-						"text": "那真是...太近了."
+						"text": "那真是...太险了."
 					},
 					{
 						"id": "jackson_Idle_0",
@@ -17346,7 +17346,7 @@
 					},
 					{
 						"id": "jackson_Recruited_0",
-						"text": "Happy to help, kiddo."
+						"text": "孩子,很高兴搭把手."
 					},
 					{
 						"id": "jackson_LevelUp_0",
@@ -17382,7 +17382,7 @@
 					},
 					{
 						"id": "jackson_Flanked_1",
-						"text": "这个看起来一点都不好..."
+						"text": "这看起来一点都不好..."
 					},
 					{
 						"id": "jackson_NeedFuel_1",
@@ -17394,7 +17394,7 @@
 					},
 					{
 						"id": "jackson_ItemUpgrade_1",
-						"text": "不错,还不赖嘛."
+						"text": "不错,真的不错."
 					},
 					{
 						"id": "jackson_ItemDowngrade_1",
@@ -17434,7 +17434,7 @@
 					},
 					{
 						"id": "georgette_Idle_0",
-						"text": "这是浪费我的时间."
+						"text": "这是在浪费我的时间."
 					},
 					{
 						"id": "georgette_Flanked_0",
@@ -17450,7 +17450,7 @@
 					},
 					{
 						"id": "georgette_ItemUpgrade_0",
-						"text": "*nods*"
+						"text": "*点点头*"
 					},
 					{
 						"id": "georgette_ItemDowngrade_0",
@@ -17590,11 +17590,11 @@
 					},
 					{
 						"id": "professor_CriticalStrike_1",
-						"text": "科学的又一个观点."
+						"text": "科学的又一步."
 					},
 					{
 						"id": "professor_Killshot_1",
-						"text": "技术死亡!"
+						"text": "科技的制裁!"
 					},
 					{
 						"id": "professor_Evade_1",
@@ -17742,7 +17742,7 @@
 					},
 					{
 						"id": "drChandra_LevelUp_1",
-						"text": "启蒙降临到你身上,而不是相反."
+						"text": "你将有所领悟,而不是别的."
 					},
 					{
 						"id": "drChandra_EnemySpotted_1",
@@ -17934,7 +17934,7 @@
 					},
 					{
 						"id": "baron_Evade_1",
-						"text": "不太令人印象深刻."
+						"text": "不太行."
 					},
 					{
 						"id": "baron_Idle_1",
@@ -17966,7 +17966,7 @@
 					},
 					{
 						"id": "baron_LevelUp_1",
-						"text": "卓越."
+						"text": "好极了."
 					},
 					{
 						"id": "baron_EnemySpotted_1",
@@ -17974,7 +17974,7 @@
 					},
 					{
 						"id": "Rose_NeedReloading_0",
-						"text": "空枪对任何人都没有帮助."
+						"text": "空的枪对任何人都没有帮助."
 					},
 					{
 						"id": "Rose_NeedHealing_0",
@@ -18186,7 +18186,7 @@
 					},
 					{
 						"id": "caballero_Recruited_1",
-						"text": "我怎么能拒绝这样的承诺呢?"
+						"text": "我怎么能拒绝这样的任务呢?"
 					},
 					{
 						"id": "caballero_LevelUp_1",
@@ -18246,7 +18246,7 @@
 					},
 					{
 						"id": "omar_LevelUp_0",
-						"text": "难以吸取的教训."
+						"text": "惨痛的教训."
 					},
 					{
 						"id": "omar_EnemySpotted_0",
@@ -18270,7 +18270,7 @@
 					},
 					{
 						"id": "omar_Evade_1",
-						"text": "你这个白痴养的!"
+						"text": "你奶奶的!"
 					},
 					{
 						"id": "omar_Idle_1",
@@ -18278,7 +18278,7 @@
 					},
 					{
 						"id": "omar_Flanked_1",
-						"text": "埋伏?那可不是只有你们会!"
+						"text": "埋伏?那可不是只有一个人!"
 					},
 					{
 						"id": "omar_NeedFuel_1",
@@ -18442,7 +18442,7 @@
 					},
 					{
 						"id": "leFantome_Idle_0",
-						"text": "*whistles*"
+						"text": "*吹口哨*"
 					},
 					{
 						"id": "leFantome_Flanked_0",
@@ -18534,227 +18534,227 @@
 					},
 					{
 						"id": "fenris_NeedReloading_0",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "fenris_NeedHealing_0",
-						"text": "*Whines*"
+						"text": "*哼唧*"
 					},
 					{
 						"id": "fenris_CriticalStrike_0",
-						"text": "Aaah-OoOH!"
+						"text": "啊呜~!"
 					},
 					{
 						"id": "fenris_Killshot_0",
-						"text": "*Gnarls*"
+						"text": "*磨牙*"
 					},
 					{
 						"id": "fenris_Evade_0",
-						"text": "*Whimpers*"
+						"text": "*呜咽*"
 					},
 					{
 						"id": "fenris_Idle_0",
-						"text": "Sniff-sniff"
+						"text": "嗅嗅"
 					},
 					{
 						"id": "fenris_Flanked_0",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "fenris_NeedFuel_0",
-						"text": "WooOFF!"
+						"text": "汪汪!"
 					},
 					{
 						"id": "fenris_NeedAmmo_0",
-						"text": "Bow-WOW!"
+						"text": "汪~汪!"
 					},
 					{
 						"id": "fenris_ItemUpgrade_0",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "fenris_ItemDowngrade_0",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "fenris_Recruited_0",
-						"text": "WoowooWOOF!"
+						"text": "汪汪汪!"
 					},
 					{
 						"id": "fenris_LevelUp_0",
-						"text": "*Heavy Panting*"
+						"text": "*喘粗气*"
 					},
 					{
 						"id": "fenris_EnemySpotted_0",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "fenris_NeedReloading_1",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "fenris_NeedHealing_1",
-						"text": "*Whines*"
+						"text": "*哼唧*"
 					},
 					{
 						"id": "fenris_CriticalStrike_1",
-						"text": "Aaah-OoOH!"
+						"text": "啊呜~!"
 					},
 					{
 						"id": "fenris_Killshot_1",
-						"text": "*Gnarls*"
+						"text": "*磨牙*"
 					},
 					{
 						"id": "fenris_Evade_1",
-						"text": "*Whimpers*"
+						"text": "*呜咽*"
 					},
 					{
 						"id": "fenris_Idle_1",
-						"text": "Sniff-sniff"
+						"text": "嗅嗅"
 					},
 					{
 						"id": "fenris_Flanked_1",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "fenris_NeedFuel_1",
-						"text": "WooOFF!"
+						"text": "汪汪!"
 					},
 					{
 						"id": "fenris_NeedAmmo_1",
-						"text": "Bow-WOW!"
+						"text": "汪~汪!"
 					},
 					{
 						"id": "fenris_ItemUpgrade_1",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "fenris_ItemDowngrade_1",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "fenris_Recruited_1",
-						"text": "WoowooWOOF!"
+						"text": "汪汪汪!"
 					},
 					{
 						"id": "fenris_LevelUp_1",
-						"text": "*Heavy Panting*"
+						"text": "*喘粗气*"
 					},
 					{
 						"id": "fenris_EnemySpotted_1",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "snowWhite_NeedReloading_0",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "snowWhite_NeedHealing_0",
-						"text": "*Whines*"
+						"text": "*哼唧*"
 					},
 					{
 						"id": "snowWhite_CriticalStrike_0",
-						"text": "Aaah-OoOH!"
+						"text": "啊呜~!"
 					},
 					{
 						"id": "snowWhite_Killshot_0",
-						"text": "*Gnarls*"
+						"text": "*磨牙*"
 					},
 					{
 						"id": "snowWhite_Evade_0",
-						"text": "*Whimpers*"
+						"text": "*呜咽*"
 					},
 					{
 						"id": "snowWhite_Idle_0",
-						"text": "Sniff-sniff"
+						"text": "嗅嗅"
 					},
 					{
 						"id": "snowWhite_Flanked_0",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "snowWhite_NeedFuel_0",
-						"text": "WooOFF!"
+						"text": "汪汪!"
 					},
 					{
 						"id": "snowWhite_NeedAmmo_0",
-						"text": "Bow-WOW!"
+						"text": "汪~汪!"
 					},
 					{
 						"id": "snowWhite_ItemUpgrade_0",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "snowWhite_ItemDowngrade_0",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "snowWhite_Recruited_0",
-						"text": "WoowooWOOF!"
+						"text": "汪汪汪!"
 					},
 					{
 						"id": "snowWhite_LevelUp_0",
-						"text": "*Heavy Panting*"
+						"text": "*喘粗气*"
 					},
 					{
 						"id": "snowWhite_EnemySpotted_0",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "snowWhite_NeedReloading_1",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "snowWhite_NeedHealing_1",
-						"text": "*Whines*"
+						"text": "*哼唧*"
 					},
 					{
 						"id": "snowWhite_CriticalStrike_1",
-						"text": "Aaah-OoOH!"
+						"text": "啊呜~!"
 					},
 					{
 						"id": "snowWhite_Killshot_1",
-						"text": "*Gnarls*"
+						"text": "*磨牙*"
 					},
 					{
 						"id": "snowWhite_Evade_1",
-						"text": "*Whimpers*"
+						"text": "*呜咽*"
 					},
 					{
 						"id": "snowWhite_Idle_1",
-						"text": "Sniff-sniff"
+						"text": "嗅嗅"
 					},
 					{
 						"id": "snowWhite_Flanked_1",
-						"text": "Woof!"
+						"text": "汪!"
 					},
 					{
 						"id": "snowWhite_NeedFuel_1",
-						"text": "WooOFF!"
+						"text": "汪汪!"
 					},
 					{
 						"id": "snowWhite_NeedAmmo_1",
-						"text": "Bow-WOW!"
+						"text": "汪~汪!"
 					},
 					{
 						"id": "snowWhite_ItemUpgrade_1",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "snowWhite_ItemDowngrade_1",
-						"text": "Woof"
+						"text": "汪"
 					},
 					{
 						"id": "snowWhite_Recruited_1",
-						"text": "WoowooWOOF!"
+						"text": "汪汪汪!"
 					},
 					{
 						"id": "snowWhite_LevelUp_1",
-						"text": "*Heavy Panting*"
+						"text": "*喘粗气*"
 					},
 					{
 						"id": "snowWhite_EnemySpotted_1",
-						"text": "Woof!"
+						"text": "汪!"
 					}
 				]
 			},
