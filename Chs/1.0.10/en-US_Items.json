@@ -1,0 +1,2405 @@
+{
+"id": "Items",
+"rows": [
+	{
+		"id": "knife_0_a_description",
+		"text": "刀刃几乎全钝了."
+	},
+	{
+		"id": "knife_0_a_name",
+		"text": "小刀(破损)"
+	},
+	{
+		"id": "knife_0_b_description",
+		"text": "嘿,上面有个开瓶器!"
+	},
+	{
+		"id": "knife_0_b_name",
+		"text": "小刀(崭新)"
+	},
+	{
+		"id": "knife_0_description",
+		"text": "它没有开瓶器"
+	},
+	{
+		"id": "knife_0_name",
+		"text": "小刀"
+	},
+	{
+		"id": "knife_1_a_description",
+		"text": "它绣得很严重."
+	},
+	{
+		"id": "knife_1_a_name",
+		"text": "匕首(破损)"
+	},
+	{
+		"id": "knife_1_b_description",
+		"text": "像剃须刀一样锋利!"
+	},
+	{
+		"id": "knife_1_b_name",
+		"text": "匕首(崭新)"
+	},
+	{
+		"id": "knife_1_description",
+		"text": "优雅且致命..."
+	},
+	{
+		"id": "knife_1_name",
+		"text": "匕首"
+	},
+	{
+		"id": "knife_2_a_description",
+		"text": "刀刃有一些松了."
+	},
+	{
+		"id": "knife_2_a_name",
+		"text": "单刃猎刀(破损)"
+	},
+	{
+		"id": "knife_2_b_description",
+		"text": "这是件艺术品!"
+	},
+	{
+		"id": "knife_2_b_name",
+		"text": "单刃猎刀(崭新)"
+	},
+	{
+		"id": "knife_2_description",
+		"text": "它不是30cm以下的刀..."
+	},
+	{
+		"id": "knife_2_name",
+		"text": "单刃猎刀"
+	},
+	{
+		"id": "knife_3_a_description",
+		"text": "它一定在地下沉默了好多年了."
+	},
+	{
+		"id": "knife_3_a_name",
+		"text": "大砍刀(破损)"
+	},
+	{
+		"id": "knife_3_b_description",
+		"text": "顶级品质!"
+	},
+	{
+		"id": "knife_3_b_name",
+		"text": "大砍刀(崭新)"
+	},
+	{
+		"id": "knife_3_description",
+		"text": "很重,但手感好."
+	},
+	{
+		"id": "knife_3_name",
+		"text": "大砍刀"
+	},
+	{
+		"id": "knife_4_a_description",
+		"text": "急需打磨."
+	},
+	{
+		"id": "knife_4_a_name",
+		"text": "菜刀(破损)"
+	},
+	{
+		"id": "knife_4_b_description",
+		"text": "看起来像刚从厨房拿来的一样!"
+	},
+	{
+		"id": "knife_4_b_name",
+		"text": "菜刀(崭新)"
+	},
+	{
+		"id": "knife_4_description",
+		"text": "削铁如泥!"
+	},
+	{
+		"id": "knife_4_name",
+		"text": "菜刀"
+	},
+	{
+		"id": "knife_5_a_description",
+		"text": "这种武器见过更好的日子."
+	},
+	{
+		"id": "knife_5_a_name",
+		"text": "尼泊尔弯刀(破损)"
+	},
+	{
+		"id": "knife_5_b_description",
+		"text": "惊人地锋利!"
+	},
+	{
+		"id": "knife_5_b_name",
+		"text": "尼泊尔弯刀(崭新)"
+	},
+	{
+		"id": "knife_5_description",
+		"text": "可怕的廓尔喀战士的标准武器:敏捷而致命."
+	},
+	{
+		"id": "knife_5_name",
+		"text": "尼泊尔弯刀"
+	},
+	{
+		"id": "disintegrator_0_a_description",
+		"text": "你不认为那些电线应该从侧面伸出."
+	},
+	{
+		"id": "disintegrator_0_a_name",
+		"text": "Frobisher & Boyd墙壁切割机(破损)"
+	},
+	{
+		"id": "disintegrator_0_b_description",
+		"text": "一件很棒的样品!"
+	},
+	{
+		"id": "disintegrator_0_b_name",
+		"text": "Frobisher & Boyd墙壁切割机(崭新)"
+	},
+	{
+		"id": "disintegrator_0_description",
+		"text": "来自历史悠久的英国制造商Frobisher & Boyd的最新进展,它显然仍在进行中,不管怎样大多时候它应该是安全的..."
+	},
+	{
+		"id": "disintegrator_0_name",
+		"text": "Frobisher & Boyd墙壁切割机"
+	},
+	{
+		"id": "disintegrator_1_a_description",
+		"text": "这东西发出一些令人担忧的声音."
+	},
+	{
+		"id": "disintegrator_1_a_name",
+		"text": "Adler & Stahlknecht原型机枪(破损)"
+	},
+	{
+		"id": "disintegrator_1_b_description",
+		"text": "使用起来有点复杂,但完美无缺!"
+	},
+	{
+		"id": "disintegrator_1_b_name",
+		"text": "Adler & Stahlknecht原型机枪(崭新)"
+	},
+	{
+		"id": "disintegrator_1_description",
+		"text": "这种设计显然是一项正在进行的工作.那些疯狂的德国人和他们神秘的原型!"
+	},
+	{
+		"id": "disintegrator_1_name",
+		"text": "Adler & Stahlknecht原型机枪"
+	},
+	{
+		"id": "disintegrator_2_a_description",
+		"text": "有些螺丝松了."
+	},
+	{
+		"id": "disintegrator_2_a_name",
+		"text": "Oakfield Gernsback枪(破损)"
+	},
+	{
+		"id": "disintegrator_2_b_description",
+		"text": "它似乎是一个全新的模型."
+	},
+	{
+		"id": "disintegrator_2_b_name",
+		"text": "Oakfield Gernsback枪(崭新)"
+	},
+	{
+		"id": "disintegrator_2_description",
+		"text": "美国人通过这种大规模生产的模型进入了竞争激烈的粉碎机市场."
+	},
+	{
+		"id": "disintegrator_2_name",
+		"text": "Oakfield Gernsback枪"
+	},
+	{
+		"id": "disintegrator_3_a_description",
+		"text": "它闻起来像被包裹在臭臭的衣服里一样."
+	},
+	{
+		"id": "disintegrator_3_a_name",
+		"text": "Litvak-Vertov Vril喷火器(破损)"
+	},
+	{
+		"id": "disintegrator_3_b_description",
+		"text": "有吸引力的设计!"
+	},
+	{
+		"id": "disintegrator_3_b_name",
+		"text": "Litvak-Vertov Vril喷火器(崭新)"
+	},
+	{
+		"id": "disintegrator_3_description",
+		"text": "神秘的东欧人的新方法.你可能想知道Vril是什么以及它为什么需要燃烧."
+	},
+	{
+		"id": "disintegrator_3_name",
+		"text": "Litvak-Vertov Vril喷火器"
+	},
+	{
+		"id": "disintegrator_4_a_description",
+		"text": "它似乎在运输过程中遭受了一些撞击."
+	},
+	{
+		"id": "disintegrator_4_a_name",
+		"text": "Rheingold粒子步枪(破损)"
+	},
+	{
+		"id": "disintegrator_4_b_description",
+		"text": "直接从生产线运过来!"
+	},
+	{
+		"id": "disintegrator_4_b_name",
+		"text": "Rheingold粒子步枪(崭新)"
+	},
+	{
+		"id": "disintegrator_4_description",
+		"text": "来自克桑滕神秘武器铸造厂的出色的德国工程设计令人难以置信."
+	},
+	{
+		"id": "disintegrator_4_name",
+		"text": "Rheingold粒子步枪"
+	},
+	{
+		"id": "disintegrator_5_a_description",
+		"text": "灯随机闪烁..."
+	},
+	{
+		"id": "disintegrator_5_a_name",
+		"text": "Ritterwerck Planckstrahler(破损)"
+	},
+	{
+		"id": "disintegrator_5_b_description",
+		"text": "杰作!"
+	},
+	{
+		"id": "disintegrator_5_b_name",
+		"text": "Ritterwerck Planckstrahler(崭新)"
+	},
+	{
+		"id": "disintegrator_5_description",
+		"text": "Rittwerck Planckstrahler是一个真正令人敬畏的武器."
+	},
+	{
+		"id": "disintegrator_5_name",
+		"text": "Ritterwerck Planckstrahler"
+	},
+	{
+		"id": "pistol_0_a_description",
+		"text": "这把手枪过着漫长而多事的生活."
+	},
+	{
+		"id": "pistol_0_a_name",
+		"text": "黑斯廷斯服务手枪(破损)"
+	},
+	{
+		"id": "pistol_0_b_description",
+		"text": "保存得出乎寻常的完好."
+	},
+	{
+		"id": "pistol_0_b_name",
+		"text": "黑斯廷斯服务手枪(崭新)"
+	},
+	{
+		"id": "pistol_0_description",
+		"text": "自1915年以来,它一直是英国野战医师的标准武器."
+	},
+	{
+		"id": "pistol_0_name",
+		"text": "黑斯廷斯服务手枪"
+	},
+	{
+		"id": "pistol_1_a_description",
+		"text": "它受到严重磨损."
+	},
+	{
+		"id": "pistol_1_a_name",
+		"text": "Preussisch-Moser M1907(破损)"
+	},
+	{
+		"id": "pistol_1_b_description",
+		"text": "这把武器由其前任主人精心维护."
+	},
+	{
+		"id": "pistol_1_b_name",
+		"text": "Preussisch-Moser M1907(崭新)"
+	},
+	{
+		"id": "pistol_1_description",
+		"text": "德国经典,在法兰德斯的战壕中证明了一千次."
+	},
+	{
+		"id": "pistol_1_name",
+		"text": "Preussisch-Moser M1907"
+	},
+	{
+		"id": "pistol_2_a_description",
+		"text": "这把枪一直躺在沙漠中."
+	},
+	{
+		"id": "pistol_2_a_name",
+		"text": "Steiner Pistole 34(破损)"
+	},
+	{
+		"id": "pistol_2_b_description",
+		"text": "它就像从未使用过."
+	},
+	{
+		"id": "pistol_2_b_name",
+		"text": "Steiner Pistole 34(崭新)"
+	},
+	{
+		"id": "pistol_2_description",
+		"text": "德国军官目前正在装备这种最先进的武器."
+	},
+	{
+		"id": "pistol_2_name",
+		"text": "Steiner Pistole 34"
+	},
+	{
+		"id": "pistol_3_a_description",
+		"text": "它还没有老化..."
+	},
+	{
+		"id": "pistol_3_a_name",
+		"text": "Neuvelle 9mm(破损)"
+	},
+	{
+		"id": "pistol_3_b_description",
+		"text": "一个很好的老Neuvelle - 坚不可摧!"
+	},
+	{
+		"id": "pistol_3_b_name",
+		"text": "Neuvelle 9mm(崭新)"
+	},
+	{
+		"id": "pistol_3_description",
+		"text": "它有点旧,但仍然属于自己的一类:Breton Neuvelle 9mm!"
+	},
+	{
+		"id": "pistol_3_name",
+		"text": "Neuvelle 9mm"
+	},
+	{
+		"id": "pistol_4_a_description",
+		"text": "房间里沙沙嘎吱作响."
+	},
+	{
+		"id": "pistol_4_a_name",
+		"text": "Dominic .425 Parabellum(破损)"
+	},
+	{
+		"id": "pistol_4_b_description",
+		"text": "有人使用油性抹布给它保持光泽和良好维护."
+	},
+	{
+		"id": "pistol_4_b_name",
+		"text": "Dominic .425 Parabellum(崭新)"
+	},
+	{
+		"id": "pistol_4_description",
+		"text": "这件武器刻有座右铭: 'Si vis pacem para bellum' 你确定这意味着一些非常聪明的事情."
+	},
+	{
+		"id": "pistol_4_name",
+		"text": "Dominic .425 Parabellum"
+	},
+	{
+		"id": "pistol_5_a_description",
+		"text": "不幸的是,它的状态已经不太好了."
+	},
+	{
+		"id": "pistol_5_a_name",
+		"text": "Morley-Burke Magnum(破损)"
+	},
+	{
+		"id": "pistol_5_b_description",
+		"text": "一个极好的标本!"
+	},
+	{
+		"id": "pistol_5_b_name",
+		"text": "Morley-Burke Magnum(崭新)"
+	},
+	{
+		"id": "pistol_5_description",
+		"text": "当第一枪必须坐下时 - Morley-Burke Magnum重新定义了冲击的力量!"
+	},
+	{
+		"id": "pistol_5_name",
+		"text": "Morley-Burke Magnum"
+	},
+	{
+		"id": "rifle_0_a_description",
+		"text": "枪管有点变形."
+	},
+	{
+		"id": "rifle_0_a_name",
+		"text": "Venner自动步枪(破损)"
+	},
+	{
+		"id": "rifle_0_b_description",
+		"text": "它的状态非常好!"
+	},
+	{
+		"id": "rifle_0_b_name",
+		"text": "Venner自动步枪(崭新)"
+	},
+	{
+		"id": "rifle_0_description",
+		"text": "坚固耐用 - 这是自1878年以来阿尔萨斯Venner工厂的设计理念."
+	},
+	{
+		"id": "rifle_0_name",
+		"text": "Venner自动步枪"
+	},
+	{
+		"id": "rifle_1_a_description",
+		"text": "步枪枪托上的把手松动了."
+	},
+	{
+		"id": "rifle_1_a_name",
+		"text": "Adler & Stahlknecht StG-34(破损)"
+	},
+	{
+		"id": "rifle_1_b_description",
+		"text": "它仍然闻起来很新鲜..."
+	},
+	{
+		"id": "rifle_1_b_name",
+		"text": "Adler & Stahlknecht StG-34(崭新)"
+	},
+	{
+		"id": "rifle_1_description",
+		"text": "这款口径非常轻巧,德国工程的另一个例子,战争未来的一个令人不安的先兆."
+	},
+	{
+		"id": "rifle_1_name",
+		"text": "Adler & Stahlknecht StG-34"
+	},
+	{
+		"id": "rifle_2_a_description",
+		"text": "有人试图用沙子刮去桶上的锈渍."
+	},
+	{
+		"id": "rifle_2_a_name",
+		"text": "Zeisig Sturmkarabiner M18(破损)"
+	},
+	{
+		"id": "rifle_2_b_description",
+		"text": "这种卡宾枪维护得很好."
+	},
+	{
+		"id": "rifle_2_b_name",
+		"text": "Zeisig Sturmkarabiner M18(崭新)"
+	},
+	{
+		"id": "rifle_2_description",
+		"text": "来自第一次世界大战后德国的发展.由于枪管从根本上缩短,因此可以最大限度地提高战壕战斗的机动性."
+	},
+	{
+		"id": "rifle_2_name",
+		"text": "Zeisig Sturmkarabiner M18"
+	},
+	{
+		"id": "rifle_3_a_description",
+		"text": "一次猛烈的撞击使步枪枪托的木头裂开了."
+	},
+	{
+		"id": "rifle_3_a_name",
+		"text": "布莱克半自动步枪(破损)"
+	},
+	{
+		"id": "rifle_3_b_description",
+		"text": "它还是有点木屑味,可能是直接从箱子里出来的."
+	},
+	{
+		"id": "rifle_3_b_name",
+		"text": "布莱克半自动步枪(崭新)"
+	},
+	{
+		"id": "rifle_3_description",
+		"text": "战后动荡不安的岁月中取得的令人印象深刻的新进展,旨在满足英国殖民部队的需要."
+	},
+	{
+		"id": "rifle_3_name",
+		"text": "布莱克半自动步枪"
+	},
+	{
+		"id": "rifle_4_a_description",
+		"text": "扳机有点松."
+	},
+	{
+		"id": "rifle_4_a_name",
+		"text": "查尔斯顿M1步枪(破损)"
+	},
+	{
+		"id": "rifle_4_b_description",
+		"text": "它和新的一样好."
+	},
+	{
+		"id": "rifle_4_b_name",
+		"text": "查尔斯顿M1步枪(崭新)"
+	},
+	{
+		"id": "rifle_4_description",
+		"text": "查尔斯顿M1现在被认为是美国联邦警察在与全副武装的走私者和黑手党战斗中的标准武器."
+	},
+	{
+		"id": "rifle_4_name",
+		"text": "查尔斯顿M1步枪"
+	},
+	{
+		"id": "rifle_5_a_description",
+		"text": "这个武器有历史,你可以看出来!"
+	},
+	{
+		"id": "rifle_5_a_name",
+		"text": "普雷斯顿M1917-CA(破损)"
+	},
+	{
+		"id": "rifle_5_b_description",
+		"text": "大概是战后从未在前线看到行动的模型."
+	},
+	{
+		"id": "rifle_5_b_name",
+		"text": "普雷斯顿M1917-CA(崭新)"
+	},
+	{
+		"id": "rifle_5_description",
+		"text": "美国远征军的童子军带着M1917横渡大西洋.有人称它为赢得第二次世界大战的枪."
+	},
+	{
+		"id": "rifle_5_name",
+		"text": "普雷斯顿M1917-CA"
+	},
+	{
+		"id": "shotgun_0_a_description",
+		"text": "猎枪枪管的好几个地方有凹痕."
+	},
+	{
+		"id": "shotgun_0_a_name",
+		"text": "查尔斯顿无膛线枪(破损)"
+	},
+	{
+		"id": "shotgun_0_b_description",
+		"text": "这把猎枪完好无损."
+	},
+	{
+		"id": "shotgun_0_b_name",
+		"text": "查尔斯顿无膛线枪(崭新)"
+	},
+	{
+		"id": "shotgun_0_description",
+		"text": "查尔斯顿以其简单的滑膛设计,主要服务于国内狩猎市场."
+	},
+	{
+		"id": "shotgun_0_name",
+		"text": "查尔斯顿无膛线枪"
+	},
+	{
+		"id": "shotgun_1_a_description",
+		"text": "后膛上有火药痕迹."
+	},
+	{
+		"id": "shotgun_1_a_name",
+		"text": "Morley-Burke Break Action(破损)"
+	},
+	{
+		"id": "shotgun_1_b_description",
+		"text": "这把枪看起来好像从来没开过."
+	},
+	{
+		"id": "shotgun_1_b_name",
+		"text": "Morley-Burke Break Action(崭新)"
+	},
+	{
+		"id": "shotgun_1_description",
+		"text": "这是莫利·伯克的中型猎枪,它有着断裂动作模型."
+	},
+	{
+		"id": "shotgun_1_name",
+		"text": "Morley-Burke Break Action"
+	},
+	{
+		"id": "shotgun_2_a_description",
+		"text": "当你仔细观察时,你会发现枪管有一些细小的裂缝...."
+	},
+	{
+		"id": "shotgun_2_a_name",
+		"text": "Venner Buckshot(破损)"
+	},
+	{
+		"id": "shotgun_2_b_description",
+		"text": "尽管它很重,但它却平衡得出奇的好!"
+	},
+	{
+		"id": "shotgun_2_b_name",
+		"text": "Venner Buckshot(崭新)"
+	},
+	{
+		"id": "shotgun_2_description",
+		"text": "Venner Buckshot: 当你想打一拳的时候."
+	},
+	{
+		"id": "shotgun_2_name",
+		"text": "Venner Buckshot"
+	},
+	{
+		"id": "shotgun_3_a_description",
+		"text": "这把枪看来已经不止一次被用作棍子了."
+	},
+	{
+		"id": "shotgun_3_a_name",
+		"text": "黑斯廷斯战壕枪(破损)"
+	},
+	{
+		"id": "shotgun_3_b_description",
+		"text": "它保存得非常完好."
+	},
+	{
+		"id": "shotgun_3_b_name",
+		"text": "黑斯廷斯战壕枪(崭新)"
+	},
+	{
+		"id": "shotgun_3_description",
+		"text": "英国发展以前的民用模型,它在第一次世界大战的战壕战中引起了恐惧和混乱."
+	},
+	{
+		"id": "shotgun_3_name",
+		"text": "黑斯廷斯战壕枪"
+	},
+	{
+		"id": "shotgun_4_a_description",
+		"text": "扳机有点卡住了."
+	},
+	{
+		"id": "shotgun_4_a_name",
+		"text": "Klugenstein Hartschrot(破损)"
+	},
+	{
+		"id": "shotgun_4_b_description",
+		"text": "它非常适合手部,就像手臂的自然伸展..."
+	},
+	{
+		"id": "shotgun_4_b_name",
+		"text": "Klugenstein Hartschrot(崭新)"
+	},
+	{
+		"id": "shotgun_4_description",
+		"text": "Klugenstein HS结实高效,非常适合跟踪和其他活动."
+	},
+	{
+		"id": "shotgun_4_name",
+		"text": "Klugenstein Hartschrot"
+	},
+	{
+		"id": "shotgun_5_a_description",
+		"text": "这把枪的状况很糟糕!"
+	},
+	{
+		"id": "shotgun_5_a_name",
+		"text": "Willoughby 10-bore(破损)"
+	},
+	{
+		"id": "shotgun_5_b_description",
+		"text": "一件宝物..."
+	},
+	{
+		"id": "shotgun_5_b_name",
+		"text": "Willoughby 10-bore(崭新)"
+	},
+	{
+		"id": "shotgun_5_description",
+		"text": "苏格兰狩猎传统自1721年以来-威洛比家族企业保证质量和性能."
+	},
+	{
+		"id": "shotgun_5_name",
+		"text": "Willoughby 10-bore"
+	},
+	{
+		"id": "sniper_0_a_description",
+		"text": "有人应该拧紧这个东西上的螺丝."
+	},
+	{
+		"id": "sniper_0_a_name",
+		"text": "Adler & Stahlknecht 8x56(破损)"
+	},
+	{
+		"id": "sniper_0_b_description",
+		"text": "实用,做工扎实."
+	},
+	{
+		"id": "sniper_0_b_name",
+		"text": "Adler & Stahlknecht 8x56(崭新)"
+	},
+	{
+		"id": "sniper_0_description",
+		"text": "8x56是一种廉价的猎枪,用于狩猎和相关活动."
+	},
+	{
+		"id": "sniper_0_name",
+		"text": "Adler & Stahlknecht 8x56"
+	},
+	{
+		"id": "sniper_1_a_description",
+		"text": "不幸的是,瞄准镜有故障."
+	},
+	{
+		"id": "sniper_1_a_name",
+		"text": "Morley-Burke Sniper M08(破损)"
+	},
+	{
+		"id": "sniper_1_b_description",
+		"text": "这把步枪比预期的要轻."
+	},
+	{
+		"id": "sniper_1_b_name",
+		"text": "Morley-Burke Sniper M08(崭新)"
+	},
+	{
+		"id": "sniper_1_description",
+		"text": "二战中英国狙击手的标准武器."
+	},
+	{
+		"id": "sniper_1_name",
+		"text": "Morley-Burke Sniper M08"
+	},
+	{
+		"id": "sniper_2_a_description",
+		"text": "沙漠里的沙子对这把步枪的机械装置不太好."
+	},
+	{
+		"id": "sniper_2_a_name",
+		"text": "Willoughby .303 Ghillie(破损)"
+	},
+	{
+		"id": "sniper_2_b_description",
+		"text": "一个漂亮的标本!"
+	},
+	{
+		"id": "sniper_2_b_name",
+		"text": "Willoughby .303 Ghillie(崭新)"
+	},
+	{
+		"id": "sniper_2_description",
+		"text": "Willoughby .303 Ghillie 是一支经典的苏格兰高地猎枪,来自久负盛名的威洛比公司."
+	},
+	{
+		"id": "sniper_2_name",
+		"text": "Willoughby .303 Ghillie"
+	},
+	{
+		"id": "sniper_3_a_description",
+		"text": "不幸的是,它保存得不太好."
+	},
+	{
+		"id": "sniper_3_a_name",
+		"text": "Hastings 6x32 Type 1924(破损)"
+	},
+	{
+		"id": "sniper_3_b_description",
+		"text": "可能是刚从英国军队物资中偷走的."
+	},
+	{
+		"id": "sniper_3_b_name",
+		"text": "Hastings 6x32 Type 1924(崭新)"
+	},
+	{
+		"id": "sniper_3_description",
+		"text": "来自英国陆军供应商黑斯廷斯的最先进的研制,平衡了口径和反冲."
+	},
+	{
+		"id": "sniper_3_name",
+		"text": "Hastings 6x32 Type 1924"
+	},
+	{
+		"id": "sniper_4_a_description",
+		"text": "像这样的武器应该得到更好的照顾..."
+	},
+	{
+		"id": "sniper_4_a_name",
+		"text": "Clark-Richfield Long Range(破损)"
+	},
+	{
+		"id": "sniper_4_b_description",
+		"text": "美国工艺的光辉典范!"
+	},
+	{
+		"id": "sniper_4_b_name",
+		"text": "Clark-Richfield Long Range(崭新)"
+	},
+	{
+		"id": "sniper_4_description",
+		"text": "在大战的最后几个月,美国工程师开发了克拉克·里奇菲尔德来对付德国狙击手.然而,现在到前线行动为时已晚."
+	},
+	{
+		"id": "sniper_4_name",
+		"text": "Clark-Richfield Long Range"
+	},
+	{
+		"id": "sniper_5_a_description",
+		"text": "这把步枪看起来像是在佛兰芒战壕里躺了几年!"
+	},
+	{
+		"id": "sniper_5_a_name",
+		"text": "Steiner 10x50 Optik(破损)"
+	},
+	{
+		"id": "sniper_5_b_description",
+		"text": "这个望远镜在同类中算是头等的了!"
+	},
+	{
+		"id": "sniper_5_b_name",
+		"text": "Steiner 10x50 Optik(崭新)"
+	},
+	{
+		"id": "sniper_5_description",
+		"text": "德国狙击手在1914年至1918年的第一次世界大战中使用的传奇武器."
+	},
+	{
+		"id": "sniper_5_name",
+		"text": "Steiner 10x50 Optik"
+	},
+	{
+		"id": "grenade_0_description",
+		"text": "自1902年以来,英国军队一直使用23号作为标准手榴弹."
+	},
+	{
+		"id": "grenade_0_name",
+		"text": "黑斯廷斯23号炸弹"
+	},
+	{
+		"id": "grenade_1_description",
+		"text": "德国军队的重新武装也是基于斯坦纳工厂令人印象深刻的新发展."
+	},
+	{
+		"id": "grenade_1_name",
+		"text": "斯坦纳手雷1924"
+	},
+	{
+		"id": "grenade_2_description",
+		"text": "说到爆炸力,这种超现代的美国碎片手榴弹远远领先于竞争对手."
+	},
+	{
+		"id": "grenade_2_name",
+		"text": "普雷斯顿葡萄手榴弹"
+	},
+	{
+		"id": "grenade_3_description",
+		"text": "古老且不稳定..."
+	},
+	{
+		"id": "grenade_3_name",
+		"text": "硫磺锅"
+	},
+	{
+		"id": "trashAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_0_name",
+		"text": "苏打水浸湿的亚麻布"
+	},
+	{
+		"id": "trashAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_1_name",
+		"text": "小宝贝壳"
+	},
+	{
+		"id": "trashAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_2_name",
+		"text": "小黑曜石箭头"
+	},
+	{
+		"id": "trashAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_3_name",
+		"text": "破旧的丧葬雕像"
+	},
+	{
+		"id": "trashAncient_4_description",
+		"text": "\"除,加,乘和理解\""
+	},
+	{
+		"id": "trashAncient_4_name",
+		"text": "脏纸莎草片段"
+	},
+	{
+		"id": "trashAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_5_name",
+		"text": "破旧的铜扣"
+	},
+	{
+		"id": "trashAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_6_name",
+		"text": "泥塑偶像"
+	},
+	{
+		"id": "trashAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_7_name",
+		"text": "破碎石灰罐"
+	},
+	{
+		"id": "trashAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_8_name",
+		"text": "碎石碑"
+	},
+	{
+		"id": "trashAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_9_name",
+		"text": "旧银币"
+	},
+	{
+		"id": "trashSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_0_name",
+		"text": "软化的狗饼干"
+	},
+	{
+		"id": "trashSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_1_name",
+		"text": "穿过的袜子吊带"
+	},
+	{
+		"id": "trashSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_2_name",
+		"text": "用过的修面刷"
+	},
+	{
+		"id": "trashSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_3_name",
+		"text": "旧牙刷"
+	},
+	{
+		"id": "trashSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_4_name",
+		"text": "破旧的铜钮扣"
+	},
+	{
+		"id": "trashSoldier_5_description",
+		"text": "\"用一小撮Sapristi鼻烟唤醒你的精神!\""
+	},
+	{
+		"id": "trashSoldier_5_name",
+		"text": "空鼻烟盒"
+	},
+	{
+		"id": "trashSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_6_name",
+		"text": "生锈的开罐器"
+	},
+	{
+		"id": "trashSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_7_name",
+		"text": "凹扁酒瓶"
+	},
+	{
+		"id": "trashSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_8_name",
+		"text": "变质的战时口粮"
+	},
+	{
+		"id": "trashSoldier_9_description",
+		"text": "\"献给我亲爱的阿尔伯特,永远属于你的,玛格达.\""
+	},
+	{
+		"id": "trashSoldier_9_name",
+		"text": "淫秽的照片"
+	},
+	{
+		"id": "valuableAncient_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_a_name",
+		"text": "损坏的雪松木箱"
+	},
+	{
+		"id": "valuableAncient_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_b_name",
+		"text": "华丽的雪松木箱"
+	},
+	{
+		"id": "valuableAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_name",
+		"text": "雪松木箱"
+	},
+	{
+		"id": "valuableAncient_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_a_name",
+		"text": "磨损的Fayence珠子项链"
+	},
+	{
+		"id": "valuableAncient_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_b_name",
+		"text": "精致的Fayence珠子项链"
+	},
+	{
+		"id": "valuableAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_name",
+		"text": "Fayence珠子项链"
+	},
+	{
+		"id": "valuableAncient_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_a_name",
+		"text": "破旧的青铜祭祀碗"
+	},
+	{
+		"id": "valuableAncient_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_b_name",
+		"text": "华丽的青铜祭祀碗"
+	},
+	{
+		"id": "valuableAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_name",
+		"text": "青铜祭祀碗"
+	},
+	{
+		"id": "valuableAncient_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_a_name",
+		"text": "磨损的象牙雕像"
+	},
+	{
+		"id": "valuableAncient_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_b_name",
+		"text": "精致的象牙雕像"
+	},
+	{
+		"id": "valuableAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_name",
+		"text": "象牙雕像"
+	},
+	{
+		"id": "valuableAncient_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_a_name",
+		"text": "破旧的玛瑙戒指"
+	},
+	{
+		"id": "valuableAncient_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_b_name",
+		"text": "精致的玛瑙戒指"
+	},
+	{
+		"id": "valuableAncient_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_name",
+		"text": "玛瑙戒指"
+	},
+	{
+		"id": "valuableAncient_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_a_name",
+		"text": "损坏的斑岩筒"
+	},
+	{
+		"id": "valuableAncient_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_b_name",
+		"text": "华丽的斑岩筒"
+	},
+	{
+		"id": "valuableAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_name",
+		"text": "斑岩筒"
+	},
+	{
+		"id": "valuableAncient_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_a_name",
+		"text": "破旧的赤铁矿印章戒指"
+	},
+	{
+		"id": "valuableAncient_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_b_name",
+		"text": "精致的赤铁矿印章戒指"
+	},
+	{
+		"id": "valuableAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_name",
+		"text": "赤铁矿印章戒指"
+	},
+	{
+		"id": "valuableAncient_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_a_name",
+		"text": "破旧的玛瑙护身符"
+	},
+	{
+		"id": "valuableAncient_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_b_name",
+		"text": "精致的玛瑙护身符"
+	},
+	{
+		"id": "valuableAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_name",
+		"text": "玛瑙护身符"
+	},
+	{
+		"id": "valuableAncient_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_a_name",
+		"text": "破旧的银面具"
+	},
+	{
+		"id": "valuableAncient_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_b_name",
+		"text": "华丽的银面具"
+	},
+	{
+		"id": "valuableAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_name",
+		"text": "银面具"
+	},
+	{
+		"id": "valuableAncient_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_a_name",
+		"text": "磨损的蓝色仪式皇冠"
+	},
+	{
+		"id": "valuableAncient_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_b_name",
+		"text": "华丽的蓝色仪式皇冠"
+	},
+	{
+		"id": "valuableAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_name",
+		"text": "蓝色仪式皇冠"
+	},
+	{
+		"id": "valuableSoldier_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_a_name",
+		"text": "穿过的军官皮手套"
+	},
+	{
+		"id": "valuableSoldier_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_b_name",
+		"text": "精致的军官皮手套"
+	},
+	{
+		"id": "valuableSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_name",
+		"text": "军官皮手套"
+	},
+	{
+		"id": "valuableSoldier_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_a_name",
+		"text": "用旧的丝绸手帕"
+	},
+	{
+		"id": "valuableSoldier_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_b_name",
+		"text": "精致的丝绸手帕"
+	},
+	{
+		"id": "valuableSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_name",
+		"text": "丝绸手帕"
+	},
+	{
+		"id": "valuableSoldier_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_a_name",
+		"text": "用旧的皮钱包"
+	},
+	{
+		"id": "valuableSoldier_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_b_name",
+		"text": "鼓鼓的皮钱包"
+	},
+	{
+		"id": "valuableSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_name",
+		"text": "皮钱包"
+	},
+	{
+		"id": "valuableSoldier_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_a_name",
+		"text": "破旧的单片眼镜"
+	},
+	{
+		"id": "valuableSoldier_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_b_name",
+		"text": "全新的单片眼镜"
+	},
+	{
+		"id": "valuableSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_name",
+		"text": "单片眼镜"
+	},
+	{
+		"id": "valuableSoldier_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_a_name",
+		"text": "磨损的龟壳烟嘴"
+	},
+	{
+		"id": "valuableSoldier_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_b_name",
+		"text": "精致的龟壳烟嘴"
+	},
+	{
+		"id": "valuableSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_name",
+		"text": "龟壳烟嘴"
+	},
+	{
+		"id": "valuableSoldier_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_a_name",
+		"text": "破旧的银钢笔"
+	},
+	{
+		"id": "valuableSoldier_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_b_name",
+		"text": "精致的银钢笔"
+	},
+	{
+		"id": "valuableSoldier_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_name",
+		"text": "银钢笔"
+	},
+	{
+		"id": "valuableSoldier_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_a_name",
+		"text": "破旧的铁十字勋章"
+	},
+	{
+		"id": "valuableSoldier_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_b_name",
+		"text": "闪亮的铁十字勋章"
+	},
+	{
+		"id": "valuableSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_name",
+		"text": "铁十字勋章"
+	},
+	{
+		"id": "valuableSoldier_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_a_name",
+		"text": "磨损的鳄鱼皮烟盒"
+	},
+	{
+		"id": "valuableSoldier_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_b_name",
+		"text": "精致的鳄鱼皮烟盒"
+	},
+	{
+		"id": "valuableSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_name",
+		"text": "鳄鱼皮烟盒"
+	},
+	{
+		"id": "valuableSoldier_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_a_name",
+		"text": "破损的测距相机"
+	},
+	{
+		"id": "valuableSoldier_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_b_name",
+		"text": "全新的测距相机"
+	},
+	{
+		"id": "valuableSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_name",
+		"text": "测距相机"
+	},
+	{
+		"id": "valuableSoldier_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_a_name",
+		"text": "破旧的金怀表"
+	},
+	{
+		"id": "valuableSoldier_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_b_name",
+		"text": "全新的金怀表"
+	},
+	{
+		"id": "valuableSoldier_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_name",
+		"text": "金怀表"
+	},
+	{
+		"id": "lightArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_name",
+		"text": "猎人套装"
+	},
+	{
+		"id": "lightArmor_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_a_name",
+		"text": "猎人套装(破旧)"
+	},
+	{
+		"id": "lightArmor_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_b_name",
+		"text": "猎人套装(精致)"
+	},
+	{
+		"id": "lightArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_name",
+		"text": "助手外套"
+	},
+	{
+		"id": "lightArmor_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_a_name",
+		"text": "助手外套(破旧)"
+	},
+	{
+		"id": "lightArmor_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_b_name",
+		"text": "助手外套(崭新)"
+	},
+	{
+		"id": "lightArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_name",
+		"text": "野外制服"
+	},
+	{
+		"id": "lightArmor_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_a_name",
+		"text": "野外制服(破旧)"
+	},
+	{
+		"id": "lightArmor_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_b_name",
+		"text": "野外制服(崭新)"
+	},
+	{
+		"id": "lightArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_name",
+		"text": "花呢套装"
+	},
+	{
+		"id": "lightArmor_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_a_name",
+		"text": "花呢套装(破旧)"
+	},
+	{
+		"id": "lightArmor_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_b_name",
+		"text": "花呢套装(崭新)"
+	},
+	{
+		"id": "lightArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_name",
+		"text": "风衣"
+	},
+	{
+		"id": "lightArmor_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_a_name",
+		"text": "风衣(破旧)"
+	},
+	{
+		"id": "lightArmor_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_b_name",
+		"text": "风衣(崭新)"
+	},
+	{
+		"id": "lightArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_name",
+		"text": "丛林装束"
+	},
+	{
+		"id": "lightArmor_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_a_name",
+		"text": "丛林装束(破旧)"
+	},
+	{
+		"id": "lightArmor_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_b_name",
+		"text": "丛林装束(崭新)"
+	},
+	{
+		"id": "mediumArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_name",
+		"text": "海军外套"
+	},
+	{
+		"id": "mediumArmor_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_a_name",
+		"text": "海军外套(破旧)"
+	},
+	{
+		"id": "mediumArmor_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_b_name",
+		"text": "海军外套(崭新)"
+	},
+	{
+		"id": "mediumArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_name",
+		"text": "皮夹克"
+	},
+	{
+		"id": "mediumArmor_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_a_name",
+		"text": "皮夹克(破旧)"
+	},
+	{
+		"id": "mediumArmor_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_b_name",
+		"text": "皮夹克(崭新)"
+	},
+	{
+		"id": "mediumArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_name",
+		"text": "羊皮背心"
+	},
+	{
+		"id": "mediumArmor_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_a_name",
+		"text": "羊皮背心(破旧)"
+	},
+	{
+		"id": "mediumArmor_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_b_name",
+		"text": "羊皮背心(崭新)"
+	},
+	{
+		"id": "mediumArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_name",
+		"text": "棉布工装裤"
+	},
+	{
+		"id": "mediumArmor_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_a_name",
+		"text": "棉布工装裤(破旧)"
+	},
+	{
+		"id": "mediumArmor_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_b_name",
+		"text": "棉布工装裤(崭新)"
+	},
+	{
+		"id": "mediumArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_name",
+		"text": "飞行夹克"
+	},
+	{
+		"id": "mediumArmor_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_a_name",
+		"text": "飞行夹克(破旧)"
+	},
+	{
+		"id": "mediumArmor_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_b_name",
+		"text": "飞行夹克(崭新)"
+	},
+	{
+		"id": "mediumArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_name",
+		"text": "沙漠长袍"
+	},
+	{
+		"id": "mediumArmor_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_a_name",
+		"text": "沙漠长袍(破旧)"
+	},
+	{
+		"id": "mediumArmor_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_b_name",
+		"text": "沙漠长袍(精致)"
+	},
+	{
+		"id": "heavyArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_name",
+		"text": "战斗背心"
+	},
+	{
+		"id": "heavyArmor_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_a_name",
+		"text": "战斗背心(破旧)"
+	},
+	{
+		"id": "heavyArmor_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_b_name",
+		"text": "战斗背心(崭新)"
+	},
+	{
+		"id": "heavyArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_name",
+		"text": "防弹背心"
+	},
+	{
+		"id": "heavyArmor_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_a_name",
+		"text": "防弹背心(破旧)"
+	},
+	{
+		"id": "heavyArmor_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_b_name",
+		"text": "防弹背心(崭新)"
+	},
+	{
+		"id": "heavyArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_name",
+		"text": "作战服装"
+	},
+	{
+		"id": "heavyArmor_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_a_name",
+		"text": "作战服装(破旧)"
+	},
+	{
+		"id": "heavyArmor_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_b_name",
+		"text": "作战服装(崭新)"
+	},
+	{
+		"id": "heavyArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_name",
+		"text": "战术装甲"
+	},
+	{
+		"id": "heavyArmor_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_a_name",
+		"text": "战术装甲(破旧)"
+	},
+	{
+		"id": "heavyArmor_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_b_name",
+		"text": "战术装甲(崭新)"
+	},
+	{
+		"id": "heavyArmor_4_description",
+		"text": "你不相信这样的先进技术真的存在..."
+	},
+	{
+		"id": "heavyArmor_4_name",
+		"text": "液压装甲"
+	},
+	{
+		"id": "heavyArmor_4_a_description",
+		"text": "虽然有点破旧,但仍然令人印象深刻!"
+	},
+	{
+		"id": "heavyArmor_4_a_name",
+		"text": "液压装甲(破旧)"
+	},
+	{
+		"id": "heavyArmor_4_b_description",
+		"text": "暗黑色的钢制配件似乎是一种特殊的设计."
+	},
+	{
+		"id": "heavyArmor_4_b_name",
+		"text": "液压装甲(崭新)"
+	},
+	{
+		"id": "heavyArmor_5_description",
+		"text": "巨大而令人敬畏--一个真正的战场巨人!"
+	},
+	{
+		"id": "heavyArmor_5_name",
+		"text": "特斯拉博格装甲"
+	},
+	{
+		"id": "heavyArmor_5_a_description",
+		"text": "肩关节处漏油了."
+	},
+	{
+		"id": "heavyArmor_5_a_name",
+		"text": "特斯拉博格装甲(破旧)"
+	},
+	{
+		"id": "heavyArmor_5_b_description",
+		"text": "钢制胸甲上刻着“无畏号”."
+	},
+	{
+		"id": "heavyArmor_5_b_name",
+		"text": "特斯拉博格装甲(崭新)"
+	},
+	{
+		"id": "money_description",
+		"text": "一捆整齐的纸,用作世界各地的货币."
+	},
+	{
+		"id": "money_name",
+		"text": "纸钱"
+	},
+	{
+		"id": "money_antique_description",
+		"text": "一堆看起来很值钱的硬币."
+	},
+	{
+		"id": "money_antique_name",
+		"text": "古钱币"
+	},
+	{
+		"id": "carFuel_antique_description",
+		"text": "显然,可作为汽车燃料."
+	},
+	{
+		"id": "carFuel_antique_name",
+		"text": "石油"
+	},
+	{
+		"id": "carFuel_description",
+		"text": "用它来加满你的吉普车油箱!"
+	},
+	{
+		"id": "carFuel_name",
+		"text": "车用燃料"
+	},
+	{
+		"id": "valkyriumCrystal_description",
+		"text": "一种奇怪的未知来源的绿色水晶,古埃及人称之为Ka - 神秘的生命给予者.据报道,德国科学家用它来释放古代文物的力量."
+	},
+	{
+		"id": "valkyriumCrystal_name",
+		"text": "Valkyrium水晶"
+	},
+	{
+		"id": "ammo_large_description",
+		"text": "这箱弹药能用一段时间."
+	},
+	{
+		"id": "ammo_large_name",
+		"text": "大型弹药箱"
+	},
+	{
+		"id": "ammo_medium_description",
+		"text": "相当数量的子弹"
+	},
+	{
+		"id": "ammo_medium_name",
+		"text": "中型弹药箱"
+	},
+	{
+		"id": "ammo_small_description",
+		"text": "至少有一两个弹夹的弹药."
+	},
+	{
+		"id": "ammo_small_name",
+		"text": "小型弹药箱"
+	},
+	{
+		"id": "ammo_antique_small_description",
+		"text": "我相信它和弹药一样可靠."
+	},
+	{
+		"id": "ammo_antique_small_name",
+		"text": "火药"
+	},
+	{
+		"id": "medkit_0_description",
+		"text": "急救的第一时刻使用."
+	},
+	{
+		"id": "medkit_0_name",
+		"text": "压迫绷带"
+	},
+	{
+		"id": "medkit_1_description",
+		"text": "也有助于缓解紧张性头痛."
+	},
+	{
+		"id": "medkit_1_name",
+		"text": "止痛药"
+	},
+	{
+		"id": "medkit_2_description",
+		"text": "别给坏疽机会!"
+	},
+	{
+		"id": "medkit_2_name",
+		"text": "青霉素注射器"
+	},
+	{
+		"id": "medkit_3_description",
+		"text": "真正的救星."
+	},
+	{
+		"id": "medkit_3_name",
+		"text": "急救包"
+	},
+	{
+		"id": "medkit_4_description",
+		"text": "根据传统,Serket是治疗师的守护神."
+	},
+	{
+		"id": "medkit_4_name",
+		"text": "Serket的小药水"
+	},
+	{
+		"id": "medkit_5_description",
+		"text": "\"神圣的哈索尔女神!只有你才能安慰那些不幸的人.\""
+	},
+	{
+		"id": "medkit_5_name",
+		"text": "哈索尔的神秘药剂"
+	},
+	{
+		"id": "medkit_6_description",
+		"text": "古时候,北方Khuttoora的祭祀因其游走的女祭司创造的奇迹而闻名."
+	},
+	{
+		"id": "medkit_6_name",
+		"text": "Khuttoora的圣药"
+	},
+	{
+		"id": "repairkit_0_description",
+		"text": "你必须即兴发挥才能在生活中成功."
+	},
+	{
+		"id": "repairkit_0_name",
+		"text": "针线"
+	},
+	{
+		"id": "repairkit_1_description",
+		"text": "当针线不够的时候!"
+	},
+	{
+		"id": "repairkit_1_name",
+		"text": "锥子和皮革补丁"
+	},
+	{
+		"id": "repairkit_2_description",
+		"text": "即使是最严重的伤害也能消除."
+	},
+	{
+		"id": "repairkit_2_name",
+		"text": "锤子和钳子"
+	},
+	{
+		"id": "repairkit_3_description",
+		"text": "高鹰牧师尼尔库特涅尔的任务是永远保存邪教的神圣文物."
+	},
+	{
+		"id": "repairkit_3_name",
+		"text": "尼尔库特涅尔小香膏"
+	},
+	{
+		"id": "repairkit_4_description",
+		"text": "奈弗里·卡·霍尔是致力于物质保存的炼金术传统的创始人."
+	},
+	{
+		"id": "repairkit_4_name",
+		"text": "奈弗里·卡·霍尔秘膏"
+	},
+	{
+		"id": "repairkit_5_description",
+		"text": "当地的游牧民族讲述了这种树脂味香膏的功效真实奇迹."
+	},
+	{
+		"id": "repairkit_5_name",
+		"text": "Qum‘rash圣膏"
+	},
+	{
+		"id": "artefact01_description",
+		"text": "一部充满卡巴利斯特图表和符号的古书."
+	},
+	{
+		"id": "artefact01_name",
+		"text": "摩西的秘密启示"
+	},
+	{
+		"id": "artefact02_description",
+		"text": "一种表面是抛光铜的旧圆形盾牌."
+	},
+	{
+		"id": "artefact02_name",
+		"text": "珀尔修斯之盾"
+	},
+	{
+		"id": "artefact03_description",
+		"text": "这个粗糙的石像有着奇怪的细长面部特征,似乎不属于任何已知的人类文化."
+	},
+	{
+		"id": "artefact03_name",
+		"text": "古老的雕像"
+	},
+	{
+		"id": "artefact04_description",
+		"text": "七幅纸莎草卷轴,几乎全都腐烂了,上面全是褪色的象形文字."
+	},
+	{
+		"id": "artefact04_name",
+		"text": "死亡之书"
+	},
+	{
+		"id": "artefact05_description",
+		"text": "一种神秘的武器,大约一英尺长,由一种奇怪的抛光钢合金制成."
+	},
+	{
+		"id": "artefact05_name",
+		"text": "智天使之剑"
+	},
+	{
+		"id": "artefact06_description",
+		"text": "一块温暖的脉动宝石,墨黑色,经过了磨光处理."
+	},
+	{
+		"id": "artefact06_name",
+		"text": "Zerzura宝石"
+	},
+	{
+		"id": "artefact07_description",
+		"text": "不幸国王Kush的传奇奉献之冠."
+	},
+	{
+		"id": "artefact07_name",
+		"text": "古代圣冠"
+	},
+	{
+		"id": "artefact08_description",
+		"text": "沉没的沙漠城市哈尔加塞拉比特的十一个神奇的祖母绿圣甲虫之一."
+	},
+	{
+		"id": "artefact08_name",
+		"text": "翡翠圣甲虫"
+	},
+	{
+		"id": "artefact09_description",
+		"text": "根据铭文,这是亚历山大大帝的死亡面具,他是人类历史上最伟大的征服者之一."
+	},
+	{
+		"id": "artefact09_name",
+		"text": "银死亡面具"
+	},
+	{
+		"id": "artefact10_description",
+		"text": "希腊探险家希罗多德在这本被遗忘的游记中记录了他在中东的旅行."
+	},
+	{
+		"id": "artefact10_name",
+		"text": "古代羊皮纸"
+	},
+	{
+		"id": "artefact11_description",
+		"text": "《宝书》是古代神话的集锦,它记载了关于阿拉伯半岛丢失宝藏的有价值的部分."
+	},
+	{
+		"id": "artefact11_name",
+		"text": "珍宝之书"
+	},
+	{
+		"id": "artefact12_description",
+		"text": "据传说,这是成吉思汗用来处决被他征服人民的统治者的刀."
+	},
+	{
+		"id": "artefact12_name",
+		"text": "巨型弯刀"
+	},
+	{
+		"id": "artefact13_description",
+		"text": "开明的拉比艾萨克卢里亚的手杖.象牙雕狮子的头可以拧开.一个小洞里有一张精心折叠的纸,上面有一个卡巴利斯特数字拼图."
+	},
+	{
+		"id": "artefact13_name",
+		"text": "狮首手杖"
+	},
+	{
+		"id": "artefact14_description",
+		"text": "这似乎是关于南方研究营的部署计划."
+	},
+	{
+		"id": "artefact14_name",
+		"text": "加密电报"
+	},
+	{
+		"id": "artefact15_description",
+		"text": "内容似乎是一个电容大脑的推理设计."
+	},
+	{
+		"id": "artefact15_name",
+		"text": "密封的公文包"
+	},
+	{
+		"id": "artefact16_description",
+		"text": "这可能是一个Valkyrium机器的原型蓝图吗?"
+	},
+	{
+		"id": "artefact16_name",
+		"text": "令人困惑的蓝图"
+	},
+	{
+		"id": "trashUndead_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_0_name",
+		"text": "沾血头皮"
+	},
+	{
+		"id": "trashUndead_1_description",
+		"text": "那些是…指尖?!"
+	},
+	{
+		"id": "trashUndead_1_name",
+		"text": "奇怪的手镯"
+	},
+	{
+		"id": "trashUndead_2_description",
+		"text": "\"然后抓住一个人,剥去他的皮.\""
+	},
+	{
+		"id": "trashUndead_2_name",
+		"text": "褪色日记"
+	},
+	{
+		"id": "trashUndead_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_3_name",
+		"text": "颅骨钻"
+	},
+	{
+		"id": "trashUndead_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_4_name",
+		"text": "香包"
+	},
+	{
+		"id": "trashUndead_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_5_name",
+		"text": "弧形剃须刀"
+	},
+	{
+		"id": "trashUndead_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_6_name",
+		"text": "蜡娃娃"
+	},
+	{
+		"id": "trashUndead_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_7_name",
+		"text": "仪式匕首"
+	},
+	{
+		"id": "trashUndead_8_description",
+		"text": "戒指散发出一种深深的罪恶气息."
+	},
+	{
+		"id": "trashUndead_8_name",
+		"text": "神秘印戒"
+	},
+	{
+		"id": "trashUndead_9_description",
+		"text": "两颗血红色的红宝石被缝在凹陷的眼洞里!"
+	},
+	{
+		"id": "trashUndead_9_name",
+		"text": "缩小的头颅"
+	},
+	{
+		"id": "rock01_description",
+		"text": "一块岩石"
+	},
+	{
+		"id": "rock01_name",
+		"text": "岩石"
+	},
+	{
+		"id": "donut_teeth_name",
+		"text": "利牙"
+	},
+	{
+		"id": "donut_teeth_description",
+		"text": "尖刻无情!"
+	},
+	{
+		"id": "fenris_teeth_name",
+		"text": "尖牙"
+	},
+	{
+		"id": "fenris_teeth_description",
+		"text": "又尖又脏!"
+	},
+	{
+		"id": "donut_armor_name",
+		"text": "绒毛皮"
+	},
+	{
+		"id": "donut_armor_description",
+		"text": "白如雪..."
+	},
+	{
+		"id": "fenris_armor_name",
+		"text": "蓬松毛皮"
+	},
+	{
+		"id": "fenris_armor_description",
+		"text": "黑如夜..."
+	},
+	{
+		"id": "shinyBiscuit_0_name",
+		"text": "亮闪闪的狗饼干"
+	},
+	{
+		"id": "shinyBiscuit_0_description",
+		"text": "一种非常珍贵的狗饼干."
+	}
+]
+}

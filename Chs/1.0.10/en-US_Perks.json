@@ -1,0 +1,1061 @@
+{
+"id": "Perks",
+"rows": [
+	{
+		"id": "Attribute_Dummy",
+		"text": "这个天赋的效果"
+	},
+	{
+		"id": "ArmorType_Light",
+		"text": "轻型"
+	},
+	{
+		"id": "ArmorType_Medium",
+		"text": "中型"
+	},
+	{
+		"id": "ArmorType_Heavy",
+		"text": "重型"
+	},
+	{
+		"id": "ArmorType_Light_Plural",
+		"text": "轻甲"
+	},
+	{
+		"id": "ArmorType_Medium_Plural",
+		"text": "中甲"
+	},
+	{
+		"id": "ArmorType_Heavy_Plural",
+		"text": "重甲"
+	},
+	{
+		"id": "EventAdjustmentType_Daredevil",
+		"text": "敢死队"
+	},
+	{
+		"id": "EventAdjustmentType_RawStrength",
+		"text": "洪荒之力"
+	},
+	{
+		"id": "EventAdjustmentType_Stealth",
+		"text": "潜行者"
+	},
+	{
+		"id": "EventAdjustmentType_Medical",
+		"text": "医学专家"
+	},
+	{
+		"id": "EventAdjustmentType_Technical",
+		"text": "工程师"
+	},
+	{
+		"id": "EventAdjustmentType_TrickNPC",
+		"text": "诡术师"
+	},
+	{
+		"id": "EventAdjustmentType_Detection",
+		"text": "第六感"
+	},
+	{
+		"id": "EventAdjustmentType_Intimidate",
+		"text": "恐吓"
+	},
+	{
+		"id": "EventAdjustmentType_Languages",
+		"text": "古语言学家"
+	},
+	{
+		"id": "EventAdjustmentType_Survival",
+		"text": "生存专家"
+	},
+	{
+		"id": "EventAdjustmentType_Occult",
+		"text": "禁忌知识"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Damage",
+		"text": "伤害"
+	},
+	{
+		"id": "GrenadeAdjustmentType_DamageRadius",
+		"text": "伤害范围"
+	},
+	{
+		"id": "GrenadeAdjustmentType_ThrowDistance",
+		"text": "投掷距离"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Damage_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "GrenadeAdjustmentType_DamageRadius_Amount",
+		"text": "[adjustment:amount] 格"
+	},
+	{
+		"id": "GrenadeAdjustmentType_ThrowDistance_Amount",
+		"text": "[adjustment:amount] 格"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Strength",
+		"text": "治疗量"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Range",
+		"text": "治疗范围"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Strength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] 格"
+	},
+	{
+		"id": "ItemType_Weapon",
+		"text": "武器"
+	},
+	{
+		"id": "ItemType_Armor",
+		"text": "护甲"
+	},
+	{
+		"id": "ItemType_Grenade",
+		"text": "手雷"
+	},
+	{
+		"id": "ItemType_Ammo",
+		"text": "弹药"
+	},
+	{
+		"id": "ItemType_Medkit",
+		"text": "急救包"
+	},
+	{
+		"id": "ItemType_Repairkit",
+		"text": "修理包"
+	},
+	{
+		"id": "ItemType_Misc",
+		"text": "杂项"
+	},
+	{
+		"id": "ItemType_Artefact",
+		"text": "工艺品"
+	},
+	{
+		"id": "ItemType_Fuel",
+		"text": "燃料"
+	},
+	{
+		"id": "ItemType_Cash",
+		"text": "现金"
+	},
+	{
+		"id": "ItemType_Grenade_Plural",
+		"text": "手榴弹"
+	},
+	{
+		"id": "ItemType_Medkit_Plural",
+		"text": "医疗包"
+	},
+	{
+		"id": "ItemType_Repairkit_Plural",
+		"text": "修理包"
+	},
+	{
+		"id": "MapAdjustmentType_BattleView",
+		"text": "在地图上标出所有的敌人"
+	},
+	{
+		"id": "MapAdjustmentType_MerchantView",
+		"text": "在地图上标出所有交易点"
+	},
+	{
+		"id": "MapAdjustmentType_RecruiterView",
+		"text": "在地图上标出所有角色"
+	},
+	{
+		"id": "MapAdjustmentType_RestingPlaceView",
+		"text": "在地图上标出所有休息点"
+	},
+	{
+		"id": "MapAdjustmentType_FuelIncrease",
+		"text": "收获更多燃料"
+	},
+	{
+		"id": "MapAdjustmentType_AmmoIncrease",
+		"text": "收获更多弹药"
+	},
+	{
+		"id": "MapAdjustmentType_MoneyIncrease",
+		"text": "收获更多金钱"
+	},
+	{
+		"id": "PlayerAttribute_Cash",
+		"text": "Money"
+	},
+	{
+		"id": "PlayerAttribute_Ammo",
+		"text": "弹药"
+	},
+	{
+		"id": "PlayerAttribute_Fuel",
+		"text": "燃料"
+	},
+	{
+		"id": "PlayerAttribute_Valkyrium",
+		"text": "Valkyrium"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Strength",
+		"text": "修复量"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Range",
+		"text": "修复范围"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Strength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] 格"
+	},
+	{
+		"id": "StatsAdjustmentType_Health",
+		"text": "生命"
+	},
+	{
+		"id": "StatsAdjustmentType_Agility",
+		"text": "移动"
+	},
+	{
+		"id": "StatsAdjustmentType_Aim",
+		"text": "熟练"
+	},
+	{
+		"id": "StatsAdjustmentType_Evade",
+		"text": "反应"
+	},
+	{
+		"id": "StatsAdjustmentType_Bravery",
+		"text": "意志"
+	},
+	{
+		"id": "StatsAdjustmentType_Intelligence",
+		"text": "智力"
+	},
+	{
+		"id": "StatsAdjustmentType_Endurance",
+		"text": "耐力"
+	},
+	{
+		"id": "WeaponType_Pistol",
+		"text": "手枪"
+	},
+	{
+		"id": "WeaponType_AssaultRifle",
+		"text": "突击步枪"
+	},
+	{
+		"id": "WeaponType_SniperRifle",
+		"text": "狙击步枪"
+	},
+	{
+		"id": "WeaponType_Shotgun",
+		"text": "散弹枪"
+	},
+	{
+		"id": "WeaponType_Flamethrower",
+		"text": "火焰喷射器"
+	},
+	{
+		"id": "WeaponType_Disintegrator",
+		"text": "分裂者"
+	},
+	{
+		"id": "WeaponType_Lightning",
+		"text": "闪电手枪"
+	},
+	{
+		"id": "WeaponType_CloseCombat",
+		"text": "小刀"
+	},
+	{
+		"id": "WeaponType_SniperRifle_Plural",
+		"text": "狙击步枪"
+	},
+	{
+		"id": "WeaponType_Pistol_Plural",
+		"text": "手枪"
+	},
+	{
+		"id": "WeaponType_CloseCombat_Plural",
+		"text": "小刀"
+	},
+	{
+		"id": "WeaponType_AssaultRifle_Plural",
+		"text": "突击步枪"
+	},
+	{
+		"id": "WeaponType_Shotgun_Plural",
+		"text": "散弹枪"
+	},
+	{
+		"id": "WeaponType_Disintegrator_Plural",
+		"text": "分裂者"
+	},
+	{
+		"id": "WeaponAdjustmentType_Damage",
+		"text": "伤害"
+	},
+	{
+		"id": "WeaponAdjustmentType_Range",
+		"text": "射程"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritChance",
+		"text": "暴击率"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritStrength",
+		"text": "暴击伤害"
+	},
+	{
+		"id": "WeaponAdjustmentType_AimModifier",
+		"text": "精准度"
+	},
+	{
+		"id": "WeaponAdjustmentType_MagSize",
+		"text": "弹夹容量"
+	},
+	{
+		"id": "WeaponAdjustmentType_Damage_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] 格"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritChance_Amount",
+		"text": "[adjustment:amount]%"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritStrength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_AimModifier_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_MagSize_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "ArmorAdjustmentType_ArmorAmount",
+		"text": "护甲容量"
+	},
+	{
+		"id": "ArmorAdjustmentType_ArmorAmount_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Explorer",
+		"text": "探险家"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Nazi",
+		"text": "纳粹"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Animal",
+		"text": "动物"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Machine",
+		"text": "机械"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Undead",
+		"text": "不死生物"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Cultist",
+		"text": "邪教徒"
+	},
+	{
+		"id": "DamageAdjustment_Any",
+		"text": "任意"
+	},
+	{
+		"id": "healthBonus01_name",
+		"text": "神圣祝福"
+	},
+	{
+		"id": "healthBonus02_name",
+		"text": "永恒的吻"
+	},
+	{
+		"id": "healthEvadeBonus01_name",
+		"text": "幸运符"
+	},
+	{
+		"id": "healthMalus01_name",
+		"text": "撕裂伤"
+	},
+	{
+		"id": "healthMalus02_name",
+		"text": "严重烧伤"
+	},
+	{
+		"id": "healthMalus03_name",
+		"text": "腹痛"
+	},
+	{
+		"id": "healthMalus04_name",
+		"text": "剧烈咳嗽"
+	},
+	{
+		"id": "agiBonus01_name",
+		"text": "PLACEHOLDER"
+	},
+	{
+		"id": "agiMalus01_name",
+		"text": "脚踝扭伤"
+	},
+	{
+		"id": "agiMalus02_name",
+		"text": "腿部淤青"
+	},
+	{
+		"id": "agiMalus03_name",
+		"text": "腿部受伤"
+	},
+	{
+		"id": "aimBonus01_name",
+		"text": "PLACEHOLDER"
+	},
+	{
+		"id": "aimMalus01_name",
+		"text": "肩膀脱臼"
+	},
+	{
+		"id": "aimMalus02_name",
+		"text": "眼镜蛇咬伤"
+	},
+	{
+		"id": "aimMalus03_name",
+		"text": "胃疼"
+	},
+	{
+		"id": "aimMalus04_name",
+		"text": "致盲"
+	},
+	{
+		"id": "aimMalus05_name",
+		"text": "指尖流血"
+	},
+	{
+		"id": "aimMalus06_name",
+		"text": "不祥的咳嗽"
+	},
+	{
+		"id": "aimMalus07_name",
+		"text": "包扎的手"
+	},
+	{
+		"id": "aimMalusEvadeBonus01_name",
+		"text": "莫名亢奋"
+	},
+	{
+		"id": "evadeBonus01_name",
+		"text": "神灵的祝福"
+	},
+	{
+		"id": "evadeMalus01_name",
+		"text": "狼蛛咬伤"
+	},
+	{
+		"id": "evadeMalus02_name",
+		"text": "远古诅咒"
+	},
+	{
+		"id": "evadeMalus03_name",
+		"text": "腰痛"
+	},
+	{
+		"id": "evadeMalus04_name",
+		"text": "燃烧的脚"
+	},
+	{
+		"id": "evadeMalus05_name",
+		"text": "远方的声音"
+	},
+	{
+		"id": "characterPerkNatalya_name",
+		"text": "俄国科学家"
+	},
+	{
+		"id": "characterPerkLeonora_name",
+		"text": "英国业余考古学家"
+	},
+	{
+		"id": "characterPerkVeduti_name",
+		"text": "梵蒂冈教皇使节"
+	},
+	{
+		"id": "characterPerkBrunhilda_name",
+		"text": "冰岛游乐场摔跤手"
+	},
+	{
+		"id": "characterPerkPereira_name",
+		"text": "巴西蒸汽船走私者"
+	},
+	{
+		"id": "characterPerkJackson_name",
+		"text": "美国环球旅行家"
+	},
+	{
+		"id": "characterPerkGeorgette_name",
+		"text": "比利时特工"
+	},
+	{
+		"id": "characterPerkProfessor_name",
+		"text": "美国发明家"
+	},
+	{
+		"id": "characterPerkDrChandra_name",
+		"text": "印度的英裔古文物研究者"
+	},
+	{
+		"id": "characterPerkShaneeka_name",
+		"text": "非洲草原女猎手"
+	},
+	{
+		"id": "characterPerkBaron_name",
+		"text": "德国冒牌绅士"
+	},
+	{
+		"id": "characterPerkRose_name",
+		"text": "美国女冒险家和神秘主义者"
+	},
+	{
+		"id": "characterPerkCaballero_name",
+		"text": "西班牙内战诗人"
+	},
+	{
+		"id": "characterPerkOmar_name",
+		"text": "阿拉伯艺术收藏家"
+	},
+	{
+		"id": "characterPerkAnabelle_name",
+		"text": "加勒比自由飞行员"
+	},
+	{
+		"id": "characterPerkLeFantome_name",
+		"text": "法国传奇盗贼"
+	},
+	{
+		"id": "characterPerkSnowWhite_name",
+		"text": "好姑娘"
+	},
+	{
+		"id": "characterPerkFenris_name",
+		"text": "好小子"
+	},
+	{
+		"id": "rawStrengthStarter_name",
+		"text": "洪荒之力"
+	},
+	{
+		"id": "technicalStarter_name",
+		"text": "工程师"
+	},
+	{
+		"id": "occultStarter_name",
+		"text": "禁忌知识"
+	},
+	{
+		"id": "survivalStarter_name",
+		"text": "生存专家"
+	},
+	{
+		"id": "trickNPCStarter_name",
+		"text": "诡术师"
+	},
+	{
+		"id": "intimidateStarter_name",
+		"text": "恐吓"
+	},
+	{
+		"id": "languagesStarter_name",
+		"text": "古语言学家"
+	},
+	{
+		"id": "stealthStarter_name",
+		"text": "潜行者"
+	},
+	{
+		"id": "medicalStarter_name",
+		"text": "医学专家"
+	},
+	{
+		"id": "daredevilStarter_name",
+		"text": "敢死队"
+	},
+	{
+		"id": "detectionStarter_name",
+		"text": "第六感"
+	},
+	{
+		"id": "naziDamageBoost_name",
+		"text": "反法西斯"
+	},
+	{
+		"id": "naziDamagePenalty_name",
+		"text": "良心谴责"
+	},
+	{
+		"id": "animalDamageBoost_name",
+		"text": "王牌猎手"
+	},
+	{
+		"id": "animalDamagePenalty_name",
+		"text": "动物爱好者"
+	},
+	{
+		"id": "undeadDamageBoost_name",
+		"text": "驱魔人"
+	},
+	{
+		"id": "undeadDamagePenalty_name",
+		"text": "迷信者"
+	},
+	{
+		"id": "undeadDamageBoostWeak_name",
+		"text": "先祖之灵"
+	},
+	{
+		"id": "undeadDamageBoostLarge_name",
+		"text": "先祖之灵"
+	},
+	{
+		"id": "allDamageBoost_name",
+		"text": "致命"
+	},
+	{
+		"id": "allDamagePenalty_name",
+		"text": "和平主义者"
+	},
+	{
+		"id": "damageReceivedBonus_name",
+		"text": "壮实"
+	},
+	{
+		"id": "damageReceivedPenalty_name",
+		"text": "脆弱"
+	},
+	{
+		"id": "merchantView_name",
+		"text": "贸易往来"
+	},
+	{
+		"id": "recruiterView_name",
+		"text": "社交能手"
+	},
+	{
+		"id": "restingPlaceView_name",
+		"text": "老练旅者"
+	},
+	{
+		"id": "battleView_name",
+		"text": "警戒者"
+	},
+	{
+		"id": "fuelBoost_name",
+		"text": "汽车发烧友"
+	},
+	{
+		"id": "ammoBoost_name",
+		"text": "谨慎"
+	},
+	{
+		"id": "moneyBoost_name",
+		"text": "贪婪"
+	},
+	{
+		"id": "lightArmorBasics_name",
+		"text": "轻甲"
+	},
+	{
+		"id": "mediumArmorBasics_name",
+		"text": "中甲"
+	},
+	{
+		"id": "heavyArmorBasics_name",
+		"text": "重甲"
+	},
+	{
+		"id": "knifeBasics_name",
+		"text": "小刀"
+	},
+	{
+		"id": "pistolBasics_name",
+		"text": "手枪"
+	},
+	{
+		"id": "shotgunBasics_name",
+		"text": "散弹枪"
+	},
+	{
+		"id": "assaultRifleBasics_name",
+		"text": "突击步枪"
+	},
+	{
+		"id": "sniperRifleBasics_name",
+		"text": "狙击步枪"
+	},
+	{
+		"id": "disintegratorBasics_name",
+		"text": "分裂者"
+	},
+	{
+		"id": "grenadeBasics_name",
+		"text": "手雷"
+	},
+	{
+		"id": "repairkitBasics_name",
+		"text": "修理包"
+	},
+	{
+		"id": "medkitBasics_name",
+		"text": "医疗包"
+	},
+	{
+		"id": "endurance01_name",
+		"text": "耐力提升"
+	},
+	{
+		"id": "vitality01_name",
+		"text": "生命提升"
+	},
+	{
+		"id": "dexterity01_name",
+		"text": "熟练提升"
+	},
+	{
+		"id": "reflexes01_name",
+		"text": "反应提升"
+	},
+	{
+		"id": "intelligence01_name",
+		"text": "智力提升"
+	},
+	{
+		"id": "bravery01_name",
+		"text": "勇气提升"
+	},
+	{
+		"id": "agility01_name",
+		"text": "移动提升"
+	},
+	{
+		"id": "pistolDamage01_name",
+		"text": "手枪伤害"
+	},
+	{
+		"id": "pistolAim01_name",
+		"text": "手枪精准度"
+	},
+	{
+		"id": "pistolRange01_name",
+		"text": "手枪射程"
+	},
+	{
+		"id": "pistolCritStrength01_name",
+		"text": "手枪暴击伤害"
+	},
+	{
+		"id": "pistolCritChance01_name",
+		"text": "手枪暴击率"
+	},
+	{
+		"id": "pistolMagSize01_name",
+		"text": "手枪弹夹容量"
+	},
+	{
+		"id": "knifeDamage01_name",
+		"text": "小刀伤害"
+	},
+	{
+		"id": "knifeCritChance01_name",
+		"text": "小刀暴击率"
+	},
+	{
+		"id": "knifeCritStrength01_name",
+		"text": "小刀暴击伤害"
+	},
+	{
+		"id": "fangsDamage01_name",
+		"text": "尖牙伤害"
+	},
+	{
+		"id": "fangsCritChance01_name",
+		"text": "尖牙暴击率"
+	},
+	{
+		"id": "fangsCritStrength01_name",
+		"text": "尖牙暴击伤害"
+	},
+	{
+		"id": "rifleDamage01_name",
+		"text": "突击步枪伤害"
+	},
+	{
+		"id": "rifleRange01_name",
+		"text": "突击步枪射程"
+	},
+	{
+		"id": "rifleMagSize01_name",
+		"text": "突击步枪弹夹容量"
+	},
+	{
+		"id": "rifleCritChance01_name",
+		"text": "突击步枪暴击率"
+	},
+	{
+		"id": "rifleCritStrength01_name",
+		"text": "突击步枪暴击伤害"
+	},
+	{
+		"id": "rifleAim01_name",
+		"text": "突击步枪精准度"
+	},
+	{
+		"id": "sniperRifleDamage01_name",
+		"text": "狙击步枪伤害"
+	},
+	{
+		"id": "sniperRifleAim01_name",
+		"text": "狙击步枪精准度"
+	},
+	{
+		"id": "sniperRifleRange01_name",
+		"text": "狙击步枪射程"
+	},
+	{
+		"id": "sniperRifleRange02_name",
+		"text": "狙击步枪射程"
+	},
+	{
+		"id": "sniperRifleCritChance01_name",
+		"text": "狙击步枪暴击率"
+	},
+	{
+		"id": "sniperRifleCritStrength01_name",
+		"text": "狙击步枪暴击伤害"
+	},
+	{
+		"id": "sniperRifleMagSize01_name",
+		"text": "狙击步枪弹夹容量"
+	},
+	{
+		"id": "shotgunDamage01_name",
+		"text": "散弹枪伤害"
+	},
+	{
+		"id": "shotgunMagSize01_name",
+		"text": "散弹枪弹夹容量"
+	},
+	{
+		"id": "shotgunAim01_name",
+		"text": "散弹枪精准度"
+	},
+	{
+		"id": "shotgunCritChance01_name",
+		"text": "散弹枪暴击率"
+	},
+	{
+		"id": "shotgunCritStrength01_name",
+		"text": "散弹枪暴击伤害"
+	},
+	{
+		"id": "shotgunRange01_name",
+		"text": "散弹枪射程"
+	},
+	{
+		"id": "disintegratorRange01_name",
+		"text": "分裂者射程"
+	},
+	{
+		"id": "disintegratorDamage01_name",
+		"text": "分裂者伤害"
+	},
+	{
+		"id": "disintegratorMagSize01_name",
+		"text": "分裂者弹夹容量"
+	},
+	{
+		"id": "disintegratorCritStrength01_name",
+		"text": "分裂者暴击伤害"
+	},
+	{
+		"id": "disintegratorCritChance01_name",
+		"text": "分裂者暴击率"
+	},
+	{
+		"id": "disintegratorAim01_name",
+		"text": "分裂者精准度"
+	},
+	{
+		"id": "medkitStrength01_name",
+		"text": "治疗量"
+	},
+	{
+		"id": "medkitRange01_name",
+		"text": "治疗范围"
+	},
+	{
+		"id": "repairkitStrength01_name",
+		"text": "修复量"
+	},
+	{
+		"id": "repairkitRange01_name",
+		"text": "修理范围"
+	},
+	{
+		"id": "lightArmorAmount01_name",
+		"text": "轻甲提升"
+	},
+	{
+		"id": "mediumArmorAmount01_name",
+		"text": "中甲提升"
+	},
+	{
+		"id": "heavyArmorAmount01_name",
+		"text": "重甲提升"
+	},
+	{
+		"id": "grenadeDamage01_name",
+		"text": "手雷伤害"
+	},
+	{
+		"id": "grenadeThrowRange01_name",
+		"text": "手雷投掷距离"
+	},
+	{
+		"id": "MapAdjustmentType_SpotThreat",
+		"text": "在地图上标出敌人"
+	},
+	{
+		"id": "MapAdjustmentType_MerchantViewRange",
+		"text": "在地图上标出交易点"
+	},
+	{
+		"id": "MapAdjustmentType_RecruiterViewRange",
+		"text": "在地图上标出角色"
+	},
+	{
+		"id": "MapAdjustmentType_RestingPlaceViewRange",
+		"text": "在地图上标出休息点"
+	},
+	{
+		"id": "MapAdjustmentType_HealthRegeneration",
+		"text": "在地图上回复生命"
+	},
+	{
+		"id": "MapAdjustmentType_ArmorRegeneration",
+		"text": "在地图上回复护甲"
+	},
+	{
+		"id": "merchantViewRange_name",
+		"text": "商业头脑"
+	},
+	{
+		"id": "recruiterViewRange_name",
+		"text": "社交"
+	},
+	{
+		"id": "restingPlaceViewRange_name",
+		"text": "熟练旅者"
+	},
+	{
+		"id": "healthRegeneration_name",
+		"text": "身强力壮"
+	},
+	{
+		"id": "armorRegeneration_name",
+		"text": "修补匠"
+	},
+	{
+		"id": "IconCaption_ExpAgi",
+		"text": "移动"
+	},
+	{
+		"id": "IconCaption_ExpDex",
+		"text": "熟练"
+	},
+	{
+		"id": "IconCaption_ExpEnd",
+		"text": "耐力"
+	},
+	{
+		"id": "IconCaption_ExpInt",
+		"text": "智力"
+	},
+	{
+		"id": "IconCaption_ExpRfx",
+		"text": "反应"
+	},
+	{
+		"id": "IconCaption_ExpVit",
+		"text": "生命"
+	},
+	{
+		"id": "IconCaption_ExpWil",
+		"text": "意志"
+	},
+	{
+		"id": "IconCaption_SpecDmg",
+		"text": "伤害"
+	},
+	{
+		"id": "IconCaption_SpecCritPlus",
+		"text": "暴击+"
+	},
+	{
+		"id": "IconCaption_SpecCritChance",
+		"text": "暴击率"
+	},
+	{
+		"id": "IconCaption_SpecAcc",
+		"text": "精准"
+	},
+	{
+		"id": "IconCaption_SpecRng",
+		"text": "射程"
+	},
+	{
+		"id": "IconCaption_SpecMag",
+		"text": "弹夹"
+	},
+	{
+		"id": "IconCaption_SpecRec",
+		"text": "治疗"
+	},
+	{
+		"id": "IconCaption_SpecRep",
+		"text": "修理"
+	},
+	{
+		"id": "IconCaption_SpecArm",
+		"text": "护甲"
+	}
+]
+}

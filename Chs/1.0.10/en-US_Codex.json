@@ -1,0 +1,481 @@
+{
+"id": "Codex",
+"rows": [
+	{
+		"id": "GameDescription",
+		"text": "游戏简介"
+	},
+	{
+		"id": "GameDescription_Content",
+		"text": "[h1]背景[/h1]1936年,纳粹活动日趋激烈.\n他们不知疲倦地将他们的探险队派往广阔的沙漠和荒凉的中东山区.\n在北非和阿拉伯 -- 邪恶的军队在寻找什么?\n[p][img:codex_atmoshot]\n[p][h1]每次探险都不一样[/h1]在Pathway,你派出一群勇敢的冒险家进行危险的探险.他们必须赢得基于回合的战斗,破解古老的秘密,并管理他们的燃料供应,确保他们及时到达,以挫败无情敌人的邪恶计划.\n每一次探险都有不同的路线.因为除了一个基本的主线外,探险总是会随机分配一系列新的事件.即使是你以前遇到过的事件,也可能会发生意想不到的转折,无论是偶然发生的,还是由于你的团队组成不同,结果也会不同.\n[p][h1]持久的游戏玩法[/h1]即使失败也意味着道路上的进步,因为角色即使失败也会获得经验.在个人冒险的过程中,角色将获得足够的经验和装备来尝试越来越冒险的任务.\n管理你的探险!利用其个人独特的优势!对您在旅途中遇到的事件做出正确的决定!\n[p][h1]每个决定都很重要[/h1]世界正处于灾难的边缘.一场未宣布的战争在阴影中肆虐!胜利还是失败--只有你和你的无名英雄才能决定最终结果!\n[p][img:codex_armor]"
+	},
+	{
+		"id": "KeyBindings",
+		"text": "按键绑定"
+	},
+	{
+		"id": "KeyBindings_Content",
+		"text": "[h1]按键绑定[/h1]当你通过事典的指引前行时,你将详细学习如何玩Pathway.此外,还可以在设置/控制下配置按键绑定.默认情况下,按键绑定定义如下:\n[p][h1]地图[/h1]I: 打开队伍窗口\n[p][h1]打开队伍窗口[/h1]右键单击武器:重新装填\n右键单击医疗包:治疗/复活角色\n右键单击修理包:修复护甲\n右键单击任意物品:丢弃该物品\n[p][h1]地图 / 战斗[/h1]WASD: 移动镜头\n按下 空格 + 鼠标左键:自由镜头\n[p][h1]战斗[/h1]右方向键:下一个我方单位\n左方向键:上一个我方单位\n返回:结束回合\n1:普通远程攻击\n2:特殊远程攻击\n3:普通近战攻击\n4:特殊近战攻击\n5:使用道具\nF:护甲相关的特殊行动\nR:重新装填\nB:拳头攻击\n鼠标左键:发起行动\n鼠标右键:中止行动\n[p][h1]商人[/h1]右键单击物品:出售物品\n右键单击或左键单击商人物品:购买物品"
+	},
+	{
+		"id": "Adventures",
+		"text": "冒险"
+	},
+	{
+		"id": "Adventures_Content",
+		"text": "[h1]队伍与冒险[/h1]在Pathway中有一系列冒险,它们的难度会逐渐增加.在冒险之初,你需要从所有已解锁且未住院的角色中组建一个队伍.\n你队伍中的角色数量会因冒险而变化.\n[p][img:codex_teamselect]\n[p][h1]解锁新的冒险[/h1]在游戏开始时,除初始冒险外,所有冒险都被锁定.每个冒险完成后都会自动解锁下一个冒险."
+	},
+	{
+		"id": "JeepStorage",
+		"text": "吉普车后备箱"
+	},
+	{
+		"id": "JeepStorage_Content",
+		"text": "[h1]吉普车后备箱[/h1]当你集合了你的队伍,吉普车后备箱是你可以储存燃料和弹药供应的地方,以及出售你在以前的远征中发现的各种物品.这也是为角色装备新物品的地方.\n[p][img:codex_jeepstorage]"
+	},
+	{
+		"id": "EquipmentSlots",
+		"text": "装备槽"
+	},
+	{
+		"id": "EquipmentSlots_Content",
+		"text": "[h1]装备槽[/h1]你可以用远程武器或近战武器装备角色的第一个装备槽,你可以在角色的第二个槽位装备近战武器或其他物品,这些其他物品可以是手榴弹,医疗包或修理包.第三个槽专门用于装甲.\n[p][img:codex_itemslots]"
+	},
+	{
+		"id": "Characters",
+		"text": "角色"
+	},
+	{
+		"id": "Characters_Content",
+		"text": "[h1]招募信息[/h1]当您选择一个角色时,其角色信息将显示在右侧,并简要总结其优缺点.人物头像右侧的三个彩色条表示他们的血量(红色),护甲(蓝色)和勇气(橙色).\n[p][img:codex_character]"
+	},
+	{
+		"id": "CharacterAttributes",
+		"text": "角色属性"
+	},
+	{
+		"id": "CharacterAttributes_Content",
+		"text": "[h1]角色属性[/h1]除了装备之外,角色还具有不同的角色属性:\n[p][img:codex_charstats]\n[p][h1]生命 (VIT)[/h1]决定角色的健康状况.\n[p][h1]意志 (WIL)[/h1]决定角色的勇气点.特殊行动需要勇气.\n[p][h1]熟练 (DEX)[/h1]影响远程攻击的准确性.\n[p][h1]移动 (AGI)[/h1]影响角色在每回合可以移动的距离.\n[p][h1]智力 (INT)[/h1]影响角色接收的经验点数.值越高,角色成长越快.\n[p][h1]反应 (RFX)[/h1]影响角色躲避攻击的概率.\n[p][h1]耐力 (END)[/h1]影响角色被击倒后存活的回合数."
+	},
+	{
+		"id": "CharacterSkills",
+		"text": "特殊能力和技能"
+	},
+	{
+		"id": "CharacterSkills_Content",
+		"text": "[h1]特殊能力[/h1]特殊能力进一步区分您的角色,赋予他们各种优点和缺点.\n[p][img:codex_perklist]\n[p][h1]技能[/h1]左键单击角色的技能按钮以打开技能窗口.\n[p][h1]物品技能[/h1]物品技能定义角色可以装备的物品. 带有绿色加号的技能具有增益效果,而带有红色减号的技能则被削弱.\n具有增益和受到削弱的技能用红绿图标表示.\n[p][img:codex_itemskills]\n[p][h1]技能树和升级[/h1]左键单击技能树按钮以打开技能树.每当角色升级时,他们就会获得一个新的技能点,他们可以从技能树中的选项中进行选择.您的角色可以提高他们的属性和技能,或学习如何使用新物品.\n[p][img:codex_skilltree]"
+	},
+	{
+		"id": "CharacterUnlock",
+		"text": "解锁新角色"
+	},
+	{
+		"id": "CharacterUnlock_Content",
+		"text": "[h1]解锁新角色[/h1][img:codex_unlock01]\n[p]游戏中您使用的可玩角色数量有限.每当达成特定条件时,其他角色将在游戏中解锁.左键单击或读取成就列表时,将显示每个成就的具体要求.\n[p][img:codex_unlock02]"
+	},
+	{
+		"id": "HospitalizedChars",
+		"text": "角色住院"
+	},
+	{
+		"id": "HospitalizedChars_Content",
+		"text": "[h1]角色住院恢复[/h1][img:codex_hospitalized01]\n[p]在冒险期间丧失行动能力的角色将被锁定,不能参与下一次的冒险,因为他们需要从受伤中恢复过来.您可以支付现金购买更好的医疗护理以减少他们在医院的时间.\n[p][img:codex_hospitalized02]"
+	},
+	{
+		"id": "Persistence",
+		"text": "坚持不懈"
+	},
+	{
+		"id": "Persistence_Content",
+		"text": "[h1]获得经验和装备[/h1]无论冒险的结果如何,每个参与角色都会保留经验值和获得的物品. 取消冒险会重置所有参与角色在此次冒险中获得的经验值和物品."
+	},
+	{
+		"id": "Achievements",
+		"text": "成就"
+	},
+	{
+		"id": "Achievements_Content",
+		"text": "[h1]成就[/h1]您可以从此事典界面右下方的选项卡访问您的奖章.这些奖章代表了您可以在Pathway中完成的所有成就.将光标移动到成就上以查看其名称以及解锁它所需的条件.\n[p]解锁每一个未解锁的成就都会获得奖励;奖励会显示在信息提示栏中.每次奖励都可以在解锁成就时立即领取,或者稍后在奖章界面上左键单击领取.\n[p][img:codex_achievements]"
+	},
+	{
+		"id": "TravelBasics",
+		"text": "基本要素"
+	},
+	{
+		"id": "TravelBasics_Content",
+		"text": "[h1]基本要素[/h1]在Pathway中,陆路冒险就是在路途上发生的一系列事件:您的探险队在地图上前往的每个位置都会进行活动.可访问的位置(绿色)通过虚线连接到角色的当前位置(橙色).您的团队已经访问过的地点和旅行线路也以橙色显示.\n[p][img:codex_travelnodes]\n[p]陆路冒险涉及一些战略规划(例如仔细分配旅行资源,选择符合探险目标的旅行路线).\n[p]每个旅程的目标是到达相应的目的地.要完成相应的冒险,您的旅行者必须到达这个位置.更长的冒险活动可以由几个地图组成,这些地图通过各个目的地连接起来.\n[p]虽然每个地图都有一个特定的旅游线路模式,但是每一次旅行都与之前不同,因为你的活动在每次探险开始时都会被重新确定.然而,每一次冒险都有其自己的事件来驱动支线故事与主线剧情."
+	},
+	{
+		"id": "TravelResources",
+		"text": "旅行物资"
+	},
+	{
+		"id": "TravelResources_Content",
+		"text": "[h1]旅行物资[/h1]从一个地方到另一个地方需要花费一个单位的燃料.当探险队的燃料用尽时,你可以承认失败或试图徒步穿越荒凉的沙漠.这样做将迅速消耗角色的血量.所受到的确切伤害取决于每个人的耐力.如果你设法尽快找到新的燃料补给,就能够用吉普车恢复旅程.否则,你的探险将以失败告终.\n[p][img:codex_travelresources]\n[p]当你的角色用尽了所有的弹药,他们将不得不求助于刀,拳头和手雷.\n[p]探险队需要资金来补充燃料和物品的储备,以及雇用新兵.\n[p]有些角色的特殊能力可以增加你获得的资源数量."
+	},
+	{
+		"id": "Events",
+		"text": "事件图标"
+	},
+	{
+		"id": "Events_Content",
+		"text": "[h1]事件图标[/h1]地图上的事件通常显示为圆形符号. 但是,一系列特殊事件都有自己独特的图标:\n[p][h1]目的地[/h1][img:codex_destination]\n[p]与其他可能的旅行地点不同,您旅行的目的地用十字叉表示,在十字叉上有一面旗帜.\n[p][h1]战斗[/h1][img:codex_battle]\n[p]十字准星图标指示您可以进行战斗的事件.\n所有在战斗结束时存活且未倒地的角色都将根据个人的智力和杀敌数获得经验点.\n[p][h1]休息地[/h1][img:codex_restingplace]\n[p]休息的地方可以让你恢复血量和修理你的探险装甲.重伤倒地的角色将在这里完全愈合.休息的地方在地图上用帐篷的图标标出.你可以随时去休息的地方.\n[p][h1]新兵[/h1][img:codex_recruiter]\n[p]你可以雇佣新的团队成员的地点会用图标表示一个友好的潜在新兵.如果你的冒险队没有雇佣这个角色,你可以稍后返回到这个位置雇佣.\n[p][h1]商人[/h1][img:codex_trader]\n[p]地图上用一个钱袋标明商人.除了燃料和弹药外,商人还出售其他贵重物品.你可以随时拜访每一位商人.\n[p]购买与出售:\n[p]右键单击你自己的物品,把它们卖给商人.\n您可以右键单击或左键单击从商人那里购买商品."
+	},
+	{
+		"id": "IconVisibility",
+		"text": "事件图标和可见性"
+	},
+	{
+		"id": "IconVisibility_Content",
+		"text": "[h1]事件图标和可见性[/h1]当冒险队进入一张新地图时,您只能看到随机数目的事件,这为您的旅程规划提供了初步依据."
+	},
+	{
+		"id": "EventCourses",
+		"text": "事件结果"
+	},
+	{
+		"id": "EventCourses_Content",
+		"text": "[h1]事件结果[/h1]个别事件的结果可能会有所不同,因为玩家决策的结果是随机的.\n[p]有些角色有特殊能力,可以提供其他解决方案.\n[p][img:codex_perkchoice]\n[p]根据经验,这些特殊能力决策的成功概率总是高于标准水平.成功使用特殊能力的角色也将获得大量的经验点.\n[p]特殊能力决定通常作为一个选项清晰地显示出来.但是,它们也可以作为一个隐藏的机制在后台运行,只有当一个探险队员拥有相关活动的特殊能力时才会触发这个机制.多个活动特殊能力的效果不会叠加."
+	},
+	{
+		"id": "PerkList",
+		"text": "特殊能力表"
+	},
+	{
+		"id": "PerkList_Content",
+		"text": "[h1]古代语[/h1]根据角色破译古语言或理解当地方言的能力,可以做出其他选择.\n[p][h1]敢死队[/h1]提供基于快速思考,非正统和经常草率行动的替代决策.\n[p][h1]洪荒之力[/h1]提供基于蛮力运用的替代决策.\n[p][h1]潜行者[/h1]提供基于隐身和一般运动能力的替代决策.\n[p][h1]医学家[/h1]提供基于医学知识提升使用临时绷带的能力的替代决策.\n[p][h1]工程师[/h1]提供基于技术知识的替代决策.\n[p][h1]诡术师[/h1]能够根据巧妙的手法和操纵毫无戒心的人做出其他决定.\n[p][h1]第六感[/h1]能够根据直觉和情境感知做出选择.\n[p][h1]恐吓[/h1]能够对他人施加心理压力的能力的替代决策.\n[p][h1]生存专家[/h1]根据对自然环境的深入了解,包括天气状况和各种野生动物的特征,做出其他决策.\n[p][h1]禁忌术[/h1]在学校学习结束和神秘传统灰色区域开始的地方,可以做出其他选择."
+	},
+	{
+		"id": "TeamScreen",
+		"text": "队伍界面"
+	},
+	{
+		"id": "TeamScreen_Content",
+		"text": "[h1]队伍界面[/h1]在陆路旅行中,左键点击下方的信息栏,你将进入团队界面,在那里你可以治疗角色并修复他们在战斗中的盔甲.\n[p][img:codex_teamopen]\n[p]可以通过右键单击医疗包或重新标记来完成.然后通过鼠标左键选择所需的目标.您可以通过右键单击武器来重新装填武器,还可以拖放物品以在吉普车后备箱和角色之间交换武器.\n[p][img:codex_repair]\n[p]角色只有在非战斗状态下才能装备物品.右键单击任何物品将其丢弃.左键单击一个角色头像将打开相应的角色窗口."
+	},
+	{
+		"id": "LevelUp",
+		"text": "升级"
+	},
+	{
+		"id": "LevelUp_Content",
+		"text": "[h1]升级[/h1]下方信息栏上的小图标表示角色已升级.\n[p][img:codex_levelup]\n[p]您可以通过左键单击相应角色上的“升级”按钮来升级团队界面中的角色.\n[p][img:codex_levelupbutton]\n[p]然后打开角色的技能树,在那里你可以选择他们的新技能."
+	},
+	{
+		"id": "RareItems",
+		"text": "物品稀有度"
+	},
+	{
+		"id": "RareItems_Content",
+		"text": "[h1]物品稀有度[/h1]物品的稀有度表明其卓越:总的来说稀有物品比普通物品好.因此,随着稀有度的上升,物品的价值也会增加.\nPathway中有四种稀有度:普通(白色),稀有(蓝色),史诗(紫色)和传奇(金色).\n[p][img:codex_itemlegendary]"
+	},
+	{
+		"id": "CharacterPlacement",
+		"text": "单位部署"
+	},
+	{
+		"id": "CharacterPlacement_Content",
+		"text": "[h1]角色放置[/h1]在战斗开始时,首先将所有角色放在绿色区域内.\n[p][img:codex_placement]\n[p]绿地的大小和形状取决于遭遇战的类型:如果你出其不意地发动攻击,或者双方在都没有预料到的情况下遭遇,你将有一个广阔的部署区域.但是如果你的角色被埋伏了,能够部署的范围就会缩小."
+	},
+	{
+		"id": "EnemyInfo",
+		"text": "敌人信息"
+	},
+	{
+		"id": "EnemyInfo_Content",
+		"text": "[h1]敌人信息[/h1]在放置阶段,您可以查看角色视野内所有敌人的信息.在战斗过程中,您可以单击左侧的选项卡,在角色操作和敌人信息之间切换.用鼠标左键点击敌人的头像,画面将聚焦到相应的目标单位.\n[p][img:codex_enemyinfo]"
+	},
+	{
+		"id": "CharacterSelection",
+		"text": "选择角色"
+	},
+	{
+		"id": "CharacterSelection_Content",
+		"text": "[h1]选择角色[/h1]在战斗中,您可以通过左键单击角色或左下角的角色头像来选择角色.\n[p][img:codex_charselect]"
+	},
+	{
+		"id": "CoverTypes",
+		"text": "掩体类型"
+	},
+	{
+		"id": "CoverTypes_Content",
+		"text": "[h1]掩体类型[/h1]当一个角色直接放置在掩体旁边时,会有提示信息.一个角色停在掩体旁将会自动蹲下并得到其保护-对角线接触的掩体不提供任何保护.\n[p][h1]实例[/h1][img:codex_coveruse]\n[p]Brunhilda(跪着,左)就在她南边的掩体旁边.这使她免受南边的攻击.\nJackson(站着,右)与右边的掩体呈对角线.因此,他不会受到保护.\n[p]Pathway区分两种掩体类型.墙壁也提供了非常有效的保护."
+	},
+	{
+		"id": "PartialCovers",
+		"text": "部分掩体"
+	},
+	{
+		"id": "PartialCovers_Content",
+		"text": "[h1]弱掩体[/h1]弱掩体可以降低[cover:SmallCover]%被远程攻击击中的概率.它还能抵挡手榴弹弹片的伤害.它可以抵御所有来自正面的攻击.它不会遮挡视线,可以越过.蹲在弱掩体后面的角色如果想在上面射击,会自动站起来.手榴弹可以扔到弱掩体后方,这样它就失去了作用.弱掩体是指高约膝盖的物体和低阻力材料制成的更高物体.弱掩体在信息提示中显示为半满的盾.\n[p][img:codex_weakcover]\n[p][h1]强掩体[/h1]强掩体与弱掩体的作用方式基本相同,但它可以降低[cover:MediumCover]%被远程攻击击中的概率.强掩体是指高度在臀部和肩部之间的物.强掩体在信息提示中显示为全满的盾.\n[p][img:codex_strongcover]"
+	},
+	{
+		"id": "Walls",
+		"text": "墙壁"
+	},
+	{
+		"id": "Walls_Content",
+		"text": "[h1]墙壁[/h1]墙提供了完整的保护,能够抵挡从墙的另一侧发起的所有远程攻击.保护区覆盖所有正面区域.角色不能从墙上跳下来,也不能向墙后方扔手榴弹.如果一堵墙位于两格之间的直线上,它会遮挡视线.站在墙边的角色会自动做一个探出身子的动作来击中目标.墙是指高度在肩部或以上的物体.墙在信息提示中显示为一段墙.\n[p][img:codex_wall]"
+	},
+	{
+		"id": "HitChances",
+		"text": "保护区"
+	},
+	{
+		"id": "HitChances_Content",
+		"text": "[h1]保护区和命中概率[/h1]在Pathway的远程战斗中,不在掩护范围内的可见目标总是会被击中.对于弱掩体和强掩体后的远程作战目标,游戏会采用考虑掩体类型,武器精度和射手熟练度的公式计算命中概率.相邻格子的攻击会使掩体作用消失.这也是为什么近战攻击总是命中的原因.\n[p][h1]实例[/h1][img:codex_coverangle]\n[p]纳粹重甲兵(左二)抵挡了来自南边的所有攻击.\n由于Annabelle(右下,戴着飞行员帽)位于纳粹重甲兵南部,她的命中机率会相应减少.\nNatalya(右上,身穿实验服)但是,与德国士兵处于同一水平线.她和所有北边的单位都有同样的视野.\nGeorgette(左,跪着)位于士兵的南面,但她在一块直接相邻的格子上,因此士兵不受到掩体的保护效果."
+	},
+	{
+		"id": "CharacterActions",
+		"text": "角色动作"
+	},
+	{
+		"id": "CharacterActions_Content",
+		"text": "[h1]角色动作[/h1]Pathway的战斗是基于回合的.按下行动条末端的红色对勾按钮结束回合,开始敌人的回合.\n[p][img:codex_endturn]\n[p]每个角色每回合最多可以执行两个动作:可执行最多一个攻击动作和一个移动动作,以及最多两个待命动作.用完了所有动作的角色会用一个小的对勾记号来表示.\n[p]除了步行以外的所有动作都依赖于设备.左键单击相应的操作按钮执行动作.如果此动作链接到后续操作(例如目标选择),则仍可以通过右键单击取消操作."
+	},
+	{
+		"id": "SpecialActions",
+		"text": "技能"
+	},
+	{
+		"id": "SpecialActions_Content",
+		"text": "[h1]技能[/h1]一些攻击和移动动作是特殊动作,需要使用勇气点.\n下列条件达成后角色会恢复勇气点:\n[p]成功攻击敌人:    +[bravery:Hit] 勇气\n攻击触发暴击:    +[bravery:HitCritical] 勇气\n躲避敌人攻击:    +[bravery:Evade] 勇气\n治愈队伍成员:    +[bravery:UseMedKit] 勇气\n修复我方装甲:    +[bravery:UseRepairKit] 勇气"
+	},
+	{
+		"id": "MovementActions",
+		"text": "移动"
+	},
+	{
+		"id": "MovementActions_Content",
+		"text": "[h1]步行[/h1][img:codex_walk]\n[p]任何正在行动的角色都可以通过将光标移动到角色移动半径(蓝色)内的所需位置,然后单击鼠标左键来移动.\n[p][h1]冲锋 (特殊)[/h1][img:codex_sprint]\n[p]任何穿着轻甲的角色都可以发动冲锋技能."
+	},
+	{
+		"id": "AttackActions",
+		"text": "攻击"
+	},
+	{
+		"id": "AttackActions_Content",
+		"text": "[h1]远程攻击[/h1][img:codex_ranged]\n[p]任何装备了远程武器的角色都可以执行标准的远程攻击操作.要执行此操作,请将光标放在角色的火力范围(红色)内的敌人上方,然后左键单击以发起进攻.射击范围由角色的武器射程和视野决定.信息提示窗口会显示出目标最重要的战斗数值以及命中概率.\n[p][h1]双发 (特殊)[/h1][img:codex_doubleshot]\n[p]任何带手枪的角色都可以发动双发技能,可以对两个不同的目标进行两次快速射击.要执行此操作,请选择两个敌人并左键单击它们以触发攻击.\n[p][h1]扫射 (特殊)[/h1][img:codex_rifleburst]\n[p]任何使用突击步枪的角色都可以发动扫射技能,这可以让你攻击直线上一定范围内的多个目标.您可以使用鼠标滚轮定义扫射方向,然后单击鼠标左键开火.\n[p][h1]埋伏 (特殊)[/h1][img:codex_ambush]\n[p]任何使用狙击步枪的角色都可以发动埋伏特殊技能,这会打断敌人之前计划的行动.移动光标选择伏击范围,然后左键单击确认该范围.然后在随后的敌军回合期间,当敌军单位试图在选定的火力范围内移动或发动攻击时就会受到伏击,但是只能埋伏经过的第一个敌人.\n[p][h1]喷射 (特殊)[/h1][img:codex_blast]\n[p]任何具有散弹枪的角色都可以发动散弹枪喷射技能,在短程锥形火力范围内向所有单位开火.移动光标选定火力范围,然后左键单击发起进攻.\n[p][h1]腐蚀射线 (特殊)[/h1][img:codex_meltdown]\n[p]任何装备分裂者的角色都可以发动腐蚀射线特殊技能,该攻击以直线方式发射光线可以穿透任意数量的目标,直到它击中墙壁.移动光标选定射击方向,然后左键单击发起攻击.\n[p][h1]近战攻击[/h1][img:codex_melee]\n[p]任何带刀的角色都可以在站在敌人单位旁边时发动普通的近战攻击.要执行此操作,请将光标放在角色的攻击区域(红色)内的敌人上方,然后左键单击发起攻击.\n[p][h1]流血攻击 (特殊)[/h1][img:codex_bleed]\n[p]任何使用刀的角色都可以发动流血攻击特殊技能,在随后的回合中对敌人造成额外伤害.要执行此操作,请将光标放在角色的攻击区域(红色)内的敌人上方,然后左键单击发起攻击.\n[p][h1]拳头攻击[/h1][img:codex_punch]\n[p]不带刀的角色可以在与敌军单位相邻的位置发动拳头攻击.选择该动作后,将光标放在角色攻击区域(红色)内的敌人上方,然后左键单击以发动.拳头攻击只会造成少量的伤害.\n[p][h1]投掷手雷[/h1][img:codex_grenadethrow]\n[p]任何有手榴弹的角色都可以发动投掷手雷的攻击.将光标定位在攻击区域(红色),选择一个目标方格,然后左键单击发起攻击.爆炸范围会事先标示出来."
+	},
+	{
+		"id": "NeutralActions",
+		"text": "待命"
+	},
+	{
+		"id": "NeutralActions_Content",
+		"text": "[h1]重新装填[/h1][img:codex_reload]\n[p]任何装备远程武器的角色都可以执行重新装填标准动作.只要你有足够的弹药,武器就可以全部重新装弹.\n[p][h1]使用医疗包[/h1][img:codex_healkit]\n[p]任何具有医疗包的角色都可以执行使用医疗包标准操作来治疗自己或其团队成员.左键单击效果域中的目标(绿色)开始治疗.这个动作可以用来救起重伤倒地的同伴.\n[p][h1]使用修理包[/h1][img:codex_repairkit]\n[p]任何有修理包的角色都可以发动修理技能来修理他们的盔甲或同伴的盔甲.左键单击作用区域(绿色)中的目标开始修复.\n[p][h1]隐蔽 (特殊)[/h1][img:codex_lowprofile]\n[p]任何拥有中等护甲的角色都可以发动隐蔽的技能,这个动作会在本回合和之后的回合提高他们的闪避几率.\n[p][h1]固守 (特殊)[/h1][img:codex_hunkerdown]\n[p]任何拥有重甲的角色都可以发动固守技能,这个动作能够显著减免角色在当前回合和后续回合受到的所有伤害."
+	},
+	{
+		"id": "DamageClasses",
+		"text": "伤害类型"
+	},
+	{
+		"id": "DamageClasses_Content",
+		"text": "除穿甲以外的所有类型的伤害计算是先将护甲值降低到零,然后扣除目标的血量.\n[p][h1]标准[/h1]标准伤害对血量 ([damage:Standard:0]%) 和装甲 ([damage:Standard:1]%)造成相同的伤害.\n[p][h1]溅射伤害[/h1]溅射伤害对未穿护甲的目标 ([damage:Splinter:0]%)是致命的,但是对穿着盔甲的敌人 ([damage:Splinter:1]%)会受到惩罚.散弹枪默认造成溅射伤害,其他类别的武器的特殊形态也是如此.\n[p][h1]腐蚀[/h1]腐蚀射线对穿着护甲的角色造成([damage:Corrosion:1]%)的高伤害,但对未穿装甲的角色会受到惩罚 ([damage:Corrosion:0]%).只有分裂者能造成腐蚀伤害.\n[p][h1]穿甲伤害[/h1]穿甲武器无视装甲 ([damage:ArmorPiercing:1]%) 并且直接扣除目标的血量 ([damage:ArmorPiercing:0]%).所有武器类别的特殊形态都能造成穿甲伤害."
+	},
+	{
+		"id": "WeaponTypeIntro",
+		"text": "武器种类"
+	},
+	{
+		"id": "WeaponTypeIntro_Content",
+		"text": "[h1]不同武器类别的优缺点[/h1]在Pathway,角色可以使用五种不同的远程武器和一种近战武器.还有一种武器(手榴弹)可以用来造成伤害.\n[p]每种武器都有一定的几率造成致命一击.暴击会产生额外伤害.暴击几率因武器等级而异,如下所述."
+	},
+	{
+		"id": "WeaponTypePistol",
+		"text": "手枪"
+	},
+	{
+		"id": "WeaponTypePistol_Content",
+		"text": "[h1]手枪[/h1]手枪具有大弹匣和高爆击几率.然而,它们只能在中等距离和精度下造成中等标准伤害.他们的双发技能使手枪成为一种非常灵活的武器.\n[p][img:codex_pistol]"
+	},
+	{
+		"id": "WeaponTypeShotgun",
+		"text": "散弹枪"
+	},
+	{
+		"id": "WeaponTypeShotgun_Content",
+		"text": "[h1]散弹枪[/h1]散弹枪造成很高的溅射伤害,但在射程,准确度,暴击几率和弹匣大小方面非常有限.散弹枪的喷射的特殊能力对附近的团体和未穿装甲的对手是毁灭性的.\n[p][img:codex_shotgun]"
+	},
+	{
+		"id": "WeaponTypeAssault",
+		"text": "突击步枪"
+	},
+	{
+		"id": "WeaponTypeAssault_Content",
+		"text": "[h1]突击步枪[/h1]突击步枪在射程,准确度,暴击几率和弹匣尺寸上都是中程武器,它们造成平均标准伤害.其扫射特殊能力具有一定的灵活性,与中距离群体对抗时具有优势.\n[p][img:codex_rifle]"
+	},
+	{
+		"id": "WeaponTypeSniper",
+		"text": "狙击步枪"
+	},
+	{
+		"id": "WeaponTypeSniper_Content",
+		"text": "[h1]狙击步枪[/h1]狙击步枪结合了高精度和射程和平均暴击几率,但只有一个小弹匣和中等标准的伤害.他们的埋伏特殊能力是牵制敌人的好方法.\n[p][img:codex_sniperrifle]"
+	},
+	{
+		"id": "WeaponTypeDisintegrator",
+		"text": "分裂者"
+	},
+	{
+		"id": "WeaponTypeDisintegrator_Content",
+		"text": "[h1]分裂者[/h1]分裂者会造成高腐蚀伤害,但只有中度的射程和暴击几率,中等弹匣和精准度.他们的腐蚀射线特殊能力极其依赖于敌人的位置,但在最佳条件下,它能有效处理几乎任何距离的重型装甲敌人.\n[p][img:codex_disintegrator]"
+	},
+	{
+		"id": "WeaponTypeKnife",
+		"text": "刀"
+	},
+	{
+		"id": "WeaponTypeKnife_Content",
+		"text": "[h1]刀[/h1]刀结合了高标准的伤害和极好的爆击机会,同时需要与敌人接近,因此需面临应有的风险.流血攻击特殊行动能在后续回合造成额外伤害.\n[p][img:codex_knife]"
+	},
+	{
+		"id": "WeaponTypeGrenade",
+		"text": "手雷"
+	},
+	{
+		"id": "WeaponTypeGrenade_Content",
+		"text": "[h1]手雷[/h1]手榴弹造成中等距离的伤害.弱掩体和强掩体都能防护手榴弹弹片的伤害.然而,如果手榴弹被扔到掩体后面,掩体就失去了作用.手榴弹不能对准掩体.它们能造成范围伤害,但不会造成严重伤害.\n[p][img:codex_grenade]"
+	},
+	{
+		"id": "TheNazis",
+		"text": "纳粹党"
+	},
+	{
+		"id": "TheNazis_Content",
+		"text": "[h1]Valkyrium之谜[/h1]德意志帝国痴迷于一种叫做Valkyrium的神秘物质.\n这种奇怪的物质是什么?它授予那些拥有它的人什么权力?\n纳粹似乎找到了这些问题的答案-可怕的答案...\n[p][img:codex_valkyrium]"
+	},
+	{
+		"id": "Infanterist",
+		"text": "纳粹士兵"
+	},
+	{
+		"id": "Infanterist_Content",
+		"text": "[h1]纳粹士兵[/h1]装备突击步枪的德国士兵装备精良,在沙漠中作战.纳粹士兵是德国远征军的中坚力量.他们的纪律和决心使他们在任何情况下都成为强大的对手.\n[p][img:codex_nazitroopers]"
+	},
+	{
+		"id": "Dog",
+		"text": "军犬"
+	},
+	{
+		"id": "Dog_Content",
+		"text": "[h1]军犬[/h1]德国的军犬是可怕的野兽:一旦它们锁定了目标,它们便会穷追不舍,直到敌人毫无防备地躺在沙漠的沙地上流血.与它们的主人不同,它们没有战术和掩护的概念.\n[p][img:codex_dogs]"
+	},
+	{
+		"id": "Shotgunner",
+		"text": "重甲兵"
+	},
+	{
+		"id": "Shotgunner_Content",
+		"text": "[h1]重甲兵[/h1]重甲兵是德国最具攻击性的部队.机动性强,装甲精良,他们坚持不懈地前进,用散弹枪与敌人交战.重甲兵是无畏且致命的近距离战士.\n[p][img:codex_shocktroopers]"
+	},
+	{
+		"id": "Sniper",
+		"text": "狙击手"
+	},
+	{
+		"id": "Sniper_Content",
+		"text": "[h1]狙击手[/h1]不幸的是,没有太多的掩体可以可靠地保护你免受德国狙击手的精确攻击.虽然他们不是特别强硬,机动性也不强,但由于他们的精确步枪射程更大,他们在战场上占据主导地位.\n[p][img:codex_snipers]"
+	},
+	{
+		"id": "Medic",
+		"text": "野战医生"
+	},
+	{
+		"id": "Medic_Content",
+		"text": "[h1]野战医生[/h1]德国野战医生的统一徽章使他们很容易从远处辨认出来.他们的主要任务是照顾受伤的同志,但这并不意味着他们不知道如何使用他们的服务手枪....\n[p][img:codex_medics]"
+	},
+	{
+		"id": "Officer",
+		"text": "德军指挥官"
+	},
+	{
+		"id": "Officer_Content",
+		"text": "[h1]德军指挥官[/h1]德军指挥官以无情的纪律领导他们的军队--任何轻微的违纪行为都会受到严厉的惩罚.尽管如此,德军指挥官们都接受过出色的战术训练--有了他们的指挥,德国军队的战斗效率将显著提高.\n[p][img:codex_officers]"
+	},
+	{
+		"id": "EliteDog",
+		"text": "战斗猎犬"
+	},
+	{
+		"id": "EliteDog_Content",
+		"text": "[h1]战斗猎犬[/h1]纳粹一定对这些怪物做了一些无法形容的事!世界上没有一个训练项目能引起如此难以根除的杀戮.更不用说他们奇怪的死气沉沉的眼睛了...\n[p][img:codex_elitedogs]"
+	},
+	{
+		"id": "Teslaborg",
+		"text": "重装步兵"
+	},
+	{
+		"id": "Teslaborg_Content",
+		"text": "[h1]重装步兵[/h1]他们是德国远征军的突击队员,是恐怖分子中的精英!重装步兵由于其巨大的装甲和毁灭性的火力,在战斗中是一场钢铁般的噩梦.\n[p][img:codex_teslaborgs]"
+	},
+	{
+		"id": "TheBrotherhood",
+		"text": "兄弟会"
+	},
+	{
+		"id": "TheBrotherhood_Content",
+		"text": "[h1]阴影中的威胁[/h1]Khonesh兄弟会的真正目标仍然笼罩在黑暗中,但黑暗中充满了令人厌恶的谣言....\n它夺走你的睡眠,啃噬你的灵魂!\n[p][img:codex_ring]"
+	},
+	{
+		"id": "Cultist",
+		"text": "邪教分子"
+	},
+	{
+		"id": "Cultist_Content",
+		"text": "[h1]邪教分子[/h1]兄弟会的步兵--狂热迷信,充满仇恨,愿意战斗至死.与他们可怕的不死族盟友不同,邪教分子能够有策略地战斗及使用掩体,或者在有必要的时候逃跑.邪教分子燃烧的硫磺罐将死亡和毁灭降到他们的敌人身上.\n[p][img:codex_cultists]"
+	},
+	{
+		"id": "Zombie",
+		"text": "僵尸"
+	},
+	{
+		"id": "Zombie_Content",
+		"text": "[h1]僵尸[/h1]是什么赋予了兄弟会操纵死者的邪恶力量?有一件事是肯定的:无论他们出现在哪里,僵尸部落就在不远处.他们饱受折磨,毫无思想,被不断的饥饿和对生活的憎恨所驱使.没有什么东西比受伤的僵尸更危险...\n[p][img:codex_zombies]"
+	},
+	{
+		"id": "Infected",
+		"text": "感染者"
+	},
+	{
+		"id": "Infected_Content",
+		"text": "[h1]感染者[/h1]无论兄弟会走到哪里,死亡和毁灭都会随之而来.感染者显然在他们的邪恶计划中起着重要作用.他们浮肿衰败,向敌人吐出可恶的腐烂物,传播疾病.\n[p][img:codex_infecteds]"
+	},
+	{
+		"id": "Sporebearer",
+		"text": "孢子寄生菌"
+	},
+	{
+		"id": "Sporebearer_Content",
+		"text": "[h1]孢子寄生菌[/h1]兄弟会通过他们神秘的仪式,创造了一种寄生的可憎之物,使敌人在一团有毒的孢子中瘫痪.这些不幸的灵魂有什么痛苦?它们的变异将揭晓什么样的最终形态?\n[p][img:codex_sporebearers]"
+	},
+	{
+		"id": "HighPriestess",
+		"text": "高级女祭司"
+	},
+	{
+		"id": "HighPriestess_Content",
+		"text": "[h1]高级女祭司[/h1]通过多年的学习和不可告人的实验,这些可恶的兄弟会领导人已经知道了最黑暗的秘密.他们现在掌握着生与死的秘密--他们会毫不犹豫地释放他们的邪恶力量来实现他们的目标...\n[p][img:codex_highpriestesses]"
+	},
+	{
+		"id": "TravelSummary",
+		"text": "介绍"
+	},
+	{
+		"id": "TravelSummary_Content",
+		"text": "[h1]目标[/h1]每次探险的目标都是到达地图的终点.在去那里的路上,队伍会从一个地方到达另一个地方.\n[p][img:codex_encounter]\n[p][h1]事件[/h1]每个地方都有一个新的活动.事件可能是一个简短的情绪记录,没有任何游戏后果或是更重要的事件,如战利品,商人,休息地和具有挑战性的战斗.\n[p]有些事件很短,而且非常重要,而另一些事件提供了复杂的分支选项.像敢死队或生存专家这样的角色的特殊能力可以打开更多的选择和事件分支.\n[p][h1]燃料储备[/h1]旅程将慢慢耗尽燃油储备.一旦耗尽,你可以放弃或继续徒步探险,代价是牺牲队伍的血量.\n[p][h1]失败[/h1]当你的最后一个角色因恶劣的徒步旅行条件或因敌人之手而死亡时,探险就失败了."
+	},
+	{
+		"id": "CombatSummary",
+		"text": "介绍"
+	},
+	{
+		"id": "CombatSummary_Content",
+		"text": "[h1]回合制战斗[/h1]Pathway中的战斗是基于回合制的:玩家首先进入一个计划阶段,在这个阶段他们可以将角色放在一个标记区域(绿色)内.然后玩家和敌人依次轮流进行.当一支队伍的所有成员都被击倒时,战斗结束.\n[p][img:codex_battleimpression]\n[p]轮到玩家时,玩家可以按任意顺序移动角色.一旦完成,就轮到敌人开始执行他们的行动.\n[p][h1]动作[/h1]每个单位每回合最多可以执行两个动作: 攻击 和 移动 为每回合一次.中立的行动,如重新装填或治疗某个角色,每回合最多可以做两次.\n[p]每种武器和装甲类型都为其使用者提供了独特的特殊能力.但需要使用勇气点.勇气是通过各种行动,如成功的攻击和闪避而回复的.\n[p][h1]掩体[/h1]将角色直接(不是对角)放置在掩体旁边,掩体能给角色一些对远程武器的防护.弱掩体和强掩体能降低敌人的命中率.墙可以阻挡视线,因此也可以阻挡远程攻击.\n[p][h1]治疗 修理 复活[/h1]如果一个角色装备了医疗包,他可以用它来治疗附近的队友.此外,医疗包还可以用来救起倒地的角色.有修理包的单位可以在战斗中修理装甲."
+	},
+	{
+		"id": "Credits",
+		"text": "[h1]汉化人员名单:[/h1][br]\n[h2]constancy[/h2][h2]加布·纽维尔[/h2][h2]Karnie[/h2][h2]law4x[/h2][h2]Sherlock[/h2][h2]xfnyl[/h2][h2]Zain[/h2][h2]卓子[/h2][br]\n[br]\n[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Materia Prima Games\nWriting & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][br]\n[br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][br]\n[br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"[REDACTED]\" Draconis\nKamil Sztuczka\nKarl Willers\nMatej \"Retro\" Jan\nPablo Barea\nTobias Gut\n[p][br]\n[br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[br]\n[p][h1]Thank you[/h1]Oliver Franzke\nMario Zechner\nMatthias Kaestner\nLili Ibrahim\nDouble Fine\nThomas “Cyangmou” Feichtmeir\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[br]\n[br]\n[br]\n[br]\n[p][h2]感谢游玩Pathway![/h2][br]\n[br]\n[br]"
+	}
+]
+}
