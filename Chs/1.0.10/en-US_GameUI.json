@@ -370,6 +370,10 @@
 		"text": "取消"
 	},
 	{
+		"id": "PickupLoot_Confirm_Question",
+		"text": "如果你继续, 你将无法再获得未拿取的物品. 确定要继续吗?"
+	},
+	{
 		"id": "Tooltip_Weapon_Damage",
 		"text": "伤害:"
 	},
@@ -1946,6 +1950,18 @@
 		"text": "否"
 	},
 	{
+		"id": "RestoreBackup_Question",
+		"text": "读取备份存档会覆盖当前存档. 这将是一项不可逆的操作. 你确定要这样吗?"
+	},
+	{
+		"id": "RestoreBackup_QuestionYes",
+		"text": "是"
+	},
+	{
+		"id": "RestoreBackup_QuestionNo",
+		"text": "否"
+	},
+	{
 		"id": "NewAdventure_Question",
 		"text": "你将离开当前的冒险, 所有这次冒险中获得的物品和进度都将丢失. 确定离开吗?"
 	},
@@ -2691,7 +2707,7 @@
 	},
 	{
 		"id": "CombatStats_TimeTakenAmount",
-		"text": "[4]:[5][6] ([7]回合)"
+		"text": "[ms:4] ([7] 回合)"
 	},
 	{
 		"id": "CombatStats_ReloadLabel",
@@ -2723,7 +2739,7 @@
 	},
 	{
 		"id": "AdventureStats_TimeTakenAmount",
-		"text": "[0]:[1][2]"
+		"text": "[hms:0]"
 	},
 	{
 		"id": "AdventureStats_FuelUsedLabel",
