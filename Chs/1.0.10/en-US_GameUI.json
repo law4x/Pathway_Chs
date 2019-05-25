@@ -374,6 +374,10 @@
 		"text": "如果你继续, 你将无法再获得未拿取的物品. 确定要继续吗?"
 	},
 	{
+		"id": "AmbushCancel_Question",
+		"text": "移动后当前你将无法伏击敌人. 你确定要移动吗?"
+	},
+	{
 		"id": "Tooltip_Weapon_Damage",
 		"text": "伤害:"
 	},
@@ -446,6 +450,14 @@
 		"text": "扫射面:"
 	},
 	{
+		"id": "Tooltip_Weapon_BleedDuration",
+		"text": "流血持续回合数:"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDamage",
+		"text": "流血伤害:"
+	},
+	{
 		"id": "Tooltip_Weapon_DamageAmount",
 		"text": "[item:MinDamage]-[item:MaxDamage]"
 	},
@@ -480,6 +492,14 @@
 	{
 		"id": "Tooltip_Weapon_BurstSpreadAmount",
 		"text": "[item:BurstSpread]"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDurationAmount",
+		"text": "[item:BleedDuration] 回合"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDamageAmount",
+		"text": "伤害的 [item:BleedPercentage]%"
 	},
 	{
 		"id": "Tooltip_Grenade_Damage",
@@ -1566,6 +1586,14 @@
 		"text": "法语"
 	},
 	{
+		"id": "GameOptions_Language_ja-jp",
+		"text": "日语"
+	},
+	{
+		"id": "GameOptions_Language_zh-cn",
+		"text": "中文"
+	},
+	{
 		"id": "GameOptions_Tab_1",
 		"text": "游戏"
 	},
@@ -2204,6 +2232,14 @@
 	{
 		"id": "Tooltip_SmoothScroll_Content",
 		"text": "调整着色器效果使得拉动镜头更加流畅.\n\n关闭此选项可以略微提高渲染性能."
+	},
+	{
+		"id": "NPC_stranger_name",
+		"text": "陌生人"
+	},
+	{
+		"id": "NPC_agentCooper_name",
+		"text": "库伯探员"
 	},
 	{
 		"id": "NPC_angryOriental_name",
@@ -2894,6 +2930,10 @@
 		"text": "操作"
 	},
 	{
+		"id": "ItemContext_SplitStack",
+		"text": "拆分物品"
+	},
+	{
 		"id": "GambleOption_Info",
 		"text": "该选择会产生一项有利或不利的结果."
 	},
@@ -2912,6 +2952,18 @@
 	{
 		"id": "CodexTopic_LockedInfo",
 		"text": "该主题尚未解锁, 因为你还未遇见过这种敌人."
+	},
+	{
+		"id": "FastForward_Button_Tooltip",
+		"text": "加速AI行动."
+	},
+	{
+		"id": "SplitStack_Split_Button",
+		"text": "拆分"
+	},
+	{
+		"id": "SplitStack_Cancel_Button",
+		"text": "取消"
 	}
 ]
 }
