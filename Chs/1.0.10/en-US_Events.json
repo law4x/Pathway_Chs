@@ -2607,7 +2607,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue03_AgentMonologue",
-		"text": "你在一堆岩石间发现了一具德国指挥官的尸体. 那个男人趴在地上, 他周围的沙子被染成了棕色.\n\n[char4]: \"von Bördemarck上尉让我们别无选择, 我们只能把他当成一只疯狗射杀.\" [CTP]\n\n你转身看到阴暗处有一个德国士兵斜靠在岩石上. 他的制服上沾满了血迹.\n\n[char4]: \"不幸的是, Bördemarck走的并不安详. 脚受伤. 恐怕是感染了...\"\n\n那个男人耸了耸肩, 仿佛是在道歉. 然后他继续说 – 他的脸因为痛苦而变得扭曲: [CTP]\n\n[char4]: \"我不是为了我自己才这么做的 – 我的路在这儿到头了, 但幸运的是, 至少我的战友们逃掉了. 你能给我点水么?\"\n\n你迟疑地给了他一点水. 喝完他又断断续续地开始说, 只是这回他的话语变得有些语无伦次精神错乱: [CTP]\n\n[char4]: \"北非... 秘密行动...在沙漠里挖掘, 全世界...Poliakowski博士说...挖掘斯大林的... 俄国北冰洋上难以置信的文物...伟大功绩...亚特兰蒂斯将从波涛中升起而我们将成为神...Valkyrium - Valkyrium将统治明天的世界!\" [CTP]\n\n他停顿了下来, 呼吸沉重. 有那么片刻他好像恢复了神志. 但最终他苦笑一声 – 血从他的鼻子涌出: \n\n[char4]: \"远古的神啊...在这里我像伊卡洛斯一样死在太阳的热浪中, 因为自己的傲慢而终奔向毁灭! 告诉Magda, 我一直爱她...!\" [CTP]\n\n说完这些遗言, 那个人就死了. 你搜刮了他的身体: 他身上的证件表明他是一个年轻的反间谍中尉. 他的疯言疯语到底又意味着什么? 你把他的尸体埋在一个临时的坟墓里后便离开了, 但他的话语却一直在你耳边回响."
+		"text": "你在一堆岩石间发现了一具德国指挥官的尸体. 那个男人趴在地上, 他周围的沙子被染成了棕色.\n\n[char4]: \"von Bördemarck上尉让我们别无选择, 我们只能把他当成一只疯狗射杀.\" [CTP]\n\n你转身看到阴暗处有一个德国士兵斜靠在岩石上. 他的制服上沾满了血迹.\n\n[char4]: \"不幸的是, Bördemarck走的并不安详. 脚受伤. 恐怕是感染了...\"\n\n那个男人耸了耸肩, 仿佛是在道歉. 然后他继续说 – 他的脸因为痛苦而变得扭曲: [CTP]\n\n[char4]: \"我不是为了我自己才这么做的 – 我的路在这儿到头了, 但幸运的是, 至少我的战友们逃掉了. 你能给我点水么?\"\n\n你迟疑地给了他一点水. 喝完他又断断续续地开始说, 只是这回他的话语变得有些语无伦次精神错乱: [CTP]\n\n[char4]: \"北非... 秘密行动...在沙漠里挖掘, 全世界...Poliakowski博士说...挖掘斯大林的...俄国北冰洋上难以置信的文物...伟大功绩...亚特兰蒂斯将从波涛中升起而我们将成为神...Valkyrium - Valkyrium将统治明天的世界!\" [CTP]\n\n他停顿了下来, 呼吸沉重. 有那么片刻他好像恢复了神志. 但最终他苦笑一声 – 血从他的鼻子涌出: \n\n[char4]: \"远古的神啊...在这里我像伊卡洛斯一样死在太阳的热浪中, 因为自己的傲慢而终奔向毁灭! 告诉Magda, 我一直爱她...!\" [CTP]\n\n说完这些遗言, 那个人就死了. 你搜刮了他的身体: 他身上的证件表明他是一个年轻的反间谍中尉. 他的疯言疯语到底又意味着什么? 你把他的尸体埋在一个临时的坟墓里后便离开了, 但他的话语却一直在你耳边回响."
 	},
 	{
 		"id": "CR_Brandy01_Revisit",
@@ -9294,32 +9294,16 @@
 		"text": "任何地方"
 	},
 	{
-		"id": "SE_Adventure01Snippet01_Intro",
-		"text": "发生了一些奇妙的事情"
-	},
-	{
 		"id": "SE_Adventure01Snippet02_Title",
 		"text": "任何地方"
-	},
-	{
-		"id": "SE_Adventure01Snippet02_Intro",
-		"text": "发生了一些奇妙的事情"
 	},
 	{
 		"id": "SE_Adventure01Snippet03_Title",
 		"text": "任何地方"
 	},
 	{
-		"id": "SE_Adventure01Snippet03_Intro",
-		"text": "发生了一些奇妙的事情"
-	},
-	{
 		"id": "SE_Adventure01Snippet04_Title",
 		"text": "任何地方"
-	},
-	{
-		"id": "SE_Adventure01Snippet04_Intro",
-		"text": "发生了一些奇妙的事情"
 	},
 	{
 		"id": "SE_Adventure01Flavor01_Title",
@@ -9330,23 +9314,107 @@
 		"text": "任何地方"
 	},
 	{
-		"id": "SE_Adventure01Flavor02_Intro",
-		"text": "发生了一些奇妙的事情"
-	},
-	{
 		"id": "SE_Adventure01Flavor03_Title",
 		"text": "任何地方"
-	},
-	{
-		"id": "SE_Adventure01Flavor03_Intro",
-		"text": "发生了一些奇妙的事情"
 	},
 	{
 		"id": "SE_Adventure01Flavor04_Title",
 		"text": "任何地方"
 	},
 	{
+		"id": "SE_Adventure01Snippet01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "SE_Adventure01Snippet02_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "SE_Adventure01Snippet03_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "SE_Adventure01Snippet04_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "SE_Adventure01Flavor01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "SE_Adventure01Flavor02_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "SE_Adventure01Flavor03_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
 		"id": "SE_Adventure01Flavor04_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertAdvantage01_Title",
+		"text": "任何地方"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertDisadvantage01_Title",
+		"text": "任何地方"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertNeutral01_Title",
+		"text": "任何地方"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisAdvantage01_Title",
+		"text": "任何地方"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisDisadvantage01_Title",
+		"text": "任何地方"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisNeutral01_Title",
+		"text": "任何地方"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertAdvantage01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertAdvantage01_Choice01",
+		"text": "做点什么!"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertAdvantage01_Choice02",
+		"text": "或者什么也不做?"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertDisadvantage01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "BE_GenericNaziCrystalDesertNeutral01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisAdvantage01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisAdvantage01_Choice01",
+		"text": "做点什么!"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisAdvantage01_Choice02",
+		"text": "或者什么也不做?"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisDisadvantage01_Intro",
+		"text": "发生了一些奇妙的事情"
+	},
+	{
+		"id": "BE_GenericNaziCrystalOasisNeutral01_Intro",
 		"text": "发生了一些奇妙的事情"
 	}
 ]
