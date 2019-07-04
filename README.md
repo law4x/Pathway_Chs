@@ -1,4 +1,4 @@
-# Phatway_Chs
+# Pathway_Chs
 Phatway【路径】 简体中文
 
 目前进度： 
