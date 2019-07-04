@@ -1,0 +1,597 @@
+{
+"id": "Achievements",
+"rows": [
+	{
+		"id": "adventure01Clue01_desc",
+		"text": "纳粹在搞毛?"
+	},
+	{
+		"id": "adventure01Clue01_title",
+		"text": "亚美尼亚路线"
+	},
+	{
+		"id": "adventure01Clue03_desc",
+		"text": "盘旋的秃鹰跟踪我们……"
+	},
+	{
+		"id": "adventure01Clue03_title",
+		"text": "就是吊"
+	},
+	{
+		"id": "adventure02Clue01_desc",
+		"text": "出其不意!"
+	},
+	{
+		"id": "adventure02Clue01_title",
+		"text": "炽热之剑"
+	},
+	{
+		"id": "adventure02Clue02_desc",
+		"text": "他们的电台暗藏在茫茫的沙海中."
+	},
+	{
+		"id": "adventure02Clue02_title",
+		"text": "冰山一角"
+	},
+	{
+		"id": "adventure02Clue03_desc",
+		"text": "紧随其后"
+	},
+	{
+		"id": "adventure02Clue03_title",
+		"text": "山雨欲来"
+	},
+	{
+		"id": "adventure03MapArrival02_desc",
+		"text": "死亡的恶臭笼罩着那座废弃的海关建筑."
+	},
+	{
+		"id": "adventure03MapArrival02_title",
+		"text": "苦难之所"
+	},
+	{
+		"id": "adventure05Clue01_desc",
+		"text": "这是方圆数里内唯一的一口井!"
+	},
+	{
+		"id": "adventure05Clue01_title",
+		"text": "活力之泉"
+	},
+	{
+		"id": "adventure05Clue02_desc",
+		"text": "石头就似那握紧的拳头."
+	},
+	{
+		"id": "adventure05Clue02_title",
+		"text": "兄弟间的背叛"
+	},
+	{
+		"id": "adventure05Clue03_desc",
+		"text": "屋子里寂静得诡异."
+	},
+	{
+		"id": "adventure05Clue03_title",
+		"text": "英灵殿"
+	},
+	{
+		"id": "adventure06Clue01_desc",
+		"text": "废墟像害虫一样吸引着他们."
+	},
+	{
+		"id": "adventure06Clue01_title",
+		"text": "新的道路"
+	},
+	{
+		"id": "adventureFail01_desc",
+		"text": "一次失败的探险."
+	},
+	{
+		"id": "adventureFail01_title",
+		"text": "旧的结束新的开始 I"
+	},
+	{
+		"id": "adventureFail02_desc",
+		"text": "第 [amount] 次探险失败."
+	},
+	{
+		"id": "adventureFail02_title",
+		"text": "旧的结束新的开始 II"
+	},
+	{
+		"id": "adventureFail03_desc",
+		"text": "第 [amount] 次探险失败."
+	},
+	{
+		"id": "adventureFail03_title",
+		"text": "旧的结束新的开始 III"
+	},
+	{
+		"id": "aloneRescue01_desc",
+		"text": "永不放弃希望."
+	},
+	{
+		"id": "aloneRescue01_title",
+		"text": "得 & 失"
+	},
+	{
+		"id": "armorRestored01_desc",
+		"text": "修复 [amount] AR."
+	},
+	{
+		"id": "armorRestored01_title",
+		"text": "修补匠 I"
+	},
+	{
+		"id": "armorRestored02_desc",
+		"text": "修复 [amount] AR."
+	},
+	{
+		"id": "armorRestored02_title",
+		"text": "修补匠 II"
+	},
+	{
+		"id": "armorRestored03_desc",
+		"text": "修复 [amount] AR."
+	},
+	{
+		"id": "armorRestored03_title",
+		"text": "修补匠 III"
+	},
+	{
+		"id": "deadNaziCourier01_desc",
+		"text": "信使到底怎么死的?"
+	},
+	{
+		"id": "deadNaziCourier01_title",
+		"text": "嗜毒鬼"
+	},
+	{
+		"id": "disintegratorKills01_desc",
+		"text": "以分裂者干掉 [amount] 敌人."
+	},
+	{
+		"id": "disintegratorKills01_title",
+		"text": "坚持不懈"
+	},
+	{
+		"id": "donutFound01_desc",
+		"text": "绝渡逢舟"
+	},
+	{
+		"id": "donutFound01_title",
+		"text": "忠诚的伙伴"
+	},
+	{
+		"id": "fenrisFound01_desc",
+		"text": "当你认为一切都结束的时候..."
+	},
+	{
+		"id": "fenrisFound01_title",
+		"text": "同伴"
+	},
+	{
+		"id": "firstBlood01_desc",
+		"text": "干掉一个纳粹士兵."
+	},
+	{
+		"id": "firstBlood01_title",
+		"text": "第一滴血"
+	},
+	{
+		"id": "fourKillsInOne01_desc",
+		"text": "一石N鸟."
+	},
+	{
+		"id": "fourKillsInOne01_title",
+		"text": "杀手 III"
+	},
+	{
+		"id": "friendlyBeduins01_desc",
+		"text": "朋友间的游戏..."
+	},
+	{
+		"id": "friendlyBeduins01_title",
+		"text": "老狐狸"
+	},
+	{
+		"id": "healthRestored01_desc",
+		"text": "回复 [amount] HP."
+	},
+	{
+		"id": "healthRestored01_title",
+		"text": "疗伤师 I"
+	},
+	{
+		"id": "healthRestored02_desc",
+		"text": "回复 [amount] HP."
+	},
+	{
+		"id": "healthRestored02_title",
+		"text": "疗伤师 II"
+	},
+	{
+		"id": "healthRestored03_desc",
+		"text": "回复 [amount] HP."
+	},
+	{
+		"id": "healthRestored03_title",
+		"text": "疗伤师 III"
+	},
+	{
+		"id": "knifeKills01_desc",
+		"text": "以匕首干掉 [amount] 敌人."
+	},
+	{
+		"id": "knifeKills01_title",
+		"text": "屠夫"
+	},
+	{
+		"id": "lostRockTemple01_desc",
+		"text": "巨石呼啸而来..."
+	},
+	{
+		"id": "lostRockTemple01_title",
+		"text": "破釜沉舟"
+	},
+	{
+		"id": "moneyCollected01_desc",
+		"text": "筹集 $[amount]."
+	},
+	{
+		"id": "moneyCollected01_title",
+		"text": "利益 I"
+	},
+	{
+		"id": "moneyCollected02_desc",
+		"text": "筹集 $[amount]."
+	},
+	{
+		"id": "moneyCollected02_title",
+		"text": "利益 II"
+	},
+	{
+		"id": "moneyCollected03_desc",
+		"text": "筹集 $[amount]."
+	},
+	{
+		"id": "moneyCollected03_title",
+		"text": "利益 III"
+	},
+	{
+		"id": "murderousIdol_desc",
+		"text": "神像空洞的眼睛似乎无时无刻不在看着我们.."
+	},
+	{
+		"id": "murderousIdol_title",
+		"text": "世事无常"
+	},
+	{
+		"id": "naziKills01_desc",
+		"text": "已干掉纳粹 [amount]."
+	},
+	{
+		"id": "naziKills01_title",
+		"text": "纳粹狩猎者 I"
+	},
+	{
+		"id": "naziKills02_desc",
+		"text": "已干掉纳粹 [amount]."
+	},
+	{
+		"id": "naziKills02_title",
+		"text": "纳粹狩猎者 II"
+	},
+	{
+		"id": "naziKills03_desc",
+		"text": "已干掉纳粹 [amount]."
+	},
+	{
+		"id": "naziKills03_title",
+		"text": "纳粹狩猎者 III"
+	},
+	{
+		"id": "pistolKills01_desc",
+		"text": "以手枪干掉 [amount] 敌人."
+	},
+	{
+		"id": "pistolKills01_title",
+		"text": "神枪手"
+	},
+	{
+		"id": "recruit01_desc",
+		"text": "已征召角色 [amount]."
+	},
+	{
+		"id": "recruit01_title",
+		"text": "历尽千辛万苦"
+	},
+	{
+		"id": "restingPlace01_desc",
+		"text": "休息 [amount] 次."
+	},
+	{
+		"id": "restingPlace01_title",
+		"text": "篝火的故事"
+	},
+	{
+		"id": "rifleKills01_desc",
+		"text": "用突击步枪杀死 [amount] 个敌人."
+	},
+	{
+		"id": "rifleKills01_title",
+		"text": "步枪兵"
+	},
+	{
+		"id": "shotgunKills01_desc",
+		"text": "用散弹枪杀死 [amount] 个敌人."
+	},
+	{
+		"id": "shotgunKills01_title",
+		"text": "散弹枪手"
+	},
+	{
+		"id": "sickBeduinCamel01_desc",
+		"text": "一旦发烧过去,就已经太迟了."
+	},
+	{
+		"id": "sickBeduinCamel01_title",
+		"text": "骆驼语者"
+	},
+	{
+		"id": "singleShotKills01_desc",
+		"text": "一枪秒杀 [amount] 个敌人."
+	},
+	{
+		"id": "singleShotKills01_title",
+		"text": "一枪毙敌 I"
+	},
+	{
+		"id": "singleShotKills02_desc",
+		"text": "一枪秒杀 [amount] 个敌人."
+	},
+	{
+		"id": "singleShotKills02_title",
+		"text": "一枪毙敌 II"
+	},
+	{
+		"id": "singleShotKills03_desc",
+		"text": "一枪秒杀 [amount] 个敌人."
+	},
+	{
+		"id": "singleShotKills03_title",
+		"text": "一枪毙敌 III"
+	},
+	{
+		"id": "sniperKills01_desc",
+		"text": "用狙击步枪杀死 [amount] 个敌人."
+	},
+	{
+		"id": "sniperKills01_title",
+		"text": "狙鸡儿手"
+	},
+	{
+		"id": "stargateFragment01_desc",
+		"text": "碎片散落在沙漠的沙子上."
+	},
+	{
+		"id": "stargateFragment01_title",
+		"text": "永世之吻"
+	},
+	{
+		"id": "tankLeak01_desc",
+		"text": "一次事件中损失 [amount] 瓶汽油."
+	},
+	{
+		"id": "tankLeak01_title",
+		"text": "环境危害"
+	},
+	{
+		"id": "tarantulaCorpse_desc",
+		"text": "他们可能在尸体里筑巢..."
+	},
+	{
+		"id": "tarantulaCorpse_title",
+		"text": "蜘蛛恐惧症"
+	},
+	{
+		"id": "threeKillsInOne01_desc",
+		"text": "一石三鸟."
+	},
+	{
+		"id": "threeKillsInOne01_title",
+		"text": "杀手 II"
+	},
+	{
+		"id": "trashSold01_desc",
+		"text": "收集 [amount] 个废品."
+	},
+	{
+		"id": "trashSold01_title",
+		"text": "捡破烂"
+	},
+	{
+		"id": "twoKillsInOne01_desc",
+		"text": "一次攻击杀死2个敌人."
+	},
+	{
+		"id": "twoKillsInOne01_title",
+		"text": "杀手 I"
+	},
+	{
+		"id": "undeadKills01_desc",
+		"text": "杀死 [amount] 个不死族."
+	},
+	{
+		"id": "undeadKills01_title",
+		"text": "驱魔人 I"
+	},
+	{
+		"id": "undeadKills02_desc",
+		"text": "杀死 [amount] 个不死族."
+	},
+	{
+		"id": "undeadKills02_title",
+		"text": "驱魔人 II"
+	},
+	{
+		"id": "undeadKills03_desc",
+		"text": "杀死 [amount] 个不死族."
+	},
+	{
+		"id": "undeadKills03_title",
+		"text": "驱魔人 III"
+	},
+	{
+		"id": "unholyVault01_desc",
+		"text": "圣殿里不只有一个守卫."
+	},
+	{
+		"id": "unholyVault01_title",
+		"text": "滚,你个二货"
+	},
+	{
+		"id": "unlockAdventure02_desc",
+		"text": "完成冒险 I"
+	},
+	{
+		"id": "unlockAdventure02_title",
+		"text": "冒险 II"
+	},
+	{
+		"id": "unlockAdventure03_desc",
+		"text": "完成冒险 II"
+	},
+	{
+		"id": "unlockAdventure03_title",
+		"text": "冒险 III"
+	},
+	{
+		"id": "unlockAdventure05_desc",
+		"text": "完成冒险 III"
+	},
+	{
+		"id": "unlockAdventure05_title",
+		"text": "冒险 IV"
+	},
+	{
+		"id": "unlockAdventure06_desc",
+		"text": "完成冒险 IV"
+	},
+	{
+		"id": "unlockAdventure06_title",
+		"text": "冒险 V"
+	},
+	{
+		"id": "unlockAnnabelle_desc",
+		"text": "用手枪双发技能杀死 [amount] 个敌人来解锁 Annabelle."
+	},
+	{
+		"id": "unlockAnnabelle_title",
+		"text": "Annabelle"
+	},
+	{
+		"id": "unlockBellamy_desc",
+		"text": "找到一个分裂者来解锁 Bellamy."
+	},
+	{
+		"id": "unlockBellamy_title",
+		"text": "Bellamy"
+	},
+	{
+		"id": "unlockBrunhilda_desc",
+		"text": "用流血技能杀死 [amount] 个敌人来解锁 Brunhilda."
+	},
+	{
+		"id": "unlockBrunhilda_title",
+		"text": "Brunhilda"
+	},
+	{
+		"id": "unlockDrChandra_desc",
+		"text": "救活 [amount] 个角色来解锁 Dr Chandra."
+	},
+	{
+		"id": "unlockDrChandra_title",
+		"text": "Dr Chandra"
+	},
+	{
+		"id": "unlockFantome_desc",
+		"text": "回避 [amount] 次攻击来解锁 Le Fantôme."
+	},
+	{
+		"id": "unlockFantome_title",
+		"text": "Le Fantôme"
+	},
+	{
+		"id": "unlockGeorgette_desc",
+		"text": "用埋伏技能杀死 [amount] 个敌人来解锁 Georgette."
+	},
+	{
+		"id": "unlockGeorgette_title",
+		"text": "Georgette"
+	},
+	{
+		"id": "unlockLeonora_desc",
+		"text": "杀死 [amount] 个纳粹分子来解锁 Leonora."
+	},
+	{
+		"id": "unlockLeonora_title",
+		"text": "Leonora"
+	},
+	{
+		"id": "unlockRose_desc",
+		"text": "只用女性角色完成任意冒险来解锁 Rose."
+	},
+	{
+		"id": "unlockRose_title",
+		"text": "Rose"
+	},
+	{
+		"id": "unlockShani_desc",
+		"text": "近战杀死 [amount] 个敌人来解锁 Shani."
+	},
+	{
+		"id": "unlockShani_title",
+		"text": "Shani"
+	},
+	{
+		"id": "unlockVeduti_desc",
+		"text": "杀死 [amount] 个僵尸来解锁 Monsignor Veduti."
+	},
+	{
+		"id": "unlockVeduti_title",
+		"text": "Veduti"
+	},
+	{
+		"id": "watchesSold01_desc",
+		"text": "收集 [amount] 个手表."
+	},
+	{
+		"id": "watchesSold01_title",
+		"text": "手表收藏家"
+	},
+	{
+		"id": "nodesTravelled01_desc",
+		"text": "已走过的目的地 [amount]."
+	},
+	{
+		"id": "nodesTravelled01_title",
+		"text": "旅行者 I"
+	},
+	{
+		"id": "nodesTravelled02_desc",
+		"text": "已走过的目的地 [amount]."
+	},
+	{
+		"id": "nodesTravelled02_title",
+		"text": "旅行者 II"
+	},
+	{
+		"id": "nodesTravelled03_desc",
+		"text": "已走过的目的地 [amount]."
+	},
+	{
+		"id": "nodesTravelled03_title",
+		"text": "旅行者 III"
+	}
+]
+}
